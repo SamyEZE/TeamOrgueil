@@ -1,0 +1,44 @@
+   IFRAME: [12]https://iddaa.sporx.com/web/scoreboard_iddaa.php
+
+Montella: "Bu bir gurur meselesi!"
+
+     * [13]Spor Haberleri
+--
+     [15]Sporx Ekstra
+
+     [16]Montella: "Bu bir gurur meselesi!"
+
+   13
+--
+
+   "zellikle etrafmzdaki btn al�anlar, bizi destekleyenler ve futbolcular
+   iin ok mutluyum ve gururluyum nk lider olarak tamamladk grubu."
+   \ (BUTTON) Getir
+   10
+
+"BURADA OLMAK GURUR MESELES"
+
+   "Beni ilk gn ardklar andan itibaren ok gururlandm. Bu bayrak iin
+   elimden geleni yapacam. Bu lke iin ne gerekiyorsa yapmaya hazrz. Burada
+   olmak gurur meselesi."
+   \ (BUTTON) Getir
+   9
+--
+
+   Liens visibles :
+   1. android-app://com.sporx///www.sporx.com/futbol/ekstra/montella-bu-bir-gurur-meselesiSXGLQ68309SXQ
+   2. https://m.sporx.com/futbol/ekstra/montella-bu-bir-gurur-meselesiSXGLQ68309SXQ
+   3. https://www.sporx.com/
+   4. https://www.sporx.com/tv
+--
+   8. https://www.sporx.com/canliskorlar/#sportId=1
+   9. https://www.sporx.com/iddaa/
+  10. https://www.sporx.com/futbol/ekstra/montella-bu-bir-gurur-meselesiSXGLQ68309SXQ#searchbar
+  11. https://www.sporx.com/?giris=ok
+  12. https://iddaa.sporx.com/web/scoreboard_iddaa.php
+--
+  14. https://www.sporx.com/futbol
+  15. https://www.sporx.com/futbol/ekstra/
+  16. https://www.sporx.com/futbol/ekstra/montella-bu-bir-gurur-meselesiSXGLQ68309SXQ
+  17. https://www.sporx.com/_iframe/galeri_cnt.php?id=68309&nc=1701124535
+  18. https://www.sporx.com/fulham-galibiyeti-90-4-te-aldi-SXHBQ1045888SXQ

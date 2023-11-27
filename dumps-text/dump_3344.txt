@@ -1,0 +1,283 @@
+    #[1]DSpace
+
+   (BUTTON) Toggle navigation[2] [DSpace-logo-line.png]
+     * (BUTTON)
+          + [3]Türkçe
+          + [4]English
+     * (BUTTON)
+
+     * [5]English
+          + [6]Türkçe
+          + [7]English
+
+     * [8]Login
+
+   (BUTTON) Toggle navigation
+
+   [9]View Item
+     * [10]  DSpace@ÇOMÜ
+     * [11]ÇOMÜ Yayınları
+     * [12]Dergiler
+     * [13]Management and Political Sciences Review (2018 - halen)
+     * [14]View Item
+
+     *   [15]DSpace@ÇOMÜ
+     * [16]ÇOMÜ Yayınları
+     * [17]Dergiler
+     * [18]Management and Political Sciences Review (2018 - halen)
+     * View Item
+
+   JavaScript is disabled for your browser. Some features of this site may
+   not work without it.
+
+   ____________________ (BUTTON)
+   (*) Search DSpace
+   ( ) This Collection
+
+                                                       [19]Advanced Search
+
+Örgütsel Gururun Kavramsal Çerçevesinin Belirlenmesi Ve Uluslararası
+Alanyazındaki Örgütsel Gurur Çalışmalarının İçerik Analizi Yöntemi İle
+İncelenmesi
+
+   Thumbnail
+
+View/Open
+
+   [20]Araştırma Makalesi (427.0Kb)
+
+Access
+
+   info:eu-repo/semantics/openAccess
+
+Date
+
+   2021-01-23
+
+Author
+
+   [21]Arda, Benan
+   [22]Durmaz, Merve Gözde
+
+Metadata
+
+   [23]Show full item record
+
+Citation
+
+   Durmaz, M. G. & Arda, B. (2021). ÖRGÜTSEL GURURUN KAVRAMSAL VE KURAMSAL
+   ÇERÇEVESİ ÜZERİNE BİR DEĞERLENDİRME . Management and Political Sciences
+   Review , 2 (2) , 1-33
+
+Abstract
+
+   İnsan, doğası gereği çeşitli çevresel faktörlerden etkilenen ve kendisi
+   etkileyen faktörleri duyguları ile şekillendirebilen bir varlıktır. Bu
+   duygulardan birisi de gururdur. Çalışma ortamında da insanın etkilenen
+   ve etkileyen konumu devam etmektedir. Dolayısıyla gurur örgütsel bir
+   boyut ve önem kazanmaktadır. Ayrıca örgütsel gurur işletmedeki insan
+   kaynağının olumlu davranışlarda bulunmasını sağlayan önemli bir
+   faktördür. Bu bağlamda çalışma kapsamında uluslararası literatür
+   çerçevesinde örgütsel gururun kavramsal ve kuramsal çerçevesi
+   incelenerek; örgütsel gururun oluşmasına katkı sağlayan bireysel ve
+   örgütsel öncellerin ortaya konulması ve uluslararası alanyazında
+   örgütsel gurur ile ilgili yapılmış ampirik çalışmaların içerik analizi
+   yöntemi ile ele alınması amaçlanmıştır. Bu kapsamda 2010-2020 yılları
+   arasında literatürde yayınlanmış 25 uluslararası makale incelenmiştir.
+
+   Human beings, by their nature, are affected by various environmental
+   factors and can shape the factors that affect them with their emotions.
+   One of these emotions is pride. The affected and affecting position of
+   the human being in the working environment continues. Therefore, pride
+   gains an organizational dimension and importance. In addition,
+   organizational pride is an important factor that enables the human
+   resources in the business to behave positively. In this context, by
+   examining the conceptual and theoretical framework of organizational
+   pride within the framework of international literature within the scope
+   of the study; It is aimed to reveal the individual and organizational
+   predecessors that contribute to the formation of organizational pride
+   and to examine the empirical studies conducted on organizational pride
+   in the international literature with the method of content analysis. In
+   this context, 25 international articles published in the literature
+   between 2010-2020 were analyzed
+
+URI
+
+   [24]https://dergipark.org.tr/tr/pub/mpsr/issue/60022/836410
+   [25]https://hdl.handle.net/20.500.12428/3344
+
+Collections
+
+     * [26]Management and Political Sciences Review (2018 - halen) [32]
+
+   The following license files are associated with this item:
+     * [27]Creative Commons
+     __________________________________________________________________
+     __________________________________________________________________
+     __________________________________________________________________
+
+   [28]DSpace software copyright © 2002-2015  [29]DuraSpace
+   [30]Contact Us | [31]Send Feedback
+   Theme by
+   [32]@mire NV
+
+
+     __________________________________________________________________
+
+                             [33][uni-logo.png]
+     __________________________________________________________________
+
+                  | [34]Policy | [35]Guide | [36]Contact |
+     __________________________________________________________________
+
+                                DSpace@ÇOMÜ
+                        [37][openaire-validated.png]
+                                 by OpenAIRE
+     __________________________________________________________________
+
+Browse
+
+   All of DSpace[38]Communities & Collections[39]By Issue
+   Date[40]Authors[41]Titles[42]Subjects[43]Type[44]Language[45]Department
+   [46]Publisher[47]Institution Author[48]ORCID[49]Category[50]Access
+   TypeThis Collection[51]By Issue
+   Date[52]Authors[53]Titles[54]Subjects[55]Type[56]Language[57]Department
+   [58]Publisher[59]Institution Author[60]ORCID[61]Category[62]Access Type
+
+My Account
+
+   [63]Login[64]Register
+     __________________________________________________________________
+
+   [65]DSpace software copyright © 2002-2015  [66]DuraSpace
+   [67]Contact Us | [68]Send Feedback
+   Theme by
+   [69]@mire NV
+
+
+     __________________________________________________________________
+
+    [70]|| Guide[71] || Library[72] || Çanakkale Onsekiz Mart University
+                              ||[73] OAI-PMH ||
+     __________________________________________________________________
+
+           Çanakkale Onsekiz Mart University, Çanakkale, Turkey
+           [74]If you find any errors in content, please contact:
+     __________________________________________________________________
+
+                        [75]Creative Commons License
+     [76]Çanakkale Onsekiz Mart University Institutional Repository is
+                    licensed under a [77]Creative Commons
+          Attribution-NonCommercial-NoDerivs 4.0 Unported License..
+     __________________________________________________________________
+
+                               DSpace@ÇOMÜ:
+    [78][openaire.png] [79][openDOAR.png] [80][harman.png] [81][base.png]
+       [82][oai.png] [83][handle.png] [84][roar.png] [85][roarmap.png]
+         [86][google-analytics.png] [87][google.png] [88][ankos.png]
+                            [89][dspace_logo.png]
+     __________________________________________________________________
+
+                                DSpace 6.3.1
+                            [90][logo-firma.png]
+  tarafından [91]İdeal DSpace hizmetleri çerçevesinde özelleştirilerek
+                                kurulmuştur.
+
+Références
+
+   Liens visibles :
+   1. http://acikerisim.comu.edu.tr/xmlui/open-search/description.xml
+   2. http://acikerisim.comu.edu.tr/xmlui/
+   3. http://acikerisim.comu.edu.tr/xmlui/handle/20.500.12428/3344?locale-attribute=tr
+   4. http://acikerisim.comu.edu.tr/xmlui/handle/20.500.12428/3344?locale-attribute=en
+   5. http://acikerisim.comu.edu.tr/xmlui/handle/20.500.12428/3344
+   6. http://acikerisim.comu.edu.tr/xmlui/handle/20.500.12428/3344?locale-attribute=tr
+   7. http://acikerisim.comu.edu.tr/xmlui/handle/20.500.12428/3344?locale-attribute=en
+   8. http://acikerisim.comu.edu.tr/xmlui/login
+   9. http://acikerisim.comu.edu.tr/xmlui/handle/20.500.12428/3344
+  10. http://acikerisim.comu.edu.tr/xmlui/
+  11. http://acikerisim.comu.edu.tr/xmlui/handle/20.500.12428/2
+  12. http://acikerisim.comu.edu.tr/xmlui/handle/20.500.12428/3505
+  13. http://acikerisim.comu.edu.tr/xmlui/handle/20.500.12428/3513
+  14. http://acikerisim.comu.edu.tr/xmlui/handle/20.500.12428/3344
+  15. http://acikerisim.comu.edu.tr/xmlui/
+  16. http://acikerisim.comu.edu.tr/xmlui/handle/20.500.12428/2
+  17. http://acikerisim.comu.edu.tr/xmlui/handle/20.500.12428/3505
+  18. http://acikerisim.comu.edu.tr/xmlui/handle/20.500.12428/3513
+  19. http://acikerisim.comu.edu.tr/xmlui/discover
+  20. http://acikerisim.comu.edu.tr/xmlui/bitstream/handle/20.500.12428/3344/Benan_Arda_Makale.pdf?sequence=1&isAllowed=y
+  21. http://acikerisim.comu.edu.tr/xmlui/browse?value=Arda, Benan&type=author
+  22. http://acikerisim.comu.edu.tr/xmlui/browse?value=Durmaz, Merve Gözde&type=author
+  23. http://acikerisim.comu.edu.tr/xmlui/handle/20.500.12428/3344?show=full
+  24. https://dergipark.org.tr/tr/pub/mpsr/issue/60022/836410
+  25. https://hdl.handle.net/20.500.12428/3344
+  26. http://acikerisim.comu.edu.tr/xmlui/handle/20.500.12428/3513
+  27. http://acikerisim.comu.edu.tr/xmlui/handle/20.500.12428/3344
+  28. http://www.dspace.org/
+  29. http://www.duraspace.org/
+  30. http://acikerisim.comu.edu.tr/xmlui/contact
+  31. http://acikerisim.comu.edu.tr/xmlui/feedback
+  32. http://atmire.com/
+  33. http://acikerisim.comu.edu.tr/xmlui/static/dokumanlar/index-uni.html
+  34. http://acikerisim.comu.edu.tr/xmlui/static/dokumanlar/ae_politika.pdf
+  35. http://www.idealdspace.com/2019/03/dspace9.html
+  36. http://acikerisim.comu.edu.tr/xmlui/contact
+  37. http://explore.openaire.eu/search/dataprovider?datasourceId=opendoar____::f231f2107df69eab0a3862d50018a9b2
+  38. http://acikerisim.comu.edu.tr/xmlui/community-list
+  39. http://acikerisim.comu.edu.tr/xmlui/browse?type=dateissued
+  40. http://acikerisim.comu.edu.tr/xmlui/browse?type=author
+  41. http://acikerisim.comu.edu.tr/xmlui/browse?type=title
+  42. http://acikerisim.comu.edu.tr/xmlui/browse?type=subject
+  43. http://acikerisim.comu.edu.tr/xmlui/browse?type=type
+  44. http://acikerisim.comu.edu.tr/xmlui/browse?type=language
+  45. http://acikerisim.comu.edu.tr/xmlui/browse?type=department
+  46. http://acikerisim.comu.edu.tr/xmlui/browse?type=publisher
+  47. http://acikerisim.comu.edu.tr/xmlui/browse?type=institutionauthor
+  48. http://acikerisim.comu.edu.tr/xmlui/browse?type=authorid
+  49. http://acikerisim.comu.edu.tr/xmlui/browse?type=publicationcategory
+  50. http://acikerisim.comu.edu.tr/xmlui/browse?type=rights
+  51. http://acikerisim.comu.edu.tr/xmlui/handle/20.500.12428/3513/browse?type=dateissued
+  52. http://acikerisim.comu.edu.tr/xmlui/handle/20.500.12428/3513/browse?type=author
+  53. http://acikerisim.comu.edu.tr/xmlui/handle/20.500.12428/3513/browse?type=title
+  54. http://acikerisim.comu.edu.tr/xmlui/handle/20.500.12428/3513/browse?type=subject
+  55. http://acikerisim.comu.edu.tr/xmlui/handle/20.500.12428/3513/browse?type=type
+  56. http://acikerisim.comu.edu.tr/xmlui/handle/20.500.12428/3513/browse?type=language
+  57. http://acikerisim.comu.edu.tr/xmlui/handle/20.500.12428/3513/browse?type=department
+  58. http://acikerisim.comu.edu.tr/xmlui/handle/20.500.12428/3513/browse?type=publisher
+  59. http://acikerisim.comu.edu.tr/xmlui/handle/20.500.12428/3513/browse?type=institutionauthor
+  60. http://acikerisim.comu.edu.tr/xmlui/handle/20.500.12428/3513/browse?type=authorid
+  61. http://acikerisim.comu.edu.tr/xmlui/handle/20.500.12428/3513/browse?type=publicationcategory
+  62. http://acikerisim.comu.edu.tr/xmlui/handle/20.500.12428/3513/browse?type=rights
+  63. http://acikerisim.comu.edu.tr/xmlui/login
+  64. http://acikerisim.comu.edu.tr/xmlui/register
+  65. http://www.dspace.org/
+  66. http://www.duraspace.org/
+  67. http://acikerisim.comu.edu.tr/xmlui/contact
+  68. http://acikerisim.comu.edu.tr/xmlui/feedback
+  69. http://atmire.com/
+  70. http://www.idealdspace.com/2019/03/dspace9.html
+  71. http://acikerisim.comu.edu.tr/xmlui/static/dokumanlar/index-ktp.html
+  72. http://acikerisim.comu.edu.tr/xmlui/static/dokumanlar/index-uni.html
+  73. http://acikerisim.comu.edu.tr/oai
+  74. http://acikerisim.comu.edu.tr/xmlui/feedback
+  75. http://creativecommons.org/licenses/by-nc-nd/4.0/deed.tr
+  76. http://acikerisim.comu.edu.tr/xmlui/
+  77. http://creativecommons.org/licenses/by-nc-nd/4.0/deed.tr
+  78. http://explore.openaire.eu/search/dataprovider?datasourceId=opendoar____::4db0f8b0fc895da263fd77fc8aecabe4
+  79. http://v2.sherpa.ac.uk/id/repository/3095
+  80. http://harman.ulakbim.gov.tr/archiveStatistics
+  81. http://www.base-search.net/Search/Results?q=coll:ftcomuniv
+  82. http://www.openarchives.org/Register/BrowseSites
+  83. http://www.handle.net/index.html
+  84. http://roar.eprints.org/8894/
+  85. http://roarmap.eprints.org/1037
+  86. http://analytics.google.com/analytics/web
+  87. http://scholar.google.com/
+  88. http://docs.google.com/spreadsheets/d/1k1UMDJPBlzOKEGk6PRYttw6lHeJ3V3nDrndLNhD6gEk/edit#gid=2107335516/
+  89. http://duraspace.org/registry/entry/3361/
+  90. http://www.idealdspace.com/
+  91. http://www.idealdspace.com/
+
+   Liens cachés :
+  93. http://acikerisim.comu.edu.tr/xmlui/htmlmap
+  94. http://acikerisim.comu.edu.tr/xmlui/htmlmap

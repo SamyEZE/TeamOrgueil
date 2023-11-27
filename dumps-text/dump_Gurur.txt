@@ -1,0 +1,663 @@
+   #[1]alternate [2]Değiştir [3]Vikipedi (tr) [4]Vikipedi Atom beslemesi
+
+   [5]İçeriğe atla
+
+   [ ] Ana menü
+   Ana menü
+   (BUTTON) kenar çubuğuna taşı (BUTTON) gizle
+   Gezinti
+     * [6]Anasayfa
+     * [7]Hakkımızda
+     * [8]İçindekiler
+     * [9]Rastgele madde
+     * [10]Seçkin içerik
+     * [11]Yakınımdakiler
+
+   Katılım
+     * [12]Bağış yapın
+     * [13]Deneme tahtası
+     * [14]İş birliği projesi
+     * [15]Köy çeşmesi
+     * [16]Son değişiklikler
+     * [17]Dosya yükle
+     * [18]Topluluk portali
+     * [19]Wikimedia dükkânı
+     * [20]Yardım
+
+   Diller
+   Dil bağlantıları, başlığın karşısında sayfanın en yukarısında yer
+   alıyor.
+   [21]Vikipedi Özgür Ansiklopedi
+   [22]Ara
+   ____________________
+   (BUTTON) Ara
+
+     * [23]Hesap oluştur
+     * [24]Oturum aç
+
+   [ ] Kişisel araçlar
+     * [25]Hesap oluştur
+     * [26]Oturum aç
+
+   Çıkış yapmış editörler için sayfalar [27]daha fazla bilgi
+     * [28]Katkılar
+     * [29]Mesaj
+
+İçindekiler
+
+   (BUTTON) kenar çubuğuna taşı (BUTTON) gizle
+     * [30]Giriş
+     * [31]1Negatif anlamı
+     * [32]2Pozitif anlamı
+     * [33]3Ayrıca bakınız
+     * [34]4Kaynakça
+
+   [ ] İçindekiler tablosunu değiştir
+
+Gurur
+
+   [ ] 31 dil
+     * [35]العربية
+     * [36]Беларуская
+     * [37]Беларуская (тарашкевіца)
+     * [38]Български
+     * [39]Català
+     * [40]Deutsch
+     * [41]Ελληνικά
+     * [42]English
+     * [43]Esperanto
+     * [44]Español
+     * [45]فارسی
+     * [46]Français
+     * [47]עברית
+     * [48]Hrvatski
+     * [49]İtaliano
+     * [50]日本語
+     * [51]ಕನ್ನಡ
+     * [52]Македонски
+     * [53]Nederlands
+     * [54]Polski
+     * [55]Português
+     * [56]Русский
+     * [57]Srpskohrvatski / српскохрватски
+     * [58]Simple English
+     * [59]Shqip
+     * [60]Српски / srpski
+     * [61]Українська
+     * [62]اردو
+     * [63]Walon
+     * [64]吴语
+     * [65]粵語
+
+   [66]Bağlantıları değiştir
+
+     * [67]Madde
+     * [68]Tartışma
+
+   [ ] Türkçe
+
+     * [69]Oku
+     * [70]Değiştir
+     * [71]Kaynağı değiştir
+     * [72]Geçmişi gör
+
+   [ ] Araçlar
+   Araçlar
+   (BUTTON) kenar çubuğuna taşı (BUTTON) gizle
+   Eylemler
+     * [73]Oku
+     * [74]Değiştir
+     * [75]Kaynağı değiştir
+     * [76]Geçmişi gör
+
+   Genel
+     * [77]Sayfaya bağlantılar
+     * [78]İlgili değişiklikler
+     * [79]Özel sayfalar
+     * [80]Kalıcı bağlantı
+     * [81]Sayfa bilgisi
+     * [82]Bu sayfayı kaynak göster
+     * [83]Kısaltılmış URL'yi al
+     * [84]Vikiveri ögesi
+
+   Yazdır/dışa aktar
+     * [85]Bir kitap oluştur
+     * [86]PDF olarak indir
+     * [87]Basılmaya uygun görünüm
+
+   Diğer projelerde
+     * [88]Wikimedia Commons
+
+   Vikipedi, özgür ansiklopedi
+   [89]Makale serilerinden
+                 [90]Duygular
+   [91][langtr-90px-Plutchik-wheel.svg.png]
+   [92][langtr-90px-Plutchik_Dyads.svg.png]
+     * [93]Duygulanım
+     * [94]Duygu sınıflandırması
+     * [95]Hayvanlarda
+     * [96]Duygusal zekâ
+     * [97]Ruh hali
+     * [98]Duygu düzenleme
+          + [99]Kişilerarası
+          + [100]Düzensizlik
+     * [101]Değerlilik
+
+   Duygular
+     * [102]Kabul
+     * [103]Şefkat
+     * [104]Eğlenme
+     * [105]Kızgınlık
+     * [106]Anksiyete
+     * [107]Istırap
+     * [108]Sıkıntı
+     * [109]Beklenti
+     * [110]Duyarsızlık
+     * [111]Uyarılma
+     * [112]Huşu
+     * [113]İtimat
+     * [114]Aşağılama
+     * [115]Memnuniyet
+     * [116]Cesaret
+     * [117]Acımasızlık
+     * [118]Merak
+     * [119]Depresiflik
+     * [120]Arzu
+     * [121]Hayal kırıklığı
+     * [122]İğrenme
+     * [123]Şüphe
+     * [124]Ekstaz
+     * [125]Utanç
+     * [126]Empati
+     * [127]Coşku
+     * [128]Kıskançlık
+     * [129]Öfori
+     * [130]Korku
+     * [131]Bıkkınlık
+     * [132]Haz
+     * [133]Minnet
+     * [134]Hırs
+     * [135]Keder
+     * [136]Suçluluk
+     * [137]Mutluluk
+     * [138]Nefret
+     * [139]Nezaket
+     * [140]Umut
+     * [141]Korku
+     * [142]Düşmanlık
+     * [143]Küçük düşürme
+     * [144]Heves
+     * [145]Sevinç
+     * [146]İyilik
+     * [147]Yalnızlık
+     * [148]Aşk
+     * [149]Şehvet
+     * [150]Öfke
+     * [151]Panik
+     * [152]Tutku
+     * [153]Acıma
+     * [154]Zevk
+     * Gurur
+     * [155]Pişmanlık
+     * [156]Reddetme
+     * [157]Vicdan
+     * [158]İçerleme
+     * [159]Üzüntü
+     * [160]Özlem
+     * [161]Başkasının zararına sevinme
+     * [162]İtimat
+     * [163]Kendine acıma
+     * [164]Utanç
+     * [165]Şok
+     * [166]Çekingenlik
+     * [167]Sosyal bağlantı
+     * [168]Keder
+     * [169]Azap
+     * [170]Şaşkınlık
+     * [171]Güven
+
+     * [172]g
+     * [173]t
+     * [174]d
+
+   Başlığın diğer anlamları için [175]Gurur (anlam ayrımı) sayfasına
+   bakınız.
+   [176][220px-Fisherman_with_chinook_fish.jpg] Yakaladığı balıkla gurur
+   duyan bir balıkçı
+
+   Gurur, Türkçede iki farklı konotasyona sahip olan bir sözcüktür.
+   Negatif konotasyon, en basit tanımıyla kibir ve kendini beğenme
+   anlamlarına gelir. Pozitif konotasyonsa övünme ve övünç anlamına
+   gelir.^[177][1]^[178][2]
+
+Negatif anlamı[[179]değiştir | [180]kaynağı değiştir]
+
+   Kibirlenme, kişinin kendini başkalarıyla kıyaslaması durumudur. Sürekli
+   bir kıyas hali [181]psikolojik bir rahatsızlıktır. Aşırı gurur kişinin
+   kolayca alınmasına, incinmesine ve ahmakça kabul edilebilecek
+   davranışlara sürüklenmesine sebep olabilir.^[[182]kaynak belirtilmeli]
+   Gurur duygusunun aşırıya kaçması önlenerek takdirin çevreden gelmesi,
+   kıyas halinden uzak durulması gerekir. Kıyaslar toplumsal ayrım ve
+   [183]şiddeti körükleyen etkenlerdir. [184]Kişiliğin olgunlaşması
+   esnasında aşırı gururdan uzaklaşmak bireyin gelişimini hızlandıracak
+   etkenlerdendir.
+
+Pozitif anlamı[[185]değiştir | [186]kaynağı değiştir]
+
+   Gurur, kişinin kendisi veya bağlı olduğu bir grubun mensuplarının
+   varlığı, geçmişi veya başarıları ile övünmesi, bundan haz almasıdır.
+   Gurur duygusu belirli bir düzeyde mevcut olduğu müddetçe kişinin veya
+   grubun kolektif gelişimini artırmada önemli bir katalizör olabilir ve
+   kendini gerçekleştirmeye katkıda bulunarak insanın iç huzurunu muhafaza
+   etmesine yardımcı olabilir.
+
+Ayrıca bakınız[[187]değiştir | [188]kaynağı değiştir]
+
+     * [189]Dunning Kruger Etkisi
+     * [190]Hybris
+     * [191]İtimat
+     * [192]Megalomani
+     * [193]Narsisizm
+
+Kaynakça[[194]değiştir | [195]kaynağı değiştir]
+
+    1. [196]^ The New Oxford Dictionary of English Clarendon Press 1998.
+    2. [197]^ [198]"gurur". 4 Haziran 2021 tarihinde [199]kaynağından
+       arşivlendi.
+
+     * [200]g
+     * [201]t
+     * [202]d
+
+   [203]İnsan duyguları
+   Çeşitleri
+   [204]Acıma · [205]Aidiyet · [206]Aldırmazlık · [207]Anksiyete ·
+   [208]Annelik · [209]Arzu · [210]Aşağılama · [211]Aşk · [212]Azap ·
+   [213]Beklenti · [214]Bıkkınlık · [215]Boşluk · [216]Böbürlenme ·
+   [217]Coşku · [218]Dehşet · [219]Dikkat · [220]Dinginlik ·
+   [221]Duyarsızlık · [222]Düşmanlık · [223]Empati kurmak ·
+   [224]Fanatiklik · [225]Ferahlama · [226]Gıpta · Gurur · [227]Gücenme ·
+   [228]Halinden memnunluk · [229]Hayal kırıklığı · [230]Hayret ·
+   [231]Heves · [232]Hışım · [233]Histeri · [234]Hoşnutluk ·
+   [235]Hoşnutsuzluk · [236]Huzur · [237]Istırap · [238]İçerleme  ·
+   [239]İçine doğma · [240]İlgi duyma · [241]İntikam · [242]İlham ·
+   [243]Kabul · [244]Kafa karışıklığı · [245]Fobi · [246]Kınama  ·
+   [247]Kızgınlık  · [248]Mahcubiyet · [249]Merak · [250]Merhamet  ·
+   [251]Minnet · [252]Mutluluk · [253]Nezaket · [254]Özlem ·
+   [255]Pişmanlık · [256]Rahatlık · [257]Rahatsızlık · [258]Sabır ·
+   [259]Sahiplenme · [260]Sempati · [261]Sevinç · [262]Sıkıntı ·
+   [263]Suçluluk · [264]Sükûnet · [265]Şaşkınlık · [266]Şehvet ·
+   [267]Şefkat · [268]Şiddet · [269]Umut · [270]Uyarılma  ·
+   [271]Depresyon · [272]Utanç · [273]Utangaçlık · [274]Üzüntü ·
+   [275]Vahşet · [276]Yalnızlık
+   [277]Duygulanım
+   [278]Korku · [279]Öfori · [280]Panik · [281]Vecd
+   [282]Ruh hâli
+   [283]Başkasının zararına sevinme · [284]Can sıkıntısı ·
+   [285]Gipotimii · [286]Hipertimi · [287]İğrenme · [288]Kafaya takma ·
+   [289]Kendine acıma · [290]Nefret · [291]Kıskançlık · [292]Şüphe
+   Psikolojik
+   [293]Küçümseme · [294]Melankoli · [295]Vicdan azabı
+
+   [296]Otorite kontrolü [297]Bunu Vikiveri'de düzenleyin
+     * [298]LNB: [299]000074397
+
+   "[300]https://tr.wikipedia.org/w/index.php?title=Gurur&oldid=30448230"
+   sayfasından alınmıştır
+
+   [301]Kategori:
+     * [302]Duygular
+     * [303]Gurur
+     * [304]Psikolojik tutum
+
+   Gizli kategoriler:
+     * [305]Kaynaksız anlatımlar içeren maddeler
+     * [306]LNB tanımlayıcısı olan Vikipedi maddeleri
+
+     * Sayfa en son 07.41, 27 Ekim 2023 tarihinde değiştirildi.
+     * Metin [307]Creative Commons Atıf-BenzerPaylaşım Lisansı altındadır;
+       ek koşullar uygulanabilir. Bu siteyi kullanarak, [308]Kullanım
+       Şartlarını ve [309]Gizlilik Politikasını kabul etmiş olursunuz.
+       Vikipedi® (ve Wikipedia®) kâr amacı gütmeyen kuruluş olan
+       [310]Wikimedia Foundation, Inc. tescilli markasıdır.
+
+     * [311]Gizlilik politikası
+     * [312]Vikipedi hakkında
+     * [313]Sorumluluk reddi
+     * [314]Davranış Kuralları
+     * [315]Geliştiriciler
+     * [316]İstatistikler
+     * [317]Çerez politikası
+     * [318]Mobil görünüm
+
+     * [319]Wikimedia Foundation
+     * [320]Powered by MediaWiki
+
+     * (BUTTON) Sınırlı içerik genişliğini değiştir
+
+Références
+
+   Liens visibles :
+   1. https://tr.m.wikipedia.org/wiki/Gurur
+   2. https://tr.wikipedia.org/w/index.php?title=Gurur&action=edit
+   3. https://tr.wikipedia.org/w/opensearch_desc.php
+   4. https://tr.wikipedia.org/w/index.php?title=Özel:SonDeğişiklikler&feed=atom
+   5. https://tr.wikipedia.org/wiki/Gurur#bodyContent
+   6. https://tr.wikipedia.org/wiki/Anasayfa
+   7. https://tr.wikipedia.org/wiki/Vikipedi:Hakkında
+   8. https://tr.wikipedia.org/wiki/Vikipedi:Göz_at
+   9. https://tr.wikipedia.org/wiki/Özel:Rastgele
+  10. https://tr.wikipedia.org/wiki/Vikipedi:Seçkin_içerik
+  11. https://tr.wikipedia.org/wiki/Özel:Yakınımdakiler
+  12. https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&utm_medium=sidebar&utm_campaign=C13_tr.wikipedia.org&uselang=tr
+  13. https://tr.wikipedia.org/wiki/Vikipedi:Deneme_tahtası
+  14. https://tr.wikipedia.org/wiki/Vikipedi:İş_birliği_projesi
+  15. https://tr.wikipedia.org/wiki/Vikipedi:Köy_çeşmesi
+  16. https://tr.wikipedia.org/wiki/Özel:SonDeğişiklikler
+  17. https://tr.wikipedia.org/wiki/Vikipedi:Yükle
+  18. https://tr.wikipedia.org/wiki/Vikipedi:Topluluk_portali
+  19. https://shop.wikimedia.org/
+  20. https://tr.wikipedia.org/wiki/Yardım:İçindekiler
+  21. https://tr.wikipedia.org/wiki/Anasayfa
+  22. https://tr.wikipedia.org/wiki/Özel:Ara
+  23. https://tr.wikipedia.org/w/index.php?title=Özel:HesapOluştur&returnto=Gurur
+  24. https://tr.wikipedia.org/w/index.php?title=Özel:KullanıcıOturumuAçma&returnto=Gurur
+  25. https://tr.wikipedia.org/w/index.php?title=Özel:HesapOluştur&returnto=Gurur
+  26. https://tr.wikipedia.org/w/index.php?title=Özel:KullanıcıOturumuAçma&returnto=Gurur
+  27. https://tr.wikipedia.org/wiki/Yardım:Giriş
+  28. https://tr.wikipedia.org/wiki/Özel:Katkılarım
+  29. https://tr.wikipedia.org/wiki/Özel:MesajSayfam
+  30. https://tr.wikipedia.org/wiki/Gurur
+  31. https://tr.wikipedia.org/wiki/Gurur#Negatif_anlamı
+  32. https://tr.wikipedia.org/wiki/Gurur#Pozitif_anlamı
+  33. https://tr.wikipedia.org/wiki/Gurur#Ayrıca_bakınız
+  34. https://tr.wikipedia.org/wiki/Gurur#Kaynakça
+  35. https://ar.wikipedia.org/wiki/فخر
+  36. https://be.wikipedia.org/wiki/Гонар
+  37. https://be-tarask.wikipedia.org/wiki/Гонар
+  38. https://bg.wikipedia.org/wiki/Гордост
+  39. https://ca.wikipedia.org/wiki/Orgull
+  40. https://de.wikipedia.org/wiki/Stolz
+  41. https://el.wikipedia.org/wiki/Υπερηφάνεια
+  42. https://en.wikipedia.org/wiki/Pride
+  43. https://eo.wikipedia.org/wiki/Fiero
+  44. https://es.wikipedia.org/wiki/Orgullo
+  45. https://fa.wikipedia.org/wiki/به_خود_بالیدن
+  46. https://fr.wikipedia.org/wiki/Fierté
+  47. https://he.wikipedia.org/wiki/גאווה
+  48. https://hr.wikipedia.org/wiki/Ponos
+  49. https://it.wikipedia.org/wiki/Orgoglio
+  50. https://ja.wikipedia.org/wiki/誇り
+  51. https://kn.wikipedia.org/wiki/ಅಭಿಮಾನ
+  52. https://mk.wikipedia.org/wiki/Гордост
+  53. https://nl.wikipedia.org/wiki/Trots
+  54. https://pl.wikipedia.org/wiki/Duma
+  55. https://pt.wikipedia.org/wiki/Orgulho
+  56. https://ru.wikipedia.org/wiki/Гордость
+  57. https://sh.wikipedia.org/wiki/Ponos
+  58. https://simple.wikipedia.org/wiki/Pride
+  59. https://sq.wikipedia.org/wiki/Krenaria
+  60. https://sr.wikipedia.org/wiki/Понос
+  61. https://uk.wikipedia.org/wiki/Гордість
+  62. https://ur.wikipedia.org/wiki/فخر
+  63. https://wa.wikipedia.org/wiki/Firté
+  64. https://wuu.wikipedia.org/wiki/骄傲
+  65. https://zh-yue.wikipedia.org/wiki/自豪
+  66. https://www.wikidata.org/wiki/Special:EntityPage/Q3071551#sitelinks-wikipedia
+  67. https://tr.wikipedia.org/wiki/Gurur
+  68. https://tr.wikipedia.org/wiki/Tartışma:Gurur
+  69. https://tr.wikipedia.org/wiki/Gurur
+  70. https://tr.wikipedia.org/w/index.php?title=Gurur&veaction=edit
+  71. https://tr.wikipedia.org/w/index.php?title=Gurur&action=edit
+  72. https://tr.wikipedia.org/w/index.php?title=Gurur&action=history
+  73. https://tr.wikipedia.org/wiki/Gurur
+  74. https://tr.wikipedia.org/w/index.php?title=Gurur&veaction=edit
+  75. https://tr.wikipedia.org/w/index.php?title=Gurur&action=edit
+  76. https://tr.wikipedia.org/w/index.php?title=Gurur&action=history
+  77. https://tr.wikipedia.org/wiki/Özel:SayfayaBağlantılar/Gurur
+  78. https://tr.wikipedia.org/wiki/Özel:İlgiliDeğişiklikler/Gurur
+  79. https://tr.wikipedia.org/wiki/Özel:ÖzelSayfalar
+  80. https://tr.wikipedia.org/w/index.php?title=Gurur&oldid=30448230
+  81. https://tr.wikipedia.org/w/index.php?title=Gurur&action=info
+  82. https://tr.wikipedia.org/w/index.php?title=Özel:KaynakGöster&page=Gurur&id=30448230&wpFormIdentifier=titleform
+  83. https://tr.wikipedia.org/w/index.php?title=Özel:UrlShortener&url=https://tr.wikipedia.org/wiki/Gurur
+  84. https://www.wikidata.org/wiki/Special:EntityPage/Q3071551
+  85. https://tr.wikipedia.org/w/index.php?title=Özel:Kitap&bookcmd=book_creator&referer=Gurur
+  86. https://tr.wikipedia.org/w/index.php?title=Özel:DownloadAsPdf&page=Gurur&action=show-download-screen
+  87. https://tr.wikipedia.org/w/index.php?title=Gurur&printable=yes
+  88. https://commons.wikimedia.org/wiki/Pride
+  89. https://tr.wikipedia.org/wiki/Kategori:Duygular
+  90. https://tr.wikipedia.org/wiki/Duygu
+  91. https://tr.wikipedia.org/wiki/Dosya:Plutchik-wheel.svg
+  92. https://tr.wikipedia.org/wiki/Dosya:Plutchik_Dyads.svg
+  93. https://tr.wikipedia.org/wiki/Duygulanım
+  94. https://tr.wikipedia.org/w/index.php?title=Duygu_sınıflandırması&action=edit&redlink=1
+  95. https://tr.wikipedia.org/w/index.php?title=Hayvanlarda_duygu&action=edit&redlink=1
+  96. https://tr.wikipedia.org/wiki/Duygusal_zekâ
+  97. https://tr.wikipedia.org/wiki/Duygudurum
+  98. https://tr.wikipedia.org/wiki/Duygu_düzenleme
+  99. https://tr.wikipedia.org/wiki/Kişilerarası_duygu_düzenleme
+ 100. https://tr.wikipedia.org/wiki/Duygusal_düzensizlik
+ 101. https://tr.wikipedia.org/w/index.php?title=Değerlilik&action=edit&redlink=1
+ 102. https://tr.wikipedia.org/wiki/Kabul
+ 103. https://tr.wikipedia.org/wiki/Şefkat
+ 104. https://tr.wikipedia.org/w/index.php?title=Eğlenme&action=edit&redlink=1
+ 105. https://tr.wikipedia.org/wiki/Kızgınlık
+ 106. https://tr.wikipedia.org/wiki/Anksiyete
+ 107. https://tr.wikipedia.org/wiki/Istırap
+ 108. https://tr.wikipedia.org/wiki/Sıkıntı
+ 109. https://tr.wikipedia.org/wiki/Beklenti_(duygu)
+ 110. https://tr.wikipedia.org/wiki/Duyarsızlık
+ 111. https://tr.wikipedia.org/wiki/Uyarılma
+ 112. https://tr.wikipedia.org/wiki/Huşu
+ 113. https://tr.wikipedia.org/wiki/İtimat
+ 114. https://tr.wikipedia.org/wiki/Aşağılama
+ 115. https://tr.wikipedia.org/wiki/Halinden_memnunluk
+ 116. https://tr.wikipedia.org/wiki/Cesaret
+ 117. https://tr.wikipedia.org/wiki/Acımasızlık
+ 118. https://tr.wikipedia.org/wiki/Merak
+ 119. https://tr.wikipedia.org/wiki/Depresif_duygudurumu
+ 120. https://tr.wikipedia.org/wiki/Arzu
+ 121. https://tr.wikipedia.org/wiki/Hayal_kırıklığı
+ 122. https://tr.wikipedia.org/wiki/İğrenme
+ 123. https://tr.wikipedia.org/wiki/Şüphe
+ 124. https://tr.wikipedia.org/wiki/Vecd
+ 125. https://tr.wikipedia.org/wiki/Utanç
+ 126. https://tr.wikipedia.org/wiki/Empati
+ 127. https://tr.wikipedia.org/wiki/Coşku
+ 128. https://tr.wikipedia.org/wiki/Kıskançlık
+ 129. https://tr.wikipedia.org/wiki/Öfori
+ 130. https://tr.wikipedia.org/wiki/Korku
+ 131. https://tr.wikipedia.org/wiki/Bıkkınlık
+ 132. https://tr.wikipedia.org/wiki/Haz
+ 133. https://tr.wikipedia.org/wiki/Minnet
+ 134. https://tr.wikipedia.org/w/index.php?title=Hırs&action=edit&redlink=1
+ 135. https://tr.wikipedia.org/w/index.php?title=Keder&action=edit&redlink=1
+ 136. https://tr.wikipedia.org/wiki/Suçluluk
+ 137. https://tr.wikipedia.org/wiki/Mutluluk
+ 138. https://tr.wikipedia.org/wiki/Nefret
+ 139. https://tr.wikipedia.org/wiki/Nezaket
+ 140. https://tr.wikipedia.org/wiki/Umut
+ 141. https://tr.wikipedia.org/wiki/Korku
+ 142. https://tr.wikipedia.org/wiki/Düşmanlık
+ 143. https://tr.wikipedia.org/wiki/Küçük_düşürme
+ 144. https://tr.wikipedia.org/wiki/Heves_(duygu)
+ 145. https://tr.wikipedia.org/wiki/Sevinç
+ 146. https://tr.wikipedia.org/wiki/İyilik
+ 147. https://tr.wikipedia.org/wiki/Yalnızlık
+ 148. https://tr.wikipedia.org/wiki/Aşk
+ 149. https://tr.wikipedia.org/wiki/Şehvet
+ 150. https://tr.wikipedia.org/w/index.php?title=Öfke_(duygu)&action=edit&redlink=1
+ 151. https://tr.wikipedia.org/wiki/Panik
+ 152. https://tr.wikipedia.org/wiki/Tutku_(duygu)
+ 153. https://tr.wikipedia.org/wiki/Acıma
+ 154. https://tr.wikipedia.org/wiki/Zevk
+ 155. https://tr.wikipedia.org/wiki/Pişmanlık
+ 156. https://tr.wikipedia.org/wiki/Sosyal_red
+ 157. https://tr.wikipedia.org/wiki/Vicdan_azabı
+ 158. https://tr.wikipedia.org/wiki/İçerleme
+ 159. https://tr.wikipedia.org/wiki/Üzüntü
+ 160. https://tr.wikipedia.org/wiki/Özlem
+ 161. https://tr.wikipedia.org/wiki/Başkasının_zararına_sevinme
+ 162. https://tr.wikipedia.org/wiki/İtimat
+ 163. https://tr.wikipedia.org/wiki/Kendine_acıma
+ 164. https://tr.wikipedia.org/wiki/Utanç
+ 165. https://tr.wikipedia.org/wiki/Akut_stres_tepkisi
+ 166. https://tr.wikipedia.org/wiki/Çekingenlik
+ 167. https://tr.wikipedia.org/wiki/Kişilerarası_bağlar
+ 168. https://tr.wikipedia.org/w/index.php?title=Keder&action=edit&redlink=1
+ 169. https://tr.wikipedia.org/wiki/Azap
+ 170. https://tr.wikipedia.org/wiki/Şaşkınlık
+ 171. https://tr.wikipedia.org/wiki/Güven_(sosyoloji)
+ 172. https://tr.wikipedia.org/wiki/Şablon:Duygu
+ 173. https://tr.wikipedia.org/wiki/Şablon_tartışma:Duygu
+ 174. https://tr.wikipedia.org/w/index.php?title=Şablon:Duygu&action=edit
+ 175. https://tr.wikipedia.org/wiki/Gurur_(anlam_ayrımı)
+ 176. https://tr.wikipedia.org/wiki/Dosya:Fisherman_with_chinook_fish.jpg
+ 177. https://tr.wikipedia.org/wiki/Gurur#cite_note-1
+ 178. https://tr.wikipedia.org/wiki/Gurur#cite_note-2
+ 179. https://tr.wikipedia.org/w/index.php?title=Gurur&veaction=edit&section=1
+ 180. https://tr.wikipedia.org/w/index.php?title=Gurur&action=edit&section=1
+ 181. https://tr.wikipedia.org/wiki/Psikoloji
+ 182. https://tr.wikipedia.org/wiki/Vikipedi:Kaynak_gösterme
+ 183. https://tr.wikipedia.org/wiki/Şiddet
+ 184. https://tr.wikipedia.org/wiki/Kişilik
+ 185. https://tr.wikipedia.org/w/index.php?title=Gurur&veaction=edit&section=2
+ 186. https://tr.wikipedia.org/w/index.php?title=Gurur&action=edit&section=2
+ 187. https://tr.wikipedia.org/w/index.php?title=Gurur&veaction=edit&section=3
+ 188. https://tr.wikipedia.org/w/index.php?title=Gurur&action=edit&section=3
+ 189. https://tr.wikipedia.org/wiki/Dunning_Kruger_Etkisi
+ 190. https://tr.wikipedia.org/wiki/Hybris
+ 191. https://tr.wikipedia.org/wiki/İtimat
+ 192. https://tr.wikipedia.org/wiki/Megalomani
+ 193. https://tr.wikipedia.org/wiki/Narsisizm
+ 194. https://tr.wikipedia.org/w/index.php?title=Gurur&veaction=edit&section=4
+ 195. https://tr.wikipedia.org/w/index.php?title=Gurur&action=edit&section=4
+ 196. https://tr.wikipedia.org/wiki/Gurur#cite_ref-1
+ 197. https://tr.wikipedia.org/wiki/Gurur#cite_ref-2
+ 198. https://web.archive.org/web/20210604105826/https://kelimeler.gen.tr/gurur-nedir-ne-demek-139232#:~:text=a. (guru:ru),aşkta da gösterirler.” -H. C.&text=Övünme: “Vatana gözyaşı döktünse eğer,bu yüksek gururu anlar” -E. B.
+ 199. https://kelimeler.gen.tr/gurur-nedir-ne-demek-139232#:~:text=a. (guru:ru),aşkta da gösterirler.” -H. C.&text=Övünme: “Vatana gözyaşı döktünse eğer,bu yüksek gururu anlar” -E. B.
+ 200. https://tr.wikipedia.org/wiki/Şablon:Duygular
+ 201. https://tr.wikipedia.org/w/index.php?title=Şablon_tartışma:Duygular&action=edit&redlink=1
+ 202. https://tr.wikipedia.org/w/index.php?title=Şablon:Duygular&action=edit
+ 203. https://tr.wikipedia.org/wiki/Duygu
+ 204. https://tr.wikipedia.org/wiki/Acıma
+ 205. https://tr.wikipedia.org/w/index.php?title=Aidiyet_(duygu)&action=edit&redlink=1
+ 206. https://tr.wikipedia.org/wiki/Aldırmazlık
+ 207. https://tr.wikipedia.org/wiki/Anksiyete
+ 208. https://tr.wikipedia.org/wiki/Anne
+ 209. https://tr.wikipedia.org/wiki/Arzu
+ 210. https://tr.wikipedia.org/wiki/Aşağılama
+ 211. https://tr.wikipedia.org/wiki/Aşk
+ 212. https://tr.wikipedia.org/wiki/Azap
+ 213. https://tr.wikipedia.org/wiki/Beklenti_(duygu)
+ 214. https://tr.wikipedia.org/wiki/Bıkkınlık
+ 215. https://tr.wikipedia.org/wiki/Boşluk_duygusu
+ 216. https://tr.wikipedia.org/wiki/Böbürlenme
+ 217. https://tr.wikipedia.org/wiki/Coşku
+ 218. https://tr.wikipedia.org/wiki/Dehşet
+ 219. https://tr.wikipedia.org/wiki/Dikkat
+ 220. https://tr.wikipedia.org/w/index.php?title=Dinginlik&action=edit&redlink=1
+ 221. https://tr.wikipedia.org/wiki/İlgisizlik
+ 222. https://tr.wikipedia.org/wiki/Düşmanlık
+ 223. https://tr.wikipedia.org/wiki/Empati
+ 224. https://tr.wikipedia.org/wiki/Fanatiklik
+ 225. https://tr.wikipedia.org/w/index.php?title=Ferahlama&action=edit&redlink=1
+ 226. https://tr.wikipedia.org/wiki/Gıpta
+ 227. https://tr.wikipedia.org/wiki/Gücenme
+ 228. https://tr.wikipedia.org/wiki/Halinden_memnunluk
+ 229. https://tr.wikipedia.org/wiki/Hayal_kırıklığı
+ 230. https://tr.wikipedia.org/w/index.php?title=Hayret&action=edit&redlink=1
+ 231. https://tr.wikipedia.org/wiki/Heves_(duygu)
+ 232. https://tr.wikipedia.org/w/index.php?title=Hışım&action=edit&redlink=1
+ 233. https://tr.wikipedia.org/wiki/Histeri
+ 234. https://tr.wikipedia.org/wiki/Hoşnutluk
+ 235. https://tr.wikipedia.org/wiki/Hoşnutsuzluk
+ 236. https://tr.wikipedia.org/wiki/Huzur
+ 237. https://tr.wikipedia.org/wiki/Istırap
+ 238. https://tr.wikipedia.org/wiki/İçerleme
+ 239. https://tr.wikipedia.org/wiki/İçine_doğma
+ 240. https://tr.wikipedia.org/w/index.php?title=İlgi_duyma&action=edit&redlink=1
+ 241. https://tr.wikipedia.org/wiki/İntikam
+ 242. https://tr.wikipedia.org/wiki/Esin
+ 243. https://tr.wikipedia.org/wiki/Kabul
+ 244. https://tr.wikipedia.org/wiki/Kafa_karışıklığı
+ 245. https://tr.wikipedia.org/wiki/Fobi
+ 246. https://tr.wikipedia.org/w/index.php?title=Kınama&action=edit&redlink=1
+ 247. https://tr.wikipedia.org/wiki/Kızgınlık
+ 248. https://tr.wikipedia.org/w/index.php?title=Mahcubiyet&action=edit&redlink=1
+ 249. https://tr.wikipedia.org/wiki/Merak
+ 250. https://tr.wikipedia.org/wiki/Merhamet
+ 251. https://tr.wikipedia.org/wiki/Minnet
+ 252. https://tr.wikipedia.org/wiki/Mutluluk
+ 253. https://tr.wikipedia.org/wiki/Nezaket
+ 254. https://tr.wikipedia.org/wiki/Özlem
+ 255. https://tr.wikipedia.org/wiki/Pişmanlık
+ 256. https://tr.wikipedia.org/w/index.php?title=Rahatlık&action=edit&redlink=1
+ 257. https://tr.wikipedia.org/wiki/Rahatsızlık
+ 258. https://tr.wikipedia.org/wiki/Sabır
+ 259. https://tr.wikipedia.org/wiki/Sahiplenme
+ 260. https://tr.wikipedia.org/wiki/Sempati
+ 261. https://tr.wikipedia.org/wiki/Sevinç
+ 262. https://tr.wikipedia.org/wiki/Sıkıntı
+ 263. https://tr.wikipedia.org/wiki/Suçluluk
+ 264. https://tr.wikipedia.org/w/index.php?title=Sükûnet&action=edit&redlink=1
+ 265. https://tr.wikipedia.org/wiki/Şaşkınlık
+ 266. https://tr.wikipedia.org/wiki/Şehvet
+ 267. https://tr.wikipedia.org/wiki/Şefkat
+ 268. https://tr.wikipedia.org/wiki/Şiddet
+ 269. https://tr.wikipedia.org/wiki/Umut
+ 270. https://tr.wikipedia.org/wiki/Uyarılma
+ 271. https://tr.wikipedia.org/wiki/Depresif_duygudurumu
+ 272. https://tr.wikipedia.org/wiki/Utanç
+ 273. https://tr.wikipedia.org/wiki/Çekingenlik
+ 274. https://tr.wikipedia.org/wiki/Üzüntü
+ 275. https://tr.wikipedia.org/w/index.php?title=Vahşet&action=edit&redlink=1
+ 276. https://tr.wikipedia.org/wiki/Yalnızlık
+ 277. https://tr.wikipedia.org/wiki/Duygulanım
+ 278. https://tr.wikipedia.org/wiki/Korku
+ 279. https://tr.wikipedia.org/wiki/Öfori
+ 280. https://tr.wikipedia.org/wiki/Panik
+ 281. https://tr.wikipedia.org/wiki/Vecd
+ 282. https://tr.wikipedia.org/wiki/Duygudurum
+ 283. https://tr.wikipedia.org/wiki/Başkasının_zararına_sevinme
+ 284. https://tr.wikipedia.org/w/index.php?title=Can_sıkıntısı&action=edit&redlink=1
+ 285. https://tr.wikipedia.org/w/index.php?title=Gipotimii&action=edit&redlink=1
+ 286. https://tr.wikipedia.org/wiki/Hipertimi
+ 287. https://tr.wikipedia.org/wiki/İğrenme
+ 288. https://tr.wikipedia.org/wiki/Kafaya_takma
+ 289. https://tr.wikipedia.org/wiki/Kendine_acıma
+ 290. https://tr.wikipedia.org/wiki/Nefret
+ 291. https://tr.wikipedia.org/wiki/Kıskançlık
+ 292. https://tr.wikipedia.org/wiki/Şüphe
+ 293. https://tr.wikipedia.org/wiki/Aşağılama
+ 294. https://tr.wikipedia.org/wiki/Melankoli
+ 295. https://tr.wikipedia.org/wiki/Vicdan_azabı
+ 296. https://tr.wikipedia.org/wiki/Otorite_kontrolü
+ 297. https://www.wikidata.org/wiki/Q3071551
+ 298. https://tr.wikipedia.org/wiki/Letonya_Millî_Kütüphanesi
+ 299. https://kopkatalogs.lv/F?func=direct&local_base=lnc10&doc_number=000074397&P_CON_LNG=ENG
+ 300. https://tr.wikipedia.org/w/index.php?title=Gurur&oldid=30448230
+ 301. https://tr.wikipedia.org/wiki/Özel:Kategoriler
+ 302. https://tr.wikipedia.org/wiki/Kategori:Duygular
+ 303. https://tr.wikipedia.org/wiki/Kategori:Gurur
+ 304. https://tr.wikipedia.org/wiki/Kategori:Psikolojik_tutum
+ 305. https://tr.wikipedia.org/wiki/Kategori:Kaynaksız_anlatımlar_içeren_maddeler
+ 306. https://tr.wikipedia.org/wiki/Kategori:LNB_tanımlayıcısı_olan_Vikipedi_maddeleri
+ 307. https://creativecommons.org/licenses/by-sa/4.0/deed.tr
+ 308. https://meta.wikimedia.org/wiki/Terms_of_use/tr
+ 309. https://meta.wikimedia.org/wiki/Privacy_policy/tr
+ 310. https://www.wikimediafoundation.org/
+ 311. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy
+ 312. https://tr.wikipedia.org/wiki/Vikipedi:Hakkında
+ 313. https://tr.wikipedia.org/wiki/Vikipedi:Genel_sorumluluk_reddi
+ 314. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct
+ 315. https://developer.wikimedia.org/
+ 316. https://stats.wikimedia.org/#/tr.wikipedia.org
+ 317. https://foundation.wikimedia.org/wiki/Cookie_statement/tr
+ 318. https://tr.m.wikipedia.org/w/index.php?title=Gurur&mobileaction=toggle_view_mobile
+ 319. https://wikimediafoundation.org/
+ 320. https://www.mediawiki.org/
+
+   Liens cachés :
+ 322. https://creativecommons.org/licenses/by-sa/4.0/
