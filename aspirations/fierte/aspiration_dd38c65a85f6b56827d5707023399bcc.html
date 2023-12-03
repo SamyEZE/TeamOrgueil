@@ -1,0 +1,1003 @@
+<!doctype html>
+<html lang="fr-FR">
+<head><meta charset="UTF-8"><script>if(navigator.userAgent.match(/MSIE|Internet Explorer/i)||navigator.userAgent.match(/Trident\/7\..*?rv:11/i)){var href=document.location.href;if(!href.match(/[?&]nowprocket/)){if(href.indexOf("?")==-1){if(href.indexOf("#")==-1){document.location.href=href+"?nowprocket=1"}else{document.location.href=href.replace("#","?nowprocket=1#")}}else{if(href.indexOf("#")==-1){document.location.href=href+"&nowprocket=1"}else{document.location.href=href.replace("#","&nowprocket=1#")}}}}</script><script>class RocketLazyLoadScripts{constructor(){this.triggerEvents=["keydown","mousedown","mousemove","touchmove","touchstart","touchend","wheel"],this.userEventHandler=this._triggerListener.bind(this),this.touchStartHandler=this._onTouchStart.bind(this),this.touchMoveHandler=this._onTouchMove.bind(this),this.touchEndHandler=this._onTouchEnd.bind(this),this.clickHandler=this._onClick.bind(this),this.interceptedClicks=[],window.addEventListener("pageshow",(e=>{this.persisted=e.persisted})),window.addEventListener("DOMContentLoaded",(()=>{this._preconnect3rdParties()})),this.delayedScripts={normal:[],async:[],defer:[]},this.allJQueries=[]}_addUserInteractionListener(e){document.hidden?e._triggerListener():(this.triggerEvents.forEach((t=>window.addEventListener(t,e.userEventHandler,{passive:!0}))),window.addEventListener("touchstart",e.touchStartHandler,{passive:!0}),window.addEventListener("mousedown",e.touchStartHandler),document.addEventListener("visibilitychange",e.userEventHandler))}_removeUserInteractionListener(){this.triggerEvents.forEach((e=>window.removeEventListener(e,this.userEventHandler,{passive:!0}))),document.removeEventListener("visibilitychange",this.userEventHandler)}_onTouchStart(e){"HTML"!==e.target.tagName&&(window.addEventListener("touchend",this.touchEndHandler),window.addEventListener("mouseup",this.touchEndHandler),window.addEventListener("touchmove",this.touchMoveHandler,{passive:!0}),window.addEventListener("mousemove",this.touchMoveHandler),e.target.addEventListener("click",this.clickHandler),this._renameDOMAttribute(e.target,"onclick","rocket-onclick"))}_onTouchMove(e){window.removeEventListener("touchend",this.touchEndHandler),window.removeEventListener("mouseup",this.touchEndHandler),window.removeEventListener("touchmove",this.touchMoveHandler,{passive:!0}),window.removeEventListener("mousemove",this.touchMoveHandler),e.target.removeEventListener("click",this.clickHandler),this._renameDOMAttribute(e.target,"rocket-onclick","onclick")}_onTouchEnd(e){window.removeEventListener("touchend",this.touchEndHandler),window.removeEventListener("mouseup",this.touchEndHandler),window.removeEventListener("touchmove",this.touchMoveHandler,{passive:!0}),window.removeEventListener("mousemove",this.touchMoveHandler)}_onClick(e){e.target.removeEventListener("click",this.clickHandler),this._renameDOMAttribute(e.target,"rocket-onclick","onclick"),this.interceptedClicks.push(e),e.preventDefault(),e.stopPropagation(),e.stopImmediatePropagation()}_replayClicks(){window.removeEventListener("touchstart",this.touchStartHandler,{passive:!0}),window.removeEventListener("mousedown",this.touchStartHandler),this.interceptedClicks.forEach((e=>{e.target.dispatchEvent(new MouseEvent("click",{view:e.view,bubbles:!0,cancelable:!0}))}))}_renameDOMAttribute(e,t,n){e.hasAttribute&&e.hasAttribute(t)&&(event.target.setAttribute(n,event.target.getAttribute(t)),event.target.removeAttribute(t))}_triggerListener(){this._removeUserInteractionListener(this),"loading"===document.readyState?document.addEventListener("DOMContentLoaded",this._loadEverythingNow.bind(this)):this._loadEverythingNow()}_preconnect3rdParties(){let e=[];document.querySelectorAll("script[type=rocketlazyloadscript]").forEach((t=>{if(t.hasAttribute("src")){const n=new URL(t.src).origin;n!==location.origin&&e.push({src:n,crossOrigin:t.crossOrigin||"module"===t.getAttribute("data-rocket-type")})}})),e=[...new Map(e.map((e=>[JSON.stringify(e),e]))).values()],this._batchInjectResourceHints(e,"preconnect")}async _loadEverythingNow(){this.lastBreath=Date.now(),this._delayEventListeners(),this._delayJQueryReady(this),this._handleDocumentWrite(),this._registerAllDelayedScripts(),this._preloadAllScripts(),await this._loadScriptsFromList(this.delayedScripts.normal),await this._loadScriptsFromList(this.delayedScripts.defer),await this._loadScriptsFromList(this.delayedScripts.async);try{await this._triggerDOMContentLoaded(),await this._triggerWindowLoad()}catch(e){}window.dispatchEvent(new Event("rocket-allScriptsLoaded")),this._replayClicks()}_registerAllDelayedScripts(){document.querySelectorAll("script[type=rocketlazyloadscript]").forEach((e=>{e.hasAttribute("src")?e.hasAttribute("async")&&!1!==e.async?this.delayedScripts.async.push(e):e.hasAttribute("defer")&&!1!==e.defer||"module"===e.getAttribute("data-rocket-type")?this.delayedScripts.defer.push(e):this.delayedScripts.normal.push(e):this.delayedScripts.normal.push(e)}))}async _transformScript(e){return await this._littleBreath(),new Promise((t=>{const n=document.createElement("script");[...e.attributes].forEach((e=>{let t=e.nodeName;"type"!==t&&("data-rocket-type"===t&&(t="type"),n.setAttribute(t,e.nodeValue))})),e.hasAttribute("src")?(n.addEventListener("load",t),n.addEventListener("error",t)):(n.text=e.text,t());try{e.parentNode.replaceChild(n,e)}catch(e){t()}}))}async _loadScriptsFromList(e){const t=e.shift();return t?(await this._transformScript(t),this._loadScriptsFromList(e)):Promise.resolve()}_preloadAllScripts(){this._batchInjectResourceHints([...this.delayedScripts.normal,...this.delayedScripts.defer,...this.delayedScripts.async],"preload")}_batchInjectResourceHints(e,t){var n=document.createDocumentFragment();e.forEach((e=>{if(e.src){const i=document.createElement("link");i.href=e.src,i.rel=t,"preconnect"!==t&&(i.as="script"),e.getAttribute&&"module"===e.getAttribute("data-rocket-type")&&(i.crossOrigin=!0),e.crossOrigin&&(i.crossOrigin=e.crossOrigin),n.appendChild(i)}})),document.head.appendChild(n)}_delayEventListeners(){let e={};function t(t,n){!function(t){function n(n){return e[t].eventsToRewrite.indexOf(n)>=0?"rocket-"+n:n}e[t]||(e[t]={originalFunctions:{add:t.addEventListener,remove:t.removeEventListener},eventsToRewrite:[]},t.addEventListener=function(){arguments[0]=n(arguments[0]),e[t].originalFunctions.add.apply(t,arguments)},t.removeEventListener=function(){arguments[0]=n(arguments[0]),e[t].originalFunctions.remove.apply(t,arguments)})}(t),e[t].eventsToRewrite.push(n)}function n(e,t){let n=e[t];Object.defineProperty(e,t,{get:()=>n||function(){},set(i){e["rocket"+t]=n=i}})}t(document,"DOMContentLoaded"),t(window,"DOMContentLoaded"),t(window,"load"),t(window,"pageshow"),t(document,"readystatechange"),n(document,"onreadystatechange"),n(window,"onload"),n(window,"onpageshow")}_delayJQueryReady(e){let t=window.jQuery;Object.defineProperty(window,"jQuery",{get:()=>t,set(n){if(n&&n.fn&&!e.allJQueries.includes(n)){n.fn.ready=n.fn.init.prototype.ready=function(t){e.domReadyFired?t.bind(document)(n):document.addEventListener("rocket-DOMContentLoaded",(()=>t.bind(document)(n)))};const t=n.fn.on;n.fn.on=n.fn.init.prototype.on=function(){if(this[0]===window){function e(e){return e.split(" ").map((e=>"load"===e||0===e.indexOf("load.")?"rocket-jquery-load":e)).join(" ")}"string"==typeof arguments[0]||arguments[0]instanceof String?arguments[0]=e(arguments[0]):"object"==typeof arguments[0]&&Object.keys(arguments[0]).forEach((t=>{delete Object.assign(arguments[0],{[e(t)]:arguments[0][t]})[t]}))}return t.apply(this,arguments),this},e.allJQueries.push(n)}t=n}})}async _triggerDOMContentLoaded(){this.domReadyFired=!0,await this._littleBreath(),document.dispatchEvent(new Event("rocket-DOMContentLoaded")),await this._littleBreath(),window.dispatchEvent(new Event("rocket-DOMContentLoaded")),await this._littleBreath(),document.dispatchEvent(new Event("rocket-readystatechange")),await this._littleBreath(),document.rocketonreadystatechange&&document.rocketonreadystatechange()}async _triggerWindowLoad(){await this._littleBreath(),window.dispatchEvent(new Event("rocket-load")),await this._littleBreath(),window.rocketonload&&window.rocketonload(),await this._littleBreath(),this.allJQueries.forEach((e=>e(window).trigger("rocket-jquery-load"))),await this._littleBreath();const e=new Event("rocket-pageshow");e.persisted=this.persisted,window.dispatchEvent(e),await this._littleBreath(),window.rocketonpageshow&&window.rocketonpageshow({persisted:this.persisted})}_handleDocumentWrite(){const e=new Map;document.write=document.writeln=function(t){const n=document.currentScript,i=document.createRange(),r=n.parentElement;let o=e.get(n);void 0===o&&(o=n.nextSibling,e.set(n,o));const s=document.createDocumentFragment();i.setStart(s,0),s.appendChild(i.createContextualFragment(t)),r.insertBefore(s,o)}}async _littleBreath(){Date.now()-this.lastBreath>45&&(await this._requestAnimFrame(),this.lastBreath=Date.now())}async _requestAnimFrame(){return document.hidden?new Promise((e=>setTimeout(e))):new Promise((e=>requestAnimationFrame(e)))}static run(){const e=new RocketLazyLoadScripts;e._addUserInteractionListener(e)}}RocketLazyLoadScripts.run();</script>
+	
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+	<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v21.6 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>La fierté de manager, la fierté d’entreprendre - Isabelle Barth</title><link rel="preload" as="style" href="https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto%20Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;display=swap" /><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto%20Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;display=swap" media="print" onload="this.media='all'" /><noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto%20Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;display=swap" /></noscript>
+	<link rel="canonical" href="https://isabelle-barth.fr/la-fierte-de-manager-la-fierte-dentreprendre/" />
+	<meta property="og:locale" content="fr_FR" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="La fierté de manager, la fierté d’entreprendre - Isabelle Barth" />
+	<meta property="og:description" content="Réfléchir à la Fierté, c&rsquo;est constater que c&rsquo;est un sentiment, assez mal compris et finalement assez peu partagé en France, patrie de l’auto critique et de l’auto flagellation. Pourquoi être fier ? et être fier de quoi ? de qui ? Pourquoi débattre de la Fierté&nbsp;? A Paris, des milliers de personnes venant des quatre [&hellip;]" />
+	<meta property="og:url" content="https://isabelle-barth.fr/la-fierte-de-manager-la-fierte-dentreprendre/" />
+	<meta property="og:site_name" content="Isabelle Barth" />
+	<meta property="article:modified_time" content="2021-12-05T20:45:11+00:00" />
+	<meta property="og:image" content="https://isabelle-barth.fr/wp-content/uploads/2021/12/fierte.webp" />
+	<meta property="og:image:width" content="720" />
+	<meta property="og:image:height" content="480" />
+	<meta property="og:image:type" content="image/webp" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:label1" content="Durée de lecture estimée" />
+	<meta name="twitter:data1" content="7 minutes" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://isabelle-barth.fr/la-fierte-de-manager-la-fierte-dentreprendre/","url":"https://isabelle-barth.fr/la-fierte-de-manager-la-fierte-dentreprendre/","name":"La fierté de manager, la fierté d’entreprendre - Isabelle Barth","isPartOf":{"@id":"https://isabelle-barth.fr/#website"},"primaryImageOfPage":{"@id":"https://isabelle-barth.fr/la-fierte-de-manager-la-fierte-dentreprendre/#primaryimage"},"image":{"@id":"https://isabelle-barth.fr/la-fierte-de-manager-la-fierte-dentreprendre/#primaryimage"},"thumbnailUrl":"https://isabelle-barth.fr/wp-content/uploads/2021/12/fierte.webp","datePublished":"2021-12-05T20:45:10+00:00","dateModified":"2021-12-05T20:45:11+00:00","breadcrumb":{"@id":"https://isabelle-barth.fr/la-fierte-de-manager-la-fierte-dentreprendre/#breadcrumb"},"inLanguage":"fr-FR","potentialAction":[{"@type":"ReadAction","target":["https://isabelle-barth.fr/la-fierte-de-manager-la-fierte-dentreprendre/"]}]},{"@type":"ImageObject","inLanguage":"fr-FR","@id":"https://isabelle-barth.fr/la-fierte-de-manager-la-fierte-dentreprendre/#primaryimage","url":"https://isabelle-barth.fr/wp-content/uploads/2021/12/fierte.webp","contentUrl":"https://isabelle-barth.fr/wp-content/uploads/2021/12/fierte.webp","width":720,"height":480},{"@type":"BreadcrumbList","@id":"https://isabelle-barth.fr/la-fierte-de-manager-la-fierte-dentreprendre/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Accueil","item":"https://isabelle-barth.fr/"},{"@type":"ListItem","position":2,"name":"La fierté de manager, la fierté d’entreprendre"}]},{"@type":"WebSite","@id":"https://isabelle-barth.fr/#website","url":"https://isabelle-barth.fr/","name":"Isabelle Barth","description":"","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://isabelle-barth.fr/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"fr-FR"}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link href='https://fonts.gstatic.com' crossorigin rel='preconnect' />
+<link rel="alternate" type="application/rss+xml" title="Isabelle Barth &raquo; Flux" href="https://isabelle-barth.fr/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Isabelle Barth &raquo; Flux des commentaires" href="https://isabelle-barth.fr/comments/feed/" />
+<style id='wp-emoji-styles-inline-css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://isabelle-barth.fr/wp-includes/css/dist/block-library/style.min.css?ver=6722bd' media='all' />
+<style id='classic-theme-styles-inline-css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='cmplz-general-css' href='https://isabelle-barth.fr/wp-content/plugins/complianz-gdpr/assets/css/cookieblocker.min.css?ver=6.5.5' media='all' />
+<link rel='stylesheet' id='hello-elementor-css' href='https://isabelle-barth.fr/wp-content/themes/hello-elementor/style.min.css?ver=2.9.0' media='all' />
+<link rel='stylesheet' id='hello-elementor-theme-style-css' href='https://isabelle-barth.fr/wp-content/themes/hello-elementor/theme.min.css?ver=2.9.0' media='all' />
+<link rel='stylesheet' id='elementor-icons-css' href='https://isabelle-barth.fr/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.23.0' media='all' />
+<link rel='stylesheet' id='elementor-frontend-css' href='https://isabelle-barth.fr/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.17.3' media='all' />
+<link rel='stylesheet' id='swiper-css' href='https://isabelle-barth.fr/wp-content/plugins/elementor/assets/lib/swiper/css/swiper.min.css?ver=5.3.6' media='all' />
+<link rel='stylesheet' id='elementor-post-737-css' href='https://isabelle-barth.fr/wp-content/uploads/elementor/css/post-737.css?ver=1700555766' media='all' />
+<link rel='stylesheet' id='elementor-pro-css' href='https://isabelle-barth.fr/wp-content/plugins/elementor-pro/assets/css/frontend.min.css?ver=3.17.1' media='all' />
+<link rel='stylesheet' id='elementor-post-907-css' href='https://isabelle-barth.fr/wp-content/uploads/elementor/css/post-907.css?ver=1700555766' media='all' />
+<link rel='stylesheet' id='elementor-post-927-css' href='https://isabelle-barth.fr/wp-content/uploads/elementor/css/post-927.css?ver=1700555766' media='all' />
+<link rel='stylesheet' id='elementor-post-937-css' href='https://isabelle-barth.fr/wp-content/uploads/elementor/css/post-937.css?ver=1700555768' media='all' />
+
+<link rel='stylesheet' id='elementor-icons-shared-0-css' href='https://isabelle-barth.fr/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3' media='all' />
+<link rel='stylesheet' id='elementor-icons-fa-brands-css' href='https://isabelle-barth.fr/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.15.3' media='all' />
+<link rel='stylesheet' id='elementor-icons-fa-regular-css' href='https://isabelle-barth.fr/wp-content/plugins/elementor/assets/lib/font-awesome/css/regular.min.css?ver=5.15.3' media='all' />
+<link rel='stylesheet' id='elementor-icons-fa-solid-css' href='https://isabelle-barth.fr/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3' media='all' />
+<link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin><link rel="https://api.w.org/" href="https://isabelle-barth.fr/wp-json/" /><link rel="alternate" type="application/json" href="https://isabelle-barth.fr/wp-json/wp/v2/pages/2596" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://isabelle-barth.fr/xmlrpc.php?rsd" />
+
+<link rel='shortlink' href='https://isabelle-barth.fr/?p=2596' />
+<link rel="alternate" type="application/json+oembed" href="https://isabelle-barth.fr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fisabelle-barth.fr%2Fla-fierte-de-manager-la-fierte-dentreprendre%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://isabelle-barth.fr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fisabelle-barth.fr%2Fla-fierte-de-manager-la-fierte-dentreprendre%2F&#038;format=xml" />
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script type="text/plain" data-service="google-analytics" data-category="statistics" async data-cmplz-src="https://www.googletagmanager.com/gtag/js?id=G-VJDFRZPNGV"></script>
+<script type="rocketlazyloadscript">
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-VJDFRZPNGV');
+</script>
+<!-- Yandex.Metrika counter -->
+<script type="rocketlazyloadscript" data-rocket-type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(71045758, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/71045758" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter --><style>.cmplz-hidden{display:none!important;}</style><meta name="generator" content="Elementor 3.17.3; features: e_dom_optimization, e_optimized_assets_loading, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-auto">
+<link rel="icon" href="https://isabelle-barth.fr/wp-content/uploads/2017/03/photo-xerfi-53x53.jpg" sizes="32x32" />
+<link rel="icon" href="https://isabelle-barth.fr/wp-content/uploads/2017/03/photo-xerfi-285x285.jpg" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://isabelle-barth.fr/wp-content/uploads/2017/03/photo-xerfi-285x285.jpg" />
+<meta name="msapplication-TileImage" content="https://isabelle-barth.fr/wp-content/uploads/2017/03/photo-xerfi-285x285.jpg" />
+</head>
+<body data-cmplz=1 class="page-template-default page page-id-2596 elementor-default elementor-kit-737 elementor-page-1319 elementor-page-937">
+
+
+<a class="skip-link screen-reader-text" href="#content">Aller au contenu</a>
+
+		<div data-elementor-type="header" data-elementor-id="907" class="elementor elementor-907 elementor-location-header" data-elementor-post-type="elementor_library">
+								<section class="elementor-section elementor-top-section elementor-element elementor-element-2cc6584 elementor-section-height-min-height elementor-section-content-middle elementor-section-full_width elementor-section-height-default elementor-section-items-middle" data-id="2cc6584" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-46dc243" data-id="46dc243" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-97292ab elementor-widget elementor-widget-ucaddon_ue_side_menu" data-id="97292ab" data-element_type="widget" data-widget_type="ucaddon_ue_side_menu.default">
+				<div class="elementor-widget-container">
+			<!-- start Side Menu -->
+		<link id='font-awesome-css' href='https://isabelle-barth.fr/wp-content/plugins/unlimited-elements-for-elementor-premium/assets_libraries/font-awesome5/css/fontawesome-all.min.css' type='text/css' rel='stylesheet' >
+		<link id='font-awesome-4-shim-css' href='https://isabelle-barth.fr/wp-content/plugins/unlimited-elements-for-elementor-premium/assets_libraries/font-awesome5/css/fontawesome-v4-shims.css' type='text/css' rel='stylesheet' >
+
+			<style type="text/css">/* widget: Side Menu */
+
+#uc_ue_side_menu_elementor_97292ab *
+{
+  box-sizing:border-box;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+}
+
+#uc_ue_side_menu_elementor_97292ab .uc-side-menu-wrapper
+{
+  position:relative;
+}
+
+
+#uc_ue_side_menu_elementor_97292ab .menu-right-open {
+	width: 300px;
+	top: 0;
+	right: 0;
+	margin-right: 0px;
+	margin-left: 0px;
+	transition: 1s;
+	z-index: 200;
+	position: fixed;
+}
+
+#uc_ue_side_menu_elementor_97292ab .menu-right-close {
+	width: 300px;
+	top: 0;
+	right: 0;
+	margin-right: -300px;
+	transition: 1s;
+	z-index: 1;
+	height: 100%;
+	position: fixed;
+}
+
+#uc_ue_side_menu_elementor_97292ab .menu-left-open {
+	width: 300px;
+	top: 0;
+	left: 0;
+	margin-right: 0px;
+	margin-left: 0px;
+	transition: 1s;
+	z-index: 1;
+	height: 100%;
+	position: fixed;
+}
+
+#uc_ue_side_menu_elementor_97292ab .menu-left-close {
+	width: 300px;
+	top: 0;
+	left: 0;
+	margin-left: -300px;
+	transition: 1s;
+	z-index: 1;
+	height: 100%;
+	position: fixed;
+}
+
+	
+#uc_ue_side_menu_elementor_97292ab .collapsed:after {
+	content: "►";
+    display: inline-block;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:contain;
+    margin:0px 15px;
+    vertical-align: middle;
+    font-size:10px;
+}
+
+#uc_ue_side_menu_elementor_97292ab .expanded:after {
+	content: "▼";
+    display: inline-block;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:contain;
+    margin:0px 15px;
+    vertical-align: middle;
+    font-size:10px;
+}
+ 
+	
+
+
+
+
+
+
+#uc_ue_side_menu_elementor_97292ab .uc-side-menu-items
+{
+  position:relative;
+  height:100vh;
+  overflow-x: hidden;
+  transition:1s;
+}
+
+#uc_ue_side_menu_elementor_97292ab .open_side_menu
+{
+  cursor:pointer;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  transition:1s;
+}
+
+#uc_ue_side_menu_elementor_97292ab .uc-side-menu-title
+{
+  text-align:left;
+}
+
+.menu-left-open .uc-close-side-menu, .menu-right-open .uc-close-side-menu
+{
+  display:flex;
+  opacity:1;
+}
+
+.menu-left-close .uc-close-side-menu, .menu-right-close .uc-close-side-menu
+{
+  display:none;
+}
+
+#uc_ue_side_menu_elementor_97292ab .menu-left-open .ue_side_menu_overlay, #uc_ue_side_menu_elementor_97292ab .menu-right-open .ue_side_menu_overlay
+{
+  display:block;
+  opacity:1;
+  transition:1s;
+}
+
+#uc_ue_side_menu_elementor_97292ab .menu-left-close .ue_side_menu_overlay, #uc_ue_side_menu_elementor_97292ab .menu-right-close .ue_side_menu_overlay
+{
+  display:none;
+  opacity:0;
+  transition:1s;
+}
+
+#uc_ue_side_menu_elementor_97292ab .uc-close-side-menu
+{
+  position:absolute;
+  right:-50px;
+  cursor:pointer;
+  justify-content:center;
+  align-items:center;
+  z-index:1;
+}
+
+
+#uc_ue_side_menu_elementor_97292ab .uc-side-menu-items ul
+{
+  padding:0px;
+  margin:0px;
+  list-style:none;
+}
+
+#uc_ue_side_menu_elementor_97292ab .uc-side-menu-items ul a
+{
+  display:block;
+  text-decoration:none;
+}
+
+
+#uc_ue_side_menu_elementor_97292ab .sub-menu {
+    overflow: hidden;
+    list-style: none;
+    height: auto;
+    transition: 0.5s;
+}
+
+#uc_ue_side_menu_elementor_97292ab .side-menu-search-holder
+{
+  display:flex;
+  overflow:hidden;
+}
+
+#uc_ue_side_menu_elementor_97292ab .side-menu-search-holder input
+{
+  border:none;
+  border-radius:0px;
+  flex:1;
+  min-width: 0;
+  
+}
+#uc_ue_side_menu_elementor_97292ab .side-menu-search-holder button
+{
+  border:none;
+  display:flex;
+  cursor:pointer;
+  align-items:center;
+  justify-content:center;
+  border-radius:0px;
+  flex-grow: 0;
+  flex-shrink: 0;
+}
+
+#uc_ue_side_menu_elementor_97292ab .side-menu-buttons
+{
+  display:flex;
+}
+
+#uc_ue_side_menu_elementor_97292ab .side-menu-button
+{
+  flex:1;
+  text-align:center;
+  text-decoration:none;
+}
+
+.side-menu-button
+{
+  font-size:12px;
+}
+
+
+#uc_ue_side_menu_elementor_97292ab  .ue_side_menu_overlay
+{
+  position:fixed;
+  top:0;
+  bottom:0;
+  left:0;
+  right:0;
+  transition:1s;
+  opacity:0;
+}
+
+
+/* On screens that are 768px */
+@media screen and (max-width: 768px) {
+  
+#uc_ue_side_menu_elementor_97292ab .menu-right-open {
+	width: ;
+}
+
+#uc_ue_side_menu_elementor_97292ab .menu-right-close {
+	width: ;
+	margin-right: -;
+
+}
+
+#uc_ue_side_menu_elementor_97292ab .menu-left-open {
+	width: ;
+	
+}
+
+#uc_ue_side_menu_elementor_97292ab .menu-left-close {
+	width: ;
+	margin-left: -;
+
+}
+}
+
+
+
+/* On screens that are 420px */
+@media screen and (max-width: 420px) {
+  
+#uc_ue_side_menu_elementor_97292ab .menu-right-open {
+	width: ;
+}
+
+#uc_ue_side_menu_elementor_97292ab .menu-right-close {
+	width: ;
+	margin-right: -;
+
+}
+
+#uc_ue_side_menu_elementor_97292ab .menu-left-open {
+	width: ;
+	
+}
+
+#uc_ue_side_menu_elementor_97292ab .menu-left-close {
+	width: ;
+	margin-left: -;
+
+}
+}
+
+</style>
+
+			<div id="uc_ue_side_menu_elementor_97292ab" class="uc-side-menu-main-wrapper">
+     
+      <div class="uc-menu-button-wrapper" style="display:flex; justify-content:flex-start;">
+          <div class="open_side_menu"><i class='fas fa-bars'></i></div>
+      </div>
+	  
+      <div class="uc-side-menu-wrapper menu-left-close">
+        			                        <div class="ue_side_menu_overlay"></div>
+        		            
+                     <div class="uc-close-side-menu"><i class='fas fa-times'></i></div>
+        
+          <div class="side-menu-holder">
+              <div class="uc-side-menu-items">
+                  <div class="uc-header">
+                      
+                                            
+                  </div>
+                
+                                    <div class="side-menu-search">
+                    <div class="side-menu-search-holder">
+                      <input type="text" class="side-menu-search-input" placeholder="Recherche" data-urlbase="https://isabelle-barth.fr">
+                      <button class="side-menu-search-button-search"><i class='fas fa-search'></i></button>
+                    </div>
+                  </div>
+                                  
+                                    <div class="side-menu-buttons">
+                    <a href="https://www.linkedin.com/in/isabellebarth/" class="side-menu-button" >
+  <div class="side-menu-button-icon">
+  <i class='fab fa-linkedin-in'></i>
+  </div>
+  Linkedin
+</a>
+<a href="https://isabelle-barth.fr/biographie/#contact" class="side-menu-button" >
+  <div class="side-menu-button-icon">
+  <i class='far fa-address-book'></i>
+  </div>
+  Contact
+</a>
+
+                  </div>
+                                  
+                  <ul id="menu-isabelle-barth" class="uc-list-menu"><li id="menu-item-942" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-942"><a href="https://isabelle-barth.fr/">Accueil</a></li>
+<li id="menu-item-158" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-158"><a href="https://isabelle-barth.fr/biographie/">Qui suis-je ?</a></li>
+<li id="menu-item-1017" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1017"><a href="https://isabelle-barth.fr/conferences/">Conférences</a></li>
+<li id="menu-item-1018" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1018"><a href="https://isabelle-barth.fr/livres/">Livres</a></li>
+</ul>
+              </div>
+          </div>
+      </div>
+  
+</div>
+			<!-- end Side Menu -->		</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-36b1f48f" data-id="36b1f48f" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-c06c348 elementor-widget elementor-widget-theme-site-title elementor-widget-heading" data-id="c06c348" data-element_type="widget" data-widget_type="theme-site-title.default">
+				<div class="elementor-widget-container">
+			<p class="elementor-heading-title elementor-size-large"><a href="https://isabelle-barth.fr">Isabelle Barth</a></p>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+						</div>
+				<div data-elementor-type="single-page" data-elementor-id="937" class="elementor elementor-937 elementor-location-single post-2596 page type-page status-publish has-post-thumbnail hentry" data-elementor-post-type="elementor_library">
+								<section class="elementor-section elementor-top-section elementor-element elementor-element-3a4daabf elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="3a4daabf" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-6bf15f98" data-id="6bf15f98" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-7793915c elementor-widget elementor-widget-theme-post-title elementor-page-title elementor-widget-heading" data-id="7793915c" data-element_type="widget" data-widget_type="theme-post-title.default">
+				<div class="elementor-widget-container">
+			<h1 class="elementor-heading-title elementor-size-default">La fierté  de manager, la fierté d’entreprendre</h1>		</div>
+				</div>
+				<div class="elementor-element elementor-element-8d03c82 elementor-widget elementor-widget-theme-post-featured-image elementor-widget-image" data-id="8d03c82" data-element_type="widget" data-widget_type="theme-post-featured-image.default">
+				<div class="elementor-widget-container">
+															<img width="720" height="480" src="https://isabelle-barth.fr/wp-content/uploads/2021/12/fierte.webp" class="attachment-large size-large wp-image-2607" alt="" srcset="https://isabelle-barth.fr/wp-content/uploads/2021/12/fierte.webp 720w, https://isabelle-barth.fr/wp-content/uploads/2021/12/fierte-300x200.webp 300w" sizes="(max-width: 720px) 100vw, 720px" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-0f2ff6b elementor-toc--minimized-on-tablet elementor-widget elementor-widget-table-of-contents" data-id="0f2ff6b" data-element_type="widget" data-settings="{&quot;exclude_headings_by_selector&quot;:[],&quot;headings_by_tags&quot;:[&quot;h2&quot;,&quot;h3&quot;,&quot;h4&quot;,&quot;h5&quot;],&quot;marker_view&quot;:&quot;bullets&quot;,&quot;icon&quot;:{&quot;value&quot;:&quot;fas fa-circle&quot;,&quot;library&quot;:&quot;fa-solid&quot;},&quot;minimize_box&quot;:&quot;yes&quot;,&quot;minimized_on&quot;:&quot;tablet&quot;,&quot;hierarchical_view&quot;:&quot;yes&quot;,&quot;min_height&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;min_height_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;min_height_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="table-of-contents.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-toc__header">
+			<div class="elementor-toc__header-title">
+				En un clin d'œil			</div>
+							<div class="elementor-toc__toggle-button elementor-toc__toggle-button--expand" role="button" tabindex="0" aria-controls="elementor-toc__0f2ff6b" aria-expanded="true" aria-label="Ouvrir la table des matières"><i aria-hidden="true" class="fas fa-chevron-down"></i></div>
+				<div class="elementor-toc__toggle-button elementor-toc__toggle-button--collapse" role="button" tabindex="0" aria-controls="elementor-toc__0f2ff6b" aria-expanded="true" aria-label="Fermer la table des matières"><i aria-hidden="true" class="fas fa-chevron-up"></i></div>
+					</div>
+		<div id="elementor-toc__0f2ff6b" class="elementor-toc__body">
+			<div class="elementor-toc__spinner-container">
+				<i class="elementor-toc__spinner eicon-animation-spin eicon-loading" aria-hidden="true"></i>			</div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-37cbd9b elementor-widget elementor-widget-theme-post-content" data-id="37cbd9b" data-element_type="widget" data-widget_type="theme-post-content.default">
+				<div class="elementor-widget-container">
+			
+<p>Réfléchir à la <strong>Fierté</strong>, c&rsquo;est constater que  c&rsquo;est un sentiment, assez mal compris et finalement assez peu partagé en France, <strong>patrie de l’auto critique et de l’auto flagellation</strong>.</p>
+
+
+
+<p><strong>Pourquoi être fier ? et être fier de quoi ? de qui ?</strong></p>
+
+
+
+<h2 class="wp-block-heading"><strong>Pourquoi débattre de la Fierté&nbsp;?</strong></h2>
+
+
+
+<p>A Paris, des milliers de personnes venant des <strong>quatre coins du monde </strong>se croisent tous les jours sur l&rsquo;esplanade du Trocadero, et, rappelons-le, marchent sur des dalles où sont gravés les premiers articles de la <strong>Déclaration des Droits de l’homme.</strong></p>
+
+
+
+<p>Le premier étant&nbsp;:<em> «&nbsp;Tous les êtres humains naissent libres et égaux en dignité et en droits. Ils sont doués de raison et de conscience et doivent agir envers les autres dans un esprit de fraternité&nbsp;»</em></p>
+
+
+
+<p>Or, je connaissais bien le tailleur de pierres, maintenant décédé, qui a gravé ces mots. Tailleur de pierre de père en fils, il m’a toujours dit sa <strong>fierté de faire ce métier,</strong> et il avait été tout particulièrement fier d’avoir été choisi pour graver ces mots initiateur des droits de l’homme au Trocadéro.</p>
+
+
+
+<p>Il ne gagnait pas très bien sa vie mais il était fier de son métier, fier de ses œuvres, fier de laisser une trace aux yeux de tous de son art.</p>
+
+
+
+<p>Je me suis alors posée la question.  <strong>Sommes-nous tous ainsi fiers de ce que nous faisons, fiers de ce que nous sommes ?</strong></p>
+
+
+
+<h2 class="wp-block-heading"><strong>Qu’est-ce que la fierté&nbsp;?</strong></h2>
+
+
+
+<p><strong>L’étymologie </strong>nous donne <strong>trois pistes intéressantes</strong> à explorer :</p>
+
+
+
+<ul><li>La première est l’origine latine du verbe <strong><em>fidere</em> </strong>qui a permis de décliner tous les mots français autour de la confiance : se fier à, se confier,</li></ul>
+
+
+
+<ul><li>La deuxième est le détour anglais par l’anglais : en effet, le mot <strong><em>pride</em> </strong>(confiance en anglais) vient du vieux français <strong>preux, synonyme de courageux.</strong> Il me semble que cette alliance de la <strong>confiance et du courage</strong> renvoie bien aux bonnes pratiques du management. Elle est une excellente raison de revendiquer la fierté d’être manager ou entrepreneur.</li></ul>
+
+
+
+<ul><li>Or, il existe une troisième origine : le mot latin <em>ferus</em> qui signifie « farouche », « sauvage », et qui renvoie à une <strong>face plus obscure de la fierté, </strong>quand elle décrit une personne réservée, peu accessible, voire même susceptible, et attestant d’une haute opinion de sa valeur.</li></ul>
+
+
+
+<p>Cette fierté-là confine à <strong>l’orgueil</strong>. Si la fierté est un sentiment noble qui permet d’avancer avec assurance dans la vie, sans avoir à se mesurer aux autres, ni à les rabaisser, l’orgueil exprime « le mépris de tout, sauf de soi-même », selon le philosophe Théophraste.</p>
+
+
+
+<p>Ce lien avec l’orgueil explique certainement cette <strong>méfiance pour la fierté</strong> que nous avons dans le contexte culturel français. L’orgueil est en effet, dans la religion catholique, un <strong>péché capital</strong>, puisqu’il exprime du mépris pour les autres, et par là-même pour la création divine et pour Dieu.</p>
+
+
+
+<p>La culture judéo-chrétienne prône plutôt <strong>l’humilité</strong> et son expression directe qu’est la <strong>modestie</strong>. Or, <strong>l’humilité qui est la  qualité de se voir de façon réaliste, ne s’oppose pas à la fierté. </strong>Au contraire, une personne peut être fière de ce qu’elle a fait, parce qu’elle possède suffisamment d’humilité pour évaluer les efforts qu’elle a dû fournir pour y arriver.</p>
+
+
+
+<p>Soyons donc fiers, <strong>loin de tout orgueil.</strong></p>
+
+
+
+<h2 class="wp-block-heading"><strong>De quoi pouvons-nous être fiers&nbsp;?</strong></h2>
+
+
+
+<p>Nous pouvons avoir quatre motifs de fierté&nbsp;:</p>
+
+
+
+<ul><li>Être <strong>fiers de ce que nous sommes</strong>, même si nous n’y sommes pas toujours pour grand-chose quand il s’agit d’être fier d’être Français, </li><li>Être <strong>fiers de ce que d’autre font pour nous,</strong> en tant que <strong>communauté </strong>: ainsi nous pouvons être fiers de nos <strong>champions sportifs</strong> même si nous ne sommes pas sur le tatami ou dans le bassin olympique avec eux,</li><li>Être fiers<strong> de ce que nous faisons indirectement</strong>, fiers de nos <strong>enfants</strong>, fiers de nos <strong>collaborateurs</strong>, comme des salariés peuvent être fiers de leur <strong>entreprise</strong>,</li><li>Et enfin, être fiers <strong>de ce que nous réalisons,</strong> d’autant plus fiers qu’il y a des <strong>difficultés</strong>, des <strong>défis à relever.</strong> La fierté renvoie alors au mérite. C’est là où s’exprime véritablement la fierté : celle qui est lié au mérite, mérite d’avoir réussi, d’être devenu ce que nous sommes, d’avoir contribué à des succès partagé.</li></ul>
+
+
+
+<h2 class="wp-block-heading"><strong>Être fier de ses échecs</strong></h2>
+
+
+
+<p>C&rsquo;est une formule assez <strong>contre-intuitive</strong>, surtout  En effet, le parcours de toute vie, est semé de réussites mais aussi, bien souvent, d’échecs. Or, <strong>le rapport à l’échec en France est complexe</strong>. En effet, l’échec est souvent assimilé à la <strong>faute</strong>. Rappelons-nous : dès notre plus tendre enfance, on ne nous corrige pas des erreurs d’orthographe mais des « <strong>fautes » d’orthographe</strong> … Au square, les parents américains poussent leurs enfants à grimper aux structures de jeux, les parents français <strong>menacent les leurs de la chute </strong>… Cela crée indéniablement des <strong>repères pérennes</strong>.</p>
+
+
+
+<p>Dans d’autres cultures, particulièrement aux USA, <strong>l’échec est vu comme une façon d’apprendre</strong>. Un entrepreneur a raconté que, lors de son premier voyage d’affaires aux USA, ces interlocuteurs lui ont demandé combien de fois il s’était « planté », et que sa réponse « zéro fois » le rendait <strong>suspect aux yeux de ses interlocuteurs</strong>.</p>
+
+
+
+<p>Les témoignages sont nombreux, de managers comme de politiques, du sentiment de <strong>honte </strong>ou de <strong>l’humiliation </strong>vécus lors d’échecs. Ils ont aussi raconté le regard posé sur eux, par leur <strong>entourage </strong>ou leurs <strong>pairs </strong>qui les « jugeaient » comme des <strong>perdants </strong>ou des <strong>incapables</strong>, au lieu de voir dans cet échec, le projet, l’envie de faire, et toute l’énergie et l’intelligence mobilisées.</p>
+
+
+
+<p>Il y a vraiment, en France, <strong>un travail à faire</strong>, individuel et collectif sur cette notion d’échec. Nous devons considérer qu’échouer est <span class="has-inline-color has-vivid-purple-color">un <a href="https://isabelle-barth.fr/devenir-un-manager-reflexif/"><strong>socle d’apprentissage</strong> </a>extraordinaire</span>. Au lieu d’essayer d’oublier ou de camoufler l’échec, il faut être fier d’avoir tenté, d’avoir relevé le défi qui a été à son origine. Il faut <strong>apprendre à apprendre de ses échecs</strong> et de ses <strong>erreurs</strong>, pour ne pas les renouveler, ou pour redémarrer dans des conditions plus favorables.</p>
+
+
+
+<p>Les Ecoles de Management ont un<strong> rôle essentiel </strong>dans ce rapport à l’échec. Des enseignements sur la faillite d’entreprise, sur la gestion de crise, sur la façon dont on mène des fermetures de site … doivent être aussi naturels que ceux qui promeuvent des projets vertueux. Des témoignages de chefs d’entreprise sont aussi à privilégier. Il n’est plus possible de camoufler ce qui, il y a peu encore, était une honte. </p>
+
+
+
+<p>On n’est pas un perdant quand on a dû mettre fin à une aventure managériale ou entrepreneuriale. Le savoir-faire du diagnostic lucide contribue aussi à cette construction d’une posture positive.</p>
+
+
+
+<p>C’est aussi une culture à apporter sur l’apprentissage par l’erreur. La capacité à la prise de risque est indissociable d’autres apprentissages du management, et, comme beaucoup, elle n’est pas innée mais s’éduque. </p>
+
+
+
+<h2 class="wp-block-heading"><strong>Du sentiment individuel à la fierté du collectif</strong></h2>
+
+
+
+<p>Un des défis du manager est de diffuser ce <strong>sentiment de fierté</strong> à toutes les personnes avec qui il travaille, de passer de l’individuel au collectif. La fierté rejoint alors la notion d’appartenance à un groupe, que connaissent bien les sportifs. Il faut alors promouvoir le collectif, mais le faire dans le respect de chacune des personnes qui le constituent.</p>
+
+
+
+<p>Cette fierté de collaborer à une entreprise est intimement lié au bien-être au travail, et constitue une des conditions de la performance.</p>
+
+
+
+<p>D’autres ressorts de l’entreprise comme<span class="has-inline-color has-vivid-purple-color"> <strong><a href="https://isabelle-barth.fr/conduite-du-changement-et-innovations-manageriales/">la créativité et l’innovation</a></strong></span> sont en lien avec la fierté, dans le sens où se crée un cercle vertueux. En effet, la fierté, par la confiance en soi qu’elle autorise, facilite le chemin de la réussite, et la réussite donne un sentiment de fierté, fierté d’avoir passé les obstacles, <strong>fierté du travail bien fait</strong>. Le contexte est alors beaucoup plus porteur pour créer et innover.</p>
+
+
+
+<p>L’essence du management est de <strong>donner du sens aux missions </strong>de personnes pour collaborer ensemble à la réussite de projets communs. <strong>La fierté constitue un ciment indispensable de l’acte managérial.</strong></p>
+
+
+
+<h2 class="wp-block-heading"><strong>Fier d’être manager, fier d’être entrepreneur</strong></h2>
+
+
+
+<p>Toutes les raisons sont réunies pour être fier d’être manager, fier d’être entrepreneur, et, ce, de façon complètement légitime.</p>
+
+
+
+<p> Les défis relevés, les difficultés affrontées sont autant de raisons qui façonnent au quotidien le mérite de la réussite de l’entrepreneur comme du manager. Ses échecs et ses erreurs, s’il les admet et en fait quelque chose pour <strong>progresser </strong>encore, participent de ce même mérite. Il y a tout lieu pour les entrepreneurs et les manageurs français d’être fiers, fiers de leurs réalisations, fiers de leurs entreprises, fiers de leurs collaborateurs.</p>
+
+
+
+<p>A leur façon, ils gravent les mots de la <strong>liberté et de la dignité au fronton de leurs entreprises</strong>, en écho à ceux qui le sont s<strong>ur le parvis du Trocadéro.</strong></p>
+		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+						</div>
+				<div data-elementor-type="footer" data-elementor-id="927" class="elementor elementor-927 elementor-location-footer" data-elementor-post-type="elementor_library">
+								<section class="elementor-section elementor-top-section elementor-element elementor-element-20cd717 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="20cd717" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-4439785d" data-id="4439785d" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-d0797af elementor-cta--layout-image-right elementor-cta--mobile-layout-image-above elementor-cta--skin-classic elementor-animated-content elementor-bg-transform elementor-bg-transform-zoom-in elementor-widget elementor-widget-call-to-action" data-id="d0797af" data-element_type="widget" data-widget_type="call-to-action.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-cta">
+					<div class="elementor-cta__bg-wrapper">
+				<div class="elementor-cta__bg elementor-bg" style="background-image: url(https://isabelle-barth.fr/wp-content/uploads/2017/03/150709FAG036.jpg);" role="img" aria-label="150709FAG036"></div>
+				<div class="elementor-cta__bg-overlay"></div>
+			</div>
+							<div class="elementor-cta__content">
+				
+				
+									<div class="elementor-cta__description elementor-cta__content-item elementor-content-item">
+						Faisons connaissance !					</div>
+				
+									<div class="elementor-cta__button-wrapper elementor-cta__content-item elementor-content-item ">
+					<a class="elementor-cta__button elementor-button elementor-size-md" href="https://isabelle-barth.fr/biographie/">
+						Qui suis-je ?					</a>
+					</div>
+							</div>
+						</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-2e226d90 elementor-reverse-tablet elementor-reverse-mobile elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="2e226d90" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-bf6f1ae" data-id="bf6f1ae" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-e5fc8db elementor-widget elementor-widget-text-editor" data-id="e5fc8db" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Copyright © 2021. Tous droits réservés.</p>						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-70a71a75" data-id="70a71a75" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-3f9c808 elementor-widget elementor-widget-text-editor" data-id="3f9c808" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><a href="https://isabelle-barth.fr/tous-les-articles/">Plan du site</a> |<a href="https://isabelle-barth.fr/biographie/#contact"> Contact | </a><a href="https://isabelle-barth.fr/mentions-legales/">Mentions léqales</a> | <a href="https://isabelle-barth.fr/politique-de-cookies-ue/">Politique de confidentialité</a></p>						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-43e68c0d" data-id="43e68c0d" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-24788f7b elementor-shape-square e-grid-align-right e-grid-align-tablet-left elementor-grid-0 elementor-widget elementor-widget-social-icons" data-id="24788f7b" data-element_type="widget" data-widget_type="social-icons.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-social-icons-wrapper elementor-grid">
+							<span class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-linkedin elementor-repeater-item-25295c4" href="https://www.linkedin.com/in/isabellebarth/" target="_blank">
+						<span class="elementor-screen-only">Linkedin</span>
+						<i class="fab fa-linkedin"></i>					</a>
+				</span>
+							<span class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-twitter elementor-repeater-item-46bf64a" href="https://twitter.com/Isabelle_Barth" target="_blank">
+						<span class="elementor-screen-only">Twitter</span>
+						<i class="fab fa-twitter"></i>					</a>
+				</span>
+							<span class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-youtube elementor-repeater-item-c21fd04" href="https://www.youtube.com/channel/UCEr5k0jQ9Q6Iz9dGlf767og/playlists" target="_blank">
+						<span class="elementor-screen-only">Youtube</span>
+						<i class="fab fa-youtube"></i>					</a>
+				</span>
+					</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+						</div>
+		
+
+<!-- Consent Management powered by Complianz | GDPR/CCPA Cookie Consent https://wordpress.org/plugins/complianz-gdpr -->
+<div id="cmplz-cookiebanner-container"><div class="cmplz-cookiebanner cmplz-hidden banner-1 optin cmplz-bottom-right cmplz-categories-type-view-preferences" aria-modal="true" data-nosnippet="true" role="dialog" aria-live="polite" aria-labelledby="cmplz-header-1-optin" aria-describedby="cmplz-message-1-optin">
+	<div class="cmplz-header">
+		<div class="cmplz-logo"></div>
+		<div class="cmplz-title" id="cmplz-header-1-optin">Gérer le consentement aux cookies</div>
+		<div class="cmplz-close" tabindex="0" role="button" aria-label="close-dialog">
+			<svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="times" class="svg-inline--fa fa-times fa-w-11" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 352 512"><path fill="currentColor" d="M242.72 256l100.07-100.07c12.28-12.28 12.28-32.19 0-44.48l-22.24-22.24c-12.28-12.28-32.19-12.28-44.48 0L176 189.28 75.93 89.21c-12.28-12.28-32.19-12.28-44.48 0L9.21 111.45c-12.28 12.28-12.28 32.19 0 44.48L109.28 256 9.21 356.07c-12.28 12.28-12.28 32.19 0 44.48l22.24 22.24c12.28 12.28 32.2 12.28 44.48 0L176 322.72l100.07 100.07c12.28 12.28 32.2 12.28 44.48 0l22.24-22.24c12.28-12.28 12.28-32.19 0-44.48L242.72 256z"></path></svg>
+		</div>
+	</div>
+
+	<div class="cmplz-divider cmplz-divider-header"></div>
+	<div class="cmplz-body">
+		<div class="cmplz-message" id="cmplz-message-1-optin">Nous utilisons des cookies pour optimiser notre site web et notre service.</div>
+		<!-- categories start -->
+		<div class="cmplz-categories">
+			<details class="cmplz-category cmplz-functional" >
+				<summary>
+						<span class="cmplz-category-header">
+							<span class="cmplz-category-title">Fonctionnel</span>
+							<span class='cmplz-always-active'>
+								<span class="cmplz-banner-checkbox">
+									<input type="checkbox"
+										   id="cmplz-functional-optin"
+										   data-category="cmplz_functional"
+										   class="cmplz-consent-checkbox cmplz-functional"
+										   size="40"
+										   value="1"/>
+									<label class="cmplz-label" for="cmplz-functional-optin" tabindex="0"><span class="screen-reader-text">Fonctionnel</span></label>
+								</span>
+								Toujours activé							</span>
+							<span class="cmplz-icon cmplz-open">
+								<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"  height="18" ><path d="M224 416c-8.188 0-16.38-3.125-22.62-9.375l-192-192c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0L224 338.8l169.4-169.4c12.5-12.5 32.75-12.5 45.25 0s12.5 32.75 0 45.25l-192 192C240.4 412.9 232.2 416 224 416z"/></svg>
+							</span>
+						</span>
+				</summary>
+				<div class="cmplz-description">
+					<span class="cmplz-description-functional">Le stockage ou l’accès technique est strictement nécessaire dans la finalité d’intérêt légitime de permettre l’utilisation d’un service spécifique explicitement demandé par l’abonné ou l’utilisateur, ou dans le seul but d’effectuer la transmission d’une communication sur un réseau de communications électroniques.</span>
+				</div>
+			</details>
+
+			<details class="cmplz-category cmplz-preferences" >
+				<summary>
+						<span class="cmplz-category-header">
+							<span class="cmplz-category-title">Préférences</span>
+							<span class="cmplz-banner-checkbox">
+								<input type="checkbox"
+									   id="cmplz-preferences-optin"
+									   data-category="cmplz_preferences"
+									   class="cmplz-consent-checkbox cmplz-preferences"
+									   size="40"
+									   value="1"/>
+								<label class="cmplz-label" for="cmplz-preferences-optin" tabindex="0"><span class="screen-reader-text">Préférences</span></label>
+							</span>
+							<span class="cmplz-icon cmplz-open">
+								<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"  height="18" ><path d="M224 416c-8.188 0-16.38-3.125-22.62-9.375l-192-192c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0L224 338.8l169.4-169.4c12.5-12.5 32.75-12.5 45.25 0s12.5 32.75 0 45.25l-192 192C240.4 412.9 232.2 416 224 416z"/></svg>
+							</span>
+						</span>
+				</summary>
+				<div class="cmplz-description">
+					<span class="cmplz-description-preferences">Le stockage ou l’accès technique est nécessaire dans la finalité d’intérêt légitime de stocker des préférences qui ne sont pas demandées par l’abonné ou l’utilisateur.</span>
+				</div>
+			</details>
+
+			<details class="cmplz-category cmplz-statistics" >
+				<summary>
+						<span class="cmplz-category-header">
+							<span class="cmplz-category-title">Statistiques</span>
+							<span class="cmplz-banner-checkbox">
+								<input type="checkbox"
+									   id="cmplz-statistics-optin"
+									   data-category="cmplz_statistics"
+									   class="cmplz-consent-checkbox cmplz-statistics"
+									   size="40"
+									   value="1"/>
+								<label class="cmplz-label" for="cmplz-statistics-optin" tabindex="0"><span class="screen-reader-text">Statistiques</span></label>
+							</span>
+							<span class="cmplz-icon cmplz-open">
+								<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"  height="18" ><path d="M224 416c-8.188 0-16.38-3.125-22.62-9.375l-192-192c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0L224 338.8l169.4-169.4c12.5-12.5 32.75-12.5 45.25 0s12.5 32.75 0 45.25l-192 192C240.4 412.9 232.2 416 224 416z"/></svg>
+							</span>
+						</span>
+				</summary>
+				<div class="cmplz-description">
+					<span class="cmplz-description-statistics">Le stockage ou l’accès technique qui est utilisé exclusivement à des fins statistiques.</span>
+					<span class="cmplz-description-statistics-anonymous">Le stockage ou l’accès technique qui est utilisé exclusivement dans des finalités statistiques anonymes. En l’absence d’une assignation à comparaître, d’une conformité volontaire de la part de votre fournisseur d’accès à internet ou d’enregistrements supplémentaires provenant d’une tierce partie, les informations stockées ou extraites à cette seule fin ne peuvent généralement pas être utilisées pour vous identifier.</span>
+				</div>
+			</details>
+			<details class="cmplz-category cmplz-marketing" >
+				<summary>
+						<span class="cmplz-category-header">
+							<span class="cmplz-category-title">Marketing</span>
+							<span class="cmplz-banner-checkbox">
+								<input type="checkbox"
+									   id="cmplz-marketing-optin"
+									   data-category="cmplz_marketing"
+									   class="cmplz-consent-checkbox cmplz-marketing"
+									   size="40"
+									   value="1"/>
+								<label class="cmplz-label" for="cmplz-marketing-optin" tabindex="0"><span class="screen-reader-text">Marketing</span></label>
+							</span>
+							<span class="cmplz-icon cmplz-open">
+								<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"  height="18" ><path d="M224 416c-8.188 0-16.38-3.125-22.62-9.375l-192-192c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0L224 338.8l169.4-169.4c12.5-12.5 32.75-12.5 45.25 0s12.5 32.75 0 45.25l-192 192C240.4 412.9 232.2 416 224 416z"/></svg>
+							</span>
+						</span>
+				</summary>
+				<div class="cmplz-description">
+					<span class="cmplz-description-marketing">Le stockage ou l’accès technique est nécessaire pour créer des profils d’utilisateurs afin d’envoyer des publicités, ou pour suivre l’utilisateur sur un site web ou sur plusieurs sites web à des fins de marketing similaires.</span>
+				</div>
+			</details>
+		</div><!-- categories end -->
+			</div>
+
+	<div class="cmplz-links cmplz-information">
+		<a class="cmplz-link cmplz-manage-options cookie-statement" href="#" data-relative_url="#cmplz-manage-consent-container">Gérer les options</a>
+		<a class="cmplz-link cmplz-manage-third-parties cookie-statement" href="#" data-relative_url="#cmplz-cookies-overview">Gérer les services</a>
+		<a class="cmplz-link cmplz-manage-vendors tcf cookie-statement" href="#" data-relative_url="#cmplz-tcf-wrapper">Gérer {vendor_count} fournisseurs</a>
+		<a class="cmplz-link cmplz-external cmplz-read-more-purposes tcf" target="_blank" rel="noopener noreferrer nofollow" href="https://cookiedatabase.org/tcf/purposes/">En savoir plus sur ces finalités</a>
+			</div>
+
+	<div class="cmplz-divider cmplz-footer"></div>
+
+	<div class="cmplz-buttons">
+		<button class="cmplz-btn cmplz-accept">Accepter</button>
+		<button class="cmplz-btn cmplz-deny">Ignorer</button>
+		<button class="cmplz-btn cmplz-view-preferences">Préférences</button>
+		<button class="cmplz-btn cmplz-save-preferences">Enregistrer les préférences</button>
+		<a class="cmplz-btn cmplz-manage-options tcf cookie-statement" href="#" data-relative_url="#cmplz-manage-consent-container">Préférences</a>
+			</div>
+
+	<div class="cmplz-links cmplz-documents">
+		<a class="cmplz-link cookie-statement" href="#" data-relative_url="">{title}</a>
+		<a class="cmplz-link privacy-statement" href="#" data-relative_url="">{title}</a>
+		<a class="cmplz-link impressum" href="#" data-relative_url="">{title}</a>
+			</div>
+
+</div>
+</div>
+					<div id="cmplz-manage-consent" data-nosnippet="true"><button class="cmplz-btn cmplz-hidden cmplz-manage-consent manage-consent-1">Gérer le consentement</button>
+
+</div><script id="rocket-browser-checker-js-after">
+"use strict";var _createClass=function(){function defineProperties(target,props){for(var i=0;i<props.length;i++){var descriptor=props[i];descriptor.enumerable=descriptor.enumerable||!1,descriptor.configurable=!0,"value"in descriptor&&(descriptor.writable=!0),Object.defineProperty(target,descriptor.key,descriptor)}}return function(Constructor,protoProps,staticProps){return protoProps&&defineProperties(Constructor.prototype,protoProps),staticProps&&defineProperties(Constructor,staticProps),Constructor}}();function _classCallCheck(instance,Constructor){if(!(instance instanceof Constructor))throw new TypeError("Cannot call a class as a function")}var RocketBrowserCompatibilityChecker=function(){function RocketBrowserCompatibilityChecker(options){_classCallCheck(this,RocketBrowserCompatibilityChecker),this.passiveSupported=!1,this._checkPassiveOption(this),this.options=!!this.passiveSupported&&options}return _createClass(RocketBrowserCompatibilityChecker,[{key:"_checkPassiveOption",value:function(self){try{var options={get passive(){return!(self.passiveSupported=!0)}};window.addEventListener("test",null,options),window.removeEventListener("test",null,options)}catch(err){self.passiveSupported=!1}}},{key:"initRequestIdleCallback",value:function(){!1 in window&&(window.requestIdleCallback=function(cb){var start=Date.now();return setTimeout(function(){cb({didTimeout:!1,timeRemaining:function(){return Math.max(0,50-(Date.now()-start))}})},1)}),!1 in window&&(window.cancelIdleCallback=function(id){return clearTimeout(id)})}},{key:"isDataSaverModeOn",value:function(){return"connection"in navigator&&!0===navigator.connection.saveData}},{key:"supportsLinkPrefetch",value:function(){var elem=document.createElement("link");return elem.relList&&elem.relList.supports&&elem.relList.supports("prefetch")&&window.IntersectionObserver&&"isIntersecting"in IntersectionObserverEntry.prototype}},{key:"isSlowConnection",value:function(){return"connection"in navigator&&"effectiveType"in navigator.connection&&("2g"===navigator.connection.effectiveType||"slow-2g"===navigator.connection.effectiveType)}}]),RocketBrowserCompatibilityChecker}();
+</script>
+<script id="rocket-preload-links-js-extra">
+var RocketPreloadLinksConfig = {"excludeUris":"\/(?:.+\/)?feed(?:\/(?:.+\/?)?)?$|\/(?:.+\/)?embed\/|\/(index\\.php\/)?wp\\-json(\/.*|$)|\/refer\/|\/go\/|\/recommend\/|\/recommends\/","usesTrailingSlash":"1","imageExt":"jpg|jpeg|gif|png|tiff|bmp|webp|avif|pdf|doc|docx|xls|xlsx|php","fileExt":"jpg|jpeg|gif|png|tiff|bmp|webp|avif|pdf|doc|docx|xls|xlsx|php|html|htm","siteUrl":"https:\/\/isabelle-barth.fr","onHoverDelay":"100","rateThrottle":"3"};
+</script>
+<script id="rocket-preload-links-js-after">
+(function() {
+"use strict";var r="function"==typeof Symbol&&"symbol"==typeof Symbol.iterator?function(e){return typeof e}:function(e){return e&&"function"==typeof Symbol&&e.constructor===Symbol&&e!==Symbol.prototype?"symbol":typeof e},e=function(){function i(e,t){for(var n=0;n<t.length;n++){var i=t[n];i.enumerable=i.enumerable||!1,i.configurable=!0,"value"in i&&(i.writable=!0),Object.defineProperty(e,i.key,i)}}return function(e,t,n){return t&&i(e.prototype,t),n&&i(e,n),e}}();function i(e,t){if(!(e instanceof t))throw new TypeError("Cannot call a class as a function")}var t=function(){function n(e,t){i(this,n),this.browser=e,this.config=t,this.options=this.browser.options,this.prefetched=new Set,this.eventTime=null,this.threshold=1111,this.numOnHover=0}return e(n,[{key:"init",value:function(){!this.browser.supportsLinkPrefetch()||this.browser.isDataSaverModeOn()||this.browser.isSlowConnection()||(this.regex={excludeUris:RegExp(this.config.excludeUris,"i"),images:RegExp(".("+this.config.imageExt+")$","i"),fileExt:RegExp(".("+this.config.fileExt+")$","i")},this._initListeners(this))}},{key:"_initListeners",value:function(e){-1<this.config.onHoverDelay&&document.addEventListener("mouseover",e.listener.bind(e),e.listenerOptions),document.addEventListener("mousedown",e.listener.bind(e),e.listenerOptions),document.addEventListener("touchstart",e.listener.bind(e),e.listenerOptions)}},{key:"listener",value:function(e){var t=e.target.closest("a"),n=this._prepareUrl(t);if(null!==n)switch(e.type){case"mousedown":case"touchstart":this._addPrefetchLink(n);break;case"mouseover":this._earlyPrefetch(t,n,"mouseout")}}},{key:"_earlyPrefetch",value:function(t,e,n){var i=this,r=setTimeout(function(){if(r=null,0===i.numOnHover)setTimeout(function(){return i.numOnHover=0},1e3);else if(i.numOnHover>i.config.rateThrottle)return;i.numOnHover++,i._addPrefetchLink(e)},this.config.onHoverDelay);t.addEventListener(n,function e(){t.removeEventListener(n,e,{passive:!0}),null!==r&&(clearTimeout(r),r=null)},{passive:!0})}},{key:"_addPrefetchLink",value:function(i){return this.prefetched.add(i.href),new Promise(function(e,t){var n=document.createElement("link");n.rel="prefetch",n.href=i.href,n.onload=e,n.onerror=t,document.head.appendChild(n)}).catch(function(){})}},{key:"_prepareUrl",value:function(e){if(null===e||"object"!==(void 0===e?"undefined":r(e))||!1 in e||-1===["http:","https:"].indexOf(e.protocol))return null;var t=e.href.substring(0,this.config.siteUrl.length),n=this._getPathname(e.href,t),i={original:e.href,protocol:e.protocol,origin:t,pathname:n,href:t+n};return this._isLinkOk(i)?i:null}},{key:"_getPathname",value:function(e,t){var n=t?e.substring(this.config.siteUrl.length):e;return n.startsWith("/")||(n="/"+n),this._shouldAddTrailingSlash(n)?n+"/":n}},{key:"_shouldAddTrailingSlash",value:function(e){return this.config.usesTrailingSlash&&!e.endsWith("/")&&!this.regex.fileExt.test(e)}},{key:"_isLinkOk",value:function(e){return null!==e&&"object"===(void 0===e?"undefined":r(e))&&(!this.prefetched.has(e.href)&&e.origin===this.config.siteUrl&&-1===e.href.indexOf("?")&&-1===e.href.indexOf("#")&&!this.regex.excludeUris.test(e.href)&&!this.regex.images.test(e.href))}}],[{key:"run",value:function(){"undefined"!=typeof RocketPreloadLinksConfig&&new n(new RocketBrowserCompatibilityChecker({capture:!0,passive:!0}),RocketPreloadLinksConfig).init()}}]),n}();t.run();
+}());
+</script>
+<script id="cmplz-cookiebanner-js-extra">
+var complianz = {"prefix":"cmplz_","user_banner_id":"1","set_cookies":[],"block_ajax_content":"","banner_version":"23","version":"6.5.5","store_consent":"","do_not_track_enabled":"","consenttype":"optin","region":"eu","geoip":"","dismiss_timeout":"","disable_cookiebanner":"","soft_cookiewall":"","dismiss_on_scroll":"","cookie_expiry":"365","url":"https:\/\/isabelle-barth.fr\/wp-json\/complianz\/v1\/","locale":"lang=fr&locale=fr_FR","set_cookies_on_root":"","cookie_domain":"","current_policy_id":"13","cookie_path":"\/","categories":{"statistics":"statistiques","marketing":"marketing"},"tcf_active":"","placeholdertext":"Cliquez pour accepter les cookies {category} et activer ce contenu","aria_label":"Cliquez pour accepter les cookies {category} et activer ce contenu","css_file":"https:\/\/isabelle-barth.fr\/wp-content\/uploads\/complianz\/css\/banner-{banner_id}-{type}.css?v=23","page_links":{"eu":{"cookie-statement":{"title":"Politique de cookies ","url":"https:\/\/isabelle-barth.fr\/politique-de-cookies-ue\/"},"privacy-statement":{"title":"Mentions l\u00e9gales","url":"https:\/\/isabelle-barth.fr\/mentions-legales\/"}}},"tm_categories":"","forceEnableStats":"","preview":"","clean_cookies":""};
+</script>
+<script defer src="https://isabelle-barth.fr/wp-content/plugins/complianz-gdpr/cookiebanner/js/complianz.min.js?ver=6.5.5" id="cmplz-cookiebanner-js"></script>
+<script id="cmplz-cookiebanner-js-after">
+		
+			document.addEventListener("cmplz_enable_category", function(consentData) {
+				var category = consentData.detail.category;
+				var services = consentData.detail.services;
+				var blockedContentContainers = [];
+				let selectorVideo = '.cmplz-elementor-widget-video-playlist[data-category="'+category+'"],.elementor-widget-video[data-category="'+category+'"]';
+				let selectorGeneric = '[data-cmplz-elementor-href][data-category="'+category+'"]';
+				for (var skey in services) {
+					if (services.hasOwnProperty(skey)) {
+						let service = skey;
+						selectorVideo +=',.cmplz-elementor-widget-video-playlist[data-service="'+service+'"],.elementor-widget-video[data-service="'+service+'"]';
+						selectorGeneric +=',[data-cmplz-elementor-href][data-service="'+service+'"]';
+					}
+				}
+				document.querySelectorAll(selectorVideo).forEach(obj => {
+					let elementService = obj.getAttribute('data-service');
+					if ( cmplz_is_service_denied(elementService) ) {
+						return;
+					}
+					if (obj.classList.contains('cmplz-elementor-activated')) return;
+					obj.classList.add('cmplz-elementor-activated');
+
+					if ( obj.hasAttribute('data-cmplz_elementor_widget_type') ){
+						let attr = obj.getAttribute('data-cmplz_elementor_widget_type');
+						obj.classList.removeAttribute('data-cmplz_elementor_widget_type');
+						obj.classList.setAttribute('data-widget_type', attr);
+					}
+					if (obj.classList.contains('cmplz-elementor-widget-video-playlist')) {
+						obj.classList.remove('cmplz-elementor-widget-video-playlist');
+						obj.classList.add('elementor-widget-video-playlist');
+					}
+					obj.setAttribute('data-settings', obj.getAttribute('data-cmplz-elementor-settings'));
+					blockedContentContainers.push(obj);
+				});
+
+				document.querySelectorAll(selectorGeneric).forEach(obj => {
+					let elementService = obj.getAttribute('data-service');
+					if ( cmplz_is_service_denied(elementService) ) {
+						return;
+					}
+					if (obj.classList.contains('cmplz-elementor-activated')) return;
+
+					if (obj.classList.contains('cmplz-fb-video')) {
+						obj.classList.remove('cmplz-fb-video');
+						obj.classList.add('fb-video');
+					}
+
+					obj.classList.add('cmplz-elementor-activated');
+					obj.setAttribute('data-href', obj.getAttribute('data-cmplz-elementor-href'));
+					blockedContentContainers.push(obj.closest('.elementor-widget'));
+				});
+
+				/**
+				 * Trigger the widgets in Elementor
+				 */
+				for (var key in blockedContentContainers) {
+					if (blockedContentContainers.hasOwnProperty(key) && blockedContentContainers[key] !== undefined) {
+						let blockedContentContainer = blockedContentContainers[key];
+						if (elementorFrontend.elementsHandler) {
+							elementorFrontend.elementsHandler.runReadyTrigger(blockedContentContainer)
+						}
+						var cssIndex = blockedContentContainer.getAttribute('data-placeholder_class_index');
+						blockedContentContainer.classList.remove('cmplz-blocked-content-container');
+						blockedContentContainer.classList.remove('cmplz-placeholder-' + cssIndex);
+					}
+				}
+
+			});
+		
+		
+</script>
+<script src="https://isabelle-barth.fr/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script src="https://isabelle-barth.fr/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script src="https://isabelle-barth.fr/wp-content/uploads/ac_assets/ue-side-menu/menu.js?ver=1.5.87" id="uc_ac_assets_file_menu_js_4729-js"></script>
+<script src="https://isabelle-barth.fr/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.17.1" id="elementor-pro-webpack-runtime-js"></script>
+<script src="https://isabelle-barth.fr/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.17.3" id="elementor-webpack-runtime-js"></script>
+<script src="https://isabelle-barth.fr/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.17.3" id="elementor-frontend-modules-js"></script>
+<script src="https://isabelle-barth.fr/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2" id="wp-polyfill-inert-js"></script>
+<script src="https://isabelle-barth.fr/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.14.0" id="regenerator-runtime-js"></script>
+<script src="https://isabelle-barth.fr/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0" id="wp-polyfill-js"></script>
+<script src="https://isabelle-barth.fr/wp-includes/js/dist/hooks.min.js?ver=c6aec9a8d4e5a5d543a1" id="wp-hooks-js"></script>
+<script src="https://isabelle-barth.fr/wp-includes/js/dist/i18n.min.js?ver=7701b0c3857f914212ef" id="wp-i18n-js"></script>
+<script id="wp-i18n-js-after">
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+</script>
+<script id="elementor-pro-frontend-js-before">
+var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/isabelle-barth.fr\/wp-admin\/admin-ajax.php","nonce":"784baa3ab1","urls":{"assets":"https:\/\/isabelle-barth.fr\/wp-content\/plugins\/elementor-pro\/assets\/","rest":"https:\/\/isabelle-barth.fr\/wp-json\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},"facebook_sdk":{"lang":"fr_FR","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/isabelle-barth.fr\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
+</script>
+<script src="https://isabelle-barth.fr/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.17.1" id="elementor-pro-frontend-js"></script>
+<script src="https://isabelle-barth.fr/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2" id="elementor-waypoints-js"></script>
+<script src="https://isabelle-barth.fr/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2" id="jquery-ui-core-js"></script>
+<script id="elementor-frontend-js-before">
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Partager sur Facebook","shareOnTwitter":"Partager sur Twitter","pinIt":"L\u2019\u00e9pingler","download":"T\u00e9l\u00e9charger","downloadImage":"T\u00e9l\u00e9charger une image","fullscreen":"Plein \u00e9cran","zoom":"Zoom","share":"Partager","playVideo":"Lire la vid\u00e9o","previous":"Pr\u00e9c\u00e9dent","next":"Suivant","close":"Fermer","a11yCarouselWrapperAriaLabel":"Carousel | Scroll horizontal: Fl\u00e8che gauche & droite","a11yCarouselPrevSlideMessage":"Diapositive pr\u00e9c\u00e9dente","a11yCarouselNextSlideMessage":"Diapositive suivante","a11yCarouselFirstSlideMessage":"Ceci est la premi\u00e8re diapositive","a11yCarouselLastSlideMessage":"Ceci est la derni\u00e8re diapositive","a11yCarouselPaginationBulletMessage":"Aller \u00e0 la diapositive"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Portrait mobile","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Paysage","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablette en mode portrait","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablette en mode paysage","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Portable","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"\u00c9cran large","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}},"version":"3.17.3","is_static":false,"experimentalFeatures":{"e_dom_optimization":true,"e_optimized_assets_loading":true,"additional_custom_breakpoints":true,"theme_builder_v2":true,"landing-pages":true,"page-transitions":true,"notes":true,"form-submissions":true,"e_scroll_snap":true},"urls":{"assets":"https:\/\/isabelle-barth.fr\/wp-content\/plugins\/elementor\/assets\/"},"swiperClass":"swiper-container","settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":2596,"title":"La%20fiert%C3%A9%20de%20manager%2C%20la%20fiert%C3%A9%20d%E2%80%99entreprendre%20-%20Isabelle%20Barth","excerpt":"","featuredImage":"https:\/\/isabelle-barth.fr\/wp-content\/uploads\/2021\/12\/fierte.webp"}};
+</script>
+<script src="https://isabelle-barth.fr/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.17.3" id="elementor-frontend-js"></script>
+<script src="https://isabelle-barth.fr/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.17.1" id="pro-elements-handlers-js"></script>
+
+<!--   Unlimited Elements 1.5.87 Scripts --> 
+<script type="rocketlazyloadscript" data-rocket-type='text/javascript' id='unlimited-elements-scripts'>
+
+/* Side Menu scripts: */ 
+
+jQuery(document).ready(function(){
+	UCSideMenu("uc_ue_side_menu_elementor_97292ab");
+});
+</script>
+				<script type="text/plain" data-service="google-analytics" async data-category="statistics" data-cmplz-src="https://www.googletagmanager.com/gtag/js?id=G-VJDFRZPNGV"></script><!-- Statistics script Complianz GDPR/CCPA -->
+						<script type="text/plain" data-category="statistics">window['gtag_enable_tcf_support'] = false;
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'G-VJDFRZPNGV', {
+	cookie_flags:'secure;samesite=none',
+	
+});
+</script>
+<script>class RocketElementorAnimation{constructor(){this.deviceMode=document.createElement("span"),this.deviceMode.id="elementor-device-mode",this.deviceMode.setAttribute("class","elementor-screen-only"),document.body.appendChild(this.deviceMode)}_detectAnimations(){let t=getComputedStyle(this.deviceMode,":after").content.replace(/"/g,"");this.animationSettingKeys=this._listAnimationSettingsKeys(t),document.querySelectorAll(".elementor-invisible[data-settings]").forEach(t=>{const e=t.getBoundingClientRect();if(e.bottom>=0&&e.top<=window.innerHeight)try{this._animateElement(t)}catch(t){}})}_animateElement(t){const e=JSON.parse(t.dataset.settings),i=e._animation_delay||e.animation_delay||0,n=e[this.animationSettingKeys.find(t=>e[t])];if("none"===n)return void t.classList.remove("elementor-invisible");t.classList.remove(n),this.currentAnimation&&t.classList.remove(this.currentAnimation),this.currentAnimation=n;let s=setTimeout(()=>{t.classList.remove("elementor-invisible"),t.classList.add("animated",n),this._removeAnimationSettings(t,e)},i);window.addEventListener("rocket-startLoading",function(){clearTimeout(s)})}_listAnimationSettingsKeys(t="mobile"){const e=[""];switch(t){case"mobile":e.unshift("_mobile");case"tablet":e.unshift("_tablet");case"desktop":e.unshift("_desktop")}const i=[];return["animation","_animation"].forEach(t=>{e.forEach(e=>{i.push(t+e)})}),i}_removeAnimationSettings(t,e){this._listAnimationSettingsKeys().forEach(t=>delete e[t]),t.dataset.settings=JSON.stringify(e)}static run(){const t=new RocketElementorAnimation;requestAnimationFrame(t._detectAnimations.bind(t))}}document.addEventListener("DOMContentLoaded",RocketElementorAnimation.run);</script></body>
+</html>
+
+<!-- This website is like a Rocket, isn't it? Performance optimized by WP Rocket. Learn more: https://wp-rocket.me - Debug: cached@1701616206 -->

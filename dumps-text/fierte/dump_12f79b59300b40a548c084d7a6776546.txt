@@ -1,0 +1,305 @@
+    #[1]Accueil [2]Fil RSS des dix dernières actualités
+
+   [3]Aller au contenu | [4]Navigation | [5]Accès directs | [6]Connexion
+   (BUTTON) Menu [7]Logo Formation Continue
+     * [8]Agenda
+
+     * (BUTTON) Enquêtes et statistiques
+          + [9]La satisfaction des usagers
+          + [10]Devenir professionnel des diplômés
+          + [11]Effectifs et réussite
+
+   (BUTTON) Recherche
+   ____________________ (Rechercher) Rechercher
+
+   [12]Logo Formation Continue Formation continue
+
+     * [13]Agenda
+     * [14]Enquêtes et statistiques (BUTTON) Enquêtes et statistiques
+       (BUTTON)
+       [15]Enquêtes et statistiques
+          + [16]La satisfaction des usagers
+          + [17]Devenir professionnel des diplômés
+          + [18]Effectifs et réussite
+     * [19]Actualités
+     * (BUTTON) Offre de formation (BUTTON)
+          + [20]La formation tout au long de la vie - Pour qui ?
+          + [21]Formations compatibles avec une activité professionnelle
+            (BUTTON) Formations compatibles avec une activité
+            professionnelle (BUTTON)
+               o [22]DAEU : Équivalent BAC
+               o [23]Droit
+               o [24]Environnement - Agrosciences
+               o [25]Management des entreprises
+               o [26]Médecine
+               o [27]Odontologie
+               o [28]Orthophonie
+               o [29]Pharmacie
+               o [30]Sciences de l'éducation et de la formation /
+                 Enseignement
+               o [31]Sciences humaines / Cultures / Langues / Lettres
+          + [32]Formations à rythme universitaire (avec les étudiants)
+          + [33]Vos démarches en 3 étapes
+          + [34]Vous êtes en situation de handicap
+          + [35]Enquêtes et statistiques (BUTTON) Enquêtes et statistiques
+            (BUTTON)
+               o [36]La satisfaction des usagers
+               o [37]Devenir professionnel des diplômés
+               o [38]Effectifs et réussite
+     * (BUTTON) Valider ses acquis (BUTTON)
+          + [39]Qu'est-ce que la Validation des Acquis ?
+          + [40]VAE - Pour obtenir un diplôme (BUTTON) VAE - Pour obtenir
+            un diplôme (BUTTON)
+               o [41]Procédure par étapes
+               o [42]Calendrier VAE
+               o [43]Accompagnement
+               o [44]Tarifs de la VAE
+               o [45]Financer sa VAE
+          + [46]VAPP - Pour entrer en formation sans avoir le diplôme
+            requis
+          + [47]Réunions d'information
+          + [48]Enquêtes et statistiques
+          + [49]Vous êtes en situation de handicap
+     * (BUTTON) Financements (BUTTON)
+          + [50]Les dispositifs en fonction du statut
+          + [51]Le Compte Personnel de Formation (CPF)
+          + [52]Les financements de la région Centre-Val de Loire
+          + [53]Le contrat de professionnalisation
+     * (BUTTON) Acteurs économiques (BUTTON)
+          + [54]Une université ancrée dans son territoire
+          + [55]Les entreprises (BUTTON) Les entreprises (BUTTON)
+               o [56]Du sur-mesure
+               o [57]Validation des acquis
+               o [58]Formations compatibles avec une activité
+                 professionnelle
+               o [59]Contrat de professionnalisation
+               o [60]Nos références
+          + [61]Les partenaires
+     * (BUTTON) Qualité (BUTTON)
+          + [62]Démarche Qualiopi
+     * (BUTTON) Événements (BUTTON)
+          + [63]Journée Portes Ouvertes
+          + [64]Salon Nouvelle Vie Professionnelle 37
+          + [65]Réunions d'info Reprise d'études
+          + [66]Réunions d'info VAE
+          + [67]Réunions d'info DAEU
+          + [68]Réunion d'accueil des adultes en reprise d'études
+     * (BUTTON) Ressources (BUTTON)
+          + [69]Documents administratifs
+          + [70]Vidéothèque
+          + [71]Documents de communication
+          + [72]Réseau Professionnel RPRO
+     * (BUTTON) Contact (BUTTON)
+          + [73]Question - Réclamation
+          + [74]Les missions du service
+          + [75]Une équipe à votre écoute
+          + [76]Horaires d'ouverture
+
+   Partager
+     * (BUTTON) Imprimer
+     * (BUTTON) Partager
+          + [77]Facebook
+          + [78]Twitter
+          + [79]Linkedin
+
+   Actualité
+   Vous êtes ici : [80]Version française[81]Offre de formation
+
+"Une fierté personnelle"
+
+   Témoignages de trois stagiaires ayant eu un Master 2 à l'université,
+   extrait d'un article de la Nouvelle République, signé Mariella Esvant,
+   paru le vendredi 1er avril 2016.
+
+> [82]Télécharger l'article
+
+François BARDIN : "Sécuriser mon CV et me sentir plus légitime..."
+Directeur de Communication de la CPAM d'Indre-et-Loire
+[83]MASTER 2 Management des PME & entrepreneuriat
+
+   A 40 ans passés, François Bardin, heureux papa de trois enfants en bas
+   âge, bien dans son job de directeur de communication d'un groupement de
+   PME, caresse l'idée de se lancer "pourquoi pas, dans un doctorat".
+   Il y a deux ans, ce Tourangeau n'avait que son bac en poche, assorti
+   d'un cursus d'un an dans une école privée et un peu plus de 15 ans de
+   "formation sur le tas" en communication numérique. L'année dernière, il
+   est sorti major de promo du Master 2 Management des PME et
+   entrepreneuriat.
+   Sans quitter son entreprise, François Bardin voulait "sécuriser son CV
+   et se sentir plus légitime".
+
+Claude JARIES : "être plus compétitif sur le marché du travail..."
+43 ans, Commercial
+[84]MASTER 2 Management des PME & entrepreneuriat
+
+   Claude Jaries, 43 ans, commercial qui s'est retrouvé au chômage,
+   voulait "être plus compétitif sur le marché du travail face aux
+   nouvelles générations".
+   "Quand on travaille depuis plusieurs années, c'est forcément compliqué
+   de se remettre à étudier".
+   "Les cours sont beaucoup moins scolaires, la pédagogie est très
+   différentes de l'école que j'ai connue plus jeune". "Les intervenants
+   savent qu'ils ont à faire à des gens qui ont du vécu, la relation est
+   plus mature, il y a plus d'échanges".
+
+Florie LAHOUSTE : "Prendre un peu de recul par rapport à son poste..."
+33 ans, Responsable d'un relais assistantes maternelle
+[85]MASTER 2 Stratégie et Ingénierie en Formation d'Adultes (SIFA)
+
+   C'est "une petite victoire" pour Florie, qui a pourtant repris le
+   chemin de l'université avec réticence. " Je ne me sentais pas de
+   reprendre des études, dix ans après avoir arrêté. Surtout à ce
+   niveau-là... J'avais une licence d'espagnol et un diplôme d'éducatrice,
+   mais un Master 2, c'est autre chose !".
+   Pour Florie Lahouste, les premières semaines de cours sont "terribles"
+   : "Je ne comprenais rien à ce qu'ils disaient, j'avais le sentiment que
+   je n'y arriverais jamais. le langage universitaire, le raisonnement
+   intellectuel, j'étais loin de tout ça..." se rappelle celle qui se dit
+   désormais "réconciliée avec les études".
+
+   [86]Logo Formation Continue
+
+   Pratique
+     * [87]Annuaire
+     * [88]Plan d'accès
+     * [89]Contacts
+     * [90]Agenda
+     * [91]Culture
+     * [92]Marchés publics
+     * [93]Recrutement
+
+   Accès rapides
+     * [94]Les facultés, instituts & école
+     * [95]Bibliothèques
+     * [96]Inscription
+     * [97]Nos unités de recherche
+     * [98]ENT
+     * [99]Intranet
+
+   Suivez-nous
+     * [100]Facebook
+     * [101]Twitter
+     * [102]Instagram
+     * [103]Youtube
+     * [104]LinkedIn
+
+     * [105]Mentions légales
+
+     [106]Plan du site [107]Haut de page
+   [108]https://formation-continue.univ-tours.fr/version-francaise/une-fie
+   rte-personnelle
+
+Références
+
+   Liens visibles :
+   1. https://formation-continue.univ-tours.fr/
+   2. https://formation-continue.univ-tours.fr/adminsite/webservices/export_rss.jsp?NOMBRE=10&CODE_RUBRIQUE=FC&LANGUE=0
+   3. https://formation-continue.univ-tours.fr/version-francaise/une-fierte-personnelle#contenu-encadres
+   4. https://formation-continue.univ-tours.fr/version-francaise/une-fierte-personnelle#menu_principal
+   5. https://formation-continue.univ-tours.fr/version-francaise/une-fierte-personnelle#acces_directs
+   6. https://formation-continue.univ-tours.fr/version-francaise/une-fierte-personnelle#connexion
+   7. https://formation-continue.univ-tours.fr/
+   8. https://formation-continue.univ-tours.fr/version-francaise/agenda
+   9. https://formation-continue.univ-tours.fr/version-francaise/enquetes-et-statistiques/la-satisfaction-des-usagers
+  10. https://formation-continue.univ-tours.fr/version-francaise/enquetes-et-statistiques/devenir-professionnel-des-diplomes
+  11. https://formation-continue.univ-tours.fr/version-francaise/enquetes-et-statistiques/effectifs-et-reussite
+  12. https://formation-continue.univ-tours.fr/
+  13. https://formation-continue.univ-tours.fr/version-francaise/agenda
+  14. https://formation-continue.univ-tours.fr/version-francaise/enquetes-et-statistiques
+  15. https://formation-continue.univ-tours.fr/version-francaise/enquetes-et-statistiques
+  16. https://formation-continue.univ-tours.fr/version-francaise/enquetes-et-statistiques/la-satisfaction-des-usagers
+  17. https://formation-continue.univ-tours.fr/version-francaise/enquetes-et-statistiques/devenir-professionnel-des-diplomes
+  18. https://formation-continue.univ-tours.fr/version-francaise/enquetes-et-statistiques/effectifs-et-reussite
+  19. https://formation-continue.univ-tours.fr/
+  20. https://formation-continue.univ-tours.fr/version-francaise/la-formation-tout-au-long-de-la-vie-pour-qui-1
+  21. https://formation-continue.univ-tours.fr/version-francaise/formations-compatibles-avec-une-activite-professionnelle
+  22. https://formation-continue.univ-tours.fr/version-francaise/formations-compatibles-avec-une-activite-professionnelle/daeu-equivalent-bac
+  23. https://formation-continue.univ-tours.fr/version-francaise/formations-compatibles-avec-une-activite-professionnelle/droit
+  24. https://formation-continue.univ-tours.fr/version-francaise/formations-compatibles-avec-une-activite-professionnelle/environnement-agrosciences
+  25. https://formation-continue.univ-tours.fr/version-francaise/formations-compatibles-avec-une-activite-professionnelle/management-des-entreprises
+  26. https://formation-continue.univ-tours.fr/version-francaise/formations-compatibles-avec-une-activite-professionnelle/medecine
+  27. https://formation-continue.univ-tours.fr/version-francaise/formations-compatibles-avec-une-activite-professionnelle/odontologie
+  28. https://formation-continue.univ-tours.fr/version-francaise/formations-compatibles-avec-une-activite-professionnelle/orthophonie
+  29. https://formation-continue.univ-tours.fr/version-francaise/formations-compatibles-avec-une-activite-professionnelle/pharmacie
+  30. https://formation-continue.univ-tours.fr/version-francaise/formations-compatibles-avec-une-activite-professionnelle/sciences-de-leducation-et-de-la-formation-enseignement
+  31. https://formation-continue.univ-tours.fr/version-francaise/formations-compatibles-avec-une-activite-professionnelle/sciences-humaines-cultures-langues-lettres
+  32. https://formation-continue.univ-tours.fr/version-francaise/formations-a-rythme-universitaire-avec-les-etudiants
+  33. https://formation-continue.univ-tours.fr/version-francaise/vos-demarches
+  34. https://formation-continue.univ-tours.fr/version-francaise/vous-etes-en-situation-de-handicap-4
+  35. https://formation-continue.univ-tours.fr/version-francaise/enquetes-et-statistiques
+  36. https://formation-continue.univ-tours.fr/version-francaise/enquetes-et-statistiques/la-satisfaction-des-usagers
+  37. https://formation-continue.univ-tours.fr/version-francaise/enquetes-et-statistiques/devenir-professionnel-des-diplomes
+  38. https://formation-continue.univ-tours.fr/version-francaise/enquetes-et-statistiques/effectifs-et-reussite
+  39. https://formation-continue.univ-tours.fr/version-francaise/quest-ce-que-la-validation-des-acquis
+  40. https://formation-continue.univ-tours.fr/version-francaise/vae-pour-obtenir-un-diplome
+  41. https://formation-continue.univ-tours.fr/version-francaise/vae-pour-obtenir-un-diplome/procedure-par-etapes
+  42. https://formation-continue.univ-tours.fr/version-francaise/vae-pour-obtenir-un-diplome/calendrier-vae
+  43. https://formation-continue.univ-tours.fr/version-francaise/vae-pour-obtenir-un-diplome/accompagnement
+  44. https://formation-continue.univ-tours.fr/version-francaise/vae-pour-obtenir-un-diplome/tarifs-de-la-vae
+  45. https://formation-continue.univ-tours.fr/version-francaise/vae-pour-obtenir-un-diplome/financer-sa-vae
+  46. https://formation-continue.univ-tours.fr/version-francaise/vapp-pour-entrer-en-formation-sans-avoir-le-diplome-requis
+  47. https://formation-continue.univ-tours.fr/version-francaise/reunions-dinformation
+  48. https://formation-continue.univ-tours.fr/version-francaise/enquetes-et-statistiques-2
+  49. https://formation-continue.univ-tours.fr/version-francaise/vous-etes-en-situation-de-handicap-1
+  50. https://formation-continue.univ-tours.fr/version-francaise/les-dispositifs
+  51. https://formation-continue.univ-tours.fr/version-francaise/le-compte-personnel-de-formation-cpf
+  52. https://formation-continue.univ-tours.fr/version-francaise/financements
+  53. https://formation-continue.univ-tours.fr/version-francaise/le-contrat-de-professionnalisation
+  54. https://formation-continue.univ-tours.fr/version-francaise/une-universite-ancree-dans-son-territoire-1
+  55. https://formation-continue.univ-tours.fr/version-francaise/entreprises
+  56. https://formation-continue.univ-tours.fr/version-francaise/entreprises/du-sur-mesure
+  57. https://formation-continue.univ-tours.fr/version-francaise/entreprises/validation-des-acquis
+  58. https://formation-continue.univ-tours.fr/version-francaise/entreprises/formations-compatibles-avec-une-activite-professionnelle
+  59. https://formation-continue.univ-tours.fr/version-francaise/entreprises/contrat-de-professionnalisation
+  60. https://formation-continue.univ-tours.fr/version-francaise/entreprises/nos-references
+  61. https://formation-continue.univ-tours.fr/version-francaise/partenaires
+  62. https://formation-continue.univ-tours.fr/version-francaise/demarche-qualiopi
+  63. https://formation-continue.univ-tours.fr/version-francaise/journee-portes-ouvertes
+  64. https://formation-continue.univ-tours.fr/version-francaise/salon-nouvelle-vie-professionnelle
+  65. https://formation-continue.univ-tours.fr/version-francaise/reunions-dinfo-reprise-detudes
+  66. https://formation-continue.univ-tours.fr/version-francaise/reunions-dinfo-vae
+  67. https://formation-continue.univ-tours.fr/version-francaise/reunions-dinfo-daeu
+  68. https://formation-continue.univ-tours.fr/version-francaise/reunion-daccueil-des-adultes-en-reprise-detudes
+  69. https://formation-continue.univ-tours.fr/version-francaise/documents-administratifs
+  70. https://formation-continue.univ-tours.fr/version-francaise/videotheque
+  71. https://formation-continue.univ-tours.fr/version-francaise/documents-de-communication-1
+  72. https://formation-continue.univ-tours.fr/version-francaise/reseau-professionnel-rpro
+  73. https://formation-continue.univ-tours.fr/version-francaise/question-reclamation
+  74. https://formation-continue.univ-tours.fr/version-francaise/le-service-1
+  75. https://formation-continue.univ-tours.fr/version-francaise/lequipe-1
+  76. https://formation-continue.univ-tours.fr/version-francaise/horaires-douverture
+  77. https://www.facebook.com/sharer/sharer.php?s=100&u=https://formation-continue.univ-tours.fr/version-francaise/une-fierte-personnelle
+  78. https://twitter.com/intent/tweet?url=https://formation-continue.univ-tours.fr/version-francaise/une-fierte-personnelle&text="Une+fierté+personnelle"
+  79. https://www.linkedin.com/shareArticle?mini=true&url=https://formation-continue.univ-tours.fr/version-francaise/une-fierte-personnelle
+  80. https://formation-continue.univ-tours.fr/
+  81. https://formation-continue.univ-tours.fr/
+  82. https://formation-continue.univ-tours.fr/medias/fichier/article-nr-1er-avril-2016_1461164305248-pdf?ID_FICHE=86576&INLINE=FALSE
+  83. https://formation-continue.univ-tours.fr/offre-de-formations/management-des-pme-entrepreneuriat-master-2--211006.kjsp?RH=1307609511001
+  84. https://formation-continue.univ-tours.fr/offre-de-formations/management-des-pme-entrepreneuriat-master-2--211006.kjsp?RH=1307609511001
+  85. https://formation-continue.univ-tours.fr/offre-de-formations/strategie-et-ingenierie-en-formation-d-adultes-master-2-sifa--223816.kjsp?RH=1307609536635
+  86. https://www.univ-tours.fr/
+  87. https://formation-continue.univ-tours.fr/version-francaise/annuaire-1
+  88. https://formation-continue.univ-tours.fr/version-francaise/plan-dacces
+  89. https://formation-continue.univ-tours.fr/version-francaise/contacts
+  90. https://formation-continue.univ-tours.fr/version-francaise/agenda-1
+  91. https://formation-continue.univ-tours.fr/version-francaise/culture
+  92. https://formation-continue.univ-tours.fr/version-francaise/marches-publics
+  93. https://formation-continue.univ-tours.fr/version-francaise/recrutement
+  94. https://formation-continue.univ-tours.fr/version-francaise/les-facultes-instituts-ecole
+  95. https://formation-continue.univ-tours.fr/version-francaise/bibliotheques-1
+  96. https://formation-continue.univ-tours.fr/version-francaise/inscription
+  97. https://formation-continue.univ-tours.fr/version-francaise/nos-unites-de-recherche-1
+  98. https://formation-continue.univ-tours.fr/version-francaise/ent-1
+  99. https://formation-continue.univ-tours.fr/version-francaise/intranet
+ 100. https://formation-continue.univ-tours.fr/version-francaise/facebook
+ 101. https://formation-continue.univ-tours.fr/version-francaise/twitter
+ 102. https://formation-continue.univ-tours.fr/version-francaise/instagram
+ 103. https://formation-continue.univ-tours.fr/version-francaise/youtube
+ 104. https://formation-continue.univ-tours.fr/version-francaise/linkedin
+ 105. https://formation-continue.univ-tours.fr/version-francaise/mentions-legales
+ 106. https://formation-continue.univ-tours.fr/version-francaise/plan-du-site
+ 107. https://formation-continue.univ-tours.fr/version-francaise/une-fierte-personnelle#body
+ 108. https://formation-continue.univ-tours.fr/version-francaise/une-fierte-personnelle
+
+   Liens cachés :
+ 110. https://app-eu.readspeaker.com/cgi-bin/rsent?customerid=12615&lang=fr_fr&readid=readspeaker_contents&url=https%3A%2F%2Fformation-continue.univ-tours.fr%2Fversion-francaise%2Fune-fierte-personnelle&voice=benoit&audiofilename=Formation-Continue-Une-fierte-personnelle

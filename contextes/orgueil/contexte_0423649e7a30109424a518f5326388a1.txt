@@ -1,0 +1,71 @@
+   Paru le : 14/11/2023
+
+Dossier complet Commune d'Orgueil (82136)
+
+   Chiffres détaillés
+--
+Évolution et structure de la population en 2020
+
+   Commune d'Orgueil (82136)
+
+tableauPOP T0 - Population par grandes tranches d'âges
+--
+Couples - Familles - Ménages en 2020
+
+   Commune d'Orgueil (82136)
+     * [231]Graphique
+     * [232]Tableau
+--
+Logement en 2020
+
+   Commune d'Orgueil (82136)
+
+tableauLOG T1 - Évolution du nombre de logements par catégorie en historique
+--
+Diplômes - Formation en 2020
+
+   Commune d'Orgueil (82136)
+
+tableauFOR T1 - Scolarisation selon l'âge et le sexe en 2020
+--
+Population active, emploi et chômage au sens du recensement en 2020
+
+   Commune d'Orgueil (82136)
+
+tableauEMP T1 - Population de 15 à 64 ans par type d'activité
+--
+Caractéristiques de l'emploi au sens du recensement en 2020
+
+   Commune d'Orgueil (82136)
+
+tableauACT T1 - Population de 15 ans ou plus ayant un emploi selon le statut
+--
+Naissances et décès domiciliés 2014-2022
+
+   Commune d'Orgueil (82136)
+     * [255]Graphique
+     * [256]Tableau
+--
+Revenus et pauvreté des ménages en 2020
+
+   Commune d'Orgueil (82136)
+
+tableauREV T1 - Ménages fiscaux de l'année 2020
+--
+Démographie des entreprises et des établissements en 2022
+
+   Commune d'Orgueil (82136)
+
+tableauDEN T1 - Créations d'entreprises par secteur d'activité en 2022
+--
+Nombre d’unités légales et d’établissements en 2021
+
+   Commune d'Orgueil (82136)
+
+tableauDEN T3 - Nombre d'unités légales par secteur d'activité au 31 décembre
+--
+Tourisme en 2023
+
+   Commune d'Orgueil (82136)
+
+tableauTOU T1 - Nombre et capacité des hôtels au 1er janvier 2023

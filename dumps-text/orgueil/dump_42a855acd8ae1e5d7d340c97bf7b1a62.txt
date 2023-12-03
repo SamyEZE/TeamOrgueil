@@ -1,0 +1,12 @@
+   #[1]usito.usherbrooke.ca
+
+   IFRAME: [2]https://www.googletagmanager.com/ns.html?id=GTM-T8WRXNX
+
+Références
+
+   Liens visibles :
+   1. https://usito.usherbrooke.ca/usitoOpenSearch.xml
+   2. https://www.googletagmanager.com/ns.html?id=GTM-T8WRXNX
+
+   Liens cachés :
+   4. https://usito.usherbrooke.ca/

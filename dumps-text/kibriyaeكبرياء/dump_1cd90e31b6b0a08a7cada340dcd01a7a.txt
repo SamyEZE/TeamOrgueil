@@ -1,0 +1,110 @@
+     *
+     * [1]Exit
+
+   (BUTTON)
+     * [2]Apple
+     *
+          + [3]Store
+          + [4]Mac
+          + [5]iPad
+          + [6]iPhone
+          + [7]Watch
+          + [8]AirPods
+          + [9]TV & Home
+          + [10]Entertainment
+          + [11]Accessories
+          + [12]Support
+     * ____________________ (BUTTON) (BUTTON)
+     * 0+
+
+   (BUTTON)
+
+   [ ]
+   [13]Apple Books Preview
+   [14]Local Nav Open Menu [15]Local Nav Close Menu
+     * [16]Top Books
+     * [17]Top Audiobooks
+
+الكبريا‪ء‬
+
+   [18]سمير الجمل
+     *
+
+     *
+          + £19.99
+
+   (BUTTON)
+     *
+          + £19.99
+
+   (BUTTON)
+
+Publisher Description
+
+   “فيالمركزالطبيالعالميقضىالفريقالشاذليأيامهالأخيرة،وهولايعرفأنأمتاراًقلي
+   لةسوفتفصلهعنمباركعندمايحلضيفاًعلىالمركزأثناءمحاكمتهفيقضيةقتلالمتظاهرينا
+   لتيحصلفيهاعلىالمؤبد،وكانقبلهايعيشفيشرمالشيخبعيداًعنالمناطقالمشتعلةبالغض
+   بوالتيتناديفيأغلبميادينمصربالقصاصمنهومننظامه.”
+   GENRE
+   Politics & Current Affairs
+   RELEASED
+   2020
+   5 February
+   LANGUAGE
+   AR
+   Arabic
+   LENGTH
+   292
+   Pages
+   PUBLISHER
+   مكتبة جزيرة الورد
+   SIZE
+   1.1
+   MB
+
+   More ways to shop: [19]find an Apple Store or [20]other retailer near
+   you. Or call 0800 048 0408.
+   [21]United Kingdom
+   Copyright © 2023 Apple Inc. All rights reserved.
+     * [22]Privacy Policy
+     * [23]Use of Cookies
+     * [24]Terms of Use
+     * [25]Sales and Refunds
+     * [26]Legal
+     * [27]Site Map
+
+Références
+
+   Liens visibles :
+   1. https://books.apple.com/gb/book/الكبرياء/www.apple.com/uk/shop/goto/exitstore
+   2. https://www.apple.com/uk/
+   3. https://www.apple.com/uk/shop/goto/store
+   4. https://www.apple.com/uk/mac/
+   5. https://www.apple.com/uk/ipad/
+   6. https://www.apple.com/uk/iphone/
+   7. https://www.apple.com/uk/watch/
+   8. https://www.apple.com/uk/airpods/
+   9. https://www.apple.com/uk/tv-home/
+  10. https://www.apple.com/uk/entertainment/
+  11. https://www.apple.com/uk/shop/goto/buy_accessories
+  12. https://support.apple.com/en-gb
+  13. https://www.apple.com/gb/apple-books/
+  14. https://books.apple.com/gb/book/الكبرياء/id1497864301#localnav-menustate
+  15. https://books.apple.com/gb/book/الكبرياء/id1497864301
+  16. https://books.apple.com/gb/charts
+  17. https://books.apple.com/gb/charts/audiobooks
+  18. https://books.apple.com/gb/author/سمير-الجمل/id1497864302
+  19. https://www.apple.com/uk/retail/
+  20. https://locate.apple.com/uk/en/
+  21. https://www.apple.com/choose-country-region/
+  22. https://www.apple.com/uk/legal/privacy/
+  23. https://www.apple.com/legal/privacy/en-ww/cookies/
+  24. https://www.apple.com/uk/legal/terms/site.html
+  25. https://www.apple.com/uk/shop/goto/help/sales_refunds
+  26. https://www.apple.com/uk/legal/
+  27. https://www.apple.com/uk/sitemap/
+
+   Liens cachés :
+  29. https://books.apple.com/gb/book/%D8%A7%D9%84%D9%83%D8%A8%D8%B1%D9%8A%D8%A7%D8%A1/www.apple.com/uk/shop/goto/home
+  30. https://www.apple.com/uk/search
+  31. https://www.apple.com/uk/shop/goto/uk/shop/goto/bag

@@ -1,0 +1,136 @@
+   #[1]Collectif Fiertés en Lutte » Flux [2]Collectif Fiertés en Lutte »
+   Flux des commentaires [3]Collectif Fiertés en Lutte » Flux iCal
+   [4]alternate [5]alternate [6]alternate [7]alternate
+
+   [8]Aller au contenu
+
+   [9]Collectif Fiertés en Lutte
+
+   Menu
+
+     * [10]Actualités
+     * [11]Qui sommes nous ?
+          + [12]Notre Charte
+          + [13]Aide aux victimes
+     * [14]Marche des Fiertés
+          + [15]Marche des Fiertés 2023
+          + [16]Contribuer à la Marche
+     * [17]Quinzaine des Fiertés
+     * [18]Nous contacter
+
+   Menu
+
+     * [19]Actualités
+     * [20]Qui sommes nous ?
+          + [21]Notre Charte
+          + [22]Aide aux victimes
+     * [23]Marche des Fiertés
+          + [24]Marche des Fiertés 2023
+          + [25]Contribuer à la Marche
+     * [26]Quinzaine des Fiertés
+     * [27]Nous contacter
+
+Bienvenue sur le site du CFL !
+
+   Vous êtes sur le site du Collectif Fiertés en Lutte (CFL pour les gens
+   qui en ont marre de le répéter). L’association organise la Marche des
+   Fiertés de Lyon depuis novembre 2019. L’objectif est de proposer une
+   Marche inclusive et revendicative pour nos communautés !
+
+   Nous organisons aussi la Quinzaine des Fiertés. Il s’agit de deux
+   semaines, autour de la Marche, pendant lesquels nous créons des espaces
+   autour de nos cultures et de nos arts. Rassemblons-nous lors de moments
+   festifs et revendicatifs !
+   [28]Qui sommes nous ?
+   [29]Consultez nos actualités
+
+Bienvenue sur le site du CFL !
+
+   Vous êtes sur le site du Collectif des Fiertés en Luttes (CFL pour les
+   gens qui en ont marre de le répéter), nous sommes l’association qui
+   organise la Marche des Fiertés de Lyon depuis Novembre 2019. Nous avons
+   à cœur de proposer une marche inclusive et forte de revendications pour
+   nos communautés. Nous organisons aussi la Quinzaine des fiertés qui
+   encadre la manifestation afin de créer des espaces autour de nos
+   cultures et de nos arts pour nous permettre de nous rassembler lors de
+   moments festifs et revendicatifs.
+
+   [30]Qui sommes nous ?
+   [31]Consultez nos actualités
+
+Événements à venir
+
+     * Il n’y a pas de évènements à venir.
+
+     * Il n’y a pas de évènements à venir.
+
+Nous soutenir !
+
+   Nous sommes une association à but non lucratif. C’est-à-dire que tous
+   les événements et les permanences que nous mettons en place sont faits
+   de manière bénévole et avec peu de fonds monétaire. C’est pourquoi,
+   nous te demandons de nous soutenir sur notre Helloasso pour que nous
+   puissions continuer nos actions !
+
+   C’est grâce à toi que nous pourrons continuer à organiser la Quinzaine
+   et la Marche de Fiertés à Lyon et que nous continuerons à lutter pour
+   nos droits ! On compte sur toi !
+
+   IFRAME:
+   [32]https://www.helloasso.com/associations/collectif-fiertes-en-lutte/c
+   ollectes/marche-des-fiertes-2023/widget
+
+     * [33]Accueil
+     * [34]Marche des Fiertés
+     * [35]Nous contacter
+     * [36]Mentions légales
+
+Références
+
+   Liens visibles :
+   1. https://www.fierte.net/feed/
+   2. https://www.fierte.net/comments/feed/
+   3. https://www.fierte.net/evenements/?ical=1
+   4. https://www.fierte.net/wp-json/wp/v2/pages/5556
+   5. https://www.fierte.net/wp-json/oembed/1.0/embed?url=https://www.fierte.net/
+   6. https://www.fierte.net/wp-json/oembed/1.0/embed?url=https://www.fierte.net/&format=xml
+   7. https://www.fierte.net/wp-json/tribe/events/v1/
+   8. https://www.fierte.net/#content
+   9. https://www.fierte.net/
+  10. https://www.fierte.net/actualites-cfl-lyon/
+  11. https://www.fierte.net/qui-sommes-nous/
+  12. https://www.fierte.net/notre-charte/
+  13. https://www.fierte.net/aide-aux-victimes/
+  14. https://www.fierte.net/marche-des-fiertes-lyon/
+  15. https://www.fierte.net/marche-des-fiertes-lyon-2023/
+  16. https://www.fierte.net/marche-des-fiertes-aider-a-la-marche/
+  17. https://www.fierte.net/quinzaine-des-fiertes/
+  18. https://www.fierte.net/nous-contacter/
+  19. https://www.fierte.net/actualites-cfl-lyon/
+  20. https://www.fierte.net/qui-sommes-nous/
+  21. https://www.fierte.net/notre-charte/
+  22. https://www.fierte.net/aide-aux-victimes/
+  23. https://www.fierte.net/marche-des-fiertes-lyon/
+  24. https://www.fierte.net/marche-des-fiertes-lyon-2023/
+  25. https://www.fierte.net/marche-des-fiertes-aider-a-la-marche/
+  26. https://www.fierte.net/quinzaine-des-fiertes/
+  27. https://www.fierte.net/nous-contacter/
+  28. https://www.fierte.net/qui-sommes-nous/
+  29. https://www.fierte.net/page-de-construction
+  30. https://www.fierte.net/qui-sommes-nous/
+  31. https://www.fierte.net/page-de-construction
+  32. https://www.helloasso.com/associations/collectif-fiertes-en-lutte/collectes/marche-des-fiertes-2023/widget
+  33. https://www.fierte.net/
+  34. https://www.fierte.net/marche-des-fiertes-lyon/
+  35. https://www.fierte.net/nous-contacter/
+  36. https://www.fierte.net/mentions-legales-cfl/
+
+   Liens cachés :
+  38. https://www.fierte.net/
+  39. https://www.fierte.net/
+  40. https://www.fierte.net/evenements/
+  41. https://www.fierte.net/
+  42. https://www.facebook.com/CFL.Lyon
+  43. https://twitter.com/CFL_Lyon
+  44. https://www.instagram.com/cfl.lyon/
+  45. mailto:contact@fierte.net

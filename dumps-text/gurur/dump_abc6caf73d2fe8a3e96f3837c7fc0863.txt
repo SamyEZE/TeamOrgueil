@@ -1,0 +1,383 @@
+   [1]banner
+   [2]Giriş Yap
+   [3]Üye Ol
+   [4]Platin Üye Olun
+     *
+          + Listelerim
+               o [5]Favorilerim
+               o [6]Alışveriş Listem
+               o [7]Okuma Listelerim
+               o [8]Ürün Takip Listem
+               o [9]Fiyat Alarmı Listem
+               o [10]Satın Aldıklarım
+     *
+          + [11]Sipariş Takibi
+               o [12]Siparişlerim
+               o [13]Müşteri Hizmetleri
+               o Havale/EFT
+
+
+     * Türkçe
+          + English
+          + Deutsch
+
+
+
+     * TL
+          + EUR
+          + GBP
+          + USD
+
+
+
+     * [14]Yardım
+          + [15]Yardım ve İşlem Rehberi
+          + [16]Sıkça Sorulan Sorular
+          + [17]Video Yardım
+          + Önerim Var
+          + [18]İletişim
+
+   [19]kitapyurdu.com
+   [20]kitapyurdu.com
+   ____________________
+   çğıöşü
+   0
+
+Sepetim
+
+   0 ürün
+   Sepetiniz boş
+   loading
+
+     * Kitap
+          + Çok Satan Kitaplar
+          + Yeni Çıkan Kitaplar
+          + [21]Yayıncılar
+          + [22]Yazarlar
+          + [23]Çocuk Kitapları
+          + [24]Sınav Kitapları
+          + [25]Ne Okusam?
+     * Dergi
+          + Edebiyat Dergileri
+          + Tüm Dergiler
+          + [26]Çocuk Dergileri
+          + [27]Kültür ve Sanat Dergileri
+          + [28]Tarih Dergileri
+          + [29]Bilim Dergileri
+     * Hobi & Oyuncak
+          + Oyun ve Oyuncak
+          + Puzzle ve Yapboz
+          + [30]King of Puzzle Ahşap Puzzle
+          + [31]Oyundan Daha Fazlası
+          + [32]Montessori Oyuncakları
+     * Kırtasiye
+          + Defterler
+          + Kitap Aksesuarları
+          + Diğer Ürünler
+          + [33]Bookinzi Kültür ve Sanat Ürünleri
+          + [34]Kitap Hediye Kartları
+          + [35]Okul Alışverişi
+     * Kırkambar
+          + Temalı ve Lisanslı Ürünler
+          + Diğer Ürünler
+          + [36]Bookinzi Kültür ve Sanat Ürünleri
+          + [37]Miyuki Takılar
+     * [38]Tüm Kategoriler
+
+   [39]Kampanyalar
+   [40]Puan Kataloğu
+
+   [41]Ana Sayfa » [42]Gurur
+
+   [43]banner
+
+   [44][wh:0fc571e4a]
+   [45][wh:eca8b9b6b]
+   [46][wh:130fcb810]
+   [47][wh:0b1972847]
+
+   [48]Gurur
+     __________________________________________________________________
+
+     * İç Sayfalara Gözat
+     * Yorumlar 34
+     * Paylaş
+     *
+          +
+          +
+          +
+          +
+
+Gurur
+
+   [49]Marsha Canham
+   [50]KORİDOR YAYINCILIK
+     *
+     *
+     *
+     *
+     *
+     *
+
+   Her şey bir bahisle başlamıştı; gözde subaydan gelecek evlilik
+   teklifiyle, cesaretini sınadığı gönül macerasını süslemek istiyordu.
+   Şımarık ve narin Catherine Ashbrooke, mest edici gece mavisi gözlere
+   sahip yakışıklı yabancının hiç beklemediği bir anda çıkıp planını suya
+   düşüreceğini ve onu kendi tehlikeli oyununun içine çekeceğini nereden
+   bilebilirdi?
+   Alexander Cameron güzel ve asil bir İngiliz kızını düelloda kazanmış
+   olabilirdi ama uzun zamandır geri plana ittiği arzularının onu
+   kaderiyle buluşmaktan alıkoyacağının da farkındaydı. Gelinini gönülsüz
+   de olsa Highland topraklarına götürmekten başka çaresi yoktu. Bu
+   topraklar ki aynı zamanda eski bir düşmanlığın ve fırtınalı bir isyanın
+   hüküm sürdüğü; güçlü tutkuları ve nefes kesici yiğitlikleriyle bilinen
+   efsanevi savaşçıların bile gönlünü kaptırabileceği bir yerdi.
+   “İngiltere’nin görkemli balolarından İskoç dağlarına uzanan… Heyecanı
+   son sayfasına kadar yaşatan… Unutulmaz bir aşk hikayesi.” Affaire de
+   Coeur
+   “Sayfalardan fırlayacak kadar canlı karakterleri, muhteşem
+   betimlemeleri, zengin diyalogları ve zekice işlenmiş detaylarıyla
+   büyüleyici bir roman.” Romantic Times
+   “Kelimenin tam anlamıyla fevkalade!” Virginia Henley
+     __________________________________________________________________
+
+   Çevirmen:     [51]Melike Uzun
+   Yayın Tarihi: 14.10.2011
+   ISBN:         9786054188857
+   Dil:          TÜRKÇE
+   Sayfa Sayısı: 384
+   Cilt Tipi:    Karton Kapak
+   Kağıt Cinsi:  Kitap Kağıdı
+   Boyut:        13.5 x 21 cm
+     __________________________________________________________________
+
+   Bu üründen 343 adet satın alınmıştır.
+     __________________________________________________________________
+
+   İlgili Kategoriler:
+     * [52]Kitap Edebiyat Roman (çeviri)
+
+   SATIŞ YOK (TÜKENMİŞ)
+   Haber Ver
+     * Favorilerime Ekle
+     * Favorilerden Çıkar 290
+     * Alışveriş Listeme Ekle
+     * Alışveriş Listesinden Çıkar
+     * Fiyat Alarmına Ekle
+
+   Fiyat Geçmişi: Product Price History Thumb
+
+   [53]Okuma Listeleri:?
+     * Okuyacağım 4
+     * Okuyorum 0
+     * Okudum 26
+
+   [54]banner
+   loading
+   [55]
+
+   Yorumlar 34
+   [56]Tavsiye [57]Hata Bildirimi [58]Yerleştir
+   Sırala: [Varsayılan_________________.][ ]] Satın Alanları Göster [59]Tüm
+   Yorumları Göster
+   Bu kitaba link vermek için alttaki html kodu web sayfanıza
+   koyabilirsiniz;
+   <a href="https://www.kitapyurdu.com/kitap/gurur/262125.html"> <img
+   src="https://img.kitapyurdu.com/v1/getImage/fn:199272/wi:85/wh:true"
+   alt="www.kitapyurdu.com'dan satın al" border=0></a>
+   İlgili Ürünler
+
+   [60]banner
+   [61]banner
+   [62]banner
+   loading
+   [63]banner
+   [64]banner
+
+Mobil Uygulamalar:
+
+Sosyal Medya:
+
+Yardımcı Sayfalar:
+
+     * [65]Yardım ve İşlem Rehberi
+     * [66]Video Yardım
+     * Havale/EFT Bilgileri
+     * [67]Müşteri Hizmetleri
+     * [68]Platin Üyelik
+     * [69]Gümüş Üyelik
+     * [70]Teslim Noktaları
+     * [71]Hemen Al
+
+Popüler Sayfalar:
+
+     * [72]Çok Satan Kitaplar
+     * [73]Yeni Çıkan Kitaplar
+     * [74]Kargo Ödeyen Avantajlı Ürünler
+     * [75]Kampanyalar
+     * [76]Ayın Yazarları
+     * [77]Ayın Yayınevleri
+     * [78]Puan Kataloğu
+     * [79]E-Dergi
+     * [80]Ne Okusam?
+     * [81]Kelepir Kitaplar
+     * [82]Kitap Hediye Kartları
+
+Özel Sayfalar:
+
+     * [83]Sınav Kitapları
+     * [84]Çocuk Kitapları
+     * [85]Cep Boy Kitaplar
+     * [86]İngilizce Kitaplar
+     * [87]Bookinzi Kültür-Sanat Ürünleri
+     * [88]Oyundan Daha Fazlası
+     * [89]Montessori Oyuncakları
+     * [90]King of Puzzle Ürünleri
+     * [91]Akıl Defteri
+
+Kitapyurdu Platformları:
+
+     * [92]Kitapyurdu Sesli Kitap
+     * [93]Kitapyurdu E-Kitap
+     * [94]Kütüphanem Uygulaması
+     * [95]Kitapyurdu Chrome Eklentileri
+     * [96]Onaylı Yorumlar
+     * [97]KDY Platformu
+     * [98]KDD Platformu
+     * [99]Kitapdergisi.com
+
+Taksitli Alışveriş Yapabileceğiniz Kredi Kartları:
+
+
+   [100]Taksit seçeneklerini detaylı incelemek için
+
+Güvenli ve Kolay Alışveriş:
+
+   Havale, EFT veya Posta Çeki ile alışveriş yapabilirsiniz.
+   [101][loading.gif]
+   © 2023 Kitapyurdu Yayıncılık ve İletişim A.Ş. [102]İletişim
+   [103]Hakkımızda[104]Kişisel Verilerin Korunması[105]Çerez Ayarları
+   4.2023.12-d67 - 163 © Her Hakkı Saklıdır.
+
+Références
+
+   Liens visibles :
+   1. https://www.kitapyurdu.com/index.php?route=product/best_sellers&list_id=1358&sort=purchased&order=DESC&limit=100&filter_in_stock=1
+   2. https://www.kitapyurdu.com/index.php?route=account/login
+   3. https://www.kitapyurdu.com/index.php?route=account/register
+   4. https://www.kitapyurdu.com/platin-uyelik
+   5. https://www.kitapyurdu.com/index.php?route=account/favorite&selected_tags=0
+   6. https://www.kitapyurdu.com/index.php?route=account/wishlist
+   7. https://www.kitapyurdu.com/index.php?route=account/readlist
+   8. https://www.kitapyurdu.com/index.php?route=account/notification
+   9. https://www.kitapyurdu.com/index.php?route=account/price_notification
+  10. https://www.kitapyurdu.com/index.php?route=account/purchase
+  11. https://www.kitapyurdu.com/index.php?route=account/order
+  12. https://www.kitapyurdu.com/index.php?route=account/order
+  13. https://www.kitapyurdu.com/iletisim
+  14. https://www.kitapyurdu.com/yardim
+  15. https://www.kitapyurdu.com/yardim
+  16. https://www.kitapyurdu.com/yardim/sss
+  17. https://www.kitapyurdu.com/yardim/video
+  18. https://www.kitapyurdu.com/iletisim
+  19. https://www.kitapyurdu.com/
+  20. https://www.kitapyurdu.com/
+  21. https://www.kitapyurdu.com/yayincilar
+  22. https://www.kitapyurdu.com/yazarlar
+  23. https://www.kitapyurdu.com/cocuk-kitaplari
+  24. https://www.kitapyurdu.com/sinav-kitaplari
+  25. https://www.kitapyurdu.com/ne-okusam
+  26. https://www.kitapyurdu.com/index.php?route=product/category&path=479_1142&sort=publish_date&order=DESC
+  27. https://www.kitapyurdu.com/index.php?route=product/category&path=1_479_1140&sort=publish_date&order=DESC
+  28. https://www.kitapyurdu.com/index.php?route=product/category&sort=publish_date&order=DESC&path=1_479_1139
+  29. https://www.kitapyurdu.com/index.php?route=product/category&sort=publish_date&order=DESC&path=479_1141
+  30. https://www.kitapyurdu.com/kingofpuzzle
+  31. https://www.kitapyurdu.com/hobi-oyuncak
+  32. https://www.kitapyurdu.com/kategori/hobi-ve-oyuncak-montessori-oyuncaklari/1728.html
+  33. https://www.kitapyurdu.com/bookinzi
+  34. https://www.kitapyurdu.com/kategori/cesitli-kitap-hediye-karti/1727.html
+  35. https://www.kitapyurdu.com/okul-alisverisi
+  36. https://www.kitapyurdu.com/bookinzi
+  37. https://www.kitapyurdu.com/yayinevi/miyuki-tasarim/8961.html
+  38. https://www.kitapyurdu.com/index.php?route=product/category
+  39. https://www.kitapyurdu.com/kampanyalar
+  40. https://www.kitapyurdu.com/puan-katalogu
+  41. https://www.kitapyurdu.com/index.php?route=common/home
+  42. https://www.kitapyurdu.com/kitap/gurur/262125.html
+  43. https://www.kitapyurdu.com/index.php?route=ad/redirect&ad_id=1341
+  44. https://www.kitapyurdu.com/yayinevi/kapra-yayincilik/10491.html
+  45. https://www.kitapyurdu.com/sesli-kitap
+  46. https://www.kitapyurdu.com/index.php?route=product/best_sellers&list_id=1358&sort=purchased&order=DESC
+  47. https://www.kitapyurdu.com/e-kitap
+  48. https://img.kitapyurdu.com/v1/getImage/fn:199272/wh:true/wi:800
+  49. https://www.kitapyurdu.com/yazar/marsha-canham/142512.html
+  50. https://www.kitapyurdu.com/yayinevi/koridor-yayincilik/1438.html
+  51. https://www.kitapyurdu.com/yazar/melike-uzun/58243.html
+  52. https://www.kitapyurdu.com/kategori/kitap-edebiyat-roman-ceviri/1_128_130.html
+  53. https://www.kitapyurdu.com/index.php?route=account/readlist
+  54. https://www.kitapyurdu.com/index.php?route=ad/redirect&ad_id=1068
+  55. https://www.kitapyurdu.com/kitap/gurur/262125.html#tab-review
+  56. https://www.kitapyurdu.com/kitap/gurur/262125.html#tab-product-recommend
+  57. https://www.kitapyurdu.com/kitap/gurur/262125.html#tab-product-feedback
+  58. https://www.kitapyurdu.com/kitap/gurur/262125.html#tab-webmaster
+  59. https://www.kitapyurdu.com/index.php?route=product/product/reviewAll&product_id=262125
+  60. https://www.kitapyurdu.com/index.php?route=ad/redirect&ad_id=950
+  61. https://www.kitapyurdu.com/index.php?route=ad/redirect&ad_id=1277
+  62. https://www.kitapyurdu.com/index.php?route=ad/redirect&ad_id=768
+  63. https://www.kitapyurdu.com/index.php?route=ad/redirect&ad_id=454
+  64. https://www.kitapyurdu.com/index.php?route=ad/redirect&ad_id=278
+  65. https://www.kitapyurdu.com/yardim
+  66. https://www.kitapyurdu.com/yardim/video
+  67. https://www.kitapyurdu.com/iletisim
+  68. https://www.kitapyurdu.com/platin-uyelik
+  69. https://www.kitapyurdu.com/gumus-uyelik
+  70. https://www.kitapyurdu.com/teslim-noktalari
+  71. https://www.kitapyurdu.com/hemen-al
+  72. https://www.kitapyurdu.com/cok-satan-kitaplar/haftalik/1.html
+  73. https://www.kitapyurdu.com/yeni-cikan-kitaplar/haftalik/2.html
+  74. https://www.kitapyurdu.com/index.php?route=product/best_sellers&sort=purchased&order=DESC&list_id=744
+  75. https://www.kitapyurdu.com/kampanyalar
+  76. https://www.kitapyurdu.com/ayin-yazarlari
+  77. https://www.kitapyurdu.com/ayin-yayinevleri
+  78. https://www.kitapyurdu.com/puan-katalogu
+  79. https://www.kitapyurdu.com/index.php?route=magazine/book_magazine
+  80. https://www.kitapyurdu.com/ne-okusam
+  81. https://www.kitapyurdu.com/index.php?route=product/bargain&sort=purchased&order=DESC&discount=60
+  82. https://www.kitapyurdu.com/kategori/cesitli-kitap-hediye-karti/1727.html
+  83. https://www.kitapyurdu.com/sinav-kitaplari
+  84. https://www.kitapyurdu.com/cocuk-kitaplari
+  85. https://www.kitapyurdu.com/index.php?route=product/best_sellers&list_id=1358&sort=purchased&order=DESC
+  86. https://www.kitapyurdu.com/index.php?route=product/best_sellers&list_id=1460&sort=purchased&order=DESC
+  87. https://www.kitapyurdu.com/bookinzi
+  88. https://www.kitapyurdu.com/hobi-oyuncak
+  89. https://www.kitapyurdu.com/kategori/hobi-ve-oyuncak-montessori-oyuncaklari/1728.html
+  90. https://www.kitapyurdu.com/kingofpuzzle
+  91. https://www.kitapyurdu.com/yayinevi/akil-defteri/7526.html
+  92. https://www.kitapyurdu.com/sesli-kitap
+  93. https://www.kitapyurdu.com/e-kitap
+  94. https://www.kitapyurdu.com/kutuphanem
+  95. https://www.kitapyurdu.com/eklentiler
+  96. https://www.kitapyurdu.com/onayli-yorum
+  97. https://kdy.kitapyurdu.com/
+  98. https://kdd.kitapyurdu.com/
+  99. https://kitapdergisi.com/
+ 100. https://www.kitapyurdu.com/taksit-secenekleri
+ 101. https://etbis.eticaret.gov.tr/sitedogrulama/803F63625CD243DFA40B89F77A7C04D3
+ 102. https://www.kitapyurdu.com/iletisim
+ 103. https://www.kitapyurdu.com/index.php?route=information/information&information_id=22
+ 104. https://www.kitapyurdu.com/index.php?route=information/information&information_id=3
+ 105. javascript:CookieScript.instance.show()
+
+   Liens cachés :
+ 107. https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.kitapyurdu.com%2Fkitap%2Fgurur%2F262125.html&text=Gurur
+ 108. https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.kitapyurdu.com%2Fkitap%2Fgurur%2F262125.html
+ 109. https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.kitapyurdu.com%2Fkitap%2Fgurur%2F262125.html&title=Gurur
+ 110. https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.kitapyurdu.com%2Fkitap%2Fgurur%2F262125.html
+ 111. https://itunes.apple.com/tr/app/kitapyurdu/id489855982?mt=8
+ 112. https://play.google.com/store/apps/details?id=com.mobisoft.kitapyurdu
+ 113. https://appgallery.huawei.com/#/app/C101554873
+ 114. https://instagram.com/kitapyurducom
+ 115. https://twitter.com/kitapyurducom
+ 116. https://www.facebook.com/kitapyurducom
+ 117. https://www.youtube.com/kitapyurdu
+ 118. https://www.kitapyurdu.com/taksit-secenekleri

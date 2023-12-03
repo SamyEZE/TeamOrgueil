@@ -1,0 +1,42 @@
+   #[1]YouTube [2]alternate [3]alternate [4]alternate [5]alternate
+   [6]الفرق بين الكبرياء وعزة النفس لدى الإنسان...وهذا تأثيرها على الحياة
+   اليومية! [7]الفرق بين الكبرياء وعزة النفس لدى الإنسان...وهذا تأثيرها
+   على الحياة اليومية!
+
+   IFRAME: [8]passive_signin
+
+   ____________________
+
+   [9]About[10]Press[11]Copyright[12]Contact
+   us[13]Creators[14]Advertise[15]Developers[16]Terms[17]Privacy[18]Policy
+   & Safety[19]How YouTube works[20]Test new features
+
+   © 2023 Google LLC
+
+Références
+
+   Liens visibles :
+   1. https://www.youtube.com/opensearch?locale=en_US
+   2. https://m.youtube.com/watch?v=ve0CulZX0YE
+   3. https://m.youtube.com/watch?v=ve0CulZX0YE
+   4. android-app://com.google.android.youtube/http/www.youtube.com/watch?v=ve0CulZX0YE
+   5. ios-app://544007664/vnd.youtube/www.youtube.com/watch?v=ve0CulZX0YE
+   6. https://www.youtube.com/oembed?format=json&url=https://www.youtube.com/watch?v=ve0CulZX0YE
+   7. https://www.youtube.com/oembed?format=xml&url=https://www.youtube.com/watch?v=ve0CulZX0YE
+   8. https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https://www.youtube.com/signin?action_handle_signin=true&app=desktop&hl=en&next=%2Fsignin_passive&feature=passive&hl=en
+   9. https://www.youtube.com/about/
+  10. https://www.youtube.com/about/press/
+  11. https://www.youtube.com/about/copyright/
+  12. https://www.youtube.com/t/contact_us/
+  13. https://www.youtube.com/creators/
+  14. https://www.youtube.com/ads/
+  15. https://developers.google.com/youtube
+  16. https://www.youtube.com/t/terms
+  17. https://www.youtube.com/t/privacy
+  18. https://www.youtube.com/about/policies/
+  19. https://www.youtube.com/howyoutubeworks?utm_campaign=ytgen&utm_source=ythp&utm_medium=LeftNav&utm_content=txt&u=https://www.youtube.com/howyoutubeworks?utm_source=ythp&utm_medium=LeftNav&utm_campaign=ytgen
+  20. https://www.youtube.com/new
+
+   Liens cachés :
+  22. https://www.youtube.com/
+  23. https://www.youtube.com/

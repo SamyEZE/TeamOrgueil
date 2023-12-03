@@ -1,0 +1,1243 @@
+   IFRAME: [1]//www.googletagmanager.com/ns.html?id=GTM-5SHB593
+
+   ____________________
+   [TopBible_________________]
+     * Se connecter
+       Adresse email : ____________________
+       Mot de passe : ____________________
+       [X] Se souvenir de moi
+       (BUTTON) Se connecter
+       [2]Mot de passe oublié
+       [3]Continuer avec Apple [4]Continuer avec Facebook
+       [5][btn_google.a927f48e181c.png] Continuer avec Google
+       [6]une alternative de connexion
+       Les connexions par Google sont momentanément indisponibles sur iOS.
+       Si vous souhaitez retrouver votre compte. Faites “[7]Mot de passe
+       oublié” et renseignez l'adresse email rattachée au compte Google
+       que vous utilisez pour vous connecter sur le TopChrétien. Cela
+       permettra de définir un mot de passe lié à votre email sur le
+       TopChrétien.
+       [8]Pas encore de compte ?
+       Créer un compte
+       Créer un compte
+       Prénom : ____________________
+       Nom : ____________________
+       Adresse email : ____________________
+       Mot de passe : ____________________
+       Confirmation du mot de passe : ____________________ Entrez le même
+       mot de passe pour confirmation.
+       [ ] Je m'abonne à la newsletter. Je souhaite recevoir la newsletter
+       quotidienne.
+       En vous inscrivant, vous acceptez les [9]Conditions générales et
+       [10]Politique de confidentialité du TopChrétien. (BUTTON) Créer un
+       compte
+       [11]Continuer avec Facebook [12][btn_google.a927f48e181c.png]
+       Continuer avec Google
+       [13]une alternative de connexion
+       Les connexions par Google sont momentanément indisponibles sur iOS.
+       Si vous souhaitez retrouver votre compte. Faites “[14]Mot de passe
+       oublié” et renseignez l'adresse email rattachée au compte Google
+       que vous utilisez pour vous connecter sur le TopChrétien. Cela
+       permettra de définir un mot de passe lié à votre email sur le
+       TopChrétien.
+       [15]J'ai déjà un compte
+     * [16]Quitter TopKids
+     * [17]Faire un don
+
+
+
+   [18]Se connecter [19]Créer un compte
+     * [20]Faire un don
+     * [21]Accueil
+     * [22]La Pensée du Jour
+          + [23]Précédent
+          + [24]La Pensée du Jour
+          + [25]Pour vousaujourd'hui
+          + [26]Les dernièresPensées
+            [27]Toutes les PDJ →
+          + [28]Les auteursde La Pensée du Jour
+            [29]Tous les auteurs →
+          + [30]Les Penséesles plus populaires
+            [31]Toutes les PDJ →
+          + [32]L'histoire de La Pensée du Jour
+          + [33]L'équipe de La Pensée du Jour
+     * [34]Bible
+          + [35]Précédent
+          + [36]TopBible
+          + [37]Le verset du jour PassLeMot
+          + [38]Lire ou écouter la Bible
+          + [39]Les plans de lecture en cours
+            [40]Voir tous mes plans →
+          + [41]Les plans de lecture
+            [42]Voir tous les plans de lecture →
+          + [43]Mes favoris
+            [44]Voir plus →
+          + [45]Dictionnaire
+            [46]a[47]b[48]c[49]d[50]e[51]f[52]g[53]h[54]i[55]j[56]k[57]l[5
+            8]m[59]n[60]o[61]p[62]q[63]r[64]s[65]t[66]u[67]v[68]w[69]x[70]
+            y[71]z
+     * [72]Vidéos
+          + [73]Précédent
+          + [74]TopTV
+          + [75]En ce moment sur TopTV
+          + [76]En ce moment sur TopTV
+          + [77]À la une
+            [78]Toutes les vidéos →
+          + [79]Propositions de la communauté
+            [80]Voir plus →
+          + [81]Concepts à découvrir
+            [82]Voir plus →
+          + [83]Les directs
+            [84]Voir plus →
+          + [85]Les formations
+            [86]Voir plus →
+     * [87]Audios
+          + [88]Précédent
+          + [89]Audios
+          + [90]Podcasts
+          + [91]Messages audio
+            [92]Voir tous les messages →
+          + [93]La Bible en audio
+     * [94]Textes
+          + [95]Précédent
+          + [96]TopMessages
+          + [97]La question taboue
+            [98]Voir plus →
+          + [99]Séries thématiques
+            [100]Toutes les séries →
+          + [101]Auteurs
+            [102]Tous les auteurs →
+          + [103]Famille & Co
+            [104]Voir plus →
+          + [105]Lifestyle
+            [106]Voir plus →
+          + [107]Enseignements bibliques
+            [108]Voir plus →
+          + [109]Les nouveautés
+            [110]Voir plus →
+     * [111]Musique
+          + [112]Précédent
+          + [113]TopMusic
+          + [114]Albums à la une
+            [115]Plus de musique →
+          + [116]Du nouveau dans l'air
+            [117]Toutes les émissions →
+          + [118]Clips & co
+            [119]Tous les clips →
+          + [120]Playlists
+          + [121]Nouveaux Albums
+            [122]Tous les albums →
+          + [123]Radio Gospel
+          + [124]Ressources musicales
+            [125]Toutes les ressources →
+          + [126]Paroles et accords
+     * [127]Chrétien ?
+          + [128]Précédent
+          + [129]Vous avez 3 messages
+          + [130]ConnaîtreDieu
+          + [131]ComprendreDieu
+          + [132]JeVeuxMourir
+          + [133]Mystory
+     * [134]Le Top
+          + [135]Précédent
+          + [136]Accueil À propos
+          + [137]Actualités du TopChrétien
+            [138]Voir toute l'actualité du TopChrétien →
+          + [139]Actualités de nos Partenaires
+            [140]Voir toute l'actualité de nos Partenaires →
+          + [141]L'équipe
+          + [142]Qui sommes-nous ?
+               o [143]Précédent
+               o [144]Visions, vocations et valeurs
+               o [145]Historique et outils
+               o [146]Fonctionnement et financement
+               o [147]Dernières parutions
+          + [148]Recrutement
+          + [149]Devenir Bénévole
+          + [150]Nous contacter
+     * [151]Quitter TopKids
+     * [152]Accéder aux vidéos LSF [153]Désactiver le mode LSF
+     * [154]Activer le mode LSF
+     * [155]Quitter TopKids
+
+   Reprendre le défilement automatique
+
+   FERMER
+
+Nous avons besoin de vous !
+
+   Matthieu 10.18 nous dit : "Vous avez reçu gratuitement, donnez
+   gratuitement !". Les ressources du TopChrétien sont gracieusement mises
+   à votre disposition, c'est pourquoi chaque fin d'année, nous faisons
+   appel à votre générosité, afin de couvrir les frais de fonctionnement
+   de la mission. Vous êtes un canal par lequel le Royaume de Dieu avance
+   !
+   Votre don fait une vraie différence, merci de tout cœur pour votre
+   soutien ! (si vous souhaitez en savoir plus sur notre vision,
+   [156]cliquez ici)
+   (*) ( )
+   Don ponctuel Don mensuel
+
+   Je soutiens la mission du TopChrétien avec un don ponctuel de
+   [157]25€ [158]50€ [159]100€ [160]500€ [161]Montant libre
+
+   Je soutiens la mission du TopChrétien avec un don mensuel de
+   [162]25€ [163]50€ [164]100€ [165]500€ [166]Montant libre
+   Le saviez-vous ? À partir de 500 €, vous pouvez faire votre don en
+   plusieurs fois (jusqu’à 20 fois).
+
+   Dictionnaire Biblique de Top Bible
+     * [167]TopChrétien
+
+     [168]TopBible
+
+     [169]Entrée de dictionnaire
+
+                                    ORGUEIL
+
+                     [170] Démarrer l'expérience SELAH
+   SELAH est un mot qui signifie "pause" en hébreu, et que l'on retrouve
+                   dans les Psaumes à plusieurs reprises.
+                     [171]Recevoir à la Pensée du Jour
+
+   [172]Voir les versets relatifs
+
+   L'A. T, revient sans cesse sur l'orgueil et n'emploie pas moins de
+   douze mots pour le désigner. On voit par là qu'il lui attribue une
+   capitale importance et qu'il en connaît la complexité. L'orgueil est un
+   amour déréglé de soi-même ; il est l'état d'un homme qui se surfait,
+   s'admire dans ses oeuvres, se prête des qualités qu'il n'a pas et qui
+   s'ingénie pour que les autres partagent l'opinion qu'il a de lui-même.
+   Murray a dit : « L'humilité n'est pas tant une vertu entre d'autres que
+   la racine de toutes les vertus » ; on peut dire de même que l'orgueil
+   n'est pas tant un vice entre d'autres que la racine de tous les vices.
+   L'humilité exhale un parfum qui donne du prix à toutes les vertus ;
+   l'orgueil porte en lui un ferment qui fait éclore tous les vices.
+   L'envie, c'est l'orgueil ne pouvant prendre son parti des avantages
+   d'autrui ; la colère nous montre l'orgueil réagissant contre ce qui lui
+   résiste ; la jalousie naît de l'insupportable impression produite sur
+   l'orgueil par une supériorité qui s'impose ; le mensonge lui-même n'est
+   bien souvent que l'orgueil qui se couvre et se masque, espérant par son
+   faux visage retenir l'estime qu'il ne mérite pas. On a observé que
+   personne autant que l'orgueilleux n'aime à faire parade de son humilité
+   et des exigences de sa conscience. Cette parade, qui est contredite par
+   leur allure hautaine et par leurs mesquins partis pris, attira aux
+   pharisiens l'apostrophe de Jésus : « Hypocrites (ou comédiens), vous
+   vous faites des mines accablées, vous vous composez des visages
+   exténués par le jeûne... Vous nettoyez le dehors de la coupe et du
+   plat... Vous payez la dîme de la menthe, de l'aneth et du cumin, et
+   vous laissez de côté ce qu'il y a de plus important dans la loi : la
+   justice, la miséricorde, la bonne foi, l'amour de Dieu » ([173]Mt 6 et
+   [174]Mt 23).
+
+   « L'orgueil, dit La Rochefoucauld, n'est jamais mieux déguisé et plus
+   capable de tromper que lorsqu'il se cache sous la figure de
+   l'humilité. »
+
+   On voit les ravages que cause l'orgueil dans la vie morale. Dans la vie
+   religieuse, où l'humilité est l'introductrice de la grâce, les effets
+   de l'orgueil sont plus redoutables encore. Il est à l'âme ce que la
+   lèpre est au corps, il enlaidit, il ronge, il tue, c'est pourquoi l'on
+   rencontre des hommes qui, au début de leur carrière chrétienne,
+   exerçaient par leur enthousiasme une véritable attirance, mais qui,
+   parvenus à une situation où l'orgueil guette les âmes mal assurées, ont
+   perdu peu à peu leurs qualités spirituelles et jusqu'à la flamme de
+   leur regard.
+
+   Après ces observations générales on comprendra le rôle que l'orgueil
+   joue dans la Bible et l'insistance que met celle-ci à prémunir les
+   croyants contre l'orgueil. Dès ses premières pages, elle nous avertit
+   que l'habileté de l'infernal suggesteur fut d'ensemencer d'orgueil le
+   coeur vierge du premier couple humain : « Vous serez comme des
+   dieux ! » L'orgueil ayant levé a produit la convoitise ; celle-ci a
+   provoqué la désobéissance et l'homme a été chassé du Paradis ([175]Ge
+   3). Dans tout son effort pour sauver l'humanité perdue, Dieu se heurte
+   à l'orgueil. Prophètes, psalmistes et sages dénoncent l'orgueil comme
+   un compagnon de la méchanceté ([176]Job 20:6 [177]35:12, [178]Ps 31:19
+   [179]73:6 [180]119:51 [181]123:4, [182]Pr 21:24) et de la sottise
+   ([183]Pr 14:3, [184]Ps 59:13) ; ils lui donnent pour conséquences la
+   honte, l'humiliation, les divisions, l'effusion du sang, la ruine
+   ([185]Pr 11:2 [186]29:23 [187]13:10 [188]16:18) ; ils proclament que
+   Dieu le hait (2Ro 19:28, [189]Esa 37:29, [190]Pr 8:13 [191]16:5,
+   [192]Am 6:8) et en tirera vengeance (De 17:12 et suivants, [193]Ps
+   119:21 [194]31:24, cf. [195]Ps 94:2 [196]119:78,[197]122, [198]Esa
+   13:11 [199]2:12, [200]Os 7:10, [201]Jer 13:9-17, [202]Eze 7:10,[203]24
+   [204]16:56 etc.). On sent que pour les prophètes toute la destinée de
+   l'homme et en particulier du peuple élu se joue entre les deux pôles :
+   humilité et orgueil.
+
+   Les Apocryphes font aussi une large part à l'orgueil (cf. 2Ma 5:21
+   9:7,11 15:6, Tob 4:13, Sag 5:8, Sir 13:20 15:8 etc.). Sir 10 renferme
+   une saisissante description de l'orgueil qui paraît avoir inspiré un
+   passage du Magnificat (cf. Sir 10:14 et suivants et [205]Lu 15:1 et
+   suivants). Jésus par son attitude à l'égard des pharisiens sanctionne
+   la révélation de l'A.T. Son discours de [206]Mt 23 n'est qu'un
+   réquisitoire, et combien brûlant, contre les péchés de l'orgueil.
+   L'orgueil des pharisiens les a empêchés d'aller au baptême de
+   Jean-Baptiste ; c'est pourquoi, dit Jésus, « ils ont rendu inutile à
+   leur égard le dessein de Dieu » ([207]Lu 7:30, cf. [208]Lu 15:1).
+   L'orgueil suggère à l'homme infirme qu'il est bien portant, au pécheur
+   qu'il est juste ; Jésus déclare : « Ceux qui sont en santé n'ont pas
+   besoin de médecin mais ceux qui se portent mal. Je ne suis pas venu
+   appeler des justes mais des pécheurs » ([209]Mr 2:13-17). La parabole
+   du pharisien et du péager est ici le texte classique : ([210]Lu
+   18:9-14) « O Dieu, je te rends grâces de ce que je ne suis pas comme le
+   reste des hommes. » Celui de qui l'orgueil s'est à ce point haussé n'a
+   pas de prochain. Trop distant pour compatir à la peine des autres,
+   n'attendez pas qu'il s'accuse ou qu'il cède : s'il s'avouait faillible
+   il se diminuerait. L'orgueil installe le coeur dans l'atmosphère des
+   résistances. L'orgueil est le grand isolant. S'il nous isole des
+   autres, comment ne nous isolerait-il pas de Dieu dont on ne peut
+   approcher qu'à travers l'atmosphère de la grâce. « Quiconque s'élève
+   sera abaissé. »
+
+   Les apôtres tiennent, sur ce point, le même langage que l'A. T, et
+   Jésus. Jacques et Pierre citant [211]Pr 3:34 d'après les LXX
+   s'accordent à dire : « Dieu résiste aux orgueilleux, mais il fait grâce
+   aux humbles » ([212]Jas 4:6,[213]1Pi 5:5). Jean, se référant au récit
+   de la chute ([214]Ge 3:6), écrit : « La convoitise de la chair, la
+   convoitise des yeux et l'orgueil de la vie ne viennent pas du Père mais
+   du monde, or le monde passe... » ([215]1Jn 2:16 et suivant). On pouvait
+   s'attendre à ce que Paul, l'apôtre de la grâce, fût impitoyable pour
+   l'orgueil ([216]Ro 1:30,[217]2Ti 3:2 et suivants, cf. [218]1Ti
+   6:4,[219]1Co 5:2,[220]2Co 12:20, [221]Ro 11:20,[222]1Ti 6:17), et fît
+   un devoir aux ministres de l'Évangile de s'en tenir loin ([223]1Ti 3:6,
+   [224]Tit 1:7). Voir Humilité. Alex. W.
+   [225]Utilisé avec autorisation de Yves PETRAKIAN
+
+Vous avez aimé ? Partagez autour de vous !
+
+   73 Partages
+
+Partager par email
+
+   Cette page a été partagée par email avec succès !
+     __________________________________________________________________
+
+   Ce texte est la propriété du TopChrétien. Autorisation de diffusion
+   autorisée en précisant la source. © 2022 - www.topchretien.com
+
+   Devenez partenaire de notre mission !
+
+   Notre mission, comme vous le savez, est de continuer à annoncer
+   l'Évangile
+   et donner l'espoir à des millions de Francophones.
+
+   C'est grâce à vous, les internautes du TopChrétien, que cela est rendu
+   possible !
+
+   Comment ? Par vos dons tout simplement 🙂. Vous permettez l'annonce de
+   l'Évangile   de par le monde ! Vous envoyez la Parole de Dieu créer un
+   impact qui change les vies de milliers et milliers de personnes via les
+   outils du TopChrétien.
+
+   Nous croyons qu'avec vous, accélérer l’annonce de l’Évangile, c'est
+   possible !
+
+   Nous vous invitons à participer selon ce que le Seigneur vous met à
+   cœur. Parce que les petits dons font les grandes rivières, chaque
+   participation est essentielle. Vous pouvez y participer par un don
+   libre ou un “don spécial bâtisseur” (plus d'infos).
+
+   De tout cœur, merci. Quel que soit son montant, [226]votre don est
+   important !
+
+   Il nous permet d'accélérer l'annonce de l'Évangile et donner l’espoir !
+
+   [227][boutonsavoir%2B_cdd2023.png]       [228]
+   [boutondon_cdd2023-04.png]
+
+   [229][impactjeunesse_cdd_2023_1080x1080-10.jpg]
+   [230][emissionlive2__cdd_2023_1080x1080-1.jpg]
+   [231][emission_ce4_aurelie_barnabot_1080x1080.jpg]
+   [232][les_8__valeurs_fondamentales_du_disciple_dejesus_1080x1080.jpg]
+   [233][visueljf_passnoel_1080.jpg]
+
+S'abonner à l'auteur “”
+
+   ____________________ ____________________
+
+                              (BUTTON) Envoyer
+
+     *
+     * versets sélectionnés
+     *
+     * Vidéos et messages relatifs
+     * Les différentes versionsVersions
+     * Commentaires bibliques
+     * Hébreu / Grec
+     * Dictionnaire
+     * Versets relatifs
+     * Carte
+     * Favoris
+     * Partager
+
+   Pour ajouter un favori, merci de vous connecter : [234]Se connecter
+
+                     [235]Générer un verset illustré
+
+   Logo TopChrétien carré
+
+                         [236]Télécharger l'image
+
+Choisissez une image
+
+Personnalisez le verset
+
+   Alignement : | | | [237]Haut | [238]Milieu | [239]Bas
+
+   Taille :
+
+   Couleur : ffffff______________
+
+   Police : [Raleway_____________]
+
+Personnalisez la référence
+
+   Couleur : ffffff______________
+
+   Police : [Pacifico____________]
+
+   Taille :
+   De légères variations de mise en page peuvent apparaitre sur l'image
+   téléchargée.
+   (BUTTON) Copier --toreplace--
+
+Vous avez aimé ? Partagez autour de vous !
+
+   73 Partages
+
+Partager par email
+
+   Cette page a été partagée par email avec succès !
+
+     *
+          + [Segond 21______________________] Segond 21
+
+Versions de la Bible
+               o [240]Segond 21
+               o [241]Segond 1910
+               o [242]Segond 1978 (Colombe)
+               o [243]Parole de Vie
+               o [244]Français Courant
+               o [245]Semeur
+               o [246]Parole Vivante
+               o [247]Darby
+               o [248]Martin
+               o [249]Ostervald
+               o [250]Hébreu / Grec - Strong
+               o [251]Hébreu / Grec - Texte original
+               o [252]World English Bible
+          + [Segond 21______________________]
+
+Versions de la Bible
+               o [253]Segond 21
+               o [254]Segond 1910
+               o [255]Segond 1978 (Colombe)
+               o [256]Parole de Vie
+               o [257]Français Courant
+               o [258]Semeur
+               o [259]Parole Vivante
+               o [260]Darby
+               o [261]Martin
+               o [262]Ostervald
+               o [263]Hébreu / Grec - Strong
+               o [264]Hébreu / Grec - Texte original
+               o [265]World English Bible
+
+Autres colonnes
+               o [266]Bible annotée
+               o [267]Commentaires bibliques
+               o [268]Dictionnaire
+               o [269]Carte géographique
+               o [270]Vidéos et messages relatifs
+               o [271]Évangiles en Vidéo
+
+Versets relatifs
+
+     *
+          + [272]Genèse 3
+            1 Le serpent était le plus rusé de tous les animaux sauvages
+            que l'Eternel Dieu avait faits. Il dit à la femme : « Dieu
+            a-t-il vraiment dit : ‘Vous ne mangerez aucun des fruits des
+            arbres du jardin’ ? »
+            2 La femme répondit au serpent : « Nous mangeons du fruit des
+            arbres du jardin.
+            3 Cependant, en ce qui concerne le fruit de l'arbre qui est au
+            milieu du jardin, Dieu a dit : ‘Vous n'en mangerez pas et vous
+            n'y toucherez pas, sinon vous mourrez.’ »
+            4 Le serpent dit alors à la femme : « Vous ne mourrez
+            absolument pas,
+            5 mais Dieu sait que, le jour où vous en mangerez, vos yeux
+            s'ouvriront et vous serez comme Dieu : vous connaîtrez le bien
+            et le mal. »
+            6 La femme vit que l'arbre était porteur de fruits bons à
+            manger, agréable à regarder et précieux pour ouvrir
+            l'intelligence. Elle prit de son fruit et en mangea. Elle en
+            donna aussi à son mari qui était avec elle et il en mangea.
+            7 Leurs yeux à tous les deux s'ouvrirent, et ils prirent
+            conscience qu'ils étaient nus. Ils attachèrent des feuilles de
+            figuier ensemble et s'en firent des ceintures.
+            8 Quand ils entendirent la voix de l'Eternel Dieu en train de
+            parcourir le jardin vers le soir, l'homme et sa femme se
+            cachèrent loin de l'Eternel Dieu au milieu des arbres du
+            jardin.
+            9 Cependant, l'Eternel Dieu appela l'homme et lui dit : « Où
+            es-tu ? »
+            10 Il répondit : « J'ai entendu ta voix dans le jardin et j'ai
+            eu peur, parce que j’étais nu. Alors je me suis caché. »
+            11 L'Eternel Dieu dit : « Qui t'a révélé que tu étais nu ?
+            Est-ce que tu as mangé du fruit de l'arbre dont je t'avais
+            interdit de manger ? »
+            12 L'homme répondit : « C’est la femme que tu as mise à mes
+            côtés qui m'a donné de ce fruit, et j'en ai mangé. »
+            13 L'Eternel Dieu dit à la femme : « Pourquoi as-tu fait
+            cela ? » La femme répondit : « Le serpent m'a trompée et j'en
+            ai mangé. »
+            14 L'Eternel Dieu dit au serpent : « Puisque tu as fait cela,
+            tu seras maudit parmi tout le bétail et tous les animaux
+            sauvages. Tu marcheras sur ton ventre et tu mangeras de la
+            poussière tous les jours de ta vie.
+            15 Je mettrai l'hostilité entre toi et la femme, entre ta
+            descendance et sa descendance : celle-ci t'écrasera la tête et
+            tu lui blesseras le talon. »
+            16 Il dit à la femme : « J'augmenterai la souffrance de tes
+            grossesses. C'est dans la douleur que tu mettras des enfants
+            au monde. Tes désirs se porteront vers ton mari, mais lui, il
+            dominera sur toi. »
+            17 Il dit à l'homme : « Puisque tu as écouté ta femme et mangé
+            du fruit au sujet duquel je t'avais donné cet ordre : ‘Tu n'en
+            mangeras pas’, le sol est maudit à cause de toi. C'est avec
+            peine que tu en tireras ta nourriture tous les jours de ta
+            vie.
+            18 Il te produira des ronces et des chardons, et tu mangeras
+            de l'herbe des champs.
+            19 C'est à la sueur de ton visage que tu mangeras du pain, et
+            ce jusqu'à ce que tu retournes à la terre, puisque c’est
+            d’elle que tu as été tiré. Oui, tu es poussière et tu
+            retourneras à la poussière. »
+            20 Adam appela sa femme Eve, car elle devait être la mère de
+            tous les vivants.
+            21 L'Eternel Dieu fit des habits en peau pour Adam et pour sa
+            femme, et il les leur mit.
+            22 L'Eternel Dieu dit : « Voilà que l'homme est devenu comme
+            l'un de nous pour la connaissance du bien et du mal.
+            Maintenant, empêchons-le de tendre la main, de prendre aussi
+            du fruit de l'arbre de vie, d'en manger et de vivre
+            éternellement ! »
+            23 Ainsi, l'Eternel Dieu le chassa du jardin d'Eden pour qu'il
+            cultive la terre d'où il avait été tiré.
+            24 Après avoir chassé Adam, il posta à l'est du jardin d'Eden
+            les chérubins qui agitent une épée flamboyante pour garder le
+            chemin de l'arbre de vie.
+         [273]Job 20
+            6 Même s’il s'élevait jusqu'au ciel et si sa tête touchait les
+            nuages,
+         [274]Job 35
+            12 On a beau crier alors, Dieu ne répond pas, à cause de
+            l’arrogance des hommes mauvais.
+         [275]Psaumes 31
+            19 Qu’elles deviennent muettes, les lèvres menteuses qui
+            parlent avec insolence contre le juste, avec arrogance et
+            dédain !
+            24 Aimez l’Eternel, vous, tous ses fidèles ! L’Eternel garde
+            les croyants, mais il punit sévèrement les orgueilleux.
+         [276]Psaumes 59
+            13 Leur bouche pèche à chaque parole de leurs lèvres : qu’ils
+            soient pris dans leur propre orgueil ! Ils ne profèrent que
+            malédictions et mensonges :
+         [277]Psaumes 73
+            6 C’est pourquoi ils se parent de l’orgueil comme d’un
+            collier, la violence les enveloppe comme un manteau.
+         [278]Psaumes 94
+            2 Lève-toi, juge de la terre, paie aux orgueilleux le salaire
+            qu’ils méritent !
+         [279]Psaumes 119
+            21 Tu menaces les hommes arrogants, ces maudits qui s’égarent
+            loin de tes commandements.
+            51 Des hommes arrogants m’accablent de moqueries, mais je ne
+            m’écarte pas de ta loi.
+            78 Qu’ils soient couverts de honte, les hommes arrogants qui
+            me maltraitent sans raison ! Moi, je médite sur tes décrets.
+            122 Garantis le bien de ton serviteur ! Ne me laisse pas
+            opprimer par des hommes arrogants !
+         [280]Psaumes 123
+            4 nous en avons plus qu’assez des moqueries des orgueilleux,
+            du mépris des hautains !
+         [281]Proverbes 3
+            34 *Il se moque des moqueurs, mais il fait grâce aux humbles.
+         [282]Proverbes 8
+            13 Craindre l'Eternel, c'est détester le mal. L'arrogance,
+            l'orgueil, la voie du mal et la bouche perverse, voilà ce que
+            je déteste.
+         [283]Proverbes 11
+            2 Quand vient l'orgueil, vient aussi le mépris, mais la
+            sagesse est avec les humbles.
+         [284]Proverbes 13
+            10 Ce n’est que par orgueil qu'on attise les querelles, mais
+            la sagesse est avec ceux qui écoutent les conseils.
+         [285]Proverbes 14
+            3 La bouche du fou émet des paroles orgueilleuses, tandis que
+            les lèvres des sages les en préservent.
+         [286]Proverbes 16
+            5 Tous ceux dont le cœur est orgueilleux font horreur à
+            l'Eternel. C’est certain, ils ne resteront pas impunis.
+            18 L'arrogance précède la ruine et l'orgueil précède la chute.
+         [287]Proverbes 21
+            24 L'orgueilleux, l'insolent, voilà ce qu’on appelle un
+            moqueur ; il agit avec une arrogance débordante.
+         [288]Proverbes 29
+            23 L'orgueil d'un homme le conduira à l’humiliation, mais
+            celui qui est humble d'esprit obtiendra la gloire.
+         [289]Esaïe 2
+            12 En effet, l'Eternel, le maître de l’univers, s’est réservé
+            un jour contre tout homme orgueilleux et hautain, contre tous
+            ceux qui s'élèvent, afin qu'ils soient abaissés,
+         [290]Esaïe 13
+            11 J’interviendrai contre le monde à cause du mal commis et
+            contre les méchants à cause de leurs fautes. Je mettrai un
+            terme à l'orgueil des hommes insolents et je rabaisserai
+            l'arrogance des hommes violents.
+         [291]Esaïe 37
+            29 Oui, tu es furieux contre moi et ton arrogance est montée à
+            mes oreilles. C'est pourquoi je vais mettre mon anneau à tes
+            narines et mon mors entre tes lèvres, et je vais te faire
+            repartir par le chemin que tu as pris à l’aller.
+         [292]Jérémie 13
+            9 « Voici ce que dit l’Eternel : C'est ainsi que je détruirai
+            l'orgueil de Juda et l'orgueil immense de Jérusalem.
+            10 Ce méchant peuple refuse d'écouter mes paroles, il
+            persévère dans les penchants de son cœur et suit d'autres
+            dieux pour les servir et se prosterner devant eux. Il
+            deviendra pareil à cette ceinture, qui n'est plus bonne à
+            rien.
+            11 En effet, de même qu’une ceinture est attachée à la taille
+            d'un homme, de même je m'étais attaché toute la communauté
+            d'Israël et toute celle de Juda, déclare l'Eternel, afin
+            qu'elles soient mon peuple, ma réputation, ma gloire et mon
+            honneur, mais elles ne m'ont pas écouté.
+            12 » Tu leur diras cette parole : ‘Voici ce que dit l’Eternel,
+            le Dieu d'Israël : Toutes les outres seront remplies de
+            vin.’Et ils te diront : ‘Nous savons bien que toutes les
+            outres seront remplies de vin !’
+            13 Alors tu leur diras : ‘Voici ce que dit l’Eternel : Je vais
+            remplir d’ivresse tous les habitants de ce pays, les rois qui
+            sont assis sur le trône de David, les prêtres, les prophètes
+            et tous les habitants de Jérusalem.
+            14 Je les fracasserai les uns contre les autres, les pères et
+            les fils ensemble, déclare l'Eternel. Je ne les épargnerai
+            pas, je n'aurai aucune pitié, aucune compassion, rien ne
+            m'empêchera de les détruire.’
+            15 » Ecoutez et prêtez l'oreille, ne soyez pas orgueilleux,
+            car c’est l’Eternel qui a parlé.
+            16 Rendez gloire à l'Eternel, votre Dieu, avant qu'il ne fasse
+            venir les ténèbres, avant que vos pieds ne se blessent sur les
+            montagnes, la nuit tombée. Vous attendrez la lumière, mais il
+            l’aura changée en ombre de la mort, il instaurera d’épaisses
+            ténèbres.
+            17 Si vous n'écoutez pas cela, je pleurerai en secret, à cause
+            de votre orgueil. Mes yeux pleureront abondamment, ils
+            verseront des larmes, parce que le troupeau de l'Eternel sera
+            emmené prisonnier.
+         [293]Ezéchiel 7
+            10 » Voici le jour ! Le voici qui vient ! Ton tour arrive ! Le
+            bâton a fleuri ! L’arrogance s’est épanouie !
+            24 Je ferai venir les plus méchantes des nations et elles
+            prendront possession de leurs maisons. Je mettrai fin à
+            l'orgueil des puissants et leurs sanctuaires seront profanés.
+         [294]Ezéchiel 16
+            56 Tu ne mentionnais même pas ta sœur Sodome, à l’époque où tu
+            étais orgueilleuse,
+         [295]Osée 7
+            10 L'orgueil d'Israël témoigne contre lui : ils ne reviennent
+            pas à l'Eternel, leur Dieu, et ils ne le recherchent pas,
+            malgré tout cela.
+         [296]Amos 6
+            8 Le Seigneur, l'Eternel, l'a juré par lui-même, c’est une
+            déclaration de l'Eternel, le Dieu de l’univers : « J'ai en
+            horreur l'orgueil de Jacob, et je déteste ses palais. Je
+            livrerai la ville et tout ce qu'elle contient. »
+         [297]Matthieu 6
+            1 » Gardez-vous bien de faire des dons devant les hommes pour
+            qu’ils vous regardent ; sinon, vous n'aurez pas de récompense
+            auprès de votre Père céleste.
+            2 Donc, lorsque tu fais un don à quelqu'un, ne sonne pas de la
+            trompette devant toi, comme le font les hypocrites dans les
+            synagogues et dans les rues afin de recevoir la gloire qui
+            vient des hommes. Je vous le dis en vérité, ils ont leur
+            récompense.
+            3 Mais toi, quand tu fais un don, que ta main gauche ne sache
+            pas ce que fait ta droite,
+            4 afin que ton don se fasse en secret ; et ton Père, qui voit
+            dans le secret, te le rendra [lui-même ouvertement].
+            5 » Lorsque tu pries, ne sois pas comme les hypocrites : ils
+            aiment prier debout dans les synagogues et aux coins des rues
+            pour être vus des hommes. Je vous le dis en vérité, ils ont
+            leur récompense.
+            6 Mais toi, quand tu pries, entre dans ta chambre, ferme ta
+            porte et prie ton Père qui est là dans le lieu secret ; et ton
+            Père, qui voit dans le secret, te le rendra [ouvertement].
+            7 » En priant, ne multipliez pas les paroles comme les membres
+            des autres peuples : ils s'imaginent en effet qu'à force de
+            paroles ils seront exaucés.
+            8 Ne les imitez pas, car votre Père sait de quoi vous avez
+            besoin avant que vous le lui demandiez.
+            9 » Voici donc comment vous devez prier : ‘Notre Père
+            céleste ! Que la sainteté de ton nom soit respectée,
+            10 que ton règne vienne, que ta volonté soit faite sur la
+            terre comme au ciel.
+            11 Donne-nous aujourd'hui notre pain quotidien ;
+            12 pardonne-nous nos offenses, comme nous aussi nous
+            pardonnons à ceux qui nous ont offensés ;
+            13 ne nous expose pas à la tentation, mais délivre-nous du
+            mal, [car c'est à toi qu'appartiennent, dans tous les siècles,
+            le règne, la puissance et la gloire. Amen ! ]’
+            14 » Si vous pardonnez aux hommes leurs fautes, votre Père
+            céleste vous pardonnera aussi ;
+            15 mais si vous ne pardonnez pas aux hommes, votre Père ne
+            vous pardonnera pas non plus vos fautes.
+            16 » Lorsque vous jeûnez, ne prenez pas un air triste comme
+            les hypocrites. En effet, ils présentent un visage tout défait
+            pour montrer aux hommes qu'ils jeûnent. Je vous le dis en
+            vérité, ils ont leur récompense.
+            17 Mais toi, quand tu jeûnes, parfume ta tête et lave ton
+            visage
+            18 afin de ne pas montrer que tu jeûnes aux hommes, mais à ton
+            Père qui est là dans le lieu secret ; et ton Père, qui voit
+            dans le secret, te le rendra.
+            19 » Ne vous amassez pas des trésors sur la terre, où les
+            mites et la rouille détruisent et où les voleurs percent les
+            murs pour voler,
+            20 mais amassez-vous des trésors dans le ciel, où les mites et
+            la rouille ne détruisent pas et où les voleurs ne peuvent pas
+            percer les murs ni voler !
+            21 En effet, là où est ton trésor, là aussi sera ton cœur.
+            22 » L'œil est la lampe du corps. Si ton œil est en bon état,
+            tout ton corps sera éclairé ;
+            23 mais si ton œil est en mauvais état, tout ton corps sera
+            dans les ténèbres. Si donc la lumière qui est en toi est
+            ténèbres, combien ces ténèbres seront grandes !
+            24 » Personne ne peut servir deux maîtres, car ou il détestera
+            le premier et aimera le second, ou il s'attachera au premier
+            et méprisera le second. Vous ne pouvez pas servir Dieu et
+            l’argent.
+            25 » C'est pourquoi je vous dis : Ne vous inquiétez pas de ce
+            que vous mangerez [et boirez] pour vivre, ni de ce dont vous
+            habillerez votre corps. La vie n'est-elle pas plus que la
+            nourriture et le corps plus que le vêtement ?
+            26 Regardez les oiseaux du ciel : ils ne sèment pas et ne
+            moissonnent pas, ils n'amassent rien dans des greniers, et
+            votre Père céleste les nourrit. Ne valez-vous pas beaucoup
+            plus qu'eux ?
+            27 Qui de vous, par ses inquiétudes, peut ajouter un instant à
+            la durée de sa vie ?
+            28 Et pourquoi vous inquiéter au sujet du vêtement ? Etudiez
+            comment poussent les plus belles fleurs des champs : elles ne
+            travaillent pas et ne tissent pas ;
+            29 cependant je vous dis que Salomon lui-même, dans toute sa
+            gloire, n'a pas eu d’aussi belles tenues que l'une d'elles.
+            30 Si Dieu habille ainsi l'herbe des champs, qui existe
+            aujourd'hui et qui demain sera jetée au feu, ne le fera-t-il
+            pas bien plus volontiers pour vous, gens de peu de foi ?
+            31 Ne vous inquiétez donc pas et ne dites pas : ‘Que
+            mangerons-nous ? Que boirons-nous ? Avec quoi nous
+            habillerons-nous ?’
+            32 En effet, tout cela, ce sont les membres des autres peuples
+            qui le recherchent. Or, votre Père céleste sait que vous en
+            avez besoin.
+            33 Recherchez d'abord le royaume et la justice de Dieu, et
+            tout cela vous sera donné en plus.
+            34 Ne vous inquiétez donc pas du lendemain, car le lendemain
+            prendra soin de lui-même. A chaque jour suffit sa peine.
+         [298]Matthieu 23
+            1 Alors Jésus s'adressa à la foule et à ses disciples
+            2 en disant : « Les spécialistes de la loi et les pharisiens
+            se sont faits les interprètes de Moïse.
+            3 Tout ce qu'ils vous disent [de respecter], faites-le donc et
+            respectez-le, mais n'agissez pas comme eux, car ils disent et
+            ne font pas.
+            4 Ils lient des fardeaux pesants et les mettent sur les
+            épaules des hommes, mais ils ne veulent pas les remuer du
+            doigt.
+     *
+
+   [299]Afficher tous les 161 versets relatifs
+
+   Lecteur [300]TopMusic
+   Update Required To play the media you will need to either update your
+   browser to a recent version or update your [301]Flash plugin pour
+   Firefox & Safari - [302]Flash plugin pour Opera & Chrome.
+
+📩 Recevez "La Pensée du Jour" et nos nouveautés par email
+
+   Inscrivez-vous à notre newsletter et recevez chaque matin "La Pensée du
+   Jour", "Le verset du Jour - PassLeMot" et toutes les nouveautés
+   TopMusic, TopTV, TopMessages, etc. David Nolent, notre directeur, vous
+   dévoilera les coulisses, les projets et les nouveautés en exclusivité !
+   Restez connecté(e) !
+   ____________________
+   ____________________
+   ____________________
+   (BUTTON) Je m'inscris !
+
+   Logo TopChrétien carré Le TopChrétien a pour vocation de partager le
+   message d’Amour et de Pardon de Dieu pour tous les Hommes et
+   d'encourager les chrétiens à grandir dans leur foi, de devenir et de
+   faire des disciples de Jésus-Christ.
+
+Suivez-nous sur les réseaux !
+
+Incontournables
+
+     * [303]La Pensée du Jour
+     * [304]TopBible
+     * [305]TopMusic
+     * [306]TopTV
+     * [307]TopMessages
+     * [308]TopFormations
+     * [309]TopKids
+
+Découvrez aussi
+
+     * [310]Radio Gospel
+     * [311]PassLeMot
+     * [312]Prions Les Uns Pour Les Autres
+     * [313]MyStory
+     * [314]ConnaitreDieu
+     * [315]JeVeuxMourir
+     * [316]TopCartes
+     * [317]Merci d'exister
+
+Aller plus loin
+
+     * [318]Qui sommes-nous ?
+     * [319]Notre actualité
+     * [320]Nos applications mobiles
+     * [321]Nous contacter
+     * [322]Devenir bénévole
+     * [323]Recrutement
+     * [324]Faire un don
+     * [325]Notre logo et son utilisation
+
+   © 2023 TopChrétien
+   [326]Mentions légales - [327]Politique de confidentialité - [328]CGU -
+   [329]Mettre à jour mes préférences
+   [330]GOOGLE PLAY [331]APP STORE
+
+👋 Voulez-vous être boosté(e) chaque matin ?
+
+   Chaque jour, en exclusivité, découvrez le verset du jour, la Pensée du
+   Jour, les contenus phares et les nouveautés. 🔥
+   ____________________
+   ____________________
+   ____________________
+   (BUTTON) Je m'inscris
+
+Votre vie privée est importante pour nous
+
+   En cliquant sur le bouton « Accepter tous les cookies », vous acceptez
+   que TopChrétien utilise des traceurs (comme des cookies ou
+   l'identifiant unique de votre compte utilisateur) et traite vos données
+   à caractère personnel (comme vos données de navigation et les
+   informations renseignées dans votre compte utilisateur) dans les buts
+   suivants :
+     * Mesurer l'audience de notre service
+     * Vous permettre d'utiliser des services tiers tels que de la vidéo,
+       des cartes du monde…
+     * Vous permettre d'entrer en contact avec notre service de relation
+       aux utilisateurs.
+
+   (BUTTON) Choisir mes cookies (BUTTON) Accepter tous les cookies
+   (BUTTON) Tout refuser
+   J'autorise les cookies pour les services suivants :
+   Analyse de l'utilisation du site : [X] Google Analytics & HotJar
+   Partage des articles sur les réseaux sociaux : [X] Facebook Assistance
+   aux utilisateurs : [X] Howtank & Uservoice & ZenDesk Systèmes de
+   paiement : [X] Stripe Système d'affichage des cartes : : [X] GoogleMap
+   Services vidéo : [X] YouTube, Viméo, Facebook Si vous n'activez pas
+   certains cookies, certaines fonctionnalités du site pourraient ne pas
+   fonctionner.
+   Préférences mises à jour avec succès !
+
+                         (BUTTON) Valider mes choix
+                 [332]Voir la politique de confidentialité
+
+Références
+
+   Liens visibles :
+   1. https://www.googletagmanager.com/ns.html?id=GTM-5SHB593
+   2. https://www.topchretien.com/membre/reset_pass/?next=https://topbible.topchretien.com/dictionnaire/orgueil/
+   3. https://www.topchretien.com/membre/jwt_login/?next=https://www.topchretien.com/membre/onboardingsociallogin/?next=https://topbible.topchretien.com/dictionnaire/orgueil/&token=
+   4. https://www.topchretien.com/topsocial/pso/login/facebook/?next=https://www.topchretien.com/membre/onboardingsociallogin/?next=https%3A%2F%2Ftopbible.topchretien.com%2Fdictionnaire%2Forgueil%2F
+   5. https://www.topchretien.com/topsocial/pso/login/google-oauth2/?next=https://www.topchretien.com/membre/onboardingsociallogin/?next=https%3A%2F%2Ftopbible.topchretien.com%2Fdictionnaire%2Forgueil%2F
+   6. https://topbible.topchretien.com/dictionnaire/orgueil/
+   7. https://www.topchretien.com/membre/reset_pass/?next=https://topbible.topchretien.com/dictionnaire/orgueil/
+   8. https://www.topchretien.com/membre/register/?next=https://topbible.topchretien.com/dictionnaire/orgueil/
+   9. https://www.topchretien.com/letop/conditions-generales-dutilisation/
+  10. https://www.topchretien.com/letop/politique-de-confidentialite/
+  11. https://www.topchretien.com/topsocial/pso/login/facebook/?next=https://www.topchretien.com/membre/onboardingsociallogin/?next=https%3A%2F%2Ftopbible.topchretien.com%2Fdictionnaire%2Forgueil%2F
+  12. https://www.topchretien.com/topsocial/pso/login/google-oauth2/?next=https://www.topchretien.com/membre/onboardingsociallogin/?next=https%3A%2F%2Ftopbible.topchretien.com%2Fdictionnaire%2Forgueil%2F
+  13. https://topbible.topchretien.com/dictionnaire/orgueil/
+  14. https://www.topchretien.com/membre/reset_pass/?next=https://topbible.topchretien.com/dictionnaire/orgueil/
+  15. https://www.topchretien.com/membre/login/?next=https://topbible.topchretien.com/dictionnaire/orgueil/
+  16. https://www.topchretien.com/
+  17. https://www.topchretien.com/don/?utm_source=interne_topchretien&utm_medium=gratuit_site&utm_campaign=ponctuelle_dons_cdd23&utm_content=bouton_don&utm_term=en_direct
+  18. https://www.topchretien.com/membre/login/?next=https://topbible.topchretien.com/dictionnaire/orgueil/
+  19. https://www.topchretien.com/membre/register/?next=https://topbible.topchretien.com/dictionnaire/orgueil/
+  20. https://www.topchretien.com/don/?utm_source=interne_topchretien&utm_medium=gratuit_site&utm_campaign=ponctuelle_dons_cdd23&utm_content=bouton_don&utm_term=menu_mobile
+  21. https://www.topchretien.com/
+  22. https://lapenseedujour.topchretien.com/
+  23. https://topbible.topchretien.com/dictionnaire/orgueil/
+  24. https://www.topchretien.com/lapenseedujour/
+  25. https://lapenseedujour.topchretien.com/aujourdhui.html
+  26. https://lapenseedujour.topchretien.com/?sort=date
+  27. https://lapenseedujour.topchretien.com/?sort=date
+  28. https://www.topchretien.com/auteurs/?categories=Devotional&concept=0
+  29. https://www.topchretien.com/auteurs/?categories=Devotional&concept=0
+  30. https://lapenseedujour.topchretien.com/?sort=popularity.month&max_age=30
+  31. https://lapenseedujour.topchretien.com/?sort=popularity.month&max_age=30
+  32. https://lapenseedujour.topchretien.com/histoire-de-la-pensee-du-jour/
+  33. https://lapenseedujour.topchretien.com/equipe-de-la-pensee-du-jour/
+  34. https://topbible.topchretien.com/
+  35. https://topbible.topchretien.com/dictionnaire/orgueil/
+  36. https://topbible.topchretien.com/
+  37. https://topbible.topchretien.com/
+  38. https://topbible.topchretien.com/#lire-ou-ecouter-la-bible
+  39. https://www.topchretien.com/membre/mydetails/?categories=ReadingPlan
+  40. https://www.topchretien.com/membre/mydetails/?categories=ReadingPlan
+  41. https://topbible.topchretien.com/plans-de-lecture/
+  42. https://topbible.topchretien.com/plans-de-lecture/
+  43. https://www.topchretien.com/membre/mydetails/?categories=Favorite
+  44. https://www.topchretien.com/membre/mydetails/?categories=Favorite
+  45. https://topbible.topchretien.com/dictionnaire/?prefix=
+  46. https://topbible.topchretien.com//dictionnaire?prefix=a
+  47. https://topbible.topchretien.com//dictionnaire?prefix=b
+  48. https://topbible.topchretien.com//dictionnaire?prefix=c
+  49. https://topbible.topchretien.com//dictionnaire?prefix=d
+  50. https://topbible.topchretien.com//dictionnaire?prefix=e
+  51. https://topbible.topchretien.com//dictionnaire?prefix=f
+  52. https://topbible.topchretien.com//dictionnaire?prefix=g
+  53. https://topbible.topchretien.com//dictionnaire?prefix=h
+  54. https://topbible.topchretien.com//dictionnaire?prefix=i
+  55. https://topbible.topchretien.com//dictionnaire?prefix=j
+  56. https://topbible.topchretien.com//dictionnaire?prefix=k
+  57. https://topbible.topchretien.com//dictionnaire?prefix=l
+  58. https://topbible.topchretien.com//dictionnaire?prefix=m
+  59. https://topbible.topchretien.com//dictionnaire?prefix=n
+  60. https://topbible.topchretien.com//dictionnaire?prefix=o
+  61. https://topbible.topchretien.com//dictionnaire?prefix=p
+  62. https://topbible.topchretien.com//dictionnaire?prefix=q
+  63. https://topbible.topchretien.com//dictionnaire?prefix=r
+  64. https://topbible.topchretien.com//dictionnaire?prefix=s
+  65. https://topbible.topchretien.com//dictionnaire?prefix=t
+  66. https://topbible.topchretien.com//dictionnaire?prefix=u
+  67. https://topbible.topchretien.com//dictionnaire?prefix=v
+  68. https://topbible.topchretien.com//dictionnaire?prefix=w
+  69. https://topbible.topchretien.com//dictionnaire?prefix=x
+  70. https://topbible.topchretien.com//dictionnaire?prefix=y
+  71. https://topbible.topchretien.com//dictionnaire?prefix=z
+  72. https://toptv.topchretien.com/
+  73. https://topbible.topchretien.com/dictionnaire/orgueil/
+  74. https://toptv.topchretien.com/
+  75. https://toptv.topchretien.com/tv/
+  76. https://www.topchretien.com/letop/toptv-la-tele-chretienne-mobile/
+  77. https://www.topchretien.com/recherche/?sort=features&tags=official-toptv&categories=Video&categories=Clip&categories=VideoKid&types=Article
+  78. https://www.topchretien.com/recherche/?sort=features&tags=official-toptv&categories=Video&categories=Clip&categories=VideoKid&types=Article
+  79. https://toptv.topchretien.com/video/?sort=date&tags_exclude=official-toptv&tags_exclude=official-toptv-predic
+  80. https://toptv.topchretien.com/video/?sort=date&tags_exclude=official-toptv&tags_exclude=official-toptv-predic
+  81. https://www.topchretien.com/auteurs/?sort=popularity&tags=official-toptv
+  82. https://www.topchretien.com/auteurs/?sort=popularity&tags=official-toptv
+  83. https://www.topchretien.com/recherche/?categories=MessageLive&categories=MusicLive&categories=KidsLive&types=Article&mode=event&children=1
+  84. https://www.topchretien.com/recherche/?categories=MessageLive&categories=MusicLive&categories=KidsLive&types=Article&mode=event&children=1
+  85. https://topformations.topchretien.com/
+  86. https://topformations.topchretien.com/
+  87. https://topmessages.topchretien.com/audio/
+  88. https://topbible.topchretien.com/dictionnaire/orgueil/
+  89. https://topmessages.topchretien.com/audio/
+  90. https://topc.com/podcasts
+  91. https://topmessages.topchretien.com/?sort=popularity&categories=Audio
+  92. https://topmessages.topchretien.com/?sort=popularity&categories=Audio
+  93. https://topbible.topchretien.com/
+  94. https://topmessages.topchretien.com/
+  95. https://topbible.topchretien.com/dictionnaire/orgueil/
+  96. https://topmessages.topchretien.com/
+  97. https://www.topchretien.com/auteurs/la-question-taboue/?sort=daily_random&max_age=400
+  98. https://www.topchretien.com/auteurs/la-question-taboue/?sort=daily_random&max_age=400
+  99. https://topmessages.topchretien.com/serie-texte/
+ 100. https://topmessages.topchretien.com/serie-texte/
+ 101. https://www.topchretien.com/auteurs/?sections=topmessages&concept=0&sort=date
+ 102. https://www.topchretien.com/auteurs/?sections=topmessages&concept=0&sort=date
+ 103. https://www.topchretien.com/topmessages/?sort=date&authors=famille-co
+ 104. https://www.topchretien.com/topmessages/?sort=date&authors=famille-co
+ 105. https://www.topchretien.com/topmessages/?sort=date&authors=lifestyle
+ 106. https://www.topchretien.com/topmessages/?sort=date&authors=lifestyle
+ 107. https://www.topchretien.com/topmessages/?sort=date&authors=enseignements-bibliques
+ 108. https://www.topchretien.com/topmessages/?sort=date&authors=enseignements-bibliques
+ 109. https://topmessages.topchretien.com/?categories=Text&categories=TextSerie&categories=Audio
+ 110. https://topmessages.topchretien.com/?categories=Text&categories=TextSerie&categories=Audio
+ 111. https://topmusic.topchretien.com/
+ 112. https://topbible.topchretien.com/dictionnaire/orgueil/
+ 113. https://topmusic.topchretien.com/
+ 114. https://topmusic.topchretien.com/?sort=features&interests=1&mode=topmusic-ext&categories=Album
+ 115. https://topmusic.topchretien.com/?sort=features&interests=1&mode=topmusic-ext&categories=Album
+ 116. https://www.topchretien.com/auteurs/du-nouveau-dans-lair/
+ 117. https://www.topchretien.com/auteurs/du-nouveau-dans-lair/
+ 118. https://topmusic.topchretien.com/clip/?sort=date
+ 119. https://topmusic.topchretien.com/clip/?sort=date
+ 120. https://www.topchretien.com/membre/mydetails/?categories=Playlist
+ 121. https://topmusic.topchretien.com/?sort=date&interests=1&mode=topmusic-ext&categories=Album
+ 122. https://topmusic.topchretien.com/?sort=date&interests=1&mode=topmusic-ext&categories=Album
+ 123. https://radiogospel.fr/
+ 124. https://topmusic.topchretien.com/ressources-musicales/
+ 125. https://topmusic.topchretien.com/ressources-musicales/
+ 126. https://topmusic.topchretien.com/chant/
+ 127. https://topbible.topchretien.com/dictionnaire/orgueil/
+ 128. https://topbible.topchretien.com/dictionnaire/orgueil/
+ 129. https://3messages.fr/
+ 130. https://connaitredieu.com/
+ 131. https://comprendredieu.com/
+ 132. https://jeveuxmourir.com/
+ 133. https://mystory.me/
+ 134. https://www.topchretien.com/letop/
+ 135. https://topbible.topchretien.com/dictionnaire/orgueil/
+ 136. https://www.topchretien.com/letop/
+ 137. https://www.topchretien.com/letop/?tags=actualites
+ 138. https://www.topchretien.com/letop/?tags=actualites
+ 139. https://www.topchretien.com/letop/?tags=partenaires-du-topchretien
+ 140. https://www.topchretien.com/letop/?tags=partenaires-du-topchretien
+ 141. https://www.topchretien.com/letop/?tags=equipe-du-topchretien
+ 142. https://www.topchretien.com/letop/
+ 143. https://topbible.topchretien.com/dictionnaire/orgueil/
+ 144. https://www.topchretien.com/letop/?tags=vision-vocations-valeurs
+ 145. https://www.topchretien.com/letop/?tags=historique-et-outils
+ 146. https://www.topchretien.com/letop/?tags=fonctionnement-et-financement
+ 147. https://www.topchretien.com/letop/dernieres-parutions/
+ 148. https://www.topchretien.com/recrutement
+ 149. https://www.topchretien.com/benevoles/devenir
+ 150. https://www.topchretien.com/letop/nous-contacter/
+ 151. https://www.topchretien.com/
+ 152. https://topc.com/lsf
+ 153. https://topbible.topchretien.com/dictionnaire/orgueil/
+ 154. https://topbible.topchretien.com/dictionnaire/orgueil/
+ 155. https://www.topchretien.com/
+ 156. https://communication.topchretien.com/campagne/accelerons-annonce-evangile?utm_source=interne_topchretien&utm_medium=gratuit_site&utm_campaign=ponctuelle_dons_cdd23&utm_content=pop-in&utm_term=s1_lancement
+ 157. https://www.topchretien.com/don?utm_source=interne_topchretien&utm_medium=gratuit_site&utm_campaign=ponctuelle_dons_cdd23&utm_content=pop-in&utm_term=s1&amount_once=25
+ 158. https://www.topchretien.com/don?utm_source=interne_topchretien&utm_medium=gratuit_site&utm_campaign=ponctuelle_dons_cdd23&utm_content=pop-in&utm_term=s1&amount_once=50
+ 159. https://www.topchretien.com/don?utm_source=interne_topchretien&utm_medium=gratuit_site&utm_campaign=ponctuelle_dons_cdd23&utm_content=pop-in&utm_term=s1&amount_once=100
+ 160. https://www.topchretien.com/don?utm_source=interne_topchretien&utm_medium=gratuit_site&utm_campaign=ponctuelle_dons_cdd23&utm_content=pop-in&utm_term=s1&amount_once=500
+ 161. https://www.topchretien.com/don?utm_source=interne_topchretien&utm_medium=gratuit_site&utm_campaign=ponctuelle_dons_cdd23&utm_content=pop-in&utm_term=s1&amount_once=0
+ 162. https://www.topchretien.com/don?utm_source=interne_topchretien&utm_medium=gratuit_site&utm_campaign=ponctuelle_dons_cdd23&utm_content=pop-in&utm_term=s1&amount_monthly=25
+ 163. https://www.topchretien.com/don?utm_source=interne_topchretien&utm_medium=gratuit_site&utm_campaign=ponctuelle_dons_cdd23&utm_content=pop-in&utm_term=s1&amount_monthly=50
+ 164. https://www.topchretien.com/don?utm_source=interne_topchretien&utm_medium=gratuit_site&utm_campaign=ponctuelle_dons_cdd23&utm_content=pop-in&utm_term=s1&amount_monthly=100
+ 165. https://www.topchretien.com/don?utm_source=interne_topchretien&utm_medium=gratuit_site&utm_campaign=ponctuelle_dons_cdd23&utm_content=pop-in&utm_term=s1&amount_monthly=500
+ 166. https://www.topchretien.com/don?utm_source=interne_topchretien&utm_medium=gratuit_site&utm_campaign=ponctuelle_dons_cdd23&utm_content=pop-in&utm_term=s1&amount_monthly=0
+ 167. https://www.topchretien.com/
+ 168. https://topbible.topchretien.com/
+ 169. https://topbible.topchretien.com/dictionnaire/
+ 170. https://topbible.topchretien.com/dictionnaire/orgueil/
+ 171. https://topbible.topchretien.com/dictionnaire/orgueil/#pl_relative_zone
+ 172. https://topbible.topchretien.com/dictionnaire/orgueil/#bible-actions
+ 173. https://topbible.topchretien.com/matthieu.6.1/?to=34
+ 174. https://topbible.topchretien.com/matthieu.23.1/?to=39
+ 175. https://topbible.topchretien.com/genese.3.1/?to=24
+ 176. https://topbible.topchretien.com/job.20.6/
+ 177. https://topbible.topchretien.com/job.35.12/
+ 178. https://topbible.topchretien.com/psaumes.31.19/
+ 179. https://topbible.topchretien.com/psaumes.73.6/
+ 180. https://topbible.topchretien.com/psaumes.119.51/
+ 181. https://topbible.topchretien.com/psaumes.123.4/
+ 182. https://topbible.topchretien.com/proverbes.21.24/
+ 183. https://topbible.topchretien.com/proverbes.14.3/
+ 184. https://topbible.topchretien.com/psaumes.59.13/
+ 185. https://topbible.topchretien.com/proverbes.11.2/
+ 186. https://topbible.topchretien.com/proverbes.29.23/
+ 187. https://topbible.topchretien.com/proverbes.13.10/
+ 188. https://topbible.topchretien.com/proverbes.16.18/
+ 189. https://topbible.topchretien.com/esaie.37.29/
+ 190. https://topbible.topchretien.com/proverbes.8.13/
+ 191. https://topbible.topchretien.com/proverbes.16.5/
+ 192. https://topbible.topchretien.com/amos.6.8/
+ 193. https://topbible.topchretien.com/psaumes.119.21/
+ 194. https://topbible.topchretien.com/psaumes.31.24/
+ 195. https://topbible.topchretien.com/psaumes.94.2/
+ 196. https://topbible.topchretien.com/psaumes.119.78/
+ 197. https://topbible.topchretien.com/psaumes.119.122/
+ 198. https://topbible.topchretien.com/esaie.13.11/
+ 199. https://topbible.topchretien.com/esaie.2.12/
+ 200. https://topbible.topchretien.com/osee.7.10/
+ 201. https://topbible.topchretien.com/jeremie.13.9/?to=17
+ 202. https://topbible.topchretien.com/ezechiel.7.10/
+ 203. https://topbible.topchretien.com/ezechiel.7.24/
+ 204. https://topbible.topchretien.com/ezechiel.16.56/
+ 205. https://topbible.topchretien.com/luc.15.1/
+ 206. https://topbible.topchretien.com/matthieu.23.1/?to=39
+ 207. https://topbible.topchretien.com/luc.7.30/
+ 208. https://topbible.topchretien.com/luc.15.1/
+ 209. https://topbible.topchretien.com/marc.2.13/?to=17
+ 210. https://topbible.topchretien.com/luc.18.9/?to=14
+ 211. https://topbible.topchretien.com/proverbes.3.34/
+ 212. https://topbible.topchretien.com/jacques.4.6/
+ 213. https://topbible.topchretien.com/1-pierre.5.5/
+ 214. https://topbible.topchretien.com/genese.3.6/
+ 215. https://topbible.topchretien.com/1-jean.2.16/
+ 216. https://topbible.topchretien.com/romains.1.30/
+ 217. https://topbible.topchretien.com/2-timothee.3.2/
+ 218. https://topbible.topchretien.com/1-timothee.6.4/
+ 219. https://topbible.topchretien.com/1-corinthiens.5.2/
+ 220. https://topbible.topchretien.com/2-corinthiens.12.20/
+ 221. https://topbible.topchretien.com/romains.11.20/
+ 222. https://topbible.topchretien.com/1-timothee.6.17/
+ 223. https://topbible.topchretien.com/1-timothee.3.6/
+ 224. https://topbible.topchretien.com/tite.1.7/
+ 225. http://456-bible.123-bible.com/
+ 226. https://www.topchretien.com/don?utm_source=interne_topbible&utm_medium=gratuit_site&utm_campaign=ponctuelle_dons_cdd23&utm_content=texte_ps&utm_term=s2
+ 227. https://communication.topchretien.com/campagne/accelerons-annonce-evangile?utm_source=interne_topbible&utm_medium=gratuit_site&utm_campaign=ponctuelle_dons_cdd23&utm_content=bouton_don&utm_term=s2
+ 228. https://www.topchretien.com/don?utm_source=interne_topbible&utm_medium=gratuit_site&utm_campaign=ponctuelle_dons_cdd23&utm_content=bouton_don&utm_term=s2
+ 229. https://www.topchretien.com/letop/impactons-la-vie-des-jeunes-et-des-enfants-avec-levangile/?utm_source=interne_topbible&utm_medium=gratuit_site&utm_campaign=ponctuelle_dons_cdd23&utm_content=banniere_droite&utm_term=s2_kids
+ 230. https://www.topchretien.com/letop/topchretien-live-meme-dans-nos-epreuves-dieu-peut-agir-puissamment/
+ 231. https://toptv.topchretien.com/video/victime-dun-viol-jaide-les-femmes-a-se-reconstruire-par-aurelie-barnabot-pour-coupe-en-4/
+ 232. https://topformations.topchretien.com/history-makers-les-8-valeurs-fondamentales-du-disciple-de-jesus/
+ 233. https://www.topchretien.com/letop/topchretien-pour-noel-offrez-le-pass-jesus-festival/
+ 234. https://www.topchretien.com/membre/login/?next=https://topbible.topchretien.com/dictionnaire/orgueil/
+ 235. https://topbible.topchretien.com/dictionnaire/orgueil/
+ 236. https://topbible.topchretien.com/dictionnaire/orgueil/
+ 237. https://topbible.topchretien.com/dictionnaire/orgueil/
+ 238. https://topbible.topchretien.com/dictionnaire/orgueil/
+ 239. https://topbible.topchretien.com/dictionnaire/orgueil/
+ 240. https://topbible.topchretien.com/dictionnaire/orgueil/
+ 241. https://topbible.topchretien.com/dictionnaire/orgueil/
+ 242. https://topbible.topchretien.com/dictionnaire/orgueil/
+ 243. https://topbible.topchretien.com/dictionnaire/orgueil/
+ 244. https://topbible.topchretien.com/dictionnaire/orgueil/
+ 245. https://topbible.topchretien.com/dictionnaire/orgueil/
+ 246. https://topbible.topchretien.com/dictionnaire/orgueil/
+ 247. https://topbible.topchretien.com/dictionnaire/orgueil/
+ 248. https://topbible.topchretien.com/dictionnaire/orgueil/
+ 249. https://topbible.topchretien.com/dictionnaire/orgueil/
+ 250. https://topbible.topchretien.com/dictionnaire/orgueil/
+ 251. https://topbible.topchretien.com/dictionnaire/orgueil/
+ 252. https://topbible.topchretien.com/dictionnaire/orgueil/
+ 253. https://topbible.topchretien.com/dictionnaire/orgueil/
+ 254. https://topbible.topchretien.com/dictionnaire/orgueil/
+ 255. https://topbible.topchretien.com/dictionnaire/orgueil/
+ 256. https://topbible.topchretien.com/dictionnaire/orgueil/
+ 257. https://topbible.topchretien.com/dictionnaire/orgueil/
+ 258. https://topbible.topchretien.com/dictionnaire/orgueil/
+ 259. https://topbible.topchretien.com/dictionnaire/orgueil/
+ 260. https://topbible.topchretien.com/dictionnaire/orgueil/
+ 261. https://topbible.topchretien.com/dictionnaire/orgueil/
+ 262. https://topbible.topchretien.com/dictionnaire/orgueil/
+ 263. https://topbible.topchretien.com/dictionnaire/orgueil/
+ 264. https://topbible.topchretien.com/dictionnaire/orgueil/
+ 265. https://topbible.topchretien.com/dictionnaire/orgueil/
+ 266. https://topbible.topchretien.com/dictionnaire/orgueil/
+ 267. https://topbible.topchretien.com/dictionnaire/orgueil/
+ 268. https://topbible.topchretien.com/dictionnaire/orgueil/
+ 269. https://topbible.topchretien.com/dictionnaire/orgueil/
+ 270. https://topbible.topchretien.com/dictionnaire/orgueil/
+ 271. https://topbible.topchretien.com/dictionnaire/orgueil/
+ 272. https://topbible.topchretien.com/genese.3.1/
+ 273. https://topbible.topchretien.com/job.20.6/
+ 274. https://topbible.topchretien.com/job.35.12/
+ 275. https://topbible.topchretien.com/psaumes.31.19/
+ 276. https://topbible.topchretien.com/psaumes.59.13/
+ 277. https://topbible.topchretien.com/psaumes.73.6/
+ 278. https://topbible.topchretien.com/psaumes.94.2/
+ 279. https://topbible.topchretien.com/psaumes.119.21/
+ 280. https://topbible.topchretien.com/psaumes.123.4/
+ 281. https://topbible.topchretien.com/proverbes.3.34/
+ 282. https://topbible.topchretien.com/proverbes.8.13/
+ 283. https://topbible.topchretien.com/proverbes.11.2/
+ 284. https://topbible.topchretien.com/proverbes.13.10/
+ 285. https://topbible.topchretien.com/proverbes.14.3/
+ 286. https://topbible.topchretien.com/proverbes.16.5/
+ 287. https://topbible.topchretien.com/proverbes.21.24/
+ 288. https://topbible.topchretien.com/proverbes.29.23/
+ 289. https://topbible.topchretien.com/esaie.2.12/
+ 290. https://topbible.topchretien.com/esaie.13.11/
+ 291. https://topbible.topchretien.com/esaie.37.29/
+ 292. https://topbible.topchretien.com/jeremie.13.9/
+ 293. https://topbible.topchretien.com/ezechiel.7.10/
+ 294. https://topbible.topchretien.com/ezechiel.16.56/
+ 295. https://topbible.topchretien.com/osee.7.10/
+ 296. https://topbible.topchretien.com/amos.6.8/
+ 297. https://topbible.topchretien.com/matthieu.6.1/
+ 298. https://topbible.topchretien.com/matthieu.23.1/
+ 299. https://topbible.topchretien.com/dictionnaire/orgueil/?verses=all
+ 300. https://topmusic.topchretien.com/
+ 301. http://get.adobe.com/flashplayer/
+ 302. https://get.adobe.com/fr/flashplayer/otherversions/
+ 303. https://lapenseedujour.topchretien.com/
+ 304. https://topbible.topchretien.com/
+ 305. https://topmusic.topchretien.com/
+ 306. https://toptv.topchretien.com/
+ 307. https://topmessages.topchretien.com/
+ 308. https://topformations.topchretien.com/
+ 309. https://topkids.topchretien.com/
+ 310. https://radiogospel.fr/
+ 311. https://passlemot.topchretien.com/
+ 312. https://www.facebook.com/groups/246774482430021/
+ 313. https://mystory.me/
+ 314. https://connaitredieu.com/
+ 315. https://jeveuxmourir.com/
+ 316. https://topcartes.topchretien.com/
+ 317. https://mercidexister.com/
+ 318. https://www.topchretien.com/letop/
+ 319. https://www.topchretien.com/letop/?tags=actualites
+ 320. https://www.topchretien.com/letop/decouvrez-nos-applis/
+ 321. https://www.topchretien.com/letop/nous-contacter/
+ 322. https://www.topchretien.com/benevoles/devenir
+ 323. https://www.topchretien.com/recrutement/
+ 324. https://www.topchretien.com/don?utm_source=interne_topchretien&utm_medium=gratuit_site&utm_campaign=ponctuelle_dons_cdd23&utm_content=bouton_footer
+ 325. https://www.topchretien.com/letop/le-logo-et-son-utilisation/
+ 326. https://www.topchretien.com/letop/mentions-legales/
+ 327. https://www.topchretien.com/letop/politique-de-confidentialite/
+ 328. https://www.topchretien.com/letop/conditions-generales-dutilisation/
+ 329. https://www.topchretien.com/membre/rgpd/
+ 330. https://play.google.com/store/apps/details?id=com.topchretien.topbible&hl=fr_FR
+ 331. https://itunes.apple.com/fr/app/topbible/id1095823849?mt=8
+ 332. https://www.topchretien.com/letop/politique-de-confidentialite/
+
+   Liens cachés :
+ 334. https://topbible.topchretien.com/dictionnaire/orgueil/
+ 335. https://www.topchretien.com/
+ 336. https://www.topchretien.com/membre/login/?next=https://topbible.topchretien.com/dictionnaire/orgueil/
+ 337. https://topkids.topchretien.com/
+ 338. javascript:void(0);
+ 339. https://topkids.topchretien.com/
+ 340. https://topbible.topchretien.com/dictionnaire/orgueil/
+ 341. https://topbible.topchretien.com/dictionnaire/orgueil/?format=pdf
+ 342. https://www.facebook.com/sharer/sharer.php?u=https://topbible.topchretien.com/dictionnaire/orgueil/
+ 343. https://api.whatsapp.com/send?text=https://topbible.topchretien.com/dictionnaire/orgueil/
+ 344. https://t.me/share/url?url=https://topbible.topchretien.com/dictionnaire/orgueil/
+ 345. https://topbible.topchretien.com/dictionnaire/orgueil/
+ 346. https://topbible.topchretien.com/dictionnaire/orgueil/#!
+ 347. https://topbible.topchretien.com/dictionnaire/orgueil/
+ 348. https://communication.topchretien.com/campagne/accelerons-annonce-evangile?utm_source=interne_pdj_selah&utm_medium=gratuit_site&utm_campaign=ponctuelle_dons_cdd23&utm_content=texte_ps&utm_term=s2
+ 349. https://topbible.topchretien.com/dictionnaire/orgueil/
+ 350. https://topbible.topchretien.com/dictionnaire/orgueil/
+ 351. https://topbible.topchretien.com/dictionnaire/orgueil/
+ 352. https://topbible.topchretien.com/dictionnaire/orgueil/
+ 353. https://topbible.topchretien.com/dictionnaire/orgueil/
+ 354. https://topbible.topchretien.com/dictionnaire/orgueil/
+ 355. https://www.facebook.com/sharer/sharer.php?u=--toreplace--
+ 356. https://api.whatsapp.com/send?text=--toreplace--
+ 357. https://t.me/share/url?url=--toreplace--
+ 358. https://topbible.topchretien.com/dictionnaire/orgueil/
+ 359. https://topbible.topchretien.com/dictionnaire/orgueil/#!
+ 360. https://topbible.topchretien.com/dictionnaire/orgueil/
+ 361. https://topbible.topchretien.com/dictionnaire/orgueil/
+ 362. javascript:;
+ 363. javascript:;
+ 364. javascript:;
+ 365. javascript:;
+ 366. javascript:;
+ 367. javascript:;
+ 368. javascript:;
+ 369. javascript:;
+ 370. https://facebook.com/topchretien
+ 371. https://instagram.com/topchretien
+ 372. https://www.youtube.com/user/topchretientv?sub_confirmation=1
+ 373. https://www.tiktok.com/@topchretien_officiel
+ 374. https://topmessages.topchretien.com/podcasts/
+ 375. https://topbible.topchretien.com/dictionnaire/orgueil/
