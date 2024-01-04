@@ -42,7 +42,7 @@ cat <<EOF > "tableaux/tableau_$filename_no_ext.html"
                 <a class="navbar-item" href="tableaufr.html">Français</a>
                 <a class="navbar-item" href="tableaues.html">Espagnol</a>
                 <a class="navbar-item" href="tableautr.html">Turc</a>
-                <a class="navbar-item" href="tableauar.html">Arabe</a>
+                <a class="navbar-item" href="tableauar.html">Anglais</a>
             </div>
         </div>
     </nav>

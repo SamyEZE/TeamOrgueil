@@ -1,0 +1,592 @@
+   [1]Login
+   ____________________
+   (BUTTON) Search Button
+   ____________________
+   (BUTTON) Button
+     * [2]Home
+     * [3]Grace Notes
+     * [4]A Shepherd's Heart
+     * [5]Audio Downloads
+     * [6]Bible Studies
+          + [7]Scripture Outlines
+          + [8]eBooklets
+     * [9]Our Church
+          + [10]About Us
+          + [11]Statement of Faith
+          + [12]How to find us
+
+     * [13]Facebook Icon
+     * [14]Linkedin Icon
+     * [15]Twitter Icon
+
+
+   [16]Subscribe to Devotional
+
+Categories
+
+   [17]Series: Things God Hates (7)
+   [18]Series: The Word of God (11)
+   [19]Series: Perils of the Last Days (21)
+   [20]Series: Moses Life (7)
+   [21]Series: The Godly Man (25)
+   [22]Series: Separation (11)
+   [23]Series: Names of the Church and its Members (7)
+
+Listen To Most Current
+
+                       [24]Additional Audio Downloads
+
+Grace Notes Archive
+
+   [25]December 2023 (5)
+   [26]November 2023 (4)
+   [27]October 2023 (4)
+   [28]September 2023 (5)
+   [29]August 2023 (4)
+   [30]July 2023 (5)
+   [31]June 2023 (4)
+   [32]May 2023 (4)
+   [33]April 2023 (5)
+   [34]March 2023 (5)
+   [35]February 2023 (4)
+   [36]January 2023 (4)
+   [37]December 2022 (5)
+   [38]November 2022 (4)
+   [39]October 2022 (5)
+   [40]September 2022 (6)
+   [41]August 2022 (4)
+   [42]July 2022 (5)
+   [43]June 2022 (4)
+   [44]May 2022 (4)
+   [45]April 2022 (7)
+   [46]March 2022 (4)
+   [47]February 2022 (4)
+   [48]January 2022 (5)
+   [49]December 2021 (5)
+   [50]November 2021 (4)
+   [51]October 2021 (5)
+   [52]September 2021 (4)
+   [53]August 2021 (4)
+   [54]July 2021 (6)
+   [55]June 2021 (4)
+   [56]May 2021 (5)
+   [57]April 2021 (4)
+   [58]March 2021 (5)
+   [59]February 2021 (4)
+   [60]January 2021 (5)
+   [61]December 2020 (4)
+   [62]November 2020 (4)
+   [63]October 2020 (5)
+   [64]September 2020 (4)
+   [65]August 2020 (5)
+   [66]July 2020 (21)
+   [67]June 2020 (29)
+   [68]May 2020 (28)
+   [69]April 2020 (31)
+   [70]March 2020 (5)
+   [71]February 2020 (4)
+   [72]January 2020 (5)
+   [73]December 2019 (5)
+   [74]November 2019 (3)
+   [75]October 2019 (5)
+   [76]September 2019 (4)
+   [77]August 2019 (5)
+   [78]July 2019 (4)
+   [79]June 2019 (5)
+   [80]May 2019 (4)
+   [81]April 2019 (4)
+   [82]March 2019 (4)
+   [83]February 2019 (6)
+   [84]January 2019 (4)
+   [85]December 2018 (4)
+   [86]November 2018 (5)
+   [87]October 2018 (4)
+   [88]September 2018 (4)
+   [89]August 2018 (4)
+   [90]July 2018 (3)
+   [91]June 2018 (4)
+   [92]May 2018 (4)
+   [93]April 2018 (4)
+   [94]March 2018 (4)
+   [95]February 2018 (5)
+   [96]January 2018 (4)
+   [97]December 2017 (4)
+   [98]November 2017 (5)
+   [99]October 2017 (4)
+   [100]September 2017 (5)
+   [101]August 2017 (4)
+   [102]July 2017 (4)
+   [103]June 2017 (5)
+   [104]May 2017 (4)
+   [105]April 2017 (5)
+   [106]March 2017 (3)
+   [107]February 2017 (4)
+   [108]January 2017 (3)
+   [109]December 2016 (5)
+   [110]November 2016 (4)
+   [111]October 2016 (4)
+   [112]September 2016 (5)
+   [113]August 2016 (3)
+   [114]July 2016 (4)
+   [115]June 2016 (5)
+   [116]May 2016 (4)
+   [117]April 2016 (5)
+   [118]March 2016 (4)
+   [119]February 2016 (4)
+   [120]January 2016 (5)
+   [121]December 2015 (4)
+   [122]November 2015 (4)
+   [123]October 2015 (3)
+   [124]September 2015 (4)
+   [125]August 2015 (5)
+   [126]July 2015 (5)
+   [127]June 2015 (4)
+   [128]May 2015 (5)
+   [129]April 2015 (2)
+   [130]March 2015 (4)
+   [131]February 2015 (4)
+   [132]January 2015 (5)
+   [133]December 2014 (4)
+   [134]November 2014 (5)
+   [135]October 2014 (4)
+   [136]September 2014 (4)
+   [137]August 2014 (4)
+   [138]July 2014 (5)
+   [139]June 2014 (4)
+   [140]May 2014 (5)
+   [141]April 2014 (4)
+   [142]March 2014 (4)
+   [143]February 2014 (4)
+   [144]January 2014 (5)
+   [145]December 2013 (4)
+   [146]November 2013 (5)
+   [147]October 2013 (4)
+   [148]September 2013 (4)
+   [149]August 2013 (5)
+   [150]July 2013 (4)
+   [151]June 2013 (3)
+   [152]May 2013 (5)
+   [153]April 2013 (4)
+   [154]March 2013 (4)
+   [155]February 2013 (5)
+   [156]January 2013 (4)
+   [157]December 2012 (4)
+   [158]November 2012 (5)
+   [159]October 2012 (4)
+   [160]September 2012 (4)
+   [161]August 2012 (5)
+   [162]July 2012 (4)
+   [163]June 2012 (4)
+   [164]May 2012 (5)
+   [165]April 2012 (4)
+   [166]March 2012 (5)
+   [167]February 2012 (4)
+   [168]January 2012 (4)
+   [169]December 2011 (5)
+   [170]November 2011 (4)
+   [171]October 2011 (4)
+   [172]September 2011 (5)
+   [173]August 2011 (4)
+   [174]July 2011 (4)
+   [175]June 2011 (5)
+   [176]May 2011 (4)
+   [177]April 2011 (5)
+   [178]March 2011 (4)
+   [179]February 2011 (4)
+   [180]January 2011 (5)
+   [181]December 2010 (4)
+   [182]November 2010 (4)
+   [183]October 2010 (4)
+   [184]September 2010 (5)
+   [185]August 2010 (4)
+   [186]July 2010 (6)
+   [187]June 2010 (4)
+   [188]May 2010 (4)
+   [189]April 2010 (4)
+   [190]March 2010 (5)
+   [191]February 2010 (4)
+   [192]January 2010 (5)
+   [193]December 2009 (5)
+   [194]November 2009 (3)
+   [195]October 2009 (6)
+   [196]September 2009 (3)
+   [197]August 2009 (5)
+   [198]July 2009 (4)
+   [199]June 2009 (4)
+   [200]May 2009 (5)
+   [201]April 2009 (4)
+   [202]March 2009 (4)
+   [203]February 2009 (4)
+   [204]January 2009 (5)
+   [205]December 2008 (4)
+   [206]November 2008 (5)
+   [207]October 2008 (4)
+   [208]September 2008 (5)
+   [209]August 2008 (4)
+   [210]July 2008 (3)
+   [211]June 2008 (4)
+   [212]May 2008 (5)
+   [213]April 2008 (4)
+   [214]March 2008 (5)
+   [215]February 2008 (1)
+
+Grace Notes
+
+           [216]Current Articles | [217]Categories | [218]Search |
+                              [219]Syndication
+
+[220]12 CONSEQUENCES OF PRIDE
+
+   by Philip Owen
+
+               The Apostle John warns us that there are three sins
+   characterizing worldliness:  the lust of the eyes, the lust of the
+   flesh, and the pride of life (see I John 2:16).  It would probably be a
+   mistake to designate any one of the three as more dangerous or heinous
+   than the other two.  But what makes pride, perhaps, more insidious
+   today is that what God calls a sin is being promoted as a virtue.
+   Rather than engaging in a philosophical argument about the relative
+   sinfulness of pride, let’s briefly peruse a narrative found in Mark’s
+   Gospel (10:35-45) that illustrates twelve consequences of pride.  In
+   the passage preceding our text, the Lord had just told His disciples
+   for at least the third time (8:31; 9:31; 10:33, 34; also 9:12) that He
+   was destined to suffer and die a horrible death.  Rather than
+   sympathizing or commiserating, James and John respond to the Lord’s
+   latest announcement with a selfish and insensitive request to be given
+   the privilege of sitting on the immediate right and left of His throne
+   when the Lord sets up His kingdom.  That and what follows paint an ugly
+   portrait of pride.
+   1.  Pride makes us insensitive to the needs of others (v. 35).  So far
+   from sharing in the unimaginable burden that the Lord had just
+   confessed Himself to be facing, or even giving any indication that the
+   Lord’s words have affected them, James and John eagerly make their
+   selfish request, manifesting no concern for the sorrowful news that the
+   Lord has shared with them.
+
+
+   2.  Pride blinds us to the truths of God’s Word (v. 35).  Not only are
+   the two disciples incapable of feeling any compassion for the Lord,
+   they are incapable of processing the Lord’s words.  As profound as was
+   the revelation, it’s as if He had said to them only, “Have a nice
+   day.”  Pride deadens our hearts and minds to the truth.
+
+   3.  Pride makes us presumptuous in our expectations (v. 35).  “Do for
+   us whatever we ask of you” is the outrageous way the disciples
+   introduce their request to the Lord.  Where pride rules, any sense of
+   proportion is banished.  “Whatever we ask”?  Are those the words of
+   humble, assured faith or the bluster of someone who has failed to grasp
+   Who the Lord is and who he himself is before the Lord?
+
+   4.  Pride prompts us to make carnal requests (v. 37).  There is nothing
+   holy or righteous about the requests of these two brothers:  blind
+   ambition and delusions of grandeur seem to have usurped their hearts
+   and minds.
+
+   5.  Pride discounts the value of others (v. 37).  For some
+   two-and-a-half years, James and John had shared the blessings and
+   deprivations of following the Lord alongside ten other men that the
+   Lord had exclusively chosen to share in this sacred endeavor.  In one
+   moment, they forgot their comrades or—worse yet—did not care about them
+   in the hot flush of their own lusts.
+
+   6.  Pride makes us overestimate our abilities (v. 39).  The Lord’s
+   response to their request was to ask them if they could “drink the cup”
+   of suffering that He was about to undergo.  With brash confidence, both
+   disciples assured him that they could, neither realizing that they
+   would both turn tail and run when the heat was turned up.  Pride always
+   thinks more highly of itself than it ought to think.
+
+   7.  Pride provokes us to usurp the rightful place of others (v. 40).
+   Jesus told them that not even He (in His incarnate state) had the
+   authority to grant their presumptuous request, but that only the Father
+   could give such positions to those for whom they were prepared.  Sit at
+   the back of an assembly and wait to be asked by the host to come
+   forward had been the Lord’s earlier instruction on humility.  But the
+   disciples’ desire for self-aggrandizement had caused all such lessons
+   to flee their minds.
+
+   8.  Pride creates strife and divisions (v. 41).  Though James and John
+   instigated the problem by their injudicious request, the other
+   disciples manifested a similar lack of humility.  When they heard the
+   brothers’ request, “the ten began to feel indignant.”  Pride invariably
+   foments strife and, if left unchecked, divisions.  Sometimes the
+   divisions will be dramatic physical separations, but always there will
+   be destructive spiritual division.
+
+   9.  Pride promotes worldly behavior (v. 42).  “Do not love the world
+   nor the things in the world,” John commanded before defining those
+   things as including “the boastful pride of life” (I John 2:15, 16).  As
+   if pride were not sinful enough by itself, it opens the door to further
+   worldliness.  The worldly Gentile rulers, Jesus said, lord it over
+   their subjects.  Believers are to manifest charity and humility
+   instead.
+
+   10.  Pride manifests the opposite of what Scripture requires (vv. 43,
+   44).  The heart of a believer is to be that of a servant—a “slave of
+   all.”  Nothing could be further from that scriptural obligation than
+   the pride James and John had been manifesting.
+
+   11.  Pride is contrary to the Person and work of Christ (v. 45).
+   Christ Himself “did not come to be served, but to serve, and to give
+   His life a ransom for many.”  His followers throughout time have been
+   called to demonstrate the same character, living lives of selfless
+   service for the glory of the Lord who saved them and the blessing of
+   others.
+
+   12.  Pride stifles love (vv. 35-45).  James and John exhibited a
+   profound lack of love for the Lord, their brother disciples, and the
+   charge they had received.  Self-love—the hallmark of pride—was their
+   predominant motivation.
+
+   May the Lord deliver us from pride.
+
+   Actions: [221]E-mail | [222]Permalink
+
+   IFRAME:
+   [223]http://www.facebook.com/plugins/like.php?href=https://www.gbcurban
+   a.com/GraceNotes/tabid/122/ID/5621/PageID/5615/12-CONSEQUENCES-OF-PRIDE
+   .aspx&layout=standard&show_faces=false&width=450&action=like&colorschem
+   e=light&height=35
+
+                          Previous Page | Next Page
+
+   Grace Bible Church :-: (217) 200-2232 :-: 3900 N Willow Rd Urbana, P.O.
+   Box 303, IL 61803 :-: pastor (at) gbcurbana.com
+
+   © Copyright 2021 by Grace Bible Church [224]Terms Of Use [225]Privacy
+   Statement
+
+References
+
+   Visible links:
+   1. https://www.gbcurbana.com/login.aspx?ReturnUrl=/GraceNotes/tabid/122/ID/5621/PageID/5615/12-CONSEQUENCES-OF-PRIDE.aspx
+   2. https://www.gbcurbana.com/Home.aspx
+   3. https://www.gbcurbana.com/GraceNotes.aspx
+   4. https://www.gbcurbana.com/AShepherdsHeart.aspx
+   5. https://www.gbcurbana.com/AudioDownloads.aspx
+   6. https://www.gbcurbana.com/BibleStudies.aspx
+   7. https://www.gbcurbana.com/BibleStudies/ScriptureOutlines.aspx
+   8. https://www.gbcurbana.com/BibleStudies/eBooklets.aspx
+   9. https://www.gbcurbana.com/OurChurch.aspx
+  10. https://www.gbcurbana.com/OurChurch/AboutUs.aspx
+  11. https://www.gbcurbana.com/OurChurch/StatementofFaith.aspx
+  12. https://www.gbcurbana.com/OurChurch/Howtofindus.aspx
+  13. http://www.facebook.com/
+  14. https://www.linkedin.com/
+  15. http://www.twitter.com/
+  16. http://eepurl.com/k_keb
+  17. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/CategoryView/categoryId/7/Series-Things-God-Hates.aspx
+  18. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/CategoryView/categoryId/1/Series-The-Word-of-God.aspx
+  19. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/CategoryView/categoryId/2/Series-Perils-of-the-Last-Days.aspx
+  20. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/CategoryView/categoryId/3/Series-Moses-Life.aspx
+  21. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/CategoryView/categoryId/4/Series-The-Godly-Man.aspx
+  22. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/CategoryView/categoryId/5/Series-Separation.aspx
+  23. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/CategoryView/categoryId/6/Series-Names-of-the-Church-and-its-Members.aspx
+  24. http://www.gbcurbana.com/AudioDownloads.aspx
+  25. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/12/year/2023/Default.aspx
+  26. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/11/year/2023/Default.aspx
+  27. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/10/year/2023/Default.aspx
+  28. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/9/year/2023/Default.aspx
+  29. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/8/year/2023/Default.aspx
+  30. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/7/year/2023/Default.aspx
+  31. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/6/year/2023/Default.aspx
+  32. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/5/year/2023/Default.aspx
+  33. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/4/year/2023/Default.aspx
+  34. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/3/year/2023/Default.aspx
+  35. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/2/year/2023/Default.aspx
+  36. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/1/year/2023/Default.aspx
+  37. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/12/year/2022/Default.aspx
+  38. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/11/year/2022/Default.aspx
+  39. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/10/year/2022/Default.aspx
+  40. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/9/year/2022/Default.aspx
+  41. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/8/year/2022/Default.aspx
+  42. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/7/year/2022/Default.aspx
+  43. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/6/year/2022/Default.aspx
+  44. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/5/year/2022/Default.aspx
+  45. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/4/year/2022/Default.aspx
+  46. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/3/year/2022/Default.aspx
+  47. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/2/year/2022/Default.aspx
+  48. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/1/year/2022/Default.aspx
+  49. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/12/year/2021/Default.aspx
+  50. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/11/year/2021/Default.aspx
+  51. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/10/year/2021/Default.aspx
+  52. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/9/year/2021/Default.aspx
+  53. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/8/year/2021/Default.aspx
+  54. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/7/year/2021/Default.aspx
+  55. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/6/year/2021/Default.aspx
+  56. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/5/year/2021/Default.aspx
+  57. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/4/year/2021/Default.aspx
+  58. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/3/year/2021/Default.aspx
+  59. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/2/year/2021/Default.aspx
+  60. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/1/year/2021/Default.aspx
+  61. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/12/year/2020/Default.aspx
+  62. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/11/year/2020/Default.aspx
+  63. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/10/year/2020/Default.aspx
+  64. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/9/year/2020/Default.aspx
+  65. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/8/year/2020/Default.aspx
+  66. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/7/year/2020/Default.aspx
+  67. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/6/year/2020/Default.aspx
+  68. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/5/year/2020/Default.aspx
+  69. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/4/year/2020/Default.aspx
+  70. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/3/year/2020/Default.aspx
+  71. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/2/year/2020/Default.aspx
+  72. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/1/year/2020/Default.aspx
+  73. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/12/year/2019/Default.aspx
+  74. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/11/year/2019/Default.aspx
+  75. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/10/year/2019/Default.aspx
+  76. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/9/year/2019/Default.aspx
+  77. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/8/year/2019/Default.aspx
+  78. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/7/year/2019/Default.aspx
+  79. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/6/year/2019/Default.aspx
+  80. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/5/year/2019/Default.aspx
+  81. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/4/year/2019/Default.aspx
+  82. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/3/year/2019/Default.aspx
+  83. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/2/year/2019/Default.aspx
+  84. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/1/year/2019/Default.aspx
+  85. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/12/year/2018/Default.aspx
+  86. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/11/year/2018/Default.aspx
+  87. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/10/year/2018/Default.aspx
+  88. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/9/year/2018/Default.aspx
+  89. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/8/year/2018/Default.aspx
+  90. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/7/year/2018/Default.aspx
+  91. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/6/year/2018/Default.aspx
+  92. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/5/year/2018/Default.aspx
+  93. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/4/year/2018/Default.aspx
+  94. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/3/year/2018/Default.aspx
+  95. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/2/year/2018/Default.aspx
+  96. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/1/year/2018/Default.aspx
+  97. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/12/year/2017/Default.aspx
+  98. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/11/year/2017/Default.aspx
+  99. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/10/year/2017/Default.aspx
+ 100. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/9/year/2017/Default.aspx
+ 101. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/8/year/2017/Default.aspx
+ 102. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/7/year/2017/Default.aspx
+ 103. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/6/year/2017/Default.aspx
+ 104. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/5/year/2017/Default.aspx
+ 105. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/4/year/2017/Default.aspx
+ 106. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/3/year/2017/Default.aspx
+ 107. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/2/year/2017/Default.aspx
+ 108. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/1/year/2017/Default.aspx
+ 109. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/12/year/2016/Default.aspx
+ 110. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/11/year/2016/Default.aspx
+ 111. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/10/year/2016/Default.aspx
+ 112. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/9/year/2016/Default.aspx
+ 113. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/8/year/2016/Default.aspx
+ 114. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/7/year/2016/Default.aspx
+ 115. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/6/year/2016/Default.aspx
+ 116. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/5/year/2016/Default.aspx
+ 117. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/4/year/2016/Default.aspx
+ 118. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/3/year/2016/Default.aspx
+ 119. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/2/year/2016/Default.aspx
+ 120. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/1/year/2016/Default.aspx
+ 121. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/12/year/2015/Default.aspx
+ 122. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/11/year/2015/Default.aspx
+ 123. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/10/year/2015/Default.aspx
+ 124. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/9/year/2015/Default.aspx
+ 125. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/8/year/2015/Default.aspx
+ 126. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/7/year/2015/Default.aspx
+ 127. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/6/year/2015/Default.aspx
+ 128. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/5/year/2015/Default.aspx
+ 129. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/4/year/2015/Default.aspx
+ 130. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/3/year/2015/Default.aspx
+ 131. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/2/year/2015/Default.aspx
+ 132. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/1/year/2015/Default.aspx
+ 133. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/12/year/2014/Default.aspx
+ 134. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/11/year/2014/Default.aspx
+ 135. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/10/year/2014/Default.aspx
+ 136. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/9/year/2014/Default.aspx
+ 137. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/8/year/2014/Default.aspx
+ 138. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/7/year/2014/Default.aspx
+ 139. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/6/year/2014/Default.aspx
+ 140. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/5/year/2014/Default.aspx
+ 141. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/4/year/2014/Default.aspx
+ 142. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/3/year/2014/Default.aspx
+ 143. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/2/year/2014/Default.aspx
+ 144. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/1/year/2014/Default.aspx
+ 145. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/12/year/2013/Default.aspx
+ 146. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/11/year/2013/Default.aspx
+ 147. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/10/year/2013/Default.aspx
+ 148. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/9/year/2013/Default.aspx
+ 149. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/8/year/2013/Default.aspx
+ 150. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/7/year/2013/Default.aspx
+ 151. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/6/year/2013/Default.aspx
+ 152. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/5/year/2013/Default.aspx
+ 153. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/4/year/2013/Default.aspx
+ 154. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/3/year/2013/Default.aspx
+ 155. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/2/year/2013/Default.aspx
+ 156. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/1/year/2013/Default.aspx
+ 157. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/12/year/2012/Default.aspx
+ 158. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/11/year/2012/Default.aspx
+ 159. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/10/year/2012/Default.aspx
+ 160. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/9/year/2012/Default.aspx
+ 161. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/8/year/2012/Default.aspx
+ 162. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/7/year/2012/Default.aspx
+ 163. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/6/year/2012/Default.aspx
+ 164. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/5/year/2012/Default.aspx
+ 165. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/4/year/2012/Default.aspx
+ 166. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/3/year/2012/Default.aspx
+ 167. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/2/year/2012/Default.aspx
+ 168. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/1/year/2012/Default.aspx
+ 169. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/12/year/2011/Default.aspx
+ 170. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/11/year/2011/Default.aspx
+ 171. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/10/year/2011/Default.aspx
+ 172. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/9/year/2011/Default.aspx
+ 173. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/8/year/2011/Default.aspx
+ 174. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/7/year/2011/Default.aspx
+ 175. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/6/year/2011/Default.aspx
+ 176. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/5/year/2011/Default.aspx
+ 177. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/4/year/2011/Default.aspx
+ 178. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/3/year/2011/Default.aspx
+ 179. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/2/year/2011/Default.aspx
+ 180. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/1/year/2011/Default.aspx
+ 181. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/12/year/2010/Default.aspx
+ 182. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/11/year/2010/Default.aspx
+ 183. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/10/year/2010/Default.aspx
+ 184. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/9/year/2010/Default.aspx
+ 185. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/8/year/2010/Default.aspx
+ 186. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/7/year/2010/Default.aspx
+ 187. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/6/year/2010/Default.aspx
+ 188. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/5/year/2010/Default.aspx
+ 189. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/4/year/2010/Default.aspx
+ 190. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/3/year/2010/Default.aspx
+ 191. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/2/year/2010/Default.aspx
+ 192. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/1/year/2010/Default.aspx
+ 193. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/12/year/2009/Default.aspx
+ 194. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/11/year/2009/Default.aspx
+ 195. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/10/year/2009/Default.aspx
+ 196. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/9/year/2009/Default.aspx
+ 197. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/8/year/2009/Default.aspx
+ 198. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/7/year/2009/Default.aspx
+ 199. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/6/year/2009/Default.aspx
+ 200. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/5/year/2009/Default.aspx
+ 201. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/4/year/2009/Default.aspx
+ 202. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/3/year/2009/Default.aspx
+ 203. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/2/year/2009/Default.aspx
+ 204. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/1/year/2009/Default.aspx
+ 205. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/12/year/2008/Default.aspx
+ 206. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/11/year/2008/Default.aspx
+ 207. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/10/year/2008/Default.aspx
+ 208. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/9/year/2008/Default.aspx
+ 209. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/8/year/2008/Default.aspx
+ 210. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/7/year/2008/Default.aspx
+ 211. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/6/year/2008/Default.aspx
+ 212. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/5/year/2008/Default.aspx
+ 213. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/4/year/2008/Default.aspx
+ 214. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/3/year/2008/Default.aspx
+ 215. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/ArchiveView/month/2/year/2008/Default.aspx
+ 216. https://www.gbcurbana.com/GraceNotes.aspx
+ 217. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/Archives/Default.aspx
+ 218. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/Search/Default.aspx
+ 219. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/Syndication/Default.aspx
+ 220. https://www.gbcurbana.com/GraceNotes/tabid/122/ID/5621/PageID/5615/12-CONSEQUENCES-OF-PRIDE.aspx
+ 221. mailto:?subject=12 CONSEQUENCES OF PRIDE&body=Thought you might like this: https://www.gbcurbana.com/GraceNotes/tabid/122/ID/5621/PageID/5615/12-CONSEQUENCES-OF-PRIDE.aspx
+ 222. https://www.gbcurbana.com/GraceNotes/tabid/122/ID/5621/PageID/5615/12-CONSEQUENCES-OF-PRIDE.aspx
+ 223. http://www.facebook.com/plugins/like.php?href=https://www.gbcurbana.com/GraceNotes/tabid/122/ID/5621/PageID/5615/12-CONSEQUENCES-OF-PRIDE.aspx&layout=standard&show_faces=false&width=450&action=like&colorscheme=light&height=35
+ 224. https://www.gbcurbana.com/terms.aspx
+ 225. https://www.gbcurbana.com/privacy.aspx
+
+   Hidden links:
+ 227. https://www.gbcurbana.com/
+ 228. javascript:__doPostBack('dnn$dnnSearch$cmdSearch','')
+ 229. javascript:__doPostBack('dnn$MiniSearch1$cmdSearch','')
+ 230. https://www.gbcurbana.com/GraceNotes/tabid/122/articleType/Syndication/Default.aspx
