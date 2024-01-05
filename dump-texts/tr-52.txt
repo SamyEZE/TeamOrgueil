@@ -1,0 +1,233 @@
+   #alternate alternate
+
+   ____________________ (BUTTON) (BUTTON)
+   Sporx Logo
+     * SPORXTV
+     * TV'DE BUGN
+     * PUAN DURUMU, FKSTR
+     * QUIZ
+     * CANLI SKOR
+     * DDAA
+
+   Arama Logo
+   [sx_anasayfa_hover.png]
+
+   IFRAME: https://iddaa.sporx.com/web/scoreboard_iddaa.php
+
+Montella: "Bu bir gurur meselesi!"
+
+     * Spor Haberleri
+
+     Futbol
+
+     Sporx Ekstra
+
+     Montella: "Bu bir gurur meselesi!"
+
+   13
+
+VINCENZO MONTELLA'NIN AIKLAMALARI
+
+   A Milli Takm Teknik Direktr Vincenzo Montella, Galler ma sonras
+   aklamalar yapt. �te Montella'nn szleri...
+   VINCENZO MONTELLA'NIN AIKLAMALARI (BUTTON) Getir
+   12
+
+"REAKSYON N MUTLUYUM"
+
+   "ok zorlu bir ma geti. Beklentimizin d�nda bir �ey gemedi. Galler kendi
+   tarihinde, burada zorlu bir rakip olduunu gsterdi bir kez daha.
+   Kesinlikle ilk yarda daha fazlasn yapabilirdik ama mutluluk verici
+   taraf �u ikinci yarda reaksiyon gsterdik. Bu konuda, reaksiyon
+   gsterdiimiz iin mutluyum."
+   \ (BUTTON) Getir
+   11
+
+"HERKES N MUTLUYUM"
+
+   "zellikle etrafmzdaki btn al�anlar, bizi destekleyenler ve futbolcular
+   iin ok mutluyum ve gururluyum nk lider olarak tamamladk grubu."
+   \ (BUTTON) Getir
+   10
+
+"BURADA OLMAK GURUR MESELES"
+
+   "Beni ilk gn ardklar andan itibaren ok gururlandm. Bu bayrak iin
+   elimden geleni yapacam. Bu lke iin ne gerekiyorsa yapmaya hazrz. Burada
+   olmak gurur meselesi."
+   \ (BUTTON) Getir
+   9
+
+KURA YORUMU
+
+   "ok byk bir zevkle takip edeceiz. 3. torbadaki takmlar da fena deil.
+   Kim krsa ksn, byk bir zevkle takip edeceiz."
+   KURA YORUMU (BUTTON) Getir
+   8
+
+LKEYE MESAJI
+
+   "Bu ak�am yaptmz gibi lkemizin ruhuyla sahada olacaz her seferinde"
+   LKEYE MESAJI (BUTTON) Getir
+   7
+
+BASIN TOPLANTISI
+
+   ""Birincilik iin lider dndmz iin ok mutluyuz. Takma ok fazla iltifatlar
+   yad ve bu takma ne kadar gvendiimiz apak ortada.�Maa gelirsek, zorlu
+   bir ma olacan biliyorduk ama daha fazlasn yapabilirdik ilk yarda. En
+   nemlisi Milli Takm'a geldiimden beri grdm en gzel �eylerden birisi
+   gsterdiimiz reaksiyon. Srekli bu tarz reaksiyonlar verebilen bir gruba
+   sahip olduumuz iin ok mutluyum. kinci yardaki reaksiyon ok nemliydi.
+   Lider bitirdiimiz iin ok mutluyuz."
+   BASIN TOPLANTISI (BUTTON) Getir
+   6
+
+HAKEM AIKLAMASI
+
+   "Ben hibir zaman hakemlerle ilgili yorum yapmam. D�ardan yarglamak daha
+   kolay oluyor. Sadece baz pozisyonlarda farkl bak� asyla pozisyonlar
+   yorumladn syleyebiliriz. Dediim gibi d�arda yarglamak ok kolay. O yzden
+   hakemlerle alakal konu�maya gerek yok. Genel olarak baktnzda da hakemin
+   byk hatalar yaptn d�nmyorum"
+   HAKEM AIKLAMASI (BUTTON) Getir
+   5
+
+SANTRFORLAR
+
+   "Bu mata Cenk Tosun'un eksikliini �yle ya�adk, ilk mata 2 tane gol
+   atm�t. Enes nal da gelecek iin grebileceimiz, deerlendirebileceimiz bir
+   oyuncu. Hepimiz ne kadar deerli olduunu biliyoruz."
+   SANTRFORLAR (BUTTON) Getir
+   4
+
+TALYA LE ELEME OLASILII
+
+   "Duygusal anlamda bir �ey hissetmiyorum. nk �u an iin herhangi bir �ey
+   yok. Kuray bekleyeceiz. Byle bir �ey olursa, sonrasnda fazlasyla cevap
+   verebilirim."
+   TALYA LE ELEME OLASILII (BUTTON) Getir
+   3
+
+"BTN FUTBOLCULAR GELEBLR"
+
+   "Fikrim olarak ve bak� am olarak, btn futbolcularn geli�ebileceine
+   inanan bir hocaym. O yzden al�malarm hepsi iin oluyor. Kenan daha nce
+   bu seviyede oynamad. Bu seviyede kendini gstermesi beni sevindirdi.
+   Genel olarak btn futbolcularn geli�ime ak olduunu d�nyorum. Dier
+   futbolcularn da geli�ebileceine inanyorum."
+   \ (BUTTON) Getir
+   2
+
+"MANCHESTER'DA OYNAYACAKTIR"
+
+   "Altay Bayndr ok gen bir kaleci. Almanya manda ne kadar iyi bir kaleci
+   olduunu bir kez daha gsterdi. Manchester United'a dndnde eminim
+   oynayabilecek. Gen olmasna ramen deneyimi var. Orada da deneyim
+   kazannca, umarm devaml oynama frsat bulur. Sonrasnda ne kadar nemli bir
+   kaleci olduunu gsterecektir"
+   \ (BUTTON) Getir
+   1
+
+"GNLM RAHAT"
+
+   "Kaleci konusunda gnlm ok rahat. Uurcan da ok iyi 2 ma oynad. Mert var.
+   Mert'in ne kadar iyi bir kaleci olduunu biliyoruz. Erta var. Erta da 2
+   senedir ne kadar iyi bir kaleci olduunu gsteriyor. O yzden bu konuda
+   gnlm rahat"
+   \ (BUTTON) Getir
+
+   IFRAME:
+   https://www.sporx.com/_iframe/galeri_cnt.php?id=68309&nc=1704491184
+
+   Bunlara da gzatabilirsiniz
+     * ...
+
+Berkanl Genoa, 90+5'te ykld!
+     * ...
+
+Ali Ko, Sper Kupa ma iin tarih verdi
+     * ...
+
+Ali Ko: "Cumhurba�kan'na mektup yazdm"
+     * ...
+
+Ali Ko'tan Krunic ve Savic aklamas!
+     * ...
+
+Ali Ko'tan Sper Kupa iin olay yaratan aklamalar
+     * ...
+
+Tayyip Talha Sanu 9 ay sonra sahalara dnd!
+     * ...
+
+Faruk Koca'nn cezas onand!
+     * ...
+
+Semih Klsoy yine bo� gemedi
+     * ...
+
+Ali Ko: "Aday olmayacam"
+     * ...
+
+Salih Uan cezal duruma d�t!
+     * ...
+
+Fatih Tekke: "Aldmz 1 puan gayet deerli"
+     * ...
+
+Sergen Yaln: "Gol iptali ar bir karard"
+     * ...
+
+Be�ikta� i sahada galibiyeti unuttu
+     * ...
+
+CANLI: Real Madrid - Anadolu Efes
+     * ...
+
+Sami Uurlu: "Milli takmda olmak istiyor"
+     * ...
+
+Rdvan Dilmen'den Be�ikta�'a sert ele�tiri
+     * ...
+
+Tayyip Talha Sanu: "Rizespor man kazanmak istiyoruz"
+     * ...
+
+Serdar Topraktepe: "Ba�aramadk, zgnz"
+     * ...
+
+Nuno Da Costa: "Sahada istediimizi yaptk"
+     * ...
+
+Semih Klsoy: "Kazanmamz gerekiyordu"
+
+   Benzer Haberler
+     * Feyyaz Uar'dan fla� teknik direktr aklamas!
+     * Rdvan Dilmen'den Be�ikta� deerlendirmesi
+     * Dnyada biten transferler (2023/24 K� Transfer Dnemi)
+     * Sporcularn Instagram payla�mlar
+     * Servet etin: "Yunus Emre'yi sahiplenen le� kargalar var!"
+     * Servet etin: "Yunus Emre'yi sahiplenen le� kargalar var!"
+     * Dortmund'un Ferdi Kadolu plan!
+     * Fenerbahe'de hazrlklar sryor
+     * Ali Ko'tan fla� aklamalar!
+     * Trkiye'de biten transferler (2023/24 K� Transfer Dnemi)
+     * Florya'da keyifler yerinde!
+     * Fenerbahe'ye dev golc: Sasa Kalajdzic
+     * Fenerbahe'ye dev golc: Sasa Kalajdzic
+     * Giovanni van Bronckhorst'a ho� geldin hediyesi
+     * Giovanni van Bronckhorst'a ho� geldin hediyesi
+     * Galatasaray'dan Nelsson ve Boey karar!
+     * Galatasaray'dan Nelsson ve Boey karar!
+     * Galatasaray, Rashica'y mumla arad!
+     * Galatasaray, Rashica'y mumla arad!
+     * Giovanni van Bronckhorst�un ilk transfer Fenerbahe'den
+     * Giovanni van Bronckhorst�un ilk transfer Fenerbahe'den
+     * Hakim Ziyech iin olay szler: "n�allah gider"
+     * Hakim Ziyech iin olay szler: "n�allah gider"
+     * Mauro Icardi'nin son durumu belli oldu
+
+   saniye ierisindeki otomatik olarak kapanacaktr.
+
+   [p?c1=2&c2=21019629&cv=2.0&cj=1]
