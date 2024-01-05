@@ -1,0 +1,1953 @@
+
+<!DOCTYPE html>
+<html lang="fr-FR"    data-webp >
+
+
+<head>
+        <meta charset="utf-8"/><script type="text/javascript">(window.NREUM||(NREUM={})).init={ajax:{deny_list:["bam.nr-data.net"]}};(window.NREUM||(NREUM={})).loader_config={licenseKey:"a9443b4dd8",applicationID:"604860747"};;/*! For license information please see nr-loader-rum-1.249.0.min.js.LICENSE.txt */
+(()=>{var e,t,r={234:(e,t,r)=>{"use strict";r.d(t,{P_:()=>v,Mt:()=>b,C5:()=>s,DL:()=>A,OP:()=>S,lF:()=>T,Yu:()=>x,Dg:()=>m,CX:()=>c,GE:()=>_,sU:()=>R});var n=r(8632),i=r(9567);const a={beacon:n.ce.beacon,errorBeacon:n.ce.errorBeacon,licenseKey:void 0,applicationID:void 0,sa:void 0,queueTime:void 0,applicationTime:void 0,ttGuid:void 0,user:void 0,account:void 0,product:void 0,extra:void 0,jsAttributes:{},userAttributes:void 0,atts:void 0,transactionName:void 0,tNamePlain:void 0},o={};function s(e){if(!e)throw new Error("All info objects require an agent identifier!");if(!o[e])throw new Error("Info for ".concat(e," was never set"));return o[e]}function c(e,t){if(!e)throw new Error("All info objects require an agent identifier!");o[e]=(0,i.D)(t,a);const r=(0,n.ek)(e);r&&(r.info=o[e])}const u=e=>{if(!e||"string"!=typeof e)return!1;try{document.createDocumentFragment().querySelector(e)}catch{return!1}return!0};var d=r(7056),l=r(50);const f="[data-nr-mask]",g=()=>{const e={mask_selector:"*",block_selector:"[data-nr-block]",mask_input_options:{color:!1,date:!1,"datetime-local":!1,email:!1,month:!1,number:!1,range:!1,search:!1,tel:!1,text:!1,time:!1,url:!1,week:!1,textarea:!1,select:!1,password:!0}};return{feature_flags:[],proxy:{assets:void 0,beacon:void 0},privacy:{cookies_enabled:!0},ajax:{deny_list:void 0,block_internal:!0,enabled:!0,harvestTimeSeconds:10,autoStart:!0},distributed_tracing:{enabled:void 0,exclude_newrelic_header:void 0,cors_use_newrelic_header:void 0,cors_use_tracecontext_headers:void 0,allowed_origins:void 0},session:{domain:void 0,expiresMs:d.oD,inactiveMs:d.Hb},ssl:void 0,obfuscate:void 0,jserrors:{enabled:!0,harvestTimeSeconds:10,autoStart:!0},metrics:{enabled:!0,autoStart:!0},page_action:{enabled:!0,harvestTimeSeconds:30,autoStart:!0},page_view_event:{enabled:!0,autoStart:!0},page_view_timing:{enabled:!0,harvestTimeSeconds:30,long_task:!1,autoStart:!0},session_trace:{enabled:!0,harvestTimeSeconds:10,autoStart:!0},harvest:{tooManyRequestsDelay:60},session_replay:{autoStart:!0,enabled:!1,harvestTimeSeconds:60,sampling_rate:50,error_sampling_rate:50,collect_fonts:!1,inline_images:!1,inline_stylesheet:!0,mask_all_inputs:!0,get mask_text_selector(){return e.mask_selector},set mask_text_selector(t){u(t)?e.mask_selector="".concat(t,",").concat(f):""===t||null===t?e.mask_selector=f:(0,l.Z)("An invalid session_replay.mask_selector was provided. '*' will be used.",t)},get block_class(){return"nr-block"},get ignore_class(){return"nr-ignore"},get mask_text_class(){return"nr-mask"},get block_selector(){return e.block_selector},set block_selector(t){u(t)?e.block_selector+=",".concat(t):""!==t&&(0,l.Z)("An invalid session_replay.block_selector was provided and will not be used",t)},get mask_input_options(){return e.mask_input_options},set mask_input_options(t){t&&"object"==typeof t?e.mask_input_options={...t,password:!0}:(0,l.Z)("An invalid session_replay.mask_input_option was provided and will not be used",t)}},spa:{enabled:!0,harvestTimeSeconds:10,autoStart:!0}}},p={},h="All configuration objects require an agent identifier!";function v(e){if(!e)throw new Error(h);if(!p[e])throw new Error("Configuration for ".concat(e," was never set"));return p[e]}function m(e,t){if(!e)throw new Error(h);p[e]=(0,i.D)(t,g());const r=(0,n.ek)(e);r&&(r.init=p[e])}function b(e,t){if(!e)throw new Error(h);var r=v(e);if(r){for(var n=t.split("."),i=0;i<n.length-1;i++)if("object"!=typeof(r=r[n[i]]))return;r=r[n[n.length-1]]}return r}const y={accountID:void 0,trustKey:void 0,agentID:void 0,licenseKey:void 0,applicationID:void 0,xpid:void 0},w={};function A(e){if(!e)throw new Error("All loader-config objects require an agent identifier!");if(!w[e])throw new Error("LoaderConfig for ".concat(e," was never set"));return w[e]}function _(e,t){if(!e)throw new Error("All loader-config objects require an agent identifier!");w[e]=(0,i.D)(t,y);const r=(0,n.ek)(e);r&&(r.loader_config=w[e])}const x=(0,n.mF)().o;var D=r(385),k=r(6818);const E={buildEnv:k.Re,customTransaction:void 0,disabled:!1,distMethod:k.gF,isolatedBacklog:!1,loaderType:void 0,maxBytes:3e4,offset:Math.floor(D._A?.performance?.timeOrigin||D._A?.performance?.timing?.navigationStart||Date.now()),onerror:void 0,origin:""+D._A.location,ptid:void 0,releaseIds:{},session:void 0,xhrWrappable:"function"==typeof D._A.XMLHttpRequest?.prototype?.addEventListener,version:k.q4,denyList:void 0},j={};function S(e){if(!e)throw new Error("All runtime objects require an agent identifier!");if(!j[e])throw new Error("Runtime for ".concat(e," was never set"));return j[e]}function R(e,t){if(!e)throw new Error("All runtime objects require an agent identifier!");j[e]=(0,i.D)(t,E);const r=(0,n.ek)(e);r&&(r.runtime=j[e])}function T(e){return function(e){try{const t=s(e);return!!t.licenseKey&&!!t.errorBeacon&&!!t.applicationID}catch(e){return!1}}(e)}},9567:(e,t,r)=>{"use strict";r.d(t,{D:()=>i});var n=r(50);function i(e,t){try{if(!e||"object"!=typeof e)return(0,n.Z)("Setting a Configurable requires an object as input");if(!t||"object"!=typeof t)return(0,n.Z)("Setting a Configurable requires a model to set its initial properties");const r=Object.create(Object.getPrototypeOf(t),Object.getOwnPropertyDescriptors(t)),a=0===Object.keys(r).length?e:r;for(let o in a)if(void 0!==e[o])try{Array.isArray(e[o])&&Array.isArray(t[o])?r[o]=Array.from(new Set([...e[o],...t[o]])):"object"==typeof e[o]&&"object"==typeof t[o]?r[o]=i(e[o],t[o]):r[o]=e[o]}catch(e){(0,n.Z)("An error occurred while setting a property of a Configurable",e)}return r}catch(e){(0,n.Z)("An error occured while setting a Configurable",e)}}},6818:(e,t,r)=>{"use strict";r.d(t,{Re:()=>i,gF:()=>a,q4:()=>n});const n="1.249.0",i="PROD",a="CDN"},385:(e,t,r)=>{"use strict";r.d(t,{Nk:()=>d,Tt:()=>s,_A:()=>a,cv:()=>l,iS:()=>o,il:()=>n,ux:()=>c,v6:()=>i,w1:()=>u});const n="undefined"!=typeof window&&!!window.document,i="undefined"!=typeof WorkerGlobalScope&&("undefined"!=typeof self&&self instanceof WorkerGlobalScope&&self.navigator instanceof WorkerNavigator||"undefined"!=typeof globalThis&&globalThis instanceof WorkerGlobalScope&&globalThis.navigator instanceof WorkerNavigator),a=n?window:"undefined"!=typeof WorkerGlobalScope&&("undefined"!=typeof self&&self instanceof WorkerGlobalScope&&self||"undefined"!=typeof globalThis&&globalThis instanceof WorkerGlobalScope&&globalThis),o=(a?.document?.readyState,Boolean("hidden"===a?.document?.visibilityState)),s=(a?.location,/iPad|iPhone|iPod/.test(a.navigator?.userAgent)),c=s&&"undefined"==typeof SharedWorker,u=((()=>{const e=a.navigator?.userAgent?.match(/Firefox[/\s](\d+\.\d+)/);Array.isArray(e)&&e.length>=2&&e[1]})(),Boolean(n&&window.document.documentMode)),d=!!a.navigator?.sendBeacon,l=Math.floor(a?.performance?.timeOrigin||a?.performance?.timing?.navigationStart||Date.now())},1117:(e,t,r)=>{"use strict";r.d(t,{w:()=>a});var n=r(50);const i={agentIdentifier:"",ee:void 0};class a{constructor(e){try{if("object"!=typeof e)return(0,n.Z)("shared context requires an object as input");this.sharedContext={},Object.assign(this.sharedContext,i),Object.entries(e).forEach((e=>{let[t,r]=e;Object.keys(i).includes(t)&&(this.sharedContext[t]=r)}))}catch(e){(0,n.Z)("An error occured while setting SharedContext",e)}}}},8e3:(e,t,r)=>{"use strict";r.d(t,{L:()=>d,R:()=>c});var n=r(8325),i=r(1284),a=r(4322),o=r(3325);const s={};function c(e,t){const r={staged:!1,priority:o.p[t]||0};u(e),s[e].get(t)||s[e].set(t,r)}function u(e){e&&(s[e]||(s[e]=new Map))}function d(){let e=arguments.length>0&&void 0!==arguments[0]?arguments[0]:"",t=arguments.length>1&&void 0!==arguments[1]?arguments[1]:"feature";if(u(e),!e||!s[e].get(t))return o(t);s[e].get(t).staged=!0;const r=[...s[e]];function o(t){const r=e?n.ee.get(e):n.ee,o=a.X.handlers;if(r.backlog&&o){var s=r.backlog[t],c=o[t];if(c){for(var u=0;s&&u<s.length;++u)l(s[u],c);(0,i.D)(c,(function(e,t){(0,i.D)(t,(function(t,r){r[0].on(e,r[1])}))}))}delete o[t],r.backlog[t]=null,r.emit("drain-"+t,[])}}r.every((e=>{let[t,r]=e;return r.staged}))&&(r.sort(((e,t)=>e[1].priority-t[1].priority)),r.forEach((t=>{let[r]=t;s[e].delete(r),o(r)})))}function l(e,t){var r=e[1];(0,i.D)(t[r],(function(t,r){var n=e[0];if(r[0]===n){var i=r[1],a=e[3],o=e[2];i.apply(a,o)}}))}},8325:(e,t,r)=>{"use strict";r.d(t,{A:()=>c,ee:()=>u});var n=r(8632),i=r(2210),a=r(234);class o{constructor(e){this.contextId=e}}var s=r(3117);const c="nr@context:".concat(s.a),u=function e(t,r){var n={},s={},d={},f=!1;try{f=16===r.length&&(0,a.OP)(r).isolatedBacklog}catch(e){}var g={on:h,addEventListener:h,removeEventListener:function(e,t){var r=n[e];if(!r)return;for(var i=0;i<r.length;i++)r[i]===t&&r.splice(i,1)},emit:function(e,r,n,i,a){!1!==a&&(a=!0);if(u.aborted&&!i)return;t&&a&&t.emit(e,r,n);for(var o=p(n),c=v(e),d=c.length,l=0;l<d;l++)c[l].apply(o,r);var f=b()[s[e]];f&&f.push([g,e,r,o]);return o},get:m,listeners:v,context:p,buffer:function(e,t){const r=b();if(t=t||"feature",g.aborted)return;Object.entries(e||{}).forEach((e=>{let[n,i]=e;s[i]=t,t in r||(r[t]=[])}))},abort:l,aborted:!1,isBuffering:function(e){return!!b()[s[e]]},debugId:r,backlog:f?{}:t&&"object"==typeof t.backlog?t.backlog:{}};return g;function p(e){return e&&e instanceof o?e:e?(0,i.X)(e,c,(()=>new o(c))):new o(c)}function h(e,t){n[e]=v(e).concat(t)}function v(e){return n[e]||[]}function m(t){return d[t]=d[t]||e(g,t)}function b(){return g.backlog}}(void 0,"globalEE"),d=(0,n.fP)();function l(){u.aborted=!0,u.backlog={}}d.ee||(d.ee=u)},5546:(e,t,r)=>{"use strict";r.d(t,{E:()=>n,p:()=>i});var n=r(8325).ee.get("handle");function i(e,t,r,i,a){a?(a.buffer([e],i),a.emit(e,t,r)):(n.buffer([e],i),n.emit(e,t,r))}},4322:(e,t,r)=>{"use strict";r.d(t,{X:()=>a});var n=r(5546);a.on=o;var i=a.handlers={};function a(e,t,r,a){o(a||n.E,i,e,t,r)}function o(e,t,r,i,a){a||(a="feature"),e||(e=n.E);var o=t[a]=t[a]||{};(o[r]=o[r]||[]).push([e,i])}},3239:(e,t,r)=>{"use strict";r.d(t,{bP:()=>s,iz:()=>c,m$:()=>o});var n=r(385);let i=!1,a=!1;try{const e={get passive(){return i=!0,!1},get signal(){return a=!0,!1}};n._A.addEventListener("test",null,e),n._A.removeEventListener("test",null,e)}catch(e){}function o(e,t){return i||a?{capture:!!e,passive:i,signal:t}:!!e}function s(e,t){let r=arguments.length>2&&void 0!==arguments[2]&&arguments[2],n=arguments.length>3?arguments[3]:void 0;window.addEventListener(e,t,o(r,n))}function c(e,t){let r=arguments.length>2&&void 0!==arguments[2]&&arguments[2],n=arguments.length>3?arguments[3]:void 0;document.addEventListener(e,t,o(r,n))}},3117:(e,t,r)=>{"use strict";r.d(t,{a:()=>n});const n=(0,r(4402).Rl)()},4402:(e,t,r)=>{"use strict";r.d(t,{Rl:()=>o,ky:()=>s});var n=r(385);const i="xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx";function a(e,t){return e?15&e[t]:16*Math.random()|0}function o(){const e=n._A?.crypto||n._A?.msCrypto;let t,r=0;return e&&e.getRandomValues&&(t=e.getRandomValues(new Uint8Array(30))),i.split("").map((e=>"x"===e?a(t,r++).toString(16):"y"===e?(3&a()|8).toString(16):e)).join("")}function s(e){const t=n._A?.crypto||n._A?.msCrypto;let r,i=0;t&&t.getRandomValues&&(r=t.getRandomValues(new Uint8Array(e)));const o=[];for(var s=0;s<e;s++)o.push(a(r,++i).toString(16));return o.join("")}},7056:(e,t,r)=>{"use strict";r.d(t,{Bq:()=>n,Hb:()=>a,oD:()=>i});const n="NRBA",i=144e5,a=18e5},7894:(e,t,r)=>{"use strict";function n(){return Math.round(performance.now())}r.d(t,{z:()=>n})},50:(e,t,r)=>{"use strict";function n(e,t){"function"==typeof console.warn&&(console.warn("New Relic: ".concat(e)),t&&console.warn(t))}r.d(t,{Z:()=>n})},2825:(e,t,r)=>{"use strict";r.d(t,{N:()=>d,T:()=>l});var n=r(8325),i=r(5546),a=r(3325),o=r(385);const s="newrelic";const c={stn:[a.D.sessionTrace],err:[a.D.jserrors,a.D.metrics],ins:[a.D.pageAction],spa:[a.D.spa],sr:[a.D.sessionReplay,a.D.sessionTrace]},u=new Set;function d(e,t){const r=n.ee.get(t);e&&"object"==typeof e&&(u.has(t)||(Object.entries(e).forEach((e=>{let[t,n]=e;c[t]?c[t].forEach((e=>{n?(0,i.p)("feat-"+t,[],void 0,e,r):(0,i.p)("block-"+t,[],void 0,e,r),(0,i.p)("rumresp-"+t,[Boolean(n)],void 0,e,r)})):n&&(0,i.p)("feat-"+t,[],void 0,void 0,r),l[t]=Boolean(n)})),Object.keys(c).forEach((e=>{void 0===l[e]&&(c[e]?.forEach((t=>(0,i.p)("rumresp-"+e,[!1],void 0,t,r))),l[e]=!1)})),u.add(t),function(){let e=arguments.length>0&&void 0!==arguments[0]?arguments[0]:{};try{o._A.dispatchEvent(new CustomEvent(s,{detail:e}))}catch(e){}}({loaded:!0})))}const l={}},2210:(e,t,r)=>{"use strict";r.d(t,{X:()=>i});var n=Object.prototype.hasOwnProperty;function i(e,t,r){if(n.call(e,t))return e[t];var i=r();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:i,writable:!0,enumerable:!1}),i}catch(e){}return e[t]=i,i}},1284:(e,t,r)=>{"use strict";r.d(t,{D:()=>n});const n=(e,t)=>Object.entries(e||{}).map((e=>{let[r,n]=e;return t(r,n)}))},4351:(e,t,r)=>{"use strict";r.d(t,{P:()=>a});var n=r(8325);const i=()=>{const e=new WeakSet;return(t,r)=>{if("object"==typeof r&&null!==r){if(e.has(r))return;e.add(r)}return r}};function a(e){try{return JSON.stringify(e,i())}catch(e){try{n.ee.emit("internal-error",[e])}catch(e){}}}},3960:(e,t,r)=>{"use strict";r.d(t,{KB:()=>o,b2:()=>a});var n=r(3239);function i(){return"undefined"==typeof document||"complete"===document.readyState}function a(e,t){if(i())return e();(0,n.bP)("load",e,t)}function o(e){if(i())return e();(0,n.iz)("DOMContentLoaded",e)}},8632:(e,t,r)=>{"use strict";r.d(t,{EZ:()=>d,ce:()=>a,ek:()=>u,fP:()=>o,gG:()=>l,h5:()=>c,mF:()=>s});var n=r(7894),i=r(385);const a={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net"};function o(){return i._A.NREUM||(i._A.NREUM={}),void 0===i._A.newrelic&&(i._A.newrelic=i._A.NREUM),i._A.NREUM}function s(){let e=o();return e.o||(e.o={ST:i._A.setTimeout,SI:i._A.setImmediate,CT:i._A.clearTimeout,XHR:i._A.XMLHttpRequest,REQ:i._A.Request,EV:i._A.Event,PR:i._A.Promise,MO:i._A.MutationObserver,FETCH:i._A.fetch}),e}function c(e,t){let r=o();r.initializedAgents??={},t.initializedAt={ms:(0,n.z)(),date:new Date},r.initializedAgents[e]=t}function u(e){let t=o();return t.initializedAgents?.[e]}function d(e,t){o()[e]=t}function l(){return function(){let e=o();const t=e.info||{};e.info={beacon:a.beacon,errorBeacon:a.errorBeacon,...t}}(),function(){let e=o();const t=e.init||{};e.init={...t}}(),s(),function(){let e=o();const t=e.loader_config||{};e.loader_config={...t}}(),o()}},7956:(e,t,r)=>{"use strict";r.d(t,{N:()=>i});var n=r(3239);function i(e){let t=arguments.length>1&&void 0!==arguments[1]&&arguments[1],r=arguments.length>2?arguments[2]:void 0,i=arguments.length>3?arguments[3]:void 0;(0,n.iz)("visibilitychange",(function(){if(t)return void("hidden"===document.visibilityState&&e());e(document.visibilityState)}),r,i)}},3081:(e,t,r)=>{"use strict";r.d(t,{gF:()=>a,mY:()=>i,t9:()=>n,vz:()=>s,xS:()=>o});const n=r(3325).D.metrics,i="sm",a="cm",o="storeSupportabilityMetrics",s="storeEventMetrics"},7633:(e,t,r)=>{"use strict";r.d(t,{t:()=>n});const n=r(3325).D.pageViewEvent},9251:(e,t,r)=>{"use strict";r.d(t,{t:()=>n});const n=r(3325).D.pageViewTiming},5938:(e,t,r)=>{"use strict";r.d(t,{W:()=>i});var n=r(8325);class i{constructor(e,t,r){this.agentIdentifier=e,this.aggregator=t,this.ee=n.ee.get(e),this.featureName=r,this.blocked=!1}}},7530:(e,t,r)=>{"use strict";r.d(t,{j:()=>b});var n=r(3325),i=r(234),a=r(5546),o=r(8325),s=r(7894),c=r(8e3),u=r(3960),d=r(385),l=r(50),f=r(3081),g=r(8632);function p(){const e=(0,g.gG)();["setErrorHandler","finished","addToTrace","addRelease","addPageAction","setCurrentRouteName","setPageViewName","setCustomAttribute","interaction","noticeError","setUserId","setApplicationVersion","start","recordReplay","pauseReplay"].forEach((t=>{e[t]=function(){for(var r=arguments.length,n=new Array(r),i=0;i<r;i++)n[i]=arguments[i];return function(t){for(var r=arguments.length,n=new Array(r>1?r-1:0),i=1;i<r;i++)n[i-1]=arguments[i];let a=[];return Object.values(e.initializedAgents).forEach((e=>{e.exposed&&e.api[t]&&a.push(e.api[t](...n))})),a.length>1?a:a[0]}(t,...n)}}))}var h=r(2825);const v=e=>{const t=e.startsWith("http");e+="/",r.p=t?e:"https://"+e};let m=!1;function b(e){let t=arguments.length>1&&void 0!==arguments[1]?arguments[1]:{},b=arguments.length>2?arguments[2]:void 0,y=arguments.length>3?arguments[3]:void 0,{init:w,info:A,loader_config:_,runtime:x={loaderType:b},exposed:D=!0}=t;const k=(0,g.gG)();A||(w=k.init,A=k.info,_=k.loader_config),(0,i.Dg)(e.agentIdentifier,w||{}),(0,i.GE)(e.agentIdentifier,_||{}),A.jsAttributes??={},d.v6&&(A.jsAttributes.isWorker=!0),(0,i.CX)(e.agentIdentifier,A);const E=(0,i.P_)(e.agentIdentifier),j=[A.beacon,A.errorBeacon];m||(E.proxy.assets&&(v(E.proxy.assets),j.push(E.proxy.assets)),E.proxy.beacon&&j.push(E.proxy.beacon),p(),(0,g.EZ)("activatedFeatures",h.T)),x.denyList=[...E.ajax.deny_list||[],...E.ajax.block_internal?j:[]],(0,i.sU)(e.agentIdentifier,x),void 0===e.api&&(e.api=function(e,t){t||(0,c.R)(e,"api");const g={};var p=o.ee.get(e),h=p.get("tracer"),v="api-",m=v+"ixn-";function b(t,r,n,a){const o=(0,i.C5)(e);return null===r?delete o.jsAttributes[t]:(0,i.CX)(e,{...o,jsAttributes:{...o.jsAttributes,[t]:r}}),A(v,n,!0,a||null===r?"session":void 0)(t,r)}function y(){}["setErrorHandler","finished","addToTrace","addRelease"].forEach((e=>{g[e]=A(v,e,!0,"api")})),g.addPageAction=A(v,"addPageAction",!0,n.D.pageAction),g.setCurrentRouteName=A(v,"routeName",!0,n.D.spa),g.setPageViewName=function(t,r){if("string"==typeof t)return"/"!==t.charAt(0)&&(t="/"+t),(0,i.OP)(e).customTransaction=(r||"http://custom.transaction")+t,A(v,"setPageViewName",!0)()},g.setCustomAttribute=function(e,t){let r=arguments.length>2&&void 0!==arguments[2]&&arguments[2];if("string"==typeof e){if(["string","number","boolean"].includes(typeof t)||null===t)return b(e,t,"setCustomAttribute",r);(0,l.Z)("Failed to execute setCustomAttribute.\nNon-null value must be a string, number or boolean type, but a type of <".concat(typeof t,"> was provided."))}else(0,l.Z)("Failed to execute setCustomAttribute.\nName must be a string type, but a type of <".concat(typeof e,"> was provided."))},g.setUserId=function(e){if("string"==typeof e||null===e)return b("enduser.id",e,"setUserId",!0);(0,l.Z)("Failed to execute setUserId.\nNon-null value must be a string type, but a type of <".concat(typeof e,"> was provided."))},g.setApplicationVersion=function(e){if("string"==typeof e||null===e)return b("application.version",e,"setApplicationVersion",!1);(0,l.Z)("Failed to execute setApplicationVersion. Expected <String | null>, but got <".concat(typeof e,">."))},g.start=e=>{try{const t=e?"defined":"undefined";(0,a.p)(f.xS,["API/start/".concat(t,"/called")],void 0,n.D.metrics,p);const r=Object.values(n.D);if(void 0===e)e=r;else{if((e=Array.isArray(e)&&e.length?e:[e]).some((e=>!r.includes(e))))return(0,l.Z)("Invalid feature name supplied. Acceptable feature names are: ".concat(r));e.includes(n.D.pageViewEvent)||e.push(n.D.pageViewEvent)}e.forEach((e=>{p.emit("".concat(e,"-opt-in"))}))}catch(e){(0,l.Z)("An unexpected issue occurred",e)}},g.recordReplay=function(){(0,a.p)(f.xS,["API/recordReplay/called"],void 0,n.D.metrics,p),(0,a.p)("recordReplay",[],void 0,n.D.sessionReplay,p)},g.pauseReplay=function(){(0,a.p)(f.xS,["API/pauseReplay/called"],void 0,n.D.metrics,p),(0,a.p)("pauseReplay",[],void 0,n.D.sessionReplay,p)},g.interaction=function(){return(new y).get()};var w=y.prototype={createTracer:function(e,t){var r={},i=this,o="function"==typeof t;return(0,a.p)(f.xS,["API/createTracer/called"],void 0,n.D.metrics,p),(0,a.p)(m+"tracer",[(0,s.z)(),e,r],i,n.D.spa,p),function(){if(h.emit((o?"":"no-")+"fn-start",[(0,s.z)(),i,o],r),o)try{return t.apply(this,arguments)}catch(e){throw h.emit("fn-err",[arguments,this,e],r),e}finally{h.emit("fn-end",[(0,s.z)()],r)}}}};function A(e,t,r,i){return function(){return(0,a.p)(f.xS,["API/"+t+"/called"],void 0,n.D.metrics,p),i&&(0,a.p)(e+t,[(0,s.z)(),...arguments],r?null:this,i,p),r?void 0:this}}function _(){r.e(75).then(r.bind(r,7438)).then((t=>{let{setAPI:r}=t;r(e),(0,c.L)(e,"api")})).catch((()=>(0,l.Z)("Downloading runtime APIs failed...")))}return["actionText","setName","setAttribute","save","ignore","onEnd","getContext","end","get"].forEach((e=>{w[e]=A(m,e,void 0,n.D.spa)})),g.noticeError=function(e,t){"string"==typeof e&&(e=new Error(e)),(0,a.p)(f.xS,["API/noticeError/called"],void 0,n.D.metrics,p),(0,a.p)("err",[e,(0,s.z)(),!1,t],void 0,n.D.jserrors,p)},d.il?(0,u.b2)((()=>_()),!0):_(),g}(e.agentIdentifier,y)),void 0===e.exposed&&(e.exposed=D),m=!0}},1926:(e,t,r)=>{r.nc=(()=>{try{return document?.currentScript?.nonce}catch(e){}return""})()},3325:(e,t,r)=>{"use strict";r.d(t,{D:()=>n,p:()=>i});const n={ajax:"ajax",jserrors:"jserrors",metrics:"metrics",pageAction:"page_action",pageViewEvent:"page_view_event",pageViewTiming:"page_view_timing",sessionReplay:"session_replay",sessionTrace:"session_trace",spa:"spa"},i={[n.pageViewEvent]:1,[n.pageViewTiming]:2,[n.metrics]:3,[n.jserrors]:4,[n.ajax]:5,[n.sessionTrace]:6,[n.pageAction]:7,[n.spa]:8,[n.sessionReplay]:9}}},n={};function i(e){var t=n[e];if(void 0!==t)return t.exports;var a=n[e]={exports:{}};return r[e](a,a.exports,i),a.exports}i.m=r,i.d=(e,t)=>{for(var r in t)i.o(t,r)&&!i.o(e,r)&&Object.defineProperty(e,r,{enumerable:!0,get:t[r]})},i.f={},i.e=e=>Promise.all(Object.keys(i.f).reduce(((t,r)=>(i.f[r](e,t),t)),[])),i.u=e=>"nr-rum-1.249.0.min.js",i.o=(e,t)=>Object.prototype.hasOwnProperty.call(e,t),e={},t="NRBA-1.249.0.PROD:",i.l=(r,n,a,o)=>{if(e[r])e[r].push(n);else{var s,c;if(void 0!==a)for(var u=document.getElementsByTagName("script"),d=0;d<u.length;d++){var l=u[d];if(l.getAttribute("src")==r||l.getAttribute("data-webpack")==t+a){s=l;break}}if(!s){c=!0;var f={75:"sha512-HcXyAuaRbdfES7GuZJPwimpBfHQYAggUt+9f7v0xmtqSP1pSPK/chshT+kmNNfPfvD1QbPyikVNC4frs8IQYkw=="};(s=document.createElement("script")).charset="utf-8",s.timeout=120,i.nc&&s.setAttribute("nonce",i.nc),s.setAttribute("data-webpack",t+a),s.src=r,0!==s.src.indexOf(window.location.origin+"/")&&(s.crossOrigin="anonymous"),f[o]&&(s.integrity=f[o])}e[r]=[n];var g=(t,n)=>{s.onerror=s.onload=null,clearTimeout(p);var i=e[r];if(delete e[r],s.parentNode&&s.parentNode.removeChild(s),i&&i.forEach((e=>e(n))),t)return t(n)},p=setTimeout(g.bind(null,void 0,{type:"timeout",target:s}),12e4);s.onerror=g.bind(null,s.onerror),s.onload=g.bind(null,s.onload),c&&document.head.appendChild(s)}},i.r=e=>{"undefined"!=typeof Symbol&&Symbol.toStringTag&&Object.defineProperty(e,Symbol.toStringTag,{value:"Module"}),Object.defineProperty(e,"__esModule",{value:!0})},i.p="https://js-agent.newrelic.com/",(()=>{var e={50:0,832:0};i.f.j=(t,r)=>{var n=i.o(e,t)?e[t]:void 0;if(0!==n)if(n)r.push(n[2]);else{var a=new Promise(((r,i)=>n=e[t]=[r,i]));r.push(n[2]=a);var o=i.p+i.u(t),s=new Error;i.l(o,(r=>{if(i.o(e,t)&&(0!==(n=e[t])&&(e[t]=void 0),n)){var a=r&&("load"===r.type?"missing":r.type),o=r&&r.target&&r.target.src;s.message="Loading chunk "+t+" failed.\n("+a+": "+o+")",s.name="ChunkLoadError",s.type=a,s.request=o,n[1](s)}}),"chunk-"+t,t)}};var t=(t,r)=>{var n,a,[o,s,c]=r,u=0;if(o.some((t=>0!==e[t]))){for(n in s)i.o(s,n)&&(i.m[n]=s[n]);if(c)c(i)}for(t&&t(r);u<o.length;u++)a=o[u],i.o(e,a)&&e[a]&&e[a][0](),e[a]=0},r=self["webpackChunk:NRBA-1.249.0.PROD"]=self["webpackChunk:NRBA-1.249.0.PROD"]||[];r.forEach(t.bind(null,0)),r.push=t.bind(null,r.push.bind(r))})(),(()=>{"use strict";i(1926);var e=i(50);class t{#e(e){return"Call to agent api ".concat(e," failed. The agent is not currently initialized.")}addPageAction(t,r){(0,e.Z)(this.#e("addPageAction"))}setPageViewName(t,r){(0,e.Z)(this.#e("setPageViewName"))}setCustomAttribute(t,r,n){(0,e.Z)(this.#e("setCustomAttribute"))}noticeError(t,r){(0,e.Z)(this.#e("noticeError"))}setUserId(t){(0,e.Z)(this.#e("setUserId"))}setApplicationVersion(t){(0,e.Z)(this.#e("setApplicationVersion"))}setErrorHandler(t){(0,e.Z)(this.#e("setErrorHandler"))}finished(t){(0,e.Z)(this.#e("finished"))}addRelease(t,r){(0,e.Z)(this.#e("addRelease"))}start(t){(0,e.Z)(this.#e("start"))}recordReplay(){(0,e.Z)(this.#e("recordReplay"))}pauseReplay(){(0,e.Z)(this.#e("pauseReplay"))}}var r=i(3325),n=i(234);const a=Object.values(r.D);function o(e){const t={};return a.forEach((r=>{t[r]=function(e,t){return!1!==(0,n.Mt)(t,"".concat(e,".enabled"))}(r,e)})),t}var s=i(7530);var c=i(8e3),u=i(5938),d=i(3960),l=i(385);class f extends u.W{constructor(e,t,r){let i=!(arguments.length>3&&void 0!==arguments[3])||arguments[3];super(e,t,r),this.auto=i,this.abortHandler=void 0,this.featAggregate=void 0,this.onAggregateImported=void 0,!1===(0,n.Mt)(this.agentIdentifier,"".concat(this.featureName,".autoStart"))&&(this.auto=!1),this.auto&&(0,c.R)(e,r)}importAggregator(){let t=arguments.length>0&&void 0!==arguments[0]?arguments[0]:{};if(this.featAggregate)return;if(!this.auto)return void this.ee.on("".concat(this.featureName,"-opt-in"),(()=>{(0,c.R)(this.agentIdentifier,this.featureName),this.auto=!0,this.importAggregator()}));const r=l.il&&!0===(0,n.Mt)(this.agentIdentifier,"privacy.cookies_enabled");let a;this.onAggregateImported=new Promise((e=>{a=e}));const o=async()=>{let n;try{if(r){const{setupAgentSession:e}=await i.e(75).then(i.bind(i,3228));n=e(this.agentIdentifier)}}catch(t){(0,e.Z)("A problem occurred when starting up session manager. This page will not start or extend any session.",t)}try{if(!this.shouldImportAgg(this.featureName,n))return(0,c.L)(this.agentIdentifier,this.featureName),void a(!1);const{lazyFeatureLoader:e}=await i.e(75).then(i.bind(i,8582)),{Aggregate:r}=await e(this.featureName,"aggregate");this.featAggregate=new r(this.agentIdentifier,this.aggregator,t),a(!0)}catch(t){(0,e.Z)("Downloading and initializing ".concat(this.featureName," failed..."),t),this.abortHandler?.(),(0,c.L)(this.agentIdentifier,this.featureName),a(!1)}};l.il?(0,d.b2)((()=>o()),!0):o()}shouldImportAgg(e,t){return e!==r.D.sessionReplay||!!n.Yu.MO&&(!1!==(0,n.Mt)(this.agentIdentifier,"session_trace.enabled")&&(!!t?.isNew||!!t?.state.sessionReplayMode))}}var g=i(7633);class p extends f{static featureName=g.t;constructor(e,t){let r=!(arguments.length>2&&void 0!==arguments[2])||arguments[2];super(e,t,g.t,r),this.importAggregator()}}var h=i(1117),v=i(1284);class m extends h.w{constructor(e){super(e),this.aggregatedData={}}store(e,t,r,n,i){var a=this.getBucket(e,t,r,i);return a.metrics=function(e,t){t||(t={count:0});return t.count+=1,(0,v.D)(e,(function(e,r){t[e]=b(r,t[e])})),t}(n,a.metrics),a}merge(e,t,r,n,i){var a=this.getBucket(e,t,n,i);if(a.metrics){var o=a.metrics;o.count+=r.count,(0,v.D)(r,(function(e,t){if("count"!==e){var n=o[e],i=r[e];i&&!i.c?o[e]=b(i.t,n):o[e]=function(e,t){if(!t)return e;t.c||(t=y(t.t));return t.min=Math.min(e.min,t.min),t.max=Math.max(e.max,t.max),t.t+=e.t,t.sos+=e.sos,t.c+=e.c,t}(i,o[e])}}))}else a.metrics=r}storeMetric(e,t,r,n){var i=this.getBucket(e,t,r);return i.stats=b(n,i.stats),i}getBucket(e,t,r,n){this.aggregatedData[e]||(this.aggregatedData[e]={});var i=this.aggregatedData[e][t];return i||(i=this.aggregatedData[e][t]={params:r||{}},n&&(i.custom=n)),i}get(e,t){return t?this.aggregatedData[e]&&this.aggregatedData[e][t]:this.aggregatedData[e]}take(e){for(var t={},r="",n=!1,i=0;i<e.length;i++)t[r=e[i]]=w(this.aggregatedData[r]),t[r].length&&(n=!0),delete this.aggregatedData[r];return n?t:null}}function b(e,t){return null==e?function(e){e?e.c++:e={c:1};return e}(t):t?(t.c||(t=y(t.t)),t.c+=1,t.t+=e,t.sos+=e*e,e>t.max&&(t.max=e),e<t.min&&(t.min=e),t):{t:e}}function y(e){return{t:e,min:e,max:e,sos:e*e,c:1}}function w(e){return"object"!=typeof e?[]:(0,v.D)(e,A)}function A(e,t){return t}var _=i(8632),x=i(4402),D=i(4351);var k=i(5546),E=i(7956),j=i(3239),S=i(7894),R=i(9251);class T extends f{static featureName=R.t;constructor(e,t){let r=!(arguments.length>2&&void 0!==arguments[2])||arguments[2];super(e,t,R.t,r),l.il&&((0,E.N)((()=>(0,k.p)("docHidden",[(0,S.z)()],void 0,R.t,this.ee)),!0),(0,j.bP)("pagehide",(()=>(0,k.p)("winPagehide",[(0,S.z)()],void 0,R.t,this.ee))),this.importAggregator())}}var I=i(3081);class N extends f{static featureName=I.t9;constructor(e,t){let r=!(arguments.length>2&&void 0!==arguments[2])||arguments[2];super(e,t,I.t9,r),this.importAggregator()}}new class extends t{constructor(t){let r=arguments.length>1&&void 0!==arguments[1]?arguments[1]:(0,x.ky)(16);super(),l._A?(this.agentIdentifier=r,this.sharedAggregator=new m({agentIdentifier:this.agentIdentifier}),this.features={},(0,_.h5)(r,this),this.desiredFeatures=new Set(t.features||[]),this.desiredFeatures.add(p),(0,s.j)(this,t,t.loaderType||"agent"),this.run()):(0,e.Z)("Failed to initial the agent. Could not determine the runtime environment.")}get config(){return{info:(0,n.C5)(this.agentIdentifier),init:(0,n.P_)(this.agentIdentifier),loader_config:(0,n.DL)(this.agentIdentifier),runtime:(0,n.OP)(this.agentIdentifier)}}run(){try{const t=o(this.agentIdentifier),n=[...this.desiredFeatures];n.sort(((e,t)=>r.p[e.featureName]-r.p[t.featureName])),n.forEach((n=>{if(t[n.featureName]||n.featureName===r.D.pageViewEvent){const i=function(e){switch(e){case r.D.ajax:return[r.D.jserrors];case r.D.sessionTrace:return[r.D.ajax,r.D.pageViewEvent];case r.D.sessionReplay:return[r.D.sessionTrace];case r.D.pageViewTiming:return[r.D.pageViewEvent];default:return[]}}(n.featureName);i.every((e=>t[e]))||(0,e.Z)("".concat(n.featureName," is enabled but one or more dependent features has been disabled (").concat((0,D.P)(i),"). This may cause unintended consequences or missing data...")),this.features[n.featureName]=new n(this.agentIdentifier,this.sharedAggregator)}}))}catch(t){(0,e.Z)("Failed to initialize all enabled instrument classes (agent aborted) -",t);for(const e in this.features)this.features[e].abortHandler?.();const r=(0,_.fP)();return delete r.initializedAgents[this.agentIdentifier]?.api,delete r.initializedAgents[this.agentIdentifier]?.features,delete this.sharedAggregator,r.ee?.abort(),delete r.ee?.get(this.agentIdentifier),!1}}addToTrace(t){(0,e.Z)("Call to agent api addToTrace failed. The session trace feature is not currently initialized.")}setCurrentRouteName(t){(0,e.Z)("Call to agent api setCurrentRouteName failed. The spa feature is not currently initialized.")}interaction(){(0,e.Z)("Call to agent api interaction failed. The spa feature is not currently initialized.")}}({features:[p,T,N],loaderType:"lite"})})()})();</script>
+    <title>L&#039;ego et l&#039;orgueil : comment faire baisser leur emprise sur nous ? - Psychologue.net</title>
+        <link rel="stylesheet" type="text/css" href="/js/vendor/swiper/dist/css/swiper.min.css">
+            <link media="screen" type="text/css" rel="stylesheet" href="/10016320/css/gen/psicologos/landing_master.css"/>
+                <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+
+            <meta name="description" content="L&#039;ego et l&#039;orgueil sont deux excroissances de notre mental. Comment se manifestent-ils ? Quelle est la différence entre les deux ? Comment faire" />
+    
+    <meta name="robots" content="index,follow" />
+            <link rel="canonical" href="https://www.psychologue.net/articles/lego-et-lorgueil" />
+    
+    
+            <!-- Open Graph -->
+            <meta property="og:title" content="L&#039;ego et l&#039;orgueil : comment faire baisser leur emprise sur nous ? - Psychologue.net" />
+            <meta property="og:description" content="L&#039;ego et l&#039;orgueil sont deux excroissances de notre mental. Comment se manifestent-ils ? Quelle est la différence entre les deux ? Comment faire" />
+        <meta property="og:type" content="article" />
+    <meta property="og:url" content="https://www.psychologue.net/articles/lego-et-lorgueil" />
+    <meta property="og:image" content="https://www.psychologue.net/site/article/57454/47411/frsgregr_ai1.jpg" />
+    <meta property="og:site_name" content="psychologue" />
+        
+
+    
+    <!-- The Grid -->
+            <link media="screen" type="text/css" rel="stylesheet" href="/10016320/css/gen/psicologos/front_master.css" />
+    
+        
+
+
+        <script>
+    window.dataLayer = window.dataLayer || [];
+    window.tmhAn = window.tmhAn || {};
+
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+
+    gtag('js', new Date());
+
+        
+        window.tmhAn.ga = {
+        custom_map: {
+            'dimension1': 'transaction_type',               // Hit - Ambito evento purchase
+            'dimension2': 'client_type',                    // Hit - Ambito evento purchase
+            'dimension3': 'lead_type',                      // Hit - Ambito evento purchase
+            'dimension4': 'cd_user_id',                     // User - Ambito usuario
+            'dimension5': 'cd_user_type',                   // User - Ambito usuario
+            'dimension6': 'cd_user_logged',                 // Session - Ambito usuario
+            'dimension7': 'cd_com_id',                      // User - Ambito usuario
+            'dimension8': 'cd_client_id',                   // Session - Ambito usuario
+            'dimension9': 'cd_user_lead_timestamp',         // Hit - Ambito evento
+            'dimension10': 'cd_user_lead_com_id',           // Hit - Ambito evento
+            'dimension11': 'cd_user_lead_com_name',         // Hit - Ambito evento
+            'dimension12': 'cd_lead_unique_transact',       // Hit - Ambito evento
+            'dimension13': 'cd_lead_serv_type',             // Hit - Ambito evento
+            'dimension14': 'cd_lead_pop_type',              // Hit - Ambito evento
+            'dimension15': 'cd_lead_popservice_type',       // Hit - Ambito evento
+            'dimension16': 'cd_lead_therapy_type',          // Hit - Ambito evento
+            'dimension17': 'cd_page_type',                  // Hit - Ambito evento
+            'dimension18': 'cd_lead_page_path',             // Hit - Ambito evento
+            'dimension19': 'cd_lead_pro_position',          // Hit - Ambito evento
+            'dimension20': 'cd_req_headquarter',            // Hit - Ambito evento
+            'dimension21': 'cd_transaction_id',             // Hit - Ambito evento
+            'dimension22': 'cds_lead_popservice_type',      // Session - Ambito evento
+            'dimension23': 'cds_page_type',                 // Session - Ambito evento
+            'dimension24': 'cds_lead_page_path',            // Session - Ambito evento
+            'dimension25': 'cds_transaction_id',            // Session - Ambito evento
+            'metric1': 'cm_lead_unique_transact'
+        }
+    };
+
+    window.tmhAn.listingProperties = {
+        serId: 0,
+        serTitle: 'undefined',
+        zoneId: 0,
+        zoneTitle: 'undefined',
+        onMobileCompanyCard: () => {
+            return (
+                window.location.toString().includes("appointment_start") ||
+                window.location.toString().includes("request?company=")
+            ) && document.body.classList.contains("js-mobile");
+        },
+        listUrl: () => {
+            let url = window.location.toString().replace(window.location.origin, '');
+            if (window.tmhAn.listingProperties.onMobileCompanyCard()) {
+                url = document.referrer.replace(window.location.origin, '');
+            }
+
+            return url;
+        },
+        pageType: () => {
+            if (window.tmhAn.listingProperties.onMobileCompanyCard()) {
+                return 'ie_com_card';
+            }
+
+            let type = window.document.body.getAttribute('data-meta');
+            if (type == null) {
+                type = window.document.body.getAttribute('id');
+            }
+
+            return type;
+        }
+    };
+
+    
+        // Project code
+    gtag('config', '', {
+        //'currency': 'EUR',
+        'country': 'FR',
+        'custom_map': window.tmhAn.ga.custom_map,
+        'send_page_view': false
+        //'groups': 'analytics'
+    });
+    
+    
+    
+                        
+    document.addEventListener('DOMContentLoaded', function(event) {
+
+        var bodyId = window.document.body.getAttribute('id');
+
+        if ( bodyId === 'article_show') {
+            var articleIdValue = document.getElementById('jq_art_id').value
+            gtag('event', 'page_view', {
+                'article_id': articleIdValue
+            });
+        } else {
+            gtag('event', 'page_view');
+        }
+
+        // Always on DOMloaded
+        gtag('event', 'home_visit', {
+            'from_gtag': true
+        });
+    });
+
+            //Adwords code
+        gtag('config', 'AW-1006817772', {
+            'groups' : 'adwords',
+            'allow_enhanced_conversions' : true
+            });
+
+        gtag('event', 'page_view', {
+            'send_to': 'adwords'
+        });
+    
+</script>
+            <script type="text/javascript">
+        _linkedin_partner_id = "678554";
+        window._linkedin_data_partner_ids = window._linkedin_data_partner_ids || [];
+        window._linkedin_data_partner_ids.push(_linkedin_partner_id);
+    </script>
+
+    <script type="text/javascript">
+            window.didomiOnReady = window.didomiOnReady || [];
+            window.didomiOnReady.push(function () {
+                Didomi.getObservableOnUserConsentStatusForVendor('804')
+                    .subscribe(function (consentStatus) {
+                        if (consentStatus === true) {
+                            loadLinkedIn();
+                        }
+                    });
+            });
+            function loadLinkedIn() {
+                (function(l) {
+                    if (!l){window.lintrk = function(a,b){window.lintrk.q.push([a,b])};
+                        window.lintrk.q=[]}
+                    var s = document.getElementsByTagName("script")[0];
+                    var b = document.createElement("script");
+                    b.type = "text/javascript";b.async = true;
+                    b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js";
+                    s.parentNode.insertBefore(b, s);})(window.lintrk);
+            }
+    </script>
+
+
+    <!-- The Google Ads block -->
+        
+        
+                <!-- New Google Tag Manager -->
+        <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+                j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+                'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+            })(window,document,'script','dataLayer','GTM-N7PFLTH4');</script>
+        <!-- End New Google Tag Manager -->
+        
+                    <script type="text/javascript">
+                ads_url = "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3131971820303384";
+                doubleclick_url = "https://securepubads.g.doubleclick.net/tag/js/gpt.js";
+                hubspot_url = "https://js.hs-scripts.com/6442498.js";
+
+                window.didomiOnReady = window.didomiOnReady || [];
+                window.didomiOnReady.push(function () {
+                    Didomi.getObservableOnUserConsentStatusForVendor('google')
+                        .subscribe(function (consentStatus) {
+                            if (consentStatus === true) {
+                                loadGoogleAds();
+                                loadDoubleClick();
+                            }
+                        });
+                    Didomi.getObservableOnUserConsentStatusForVendor('c:hubspot')
+                        .subscribe(function (consentStatus) {
+                            if (consentStatus === true) {
+                                loadHubspot();
+                            }
+                        });
+                });
+                function loadGoogleAds() {
+                    var s = document.createElement("script");
+                    s.setAttribute("async", "");
+                    s.setAttribute("crossorigin", "anonymous");
+                    s.src = ads_url;
+                    document.head.appendChild(s);
+                }
+                function loadDoubleClick() {
+                    var d = document.createElement("script");
+                    d.setAttribute("async", "");
+                    d.src = doubleclick_url;
+                    document.head.appendChild(d);
+                }
+                function loadHubspot() {
+                    var h = document.createElement("script");
+                    h.setAttribute("defer", "");
+                    h.setAttribute("id", "hs-script-loader");
+                    h.src = hubspot_url;
+                    document.head.appendChild(h);
+                }
+            </script>
+            
+            <script>
+    window.didomiOnReady = window.didomiOnReady || [];
+    window.didomiOnReady.push(function () {
+        Didomi.getObservableOnUserConsentStatusForVendor('google')
+            .subscribe(function (consentStatus) {
+                if (consentStatus === true) {
+                    setTimeout(loadGooglePublisherTag, 1000)
+                }
+            });
+    });
+    function loadGooglePublisherTag() {
+
+        var project_id = document.body.getAttribute('data-pro'),
+            responsiveAdSlot1,
+            responsiveAdSlot2,
+            responsiveAdSlot3,
+            mapping1,
+            mapping2;
+
+        window.googletag = window.googletag || {cmd: []};
+        googletag.cmd.push(function() {
+
+            mapping1 = googletag.sizeMapping()
+                .addSize([1024, 400], [[300,250],[336,280],[468,60]])	//Desktop
+                .addSize([768, 400], [[300,250],[336,280],[468,60]])	//Tablet Landscape
+                .addSize([470, 400], [[300,250],[336,280]])	//Tablet Portrait
+                .addSize([336, 400], [[300,250],[336,280]])	//Mobile
+                .addSize([0, 0], [[300,250]])	// Small Screen Devices
+                .build();
+
+            mapping2 = googletag.sizeMapping()
+                .addSize([1024, 400], [[300,250],[336,280]])	//Desktop
+                .addSize([768, 400], [[300,250],[336,280]])	//Tablet Landscape
+                .addSize([470, 400], [[300,250],[336,280]])	//Tablet Portrait
+                .addSize([336, 400], [[300,250],[336,280]])	//Mobile
+                .addSize([0, 0], [[300,250]])	// Small Screen Devices
+                .build();
+
+            /*** PSICO PORTUGAL ***/
+            if (project_id == '119') {
+                                responsiveAdSlot1 = googletag.defineSlot('/22847281225/PT_PSICO_Articulos_Post_Top', [[336, 280], [300, 250], [468, 60]], 'div-gpt-ad-1675157905161-0')
+                    .addService(googletag.pubads())
+                    .defineSizeMapping(mapping1);
+
+                                responsiveAdSlot2 = googletag.defineSlot('/22847281225/PT_PSICO_Articulos_Post_Footer', [[300, 250], [336, 280]], 'div-gpt-ad-1675158018292-0')
+                    .addService(googletag.pubads())
+                    .defineSizeMapping(mapping2);
+
+                                responsiveAdSlot3 = googletag.defineSlot('/22847281225/PT_PSICO_Articulos_Post_Comentarios', [[336, 280], [300, 250]], 'div-gpt-ad-1675158207233-0')
+                    .addService(googletag.pubads())
+                    .defineSizeMapping(mapping2);
+            }
+
+            /*** PSICO ESPAÑA ***/
+            if (project_id == '23') {
+                                responsiveAdSlot1 = googletag.defineSlot('/22847281225/ES_PSICO_Articulos_Post_Top', [[468, 60], [300, 250], [336, 280]], 'div-gpt-ad-1678705062980-0')
+                    .addService(googletag.pubads())
+                    .defineSizeMapping(mapping1);
+
+                                responsiveAdSlot2 = googletag.defineSlot('/22847281225/ES_PSICO_Articulos_Post_Footer', [[300, 250], [336, 280]], 'div-gpt-ad-1678704993840-0')
+                    .addService(googletag.pubads())
+                    .defineSizeMapping(mapping2);
+
+                                responsiveAdSlot3 = googletag.defineSlot('/22847281225/ES_PSICO_Articulos_Post_Comentarios', [[300, 250], [336, 280]], 'div-gpt-ad-1678704879617-0')
+                    .addService(googletag.pubads())
+                    .defineSizeMapping(mapping2);
+            }
+
+            /*** PSICO ITALIA ***/
+            if (project_id == '29') {
+                                responsiveAdSlot1 = googletag.defineSlot('/22847281225/IT_PSICO_Articulos_Post_Top', [[336, 280], [300, 250], [468, 60]], 'div-gpt-ad-1678707995978-0')
+                    .addService(googletag.pubads())
+                    .defineSizeMapping(mapping1);
+
+                                responsiveAdSlot2 = googletag.defineSlot('/22847281225/IT_PSICO_Articulos_Post_Footer', [[336, 280], [300, 250]], 'div-gpt-ad-1678707935453-0')
+                    .addService(googletag.pubads())
+                    .defineSizeMapping(mapping2);
+
+                                responsiveAdSlot3 = googletag.defineSlot('/22847281225/IT_PSICO_Articulos_Post_Comentarios', [[300, 250], [336, 280]], 'div-gpt-ad-1678707844501-0')
+                    .addService(googletag.pubads())
+                    .defineSizeMapping(mapping2);
+            }
+
+            /*** PSICO FRANCE ***/
+            if (project_id == '75') {
+                                responsiveAdSlot1 = googletag.defineSlot('/22847281225/FR_PSICO_Articulos_Post_Top', [[300, 250], [468, 60], [336, 280]], 'div-gpt-ad-1678708408223-0')
+                    .addService(googletag.pubads())
+                    .defineSizeMapping(mapping1);
+
+                                responsiveAdSlot2 = googletag.defineSlot('/22847281225/FR_PSICO_Articulos_Post_Footer', [[300, 250], [336, 280]], 'div-gpt-ad-1678708372600-0')
+                    .addService(googletag.pubads())
+                    .defineSizeMapping(mapping2);
+
+                                responsiveAdSlot3 = googletag.defineSlot('/22847281225/FR_PSICO_Articulos_Comentarios', [[300, 250], [336, 280]], 'div-gpt-ad-1678708330676-0')
+                    .addService(googletag.pubads())
+                    .defineSizeMapping(mapping2);
+            }
+
+            /*** PSICO ARGENTINA ***/
+            if (project_id == '115') {
+                                responsiveAdSlot1 = googletag.defineSlot('/22847281225/AR_PSICO_Articulos_Post_Top', [[468, 60], [300, 250], [336, 280]], 'div-gpt-ad-1669032779794-0')
+                    .addService(googletag.pubads())
+                    .defineSizeMapping(mapping1);
+
+                                responsiveAdSlot2 = googletag.defineSlot('/22847281225/AR_PSICO_Articulos_Post_Footer', [[300, 250], [336, 280]], 'div-gpt-ad-1669032632593-0')
+                    .addService(googletag.pubads())
+                    .defineSizeMapping(mapping2);
+
+                                responsiveAdSlot3 = googletag.defineSlot('/22847281225/AR_PSICO_Articulos_Comentarios', [[336, 280], [300, 250]], 'div-gpt-ad-1669031673152-0')
+                    .addService(googletag.pubads())
+                    .defineSizeMapping(mapping2);
+            }
+
+            /*** PSICO BRASIL ***/
+            if (project_id == '92') {
+                                responsiveAdSlot1 = googletag.defineSlot('/22847281225/BR_PSICO_Articulos_Post_Top', [[300, 250], [336, 280], [468, 60]], 'div-gpt-ad-1678704491915-0')
+                    .addService(googletag.pubads())
+                    .defineSizeMapping(mapping1);
+
+                                responsiveAdSlot2 = googletag.defineSlot('/22847281225/BR_PSICO_Articulos_Post_Footer', [[336, 280], [300, 250]], 'div-gpt-ad-1678704405434-0')
+                    .addService(googletag.pubads())
+                    .defineSizeMapping(mapping2);
+
+                                responsiveAdSlot3 = googletag.defineSlot('/22847281225/BR_PSICO_Articulos_Comentarios', [[300, 250], [336, 280]], 'div-gpt-ad-1678703956853-0')
+                    .addService(googletag.pubads())
+                    .defineSizeMapping(mapping2);
+            }
+
+            /*** PSICO CHILE ***/
+            if (project_id == '114') {
+                                responsiveAdSlot1 = googletag.defineSlot('/22847281225/CL_PSICO_Articulos_Post_Top', [[300, 250], [336, 280], [468, 60]], 'div-gpt-ad-1675934249852-0')
+                    .addService(googletag.pubads())
+                    .defineSizeMapping(mapping1);
+
+                                responsiveAdSlot2 = googletag.defineSlot('/22847281225/CL_PSICO_Articulos_Post_Footer', [[300, 250], [336, 280]], 'div-gpt-ad-1675934386641-0')
+                    .addService(googletag.pubads())
+                    .defineSizeMapping(mapping2);
+
+                                responsiveAdSlot3 = googletag.defineSlot('/22847281225/CL_PSICO_Articulos_Comentarios', [[300, 250], [336, 280]], 'div-gpt-ad-1675934516556-0')
+                    .addService(googletag.pubads())
+                    .defineSizeMapping(mapping2);
+            }
+
+            /*** PSICO MEXICO ***/
+            if (project_id == '85') {
+                                responsiveAdSlot1 = googletag.defineSlot('/22847281225/MX_PSICO_Articulos_Post_Top', [[300, 250], [468, 60], [336, 280]], 'div-gpt-ad-1676290087744-0')
+                    .addService(googletag.pubads())
+                    .defineSizeMapping(mapping1);
+
+                                responsiveAdSlot2 = googletag.defineSlot('/22847281225/MX_PSICO_Articulos_Post_Footer', [[336, 280], [300, 250]], 'div-gpt-ad-1676290055975-0')
+                    .addService(googletag.pubads())
+                    .defineSizeMapping(mapping2);
+
+                                responsiveAdSlot3 = googletag.defineSlot('/22847281225/MX_PSICO_Articulos_Comentarios', [[300, 250], [336, 280]], 'div-gpt-ad-1676290032567-0')
+                    .addService(googletag.pubads())
+                    .defineSizeMapping(mapping2);
+            }
+
+            /*** PSICO COLOMBIA ***/
+            if (project_id == '113') {
+                                responsiveAdSlot1 = googletag.defineSlot('/22847281225/CO_PSICO_Articulos_Post_Top', [[336, 280], [468, 60], [300, 250]], 'div-gpt-ad-1676286951706-0')
+                    .addService(googletag.pubads())
+                    .defineSizeMapping(mapping1);
+
+                                responsiveAdSlot2 = googletag.defineSlot('/22847281225/CO_PSICO_Articulos_Post_Footer', [[300, 250], [336, 280]], 'div-gpt-ad-1676286922994-0')
+                    .addService(googletag.pubads())
+                    .defineSizeMapping(mapping2);
+
+                                responsiveAdSlot3 = googletag.defineSlot('/22847281225/CO_PSICO_Articulos_Comentarios', [[300, 250], [336, 280]], 'div-gpt-ad-1676286891787-0')
+                    .addService(googletag.pubads())
+                    .defineSizeMapping(mapping2);
+            }
+
+            googletag.pubads().enableSingleRequest();
+            googletag.pubads().enableLazyLoad();
+            googletag.pubads().setCentering(true);
+            googletag.enableServices();
+            googletag.display(responsiveAdSlot1);
+        });
+    }
+</script>
+    
+    <style>
+
+        html #otherapy #hero, html[data-webp] #article_listing #hero {
+            background-image: url('/img/web/psico/otherapy.webp');
+        }
+        html bo#otherapy #hero, html[data-webp] #article_listing #hero,
+        html[data-webp] #qanda_home #hero, html[data-webp] #forum-list #hero {
+            background-image: url('/img/web/psico/otherapy.jpg');
+        }
+        @media (max-width: 768px){
+            html .hide-mobile {
+                display: none !important;
+            }
+            html #side_nav_container > nav {
+                display: none
+            }
+            html #main_header.isOpen #side_nav_container > nav {
+                display:block
+            }
+        }
+    </style>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/lazysizes/5.3.2/lazysizes.min.js" integrity="sha512-q583ppKrCRc7N5O0n2nzUiJ+suUv7Et1JGels4bXOaMFQcamPk9HjdUknZuuFjBNs7tsMuadge5k9RzdmO+1GQ==" crossorigin="anonymous"></script>
+    <script>
+        document.addEventListener('lazybeforeunveil', function(e){
+            var bg = e.target.getAttribute('data-bg');
+            if(bg){
+                e.target.style.backgroundImage = 'url(' + bg + ')';
+            }
+        });
+    </script>
+    </head>
+
+
+<body class="bg-gray article-card workshopProject"      id="article_show"      data-project="75" data-user-id=""      data-pro="75">
+
+                        <!-- Google Tag Manager (noscript) -->
+<noscript>
+    <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N7PFLTH4" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+<!-- End Google Tag Manager (noscript) -->
+    
+    
+    
+
+    <main class="container" >
+            
+    <header id="main_header" class="ps-header w-100 workshopHeader yellowday">
+        <div id="toggle_menu" class="hamburguer pointer" data-role="hamburguer">
+            <span></span>
+            <span></span>
+            <span></span>
+            <span></span>
+        </div>
+
+
+        <div class="wrapper center h-100" id="side_nav_container">
+                                    <div class="logo h-100 flex jc-center center">
+        
+        <a href="/" title="psychologues" rel="home">
+            <img src="/site/own/logo_color.svg" alt="psychologues" title="psychologues"/>
+        </a>
+
+                    </div>
+        
+                        <nav class="h-100" role="navigation">
+
+                                <div class="prof-login relative border-bottom p-r-16 p-l-16 p-t-16 p-b-28">
+    <label for="prof-access" id="prof-access-label" class="flex m-b-12 pointer noselect">
+       <span class="m-r-4">
+            <img src="" width="21" height="18" class="lazyload" data-src="/img/svg/psicologos/suitcase.svg" />
+         </span>
+        <span class="f-12 bold">Espace professionnel</span>
+
+        <span class="icon-arrow-down-3 f-16 bold m-l-4 hide-mobile"></span>
+        <span class="icon-arrow-up-3 f-16 bold m-l-4 hide"></span>
+    </label>
+
+    <input type="checkbox"
+           class="prof-login-dropdown hide"
+           id="prof-access"
+           name="prof-access">
+
+    <div id="prof-cta" class="prof-cta hide-desktop">
+
+        <div id="prof_login" class="cta button-grey w-100 m-b-12">
+            Accès professionnel
+        </div>
+
+        <div id="prof_register" class="cta button-primary w-100">
+            Inscription gratuite
+        </div>
+
+    </div>
+</div>
+
+                <ul class="tabs p-l-16 p-r-16 p-t-28">
+
+                                        <li class="p-b-16 p-l-16 hide pointer">
+                        <a href="/" title="Accueil Psychologue.net"
+                           rel="home" aria-label="Accueil"
+                           class="flex ai-center">
+                            <span class="icon-home2 f-18 m-r-8"></span>
+                            <span class="f-18">Accueil<span class="name"> Psychologue.net</span></span>
+                        </a>
+                    </li>
+
+                                                                <li class="p-b-16 p-l-16 pointer">
+                            <a href="/cabinets/en-ligne"
+                               title="Psychologues en ligne" class="flex ai-center">
+                                <span class="m-r-8 hide-desktop">
+                                    <img src="" width=24 height=24 class="lazyload" data-src="/img/svg/psicologos/online.svg" />
+                                </span>
+                                <span class="f-18 label">Psychologues en ligne</span>
+                            </a>
+                        </li>
+                    
+
+                                        <li class="p-b-16 p-l-16 pointer">
+                        <a id="js_companies_list_btn" href="/cabinets"
+                           title="Cabinets de Psychologue.net"
+                           class="flex ai-center ">
+                            <span class="m-r-8 hide-desktop">
+                                <img src="" width=24 height=24 class="lazyload" data-src="/img/svg/psicologos/listing.svg" />
+                            </span>
+                            <span class="f-18">Cabinets</span>
+                        </a>
+                    </li>
+
+
+                                        <li class="p-b-16 p-l-16 pointer">
+                        <a href="/articles" title="Tout sur la psychologie"
+                           class="flex ai-center active">
+                            <span class="m-r-8 hide-desktop">
+                                <img src="" width=24 height=24 class="lazyload" data-src="/img/svg/psicologos/articles.svg" />
+                            </span>
+                            <span class="f-18">Articles</span>
+                        </a>
+                    </li>
+
+
+                                                                <li class="p-b-16 p-l-16 pointer">
+                            <a href="/questions" title="Questions"
+                               class="flex ai-center">
+                                <span class="m-r-8 hide-desktop">
+                                    <img src="" width=24 height=24 class="lazyload" data-src="/img/svg/psicologos/quanda.svg" />
+                                </span>
+                                <span class="f-18">Questions</span>
+                            </a>
+                        </li>
+                    
+
+                    
+
+                                        
+                                                                            
+                    <li class="workshops p-l-16 p-b-16 pointer">
+                       <p data-sl="aHR0cHM6Ly9jb3Vycy5wc3ljaG9sb2d1ZS5uZXQv" data-sl-t="_blank" data-encoded="true"
+                             class="flex ai-center">
+                       <span class="m-r-8 hide-desktop">
+                             <img src="" width=24 height=24 class="lazyload" data-src="/img/svg/psicologos/workshops.svg" />
+                        </span>
+                        <span class="f-18">Ateliers et cours</span>
+                        <span class="new-tag">
+                            <span class="hide-desktop">Nouveau</span>
+                            <span class="icon-star hide-mobile"></span>
+                        </span>
+                       </p>
+                    </li>
+                    
+                                                                                                            
+                                        <li class="p-b-16 pointer relative">
+                        <span class="p-l-16 p-b-16 m-r-8 hide-desktop float-L">
+                            <img src="" width=24 height=24 class="lazyload" data-src="/img/svg/psicologos/bienestar-emocional.svg" />
+                        </span>
+                        <div class="ie-header-nav-item dropdown-toggle" aria-haspopup="true" data-toggle="dropdown">
+                            <span class="f-18">Bien-être émotionnel</span>
+                            <span class="ie-header-nav-icon icon-arrow-down-3"></span>
+                            <span class="ie-header-nav-icon icon-arrow-up-3"></span>
+                        </div>
+                        <ul class="dropdown-menu" aria-label="submenu">
+                            <li>
+                                <p data-sl="aHR0cHM6Ly93d3cucHN5Y2hvbG9ndWUubmV0L2JpZW4tZXRyZS1lbW90aW9ubmVsL2NvbW1lbnQtZXRyZS1oZXVyZXV4" data-encoded="true">Comment être heureux</p>
+                            </li>
+                            <li>
+                                <p data-sl="aHR0cHM6Ly93d3cucHN5Y2hvbG9ndWUubmV0L2JpZW4tZXRyZS1lbW90aW9ubmVsL3ByZXZlbnRpb24tZHUtc3VpY2lkZQ==" data-encoded="true">Prévention du suicide</p>
+                            </li>
+                        </ul>
+                    </li>
+                    
+                </ul>
+
+
+                                <ul id="user_login" class="user-login p-r-16 p-l-16 p-b-16">
+                                        <li class="p-b-16 pointer">
+                        <div id="user-register" class="flex ai-center">
+                            <span class="m-r-8 hide-desktop">
+                                <img src="" width=24 height=24 class="lazyload" data-src="/img/svg/psicologos/register.svg" />
+                            </span>
+                            <span class="f-18">Inscrivez-vous</span>
+                        </div>
+                    </li>
+
+                                        <li class="p-b-16 pointer">
+                        <div id="user-login" class="flex ai-center">
+                            <span class="m-r-8 hide-desktop">
+                                <img src="" width=24 height=24 class="lazyload" data-src="/img/svg/psicologos/login.svg" />
+                            </span>
+                            <span class="f-18">Entrez</span>
+                        </div>
+                    </li>
+                </ul>
+            </nav>
+
+        </div>
+    </header>
+
+
+
+            <aside data-role="breadcrumb" aria-label="breadcrumb" class="ie-art-listing-breadcrumb c-breadcrumb has-social">
+        <nav class="main">
+            <ul>
+            <li>
+                                                <span>
+                    <a href="/" title="Psychologues">
+                        <span>Psychologues</span>
+                    </a> /
+                </span>
+
+                                    </li>
+            <li>
+                                                <span>
+                    <a href="/confiance-en-soi" title="Confiance en soi">
+                        <span>Confiance en soi</span>
+                    </a> /
+                </span>
+
+                                    </li>
+            <li>
+                                                <span>
+                    <a href="/confiance-en-soi/articles" title="Articles">
+                        <span>Articles</span>
+                    </a> /
+                </span>
+
+                                    </li>
+            <li>
+                                                <strong>L&#039;ego et l&#039;orgueil : comment faire baisser leur emprise sur nous ?</strong>
+                                    </li>
+    </ul>
+
+<script type="application/ld+json">
+    [
+        {
+            "@context": "https://schema.org",
+            "@type": "BreadcrumbList",
+            "numberOfItems": "4",
+            "itemListOrder": "http://schema.org/ItemListOrderAscending",
+            "itemListElement": [
+                                {
+                  "@type": "ListItem",
+                  "position": "1",
+                  "item": {
+                                                                        "@id": "https://www.psychologue.net/",
+                                                                                    "name": "Accueil"
+                                      }
+                },                                {
+                  "@type": "ListItem",
+                  "position": "2",
+                  "item": {
+                                                                        "@id": "https://www.psychologue.net/confiance-en-soi",
+                                                                                    "name": "Confiance en soi"
+                                      }
+                },                                {
+                  "@type": "ListItem",
+                  "position": "3",
+                  "item": {
+                                                                        "@id": "https://www.psychologue.net/confiance-en-soi/articles",
+                                                                                    "name": "Articles"
+                                      }
+                },                                {
+                  "@type": "ListItem",
+                  "position": "4",
+                  "item": {
+                                                            "name": "L&#039;ego et l&#039;orgueil : comment faire baisser leur emprise sur nous ?"
+                                      }
+                }                            ]
+        }
+    ]
+</script>
+        </nav>
+    </aside>
+
+    <div class="ie-w-col">
+
+        <aside id="sticky-bar" class="sticky-button flex reverse center between">
+            <span id="articles_sticky" class="button-accent" style="cursor:pointer;">Prendre un rendez-vous Online</span>
+        </aside>
+
+
+        <div class="center-col">
+
+            <article class="main-article p-x-24 bg-white">
+                <h1 class="extra-bold">L'ego et l'orgueil : comment faire baisser leur emprise sur nous ?</h1>
+
+                <div class="reviewed-box bg-grey-dark p-x-16 m-t-16 m-b-16 flex ai-start">
+                                            <img class="lazyload" src="" data-src="/img/web/landing/check-circle.svg"
+                             alt="<strong>Article révisé</strong> par le" class="check-icon">
+                        <p class="f-14 lh-18">
+                            <a id="reviewed-link"><span>Article révisé</span></a>
+                            par le
+                            <a href="https://www.psychologue.net/comite-experts"
+                               title="Comité Psychologue.net">
+                                Comité Psychologue.net
+                            </a>
+                        </p>
+
+                                    </div>
+
+                <p class="abstract f-18 c-blue-medium">L'ego et l'orgueil sont deux excroissances de notre mental. Comment se manifestent-ils ? Quelle est la différence entre les deux ? Comment faire baisser leur emprise sur nous ?</p>
+
+                <div class="contextual f-14 c-blue-light m-t-16 m-b-4">
+                    <span>29 JUIN 2020 </span>
+
+                    
+                    <span id="js_reading_time" class="article-detail-time">
+                    ·
+                    Lecture : <strong><span id="js_reading_time_number"></span> min.</strong>
+                    </span>
+                </div>
+
+                                    <div class="category-section m-t-4 m-b-16">
+                        <a href="/confiance-en-soi/articles"
+                           title="Confiance en soi">
+                            Confiance en soi
+                        </a>
+                    </div>
+                
+                <div class="featuredImage-image m-b-24">
+                                            <img class="lazyload" src=""
+                             data-src="https://www.psychologue.net/site/article/57454/47411/frsgregr_ai1.jpg"
+                             data-srcset="/site/article/57454/47411/frsgregr_ai2.jpg 390w,
+                                     /site/article/57454/47411/frsgregr_ai1.jpg 1420w"
+                             data-sizes="(min-width:390px) 1420px, 390px"
+                                                            alt="L&#039;ego et l&#039;orgueil : comment faire baisser leur emprise sur nous ?"
+                                />
+                                    </div>
+
+                <div id="js_article_content" class="article-full-text c-blue-medium ">
+
+                                        <p style="text-align: justify;">Je vous propose un rapide regard sur les notions d'ego et d'orgueil. L'<strong>égo</strong>, c'es la somme de nos mémoires, croyances (ce que l'on tient pour vrai) et peurs. L'égo pilote nos vies quand il nous oblige à... ou nous empêche de...</p>
+<h2 style="text-align: justify;">1/ Quand on est dans l'égo, c'est entre nous et nous</h2>
+<p style="text-align: justify;">Cela se manifeste par :</p>
+<ul style="text-align: justify;">
+<li>les critiques, jugements qu'on porte sur nous,</li>
+<li>la culpabilité qu'on ressent,</li>
+<li>les "noms d'oiseaux" qu'on s'adresse (t'es nul(le), t'es stupide, quel(le) con(ne)...),</li>
+<li>la dévalorisation de soi, de ses actions ou de ses paroles (ce n'est pas si bine que cela, je ne mérite pas autant de louanges...),</li>
+<li>le rejet de nos échecs,</li>
+<li>la comparaison aux autres en notre défaveur,</li>
+<li>la non acceptation de nos limites,</li>
+<li>le rejet de nos besoins et désirs (je ne peux pas être heureuse alors que ma fille est au plus bas ou que ma mère est malade - je ne peux pas me reposer alors que la maison est en fouillis - je ne peux pas quitter mon emploi, c'est trop risqué...)...</li>
+</ul>
+<div style="text-align: justify;">Je pense que vous avez déjà une bonne idée de la place que prend votre égo dans votre vie.</div>
+<p style="text-align: justify;">Ces aspects sont tous nourris au plus profond de nous par<strong> la peur de ne pas être aimés</strong>. Alors, on fait des tonnes de pirouettes pour ne pas toucher à <strong>cette peur</strong>.</p>
+<p style="text-align: justify;">C'est pourquoi<strong> reprendre la main sur notre vie passe par le développement de l'amour de soi et l'acceptation de nos actes</strong>, paroles, pensées même s'ils ne correspondant pas à notre idéal, à notre préférence ou aux attentes des autres.</p>
+<p style="text-align: justify;">L'amour de soi inclue de garder l<strong>'estime de soi et la confiance en soi</strong> quoiqu'il se passe ou ne se passe pas. Nos supposé échecs n'en seront plus ; ils deviendront des apprentissages. Nous accepterons et nous adapterons à nos faiblesses. Nous lâcherons l'illusion de la perfection et de certains codes (religieux, sociétaux, familiaux...).</p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="../../pro/psicologos_fr/articles/0c/af/354344/57454/shutterstock-1524060476.jpg" alt="" width="640" height="426" /></p>
+<h2 style="text-align: justify;">2/ Quand on passe dans l’orgueil, c'est entre nous et l'autre</h2>
+<p style="text-align: justify;">Cela se manifeste par :</p>
+<ul style="text-align: justify;">
+<li>la vanité, au niveau du paraître,</li>
+<li>la vantardise, on ne met en avant que ses points positifs et d'une manière qui rabaisse les autres,</li>
+<li>la fausse modestie pour obtenir encore plus de louanges,</li>
+<li>l'orgueil intellectuel : je sais mieux que l'autre,</li>
+<li>l'orgueil spirituel : je suis ou je vaux plus que l'autre,</li>
+<li>le snobisme, quand on regarde les autres de haut,</li>
+<li>toutes sortes d'entêtements, quand on :</li>
+<li>--- veut avoir raison à tout prix</li>
+<li>--- veut convaincre à tout pris</li>
+<li>--- veut avoir le dernier mot,</li>
+<li>--- persiste même si on sait qu'on a tort,</li>
+<li>quand on rabaisse l'autre pour se remonter soi et dès qu'on critique quelqu'un d'autre.</li>
+</ul>
+<div style="text-align: justify;">Je pense qu'arrivé à la fin de la liste, non exhaustive, vous devez avoir prix conscience que vous êtes parfois ou souvent orgueilleux.</div>
+<p style="text-align: justify;">Nous partageons tous cela. Ainsi, inutile de donner encore de la matière à notre ego en nous en voulant d'<strong>être orgueilleux</strong>.</p>
+<p style="text-align: justify;">L'orgueil dans ses différentes formes est toujours la démonstration d'<strong>un grand manque de confiance en soi</strong>. Je vous invite donc à reconnaître la souffrance sous ces comportements et à <strong>avoir de la compassion pour vous et pour les autres</strong>.</p>
+<p style="text-align: justify;">Il est aussi temps de développer votre fierté et l'humilité dans nos relations afin qu'elles soient de plus en plus harmonieuses. Cela revient à reconnaître à leur justes valeurs nos forces et nos faiblesses, nos talents, nos qualités et nos défauts. C'est reconnaître nos erreurs sans pour autant nous miner e nos réussites sans vouloir en montrer aux autres...</p>
+<p style="text-align: justify;">Apprivoiser <strong>notre égo et notre orgueil</strong> se fait petit à petit à chaque fois qu'on fait un acte d'amour pour soi et qu'on se dirige vers ce que l'on désire ou ce dont on a besoin, au lieu de laisser nos peurs nous influencer. c'est également oser montrer notre vulnérabilité.</p>
+<p style="text-align: justify;">Si vous avez besoin d'aide, je suis là, en toute modestie.</p>
+<p style="text-align: justify;">Photos : Shutterstock</p>
+                    
+                    <!-- More images -->
+                                        <!-- More images -->
+
+                                            <p class="legal-info">
+                            Les informations publiées sur Psychologue.net ne se substituent en aucun cas à la relation entre le patient et son psychologue. Psychologue.net ne fait l&#039;apologie d&#039;aucun traitement spécifique, produit commercial ou service.
+                        </p>
+                                    </div>
+                                                <aside class="social-sharer nosticky">
+                    <span class="label">Partager</span>
+                    <div class="social-network" id="social-container" data-page="article_show">
+                            <a href="http://www.facebook.com/sharer/sharer.php?"
+       target="_blank"
+       class="share-facebook m-r-8"
+       id="js_share_facebook"
+       title="facebook"
+       aria-label="Facebook"
+       rel="noopener"
+       data-action="share"
+       data-interaction="1">
+
+      <span>
+         <img src="" data-src="/img/web/icons/fbsvg.svg" class="fbsvg-icon lazyload"
+              alt="psychologues Facebook">
+   </span>
+    </a>
+
+    <a href="http://twitter.com/home?status="
+       target="_blank"
+       class="share-twitter m-r-8"
+       id="js_share_twitter"
+       aria-label="Twitter"
+       title="twitter"
+       rel="noopener"
+       data-action="share"
+       data-interaction="2">
+
+       <span>
+        <img src="" data-src="/img/web/icons/twittersvg.svg"
+             class="twitter-icon lazyload" alt="psychologues Twitter">
+        </span>
+    </a>
+
+    <a href=" http://www.linkedin.com/shareArticle?"
+       target="_blank"
+       class="share-linkedin m-r-8"
+       id="js_share_linkedin"
+       title="linkedin"
+       aria-label="Linkedin"
+       rel="noopener"
+       data-action="share"
+       data-interaction="3">
+
+        <span>
+         <img src="" data-src="/img/web/icons/linkedin.svg"
+              class="twitter-icon lazyload" alt="psychologues Linkedin">
+   </span>
+    </a>
+
+    <a href="whatsapp://send?"
+       class="share-whatsapp m-r-8 hide-desktop"
+       id="js_share_whatsapp"
+       title="whatsapp"
+       aria-label="Whatsapp"
+       rel="noopener"
+       data-action="share"
+       data-interaction="4">
+
+       <span>
+<svg height="28" viewBox="0 0 28 28" width="28" xmlns="http://www.w3.org/2000/svg"><g fill="none"><path d="m14.0035 0h-.007c-7.71925 0-13.9965 6.279-13.9965 14 0 3.0625.987 5.901 2.66525 8.20575l-1.74475 5.201 5.38125-1.72025c2.21375 1.4665 4.8545 2.3135 7.70175 2.3135 7.71925 0 13.9965-6.28075 13.9965-14s-6.27725-14-13.9965-14z" fill="#4caf50"/><path d="m22.1553769 19.8354774c-.3390008.96298-1.6844653 1.7616349-2.7576752 1.9948704-.7342091.1572573-1.6932478.2827098-4.9216599-1.0636952-4.129487-1.7209954-6.78879928-5.9422048-6.99606405-6.2160798-.19848236-.273875-1.668657-2.2351737-1.668657-4.2636158 0-2.0284422 1.02402846-3.01615925 1.4368015-3.44022382.33900085-.34808633.8993183-.50711054 1.4368015-.50711054.17389163 0 .33021844.00883468.47073692.01590242.41277305.01766936.62003781.04240646.89229233.6979396.3390009.8216251 1.164547 2.85006727 1.2629099 3.05856564.1001194.2084985.2002389.4912082.0597204.7650832-.1317361.2827097-.2476638.4081621-.4549286.6484654-.2072648.2403032-.4039907.4240646-.6112554.6820372-.1897.2244008-.40399066.4647041-.1651092.8799339.2388814.4063953 1.0644275 1.7616349 2.2799124 2.8500673 1.5685375 1.4047139 2.8402298 1.8535156 3.2951584 2.0443446.3390009.1413549.7429915.1077831.9906553-.1572573.3144101-.3410186.7025924-.906438 1.0978007-1.4630227.281037-.3993275.6358461-.4488017 1.0082201-.3074468.3793999.1325201 2.3870578 1.1308388 2.7998308 1.3375703.412773.2084984.6850276.3074468.785147.4823734.098363.1749267.098363.9965518-.2406379 1.9612986z" fill="#fafafa"/></g></svg>
+   </span>
+    </a>
+
+    <a href="mailto:email@address.com?"
+       class="share-mail m-r-8"
+       id="js_share_mail"
+       title="email"
+       aria-label="Email"
+       rel="noopener"
+       data-action="share"
+       data-interaction="5">
+
+      <span>
+         <img src="/img/web/icons/gmail.svg"
+              class="twitter-icon" alt="">
+   </span>
+    </a>
+                    </div>
+
+                    <div class="article-counters">
+                                                                                <div class="ie-art-counter">
+                                <div class="ie-art-likes">
+                                    <button id="user-like" class="ie-art-likes-btn button-transparent"
+                                            aria-label="like button">
+                                        <span id="like-btn-empty" class="icon-heart-empty"></span>
+                                        <span id="like-btn-fill" class="icon-heart"></span>
+                                    </button>
+
+                                    <p class="ie-art-likes-txt">
+                                <span id="article-likes" data-likes="4">
+                                    4
+                                </span>
+                                    </p>
+                                </div>
+                            </div>
+                        
+                    </div>
+
+                </aside>
+
+                                                    
+
+
+    
+
+
+
+
+
+
+<p class="gad-title">PUBLICITÉ</p>
+<div id="div-gpt-ad-1678708372600-0" class="m-b-24"></div>                
+            </article>
+
+                        <section class="author-box bg-white p-x-24">
+                <div class="author-summary center p-t-28 p-b-28 border-top company-box ">
+                                            <div class="image-rounded relative">
+                                                            <div class="image-companyLogo round-100 m-auto border"
+                                     style="background: url('/site/company/0c/354344/logo/sandrine-monteiro_li1.png') center center/cover no-repeat #D9E2ED;">
+                                                                            <a href="/cabinets/sandrine-monteiro" title="Sandrine Monteiro"
+                                           class="w-100 h-100">
+
+                                        </a>
+                                                                    </div>
+                                                        <div class="linkedin">
+                                <img src="" data-src="/img/web/icons/linkedin.svg" alt="Linkedin"
+                                     class="linkedin-icon lazyload">
+                            </div>
+                        </div>
+
+
+                        <div class="author-description m-t-16">
+                            <span>Écrit par</span>
+                            <h3 class="m-t-8 m-b-8">
+                                                                    Sandrine Monteiro
+                                                            </h3>
+                                                            <p>Psychologue diplômée de l&#039;école québécoise Ecoute Ton Corps, spécialisée en thérapie pour adolescents et adultes, soit individuellement, soit en couple. Il utilise des méthodes thérapeutiques axées sur l&#039;écoute du corps tant sur le plan émotionnel que mental, des thérapies pour évacuer le stress, des consolations familiales, entre autres.</p>
+                            
+                                                            <div class="actions-box flex center jc-center">
+                                    <a id="view-profile" href="/cabinets/sandrine-monteiro" title="Voir profil"
+                                       class="m-r-12">
+                                        Voir profil
+                                    </a>
+
+                                    <button id="on-request"
+                                            data-com-id="354344"
+                                            class="on_request button-transparent regular f-14"
+                                            title="Contacter"
+                                            data-ga-event="ArticleCard, ask_request, ArticleHeader"
+                                            data-source-type="32">
+                                        Contacter
+                                    </button>
+                                </div>
+                                                    </div>
+                                    </div>
+            </section>
+
+                        
+
+                        <section class="comment-section m-t-36" id="comments-section">
+                <span class="h2 p-l-20">
+                    Laissez un commentaire
+
+                                                        </span>
+
+                                                    <form id="form_comment" class="form bold-label m-t-12" method="POST" action="/articles/lego-et-lorgueil">
+
+                        <fieldset>
+                            <label for="aco_text" id="js-textarea">
+                                <span>Rédigez votre commentaire</span>
+                                <textarea id="aco_text" name="aco_text" class="large"
+                                          required data-rule-minlength="25"></textarea>
+                            </label>
+                        </fieldset>
+
+                                                    <div class="add-user-fields" id="js-user-fields">
+                                <fieldset>
+                                    <label for="usr_name">
+                                        <span>Pseudo</span>
+                                        <input id="usr_name" name="usr_name" type="text"
+                                               required data-rule-minlength="2" class="d-w-300"/>
+                                    </label>
+                                </fieldset>
+
+                                <fieldset>
+                                    <label>
+                                        <span>E-mail</span>
+                                        <input id="usr_email" tabindex="2" name="usr_email" type="email" required
+                                               data-msg="Cette information est obligatoire. Incluez votre e-mail correct" class="d-w-300"/>
+                                    </label>
+                                </fieldset>
+
+                                <fieldset>
+                                    <label for="accept_cond">
+                                        <input type="checkbox" name="accept_cond" id="accept_cond"
+                                               required data-msg="Vous devez accepter les mentions légales"/>
+                                        <span class="rgpd">J'ai lu et j'accepte les <a href="/aviso_legal" target="_blank" rel="nofollow">Mentions légales</a>, la  <a href="/proteccion_datos" target="_blank" rel="nofollow">Politique de protection des données</a>.</span>
+                                    </label>
+                                </fieldset>
+
+                                <fieldset>
+                                    <label for="accept_promotions">
+                                        <input type="checkbox" name="accept_promotions" id="accept_promotions"/>
+                                        <span class="rgpd">J'accepte de recevoir des informations commerciales de la part de Psychologue.net et je comprends que je peux me désabonner à tout moment.</span>
+                                    </label>
+                                </fieldset>
+                            </div>
+                        
+                        <button type="submit" class="cta m-t-16 m-b-20">
+                            Envoyer commentaire
+                        </button>
+                    </form>
+                
+
+                                                    
+
+
+    
+
+
+
+
+
+
+<p class="gad-title">PUBLICITÉ</p>
+<div id="div-gpt-ad-1678708330676-0" class="m-b-24"></div>                
+
+                                
+            </section>
+        </div>
+
+        <aside class="ie-w-fixed-sidebar p-r-16 p-l-16 p-b-16 p-t-32">
+            <div class="social-follow-us flex center m-b-28">
+                <span class="m-r-12 c-blue-light">Suivez-nous:</span>
+
+                    <a title="psychologues Facebook" class="m-r-8"
+       data-ga-event="socialButtons, footer_web, facebook"
+       aria-label="psychologues Facebook"
+       href="https://www.facebook.com/Psychologuenet" target="_blank" rel="noopener">
+        <img src="/img/web/icons/fbsvg.svg" class="fbsvg-icon" alt="psychologues Facebook">
+    </a>
+
+
+    <a title="psychologues Instagram" class="m-r-8"
+       data-ga-event="socialButtons, footer_web, instagram"
+       aria-label="psychologues Instagram"
+       href="https://www.instagram.com/psychologuenet/" target="_blank" rel="noopener">
+        <img src="/img/web/icons/instagram.svg" class="instagram-icon" alt="psychologues Instagram">
+    </a>
+            </div>
+
+                                        <div class="gads-hide-mobile">
+
+
+    
+
+
+
+
+
+
+<p class="gad-title">PUBLICITÉ</p>
+<div id="div-gpt-ad-1678708408223-0" class="m-b-24"></div></div>
+            
+                            <div class="related-card">
+        <div class="l-title p-r-16 p-l-16">Articles suivants</div>
+        <ul class="p-l-20 p-r-20 p-b-4">
+            
+                <li>
+                   <!--
+                    <div class="f-left image-related">
+
+                    </div>
+                    -->
+                    <div class="text-related">
+                        <h3>
+                            <a href="/articles/lechelle-de-rosenberg-calculer-lestime-de-soi" title="Échelle de Rosenberg : calculez votre estime de soi">
+                                Échelle de Rosenberg : calculez votre estime de soi
+                            </a>
+                        </h3>
+                        <div class="date-related flex">
+                            <span class="">
+                                12 déc. 2017
+                            </span>
+                            <span>·</span>
+                            <span class="category-related">
+                                Confiance en soi
+                            </span>
+                        </div>
+                    </div>
+                </li>
+            
+                <li>
+                   <!--
+                    <div class="f-left image-related">
+
+                    </div>
+                    -->
+                    <div class="text-related">
+                        <h3>
+                            <a href="/articles/victime-bourreau-sauveur-benefices-et-comment-s" title="Triangle dramatique (victime, bourreau, sauveur) : pourquoi ...">
+                                Triangle dramatique (victime, bourreau, sauveur) : pourquoi ...
+                            </a>
+                        </h3>
+                        <div class="date-related flex">
+                            <span class="">
+                                20 juin 2023
+                            </span>
+                            <span>·</span>
+                            <span class="category-related">
+                                Confiance en soi
+                            </span>
+                        </div>
+                    </div>
+                </li>
+            
+                <li>
+                   <!--
+                    <div class="f-left image-related">
+
+                    </div>
+                    -->
+                    <div class="text-related">
+                        <h3>
+                            <a href="/articles/l-heritage-familiale-dans-nos-assiettes" title="Qu&#039;est-ce que la psychogénéalogie ? Comment notre héritage ...">
+                                Qu'est-ce que la psychogénéalogie ? Comment notre héritage ...
+                            </a>
+                        </h3>
+                        <div class="date-related flex">
+                            <span class="">
+                                14 déc. 2023
+                            </span>
+                            <span>·</span>
+                            <span class="category-related">
+                                Confiance en soi
+                            </span>
+                        </div>
+                    </div>
+                </li>
+            
+                <li>
+                   <!--
+                    <div class="f-left image-related">
+
+                    </div>
+                    -->
+                    <div class="text-related">
+                        <h3>
+                            <a href="/articles/besoins-et-consequences-dans-le-lien-transferentiel-autour-de-la-notion-de-reconnaissance" title="Besoins et conséquences dans le lien transférentiel autour ...">
+                                Besoins et conséquences dans le lien transférentiel autour ...
+                            </a>
+                        </h3>
+                        <div class="date-related flex">
+                            <span class="">
+                                29 août 2022
+                            </span>
+                            <span>·</span>
+                            <span class="category-related">
+                                Confiance en soi
+                            </span>
+                        </div>
+                    </div>
+                </li>
+            
+                <li>
+                   <!--
+                    <div class="f-left image-related">
+
+                    </div>
+                    -->
+                    <div class="text-related">
+                        <h3>
+                            <a href="/articles/le-lipoedeme-errance-medicale-et-detresse-psychique" title="Le lipœdème : errance médicale et détresse psychique">
+                                Le lipœdème : errance médicale et détresse psychique
+                            </a>
+                        </h3>
+                        <div class="date-related flex">
+                            <span class="">
+                                29 juil. 2022
+                            </span>
+                            <span>·</span>
+                            <span class="category-related">
+                                Confiance en soi
+                            </span>
+                        </div>
+                    </div>
+                </li>
+            
+                <li>
+                   <!--
+                    <div class="f-left image-related">
+
+                    </div>
+                    -->
+                    <div class="text-related">
+                        <h3>
+                            <a href="/articles/les-croyances-limitantes-qui-mempechent-de-construire-une-saine-estime-de-moi" title="3 croyances limitantes qui m’empêchent de construire une ...">
+                                3 croyances limitantes qui m’empêchent de construire une ...
+                            </a>
+                        </h3>
+                        <div class="date-related flex">
+                            <span class="">
+                                27 juin 2022
+                            </span>
+                            <span>·</span>
+                            <span class="category-related">
+                                Confiance en soi
+                            </span>
+                        </div>
+                    </div>
+                </li>
+                    </ul>
+    </div>
+
+                                        
+                                                                                
+                <img data-role="banner" class="banner lazyload" src="" data-src="/site/own/ad_article_banner.png"
+                     style="margin:0 auto 24px;cursor: pointer;" alt="" data-sl="aHR0cHM6Ly93d3cuYWR3ZWIucHN5Y2hvbG9ndWUubmV0Lw=="
+                     data-encoded="true" data-sl-t="_blank">
+
+                    <script type="text/javascript">
+                        window.addEventListener('load', function () {
+                            var banners = document.querySelectorAll('[data-role="banner"]');
+                            banners[Math.floor(Math.random() * banners.length)].style.display = 'block';
+                        })
+                    </script>
+                
+                    </aside>
+
+    </div>
+
+        <div class="ie-company-modal-no-client" id="ReviewedArticleModal">
+        <div id="modalShadow" class="modal-shadow"></div>
+        <div class="modal-content">
+
+                        <button id="closeReviewedArticleModal" class="close-modal button-transparent">
+                <svg height="18" viewBox="0 0 18 18" width="18" xmlns="http://www.w3.org/2000/svg">
+                    <path d="m17.3915701 3.54537958-5.453894 5.45449769 5.453894 5.45423933c.8112399.8115551.8112399 2.1261658 0 2.9377209-.4053356.4053383-.9367574.6081625-1.4679208.6081625-.5320418 0-1.0635153-.2025141-1.4685409-.6081625l-5.45508256-5.4548594-5.45466916 5.4548077c-.40528402.4053383-.93675745.6082142-1.4683859.6082142-.53147343 0-1.06258514-.2025658-1.46823088-.6082142-.8112398-.8111933-.8112398-2.1258557 0-2.9377209l5.45373902-5.4542393-5.45404907-5.45444602c-.8112398-.81124505-.8112398-2.12616583 0-2.93741087.81108478-.81062495 2.12522195-.81062495 2.93661678 0l5.45492753 5.45449769 5.45451414-5.45449769c.8115499-.81062495 2.125842-.81062495 2.9367718 0 .8115499.81124504.8115499 2.12616582.00031 2.93741087z"
+                          fill="#fff"/>
+                </svg>
+            </button>
+
+                        <h3>Article révisé</h3>
+            <div>
+                Cet article a été revu par un professionnel de la psychologie afin de le rendre fiable, de qualité et pertinent. Les informations ont été vérifiées par des sources fiables.
+            </div>
+        </div>
+    </div>
+
+
+        
+
+
+                                <section class="last-articles has-social main p-t-36 p-b-36 p-r-8 p-l-8">
+            <h3 class="h2 center">
+                derniers articles sur confiance en soi
+            </h3>
+
+            <div class="flex-wrapper only-desktop f-2-3">
+                                 
+                            
+        <article class="c-card w-100 item">
+                        
+            <div class="c-card-img-wrapper">
+                <a href="/articles/limportance-des-soins-maternels-dans-la-construction-de-la-confiance-en-soi" title="Holding : L'importance des soins maternels dans la ...">
+                                            <img class="lazyload" src="" data-src="/site/article/66777/55853/holding_ai3.jpg"
+                             data-srcset="/site/article/66777/55853/holding_ai1.jpg 485w,
+                                     /site/article/66777/55853/holding_ai2.jpg 1420w"
+                             data-sizes="(min-width:485px) 1420px, 485px" alt="Holding : L'importance des soins maternels dans la ..."/>
+                                    </a>
+            </div>
+
+            <div class="c-card-content">
+
+                                    <a href="/confiance-en-soi/articles"
+                       class="c-card-topic" title="Confiance en soi">
+                        Confiance en soi
+                    </a>
+                
+                <h3>
+                    <a href="/articles/limportance-des-soins-maternels-dans-la-construction-de-la-confiance-en-soi" title="Holding : L'importance des soins maternels dans la ...">
+                        Holding : L'importance des soins maternels dans la ...
+                    </a>
+                </h3>
+
+                <p class="c-card-context">
+                    Par 
+                    <span class="c-card-author"><a href='/cabinets/hennebelle-maia'>Hennebelle Maïa</a></span> ·
+                    <span>14 DÉC 2023</span>
+                </p>
+            </div>
+
+        </article>
+                    
+                            
+        <article class="c-card w-100 item">
+                        
+            <div class="c-card-img-wrapper">
+                <a href="/articles/estime-de-soi-dans-le-couple-lequilibre-subtil-de-la-confiance-et-de-lintimite" title="Estime de soi dans le couple : L'équilibre subtil de la ...">
+                                            <img class="lazyload" src="" data-src="/site/article/66837/55820/estime-de-soi-et-couple_ai3.jpg"
+                             data-srcset="/site/article/66837/55820/estime-de-soi-et-couple_ai1.jpg 485w,
+                                     /site/article/66837/55820/estime-de-soi-et-couple_ai2.jpg 1420w"
+                             data-sizes="(min-width:485px) 1420px, 485px" alt="Estime de soi dans le couple : L'équilibre subtil de la ..."/>
+                                    </a>
+            </div>
+
+            <div class="c-card-content">
+
+                                    <a href="/confiance-en-soi/articles"
+                       class="c-card-topic" title="Confiance en soi">
+                        Confiance en soi
+                    </a>
+                
+                <h3>
+                    <a href="/articles/estime-de-soi-dans-le-couple-lequilibre-subtil-de-la-confiance-et-de-lintimite" title="Estime de soi dans le couple : L'équilibre subtil de la ...">
+                        Estime de soi dans le couple : L'équilibre subtil de la ...
+                    </a>
+                </h3>
+
+                <p class="c-card-context">
+                    Par 
+                    <span class="c-card-author"><a href='/cabinets/soukaina-nakrachi'>Soukaina Nakrachi</a></span> ·
+                    <span>11 DÉC 2023</span>
+                </p>
+            </div>
+
+        </article>
+                    
+                            
+        <article class="c-card w-100 item">
+                        
+            <div class="c-card-img-wrapper">
+                <a href="/articles/procrastination-et-confiance-en-soi-les-enseignements-de-jung-sur-les-conflits-interieurs" title="Procrastination et confiance en soi : quel est le rapport ?">
+                                            <img class="lazyload" src="" data-src="/site/article/66791/55793/confiance-en-soi-procrastination_ai3.jpg"
+                             data-srcset="/site/article/66791/55793/confiance-en-soi-procrastination_ai1.jpg 485w,
+                                     /site/article/66791/55793/confiance-en-soi-procrastination_ai2.jpg 1420w"
+                             data-sizes="(min-width:485px) 1420px, 485px" alt="Procrastination et confiance en soi : quel est le rapport ?"/>
+                                    </a>
+            </div>
+
+            <div class="c-card-content">
+
+                                    <a href="/confiance-en-soi/articles"
+                       class="c-card-topic" title="Confiance en soi">
+                        Confiance en soi
+                    </a>
+                
+                <h3>
+                    <a href="/articles/procrastination-et-confiance-en-soi-les-enseignements-de-jung-sur-les-conflits-interieurs" title="Procrastination et confiance en soi : quel est le rapport ?">
+                        Procrastination et confiance en soi : quel est le rapport ?
+                    </a>
+                </h3>
+
+                <p class="c-card-context">
+                    Par 
+                    <span class="c-card-author"><a href='/cabinets/sara-tij'>Sara Tij</a></span> ·
+                    <span>01 DÉC 2023</span>
+                </p>
+            </div>
+
+        </article>
+                    
+        
+        <article class="c-card w-100 item">
+                        
+            <div class="c-card-img-wrapper">
+                <a href="/articles/people-pleaser-pourquoi-essayons-nous-de-plaire-aux-autres" title="People pleaser : pourquoi essayons-nous de plaire aux ...">
+                                            <img class="lazyload" src="" data-src="/site/article/66683/55668/que-est-ce-que-people-pleaser_ai3.jpg"
+                             data-srcset="/site/article/66683/55668/que-est-ce-que-people-pleaser_ai1.jpg 485w,
+                                     /site/article/66683/55668/que-est-ce-que-people-pleaser_ai2.jpg 1420w"
+                             data-sizes="(min-width:485px) 1420px, 485px" alt="People pleaser : pourquoi essayons-nous de plaire aux ..."/>
+                                    </a>
+            </div>
+
+            <div class="c-card-content">
+
+                                    <a href="/confiance-en-soi/articles"
+                       class="c-card-topic" title="Confiance en soi">
+                        Confiance en soi
+                    </a>
+                
+                <h3>
+                    <a href="/articles/people-pleaser-pourquoi-essayons-nous-de-plaire-aux-autres" title="People pleaser : pourquoi essayons-nous de plaire aux ...">
+                        People pleaser : pourquoi essayons-nous de plaire aux ...
+                    </a>
+                </h3>
+
+                <p class="c-card-context">
+                    Par 
+                    <span class="c-card-author">Psychologue.net</span> ·
+                    <span>09 NOV 2023</span>
+                </p>
+            </div>
+
+        </article>
+                    
+                            
+        <article class="c-card w-100 item">
+                        
+            <div class="c-card-img-wrapper">
+                <a href="/articles/antifragilite-la-capacite-de-tirer-profit-du-chaos" title="Antifragilité : la capacité de tirer profit du chaos">
+                                            <img class="lazyload" src="" data-src="/site/article/66167/55415/antifragilite_ai3.jpg"
+                             data-srcset="/site/article/66167/55415/antifragilite_ai1.jpg 485w,
+                                     /site/article/66167/55415/antifragilite_ai2.jpg 1420w"
+                             data-sizes="(min-width:485px) 1420px, 485px" alt="Antifragilité : la capacité de tirer profit du chaos"/>
+                                    </a>
+            </div>
+
+            <div class="c-card-content">
+
+                                    <a href="/confiance-en-soi/articles"
+                       class="c-card-topic" title="Confiance en soi">
+                        Confiance en soi
+                    </a>
+                
+                <h3>
+                    <a href="/articles/antifragilite-la-capacite-de-tirer-profit-du-chaos" title="Antifragilité : la capacité de tirer profit du chaos">
+                        Antifragilité : la capacité de tirer profit du chaos
+                    </a>
+                </h3>
+
+                <p class="c-card-context">
+                    Par 
+                    <span class="c-card-author"><a href='/cabinets/sabine-martinuzzi'>Sabine Martinuzzi</a></span> ·
+                    <span>14 SEP 2023</span>
+                </p>
+            </div>
+
+        </article>
+                    
+        
+        <article class="c-card w-100 item">
+                        
+            <div class="c-card-img-wrapper">
+                <a href="/articles/je-me-sens-nulle-pourquoi-ressentons-nous-cela-et-comment-y-faire-face" title="Je me sens nulle : Pourquoi ressentons-nous cela et comment ...">
+                                            <img class="lazyload" src="" data-src="/site/article/65922/55173/je-me-sens-sans-valeur_ai3.jpg"
+                             data-srcset="/site/article/65922/55173/je-me-sens-sans-valeur_ai1.jpg 485w,
+                                     /site/article/65922/55173/je-me-sens-sans-valeur_ai2.jpg 1420w"
+                             data-sizes="(min-width:485px) 1420px, 485px" alt="Je me sens nulle : Pourquoi ressentons-nous cela et comment ..."/>
+                                    </a>
+            </div>
+
+            <div class="c-card-content">
+
+                                    <a href="/confiance-en-soi/articles"
+                       class="c-card-topic" title="Confiance en soi">
+                        Confiance en soi
+                    </a>
+                
+                <h3>
+                    <a href="/articles/je-me-sens-nulle-pourquoi-ressentons-nous-cela-et-comment-y-faire-face" title="Je me sens nulle : Pourquoi ressentons-nous cela et comment ...">
+                        Je me sens nulle : Pourquoi ressentons-nous cela et comment ...
+                    </a>
+                </h3>
+
+                <p class="c-card-context">
+                    Par 
+                    <span class="c-card-author">Psychologue.net</span> ·
+                    <span>12 JUI 2023</span>
+                </p>
+            </div>
+
+        </article>
+                </div>
+        </section>
+    
+                <div class="gads-hide-desktop">
+
+
+    
+
+
+
+
+
+
+<p class="gad-title">PUBLICITÉ</p>
+<div id="div-gpt-ad-1678708408223-0" class="m-b-24"></div></div>
+    
+    
+            <input type="hidden" id="jq_art_id" value="57454"/>
+        <script type="application/ld+json">
+[
+    {
+        "@context": "http://schema.org/",
+        "@type": "Article",
+        "author": {
+                        "@type": "Person",
+            "name": "Sandrine Monteiro"
+                    },
+        "datePublished": "2020/06/29",
+        "dateModified": "2020/06/29",
+        "headline": "L'ego et l'orgueil : comment faire baisser leur emprise sur nous ?",
+        "wordCount": "614",
+        "description": "L&#039;ego et l&#039;orgueil sont deux excroissances de notre mental. Comment se manifestent-ils ? Quelle est la différence entre les deux ? Comment faire",
+                                            "mainEntityOfPage": "https://www.psychologue.net/articles/lego-et-lorgueil",
+                            "image": {
+            "@type": "imageObject",
+                        "url": "https://www.psychologue.net/site/article/57454/47411/frsgregr_ai1.jpg"
+                    },
+                "articleBody": "Je vous propose un rapide regard sur les notions d'ego et d'orgueil. L'égo, c'es la somme de nos mémoires, croyances (ce que l'on tient pour vrai) et peurs. L'égo pilote nos vies quand il nous oblige à... ou nous empêche de...  1/ Quand on est dans l'égo, c'est entre nous et nous  Cela se manifeste par :    les critiques, jugements qu'on porte sur nous,  la culpabilité qu'on ressent,  les  noms d'oiseaux  qu'on s'adresse (t'es nul(le), t'es stupide, quel(le) con(ne)...),  la dévalorisation de soi, de ses actions ou de ses paroles (ce n'est pas si bine que cela, je ne mérite pas autant de louanges...),  le rejet de nos échecs,  la comparaison aux autres en notre défaveur,  la non acceptation de nos limites,  le rejet de nos besoins et désirs (je ne peux pas être heureuse alors que ma fille est au plus bas ou que ma mère est malade - je ne peux pas me reposer alors que la maison est en fouillis - je ne peux pas quitter mon emploi, c'est trop risqué...)...    Je pense que vous avez déjà une bonne idée de la place que prend votre égo dans votre vie.  Ces aspects sont tous nourris au plus profond de nous par la peur de ne pas être aimés. Alors, on fait des tonnes de pirouettes pour ne pas toucher à cette peur.  C'est pourquoi reprendre la main sur notre vie passe par le développement de l'amour de soi et l'acceptation de nos actes, paroles, pensées même s'ils ne correspondant pas à notre idéal, à notre préférence ou aux attentes des autres.  L'amour de soi inclue de garder l'estime de soi et la confiance en soi quoiqu'il se passe ou ne se passe pas. Nos supposé échecs n'en seront plus ; ils deviendront des apprentissages. Nous accepterons et nous adapterons à nos faiblesses. Nous lâcherons l'illusion de la perfection et de certains codes (religieux, sociétaux, familiaux...).    2/ Quand on passe dans l’orgueil, c'est entre nous et l'autre  Cela se manifeste par :    la vanité, au niveau du paraître,  la vantardise, on ne met en avant que ses points positifs et d'une manière qui rabaisse les autres,  la fausse modestie pour obtenir encore plus de louanges,  l'orgueil intellectuel : je sais mieux que l'autre,  l'orgueil spirituel : je suis ou je vaux plus que l'autre,  le snobisme, quand on regarde les autres de haut,  toutes sortes d'entêtements, quand on :  --- veut avoir raison à tout prix  --- veut convaincre à tout pris  --- veut avoir le dernier mot,  --- persiste même si on sait qu'on a tort,  quand on rabaisse l'autre pour se remonter soi et dès qu'on critique quelqu'un d'autre.    Je pense qu'arrivé à la fin de la liste, non exhaustive, vous devez avoir prix conscience que vous êtes parfois ou souvent orgueilleux.  Nous partageons tous cela. Ainsi, inutile de donner encore de la matière à notre ego en nous en voulant d'être orgueilleux.  L'orgueil dans ses différentes formes est toujours la démonstration d'un grand manque de confiance en soi. Je vous invite donc à reconnaître la souffrance sous ces comportements et à avoir de la compassion pour vous et pour les autres.  Il est aussi temps de développer votre fierté et l'humilité dans nos relations afin qu'elles soient de plus en plus harmonieuses. Cela revient à reconnaître à leur justes valeurs nos forces et nos faiblesses, nos talents, nos qualités et nos défauts. C'est reconnaître nos erreurs sans pour autant nous miner e nos réussites sans vouloir en montrer aux autres...  Apprivoiser notre égo et notre orgueil se fait petit à petit à chaque fois qu'on fait un acte d'amour pour soi et qu'on se dirige vers ce que l'on désire ou ce dont on a besoin, au lieu de laisser nos peurs nous influencer. c'est également oser montrer notre vulnérabilité.  Si vous avez besoin d'aide, je suis là, en toute modestie.  Photos : Shutterstock",
+        "publisher": {
+            "@type": "Organization",
+            "name": "psychologue.net",
+            "logo": {
+                "@type": "ImageObject",
+                                    "url": "https://www.psychologue.net/site/own/logo-h-2x.png",
+                                "width": 350,
+                "height": 100
+            }
+        },
+                "citation": ""
+            }
+]
+</script>
+
+                
+<footer id="footer" class="clear">
+
+            <aside class="p-x-16 additional-info-footer">
+        <div class="wrapper ie-footer-bottom">
+            <span>Le contenu de cette page est à titre informatif. Psychologue.net n&#039;offre pas de conseils médicaux, de diagnostic ou de traitement.</span>
+
+                <a href="/information-complementaire"
+                   title="Voir plus d&#039;informations">
+                    Voir plus d&#039;informations
+                </a>
+        </div>
+    </aside>
+    
+        <aside class="footer p-x-24">
+        <div class="wrapper">
+            <div class="footer-site m-b-16">
+
+                <img src="" data-src="/site/own/logo_white.svg" alt="psychologues"
+                     title="psychologues" class="project-logo m-b-20 lazyload"/>
+
+                <div class="sitemap flex jc-between m-b-24">
+                    <ul>
+                        <li class="m-b-16">
+                            <a href="/quienes"
+                               title="À propos">
+                                À propos
+                            </a>
+                        </li>
+
+                        <li class="m-b-16">
+                            <a href="/aviso_legal" rel="nofollow"
+                               title="Mentions légales">
+                                Mentions légales
+                            </a>
+                        </li>
+
+                        <li class="m-b-16">
+                            <a href="/proteccion_datos" rel="nofollow"
+                               title="Protection des données">
+                                Protection des données
+                            </a>
+                        </li>
+
+                        
+
+                        <li class="m-b-16">
+                            <a href="/politique-publicitaire" rel="nofollow"
+                               title="Politique publicitaire">
+                                Politique publicitaire
+                            </a>
+                        </li>
+
+                        <li class="m-b-16">
+                            <a href="/cookies" rel="nofollow"
+                               title="Politique de cookies">
+                                Politique de cookies
+                            </a>
+                        </li>
+
+                        <li class="m-b-16">
+                            <a href="/comment-nous-montrons-les-resultats" rel="nofollow"
+                               title="Comment nous vous montrons les résultats">
+                                Comment nous vous montrons les résultats
+                            </a>
+                        </li>
+
+                        <li>
+                            <a href="/opinions" rel="nofollow"
+                               title="Opinions">
+                                Opinions
+                            </a>
+                        </li>
+
+                    </ul>
+
+                    <ul>
+
+                                                    <li class="m-b-16">
+                                <a id="home_premium" href="/upgrade_presencial" rel="nofollow"
+                                   title="Plan Premium" target="_blank">
+                                    Plan Premium
+                                </a>
+                            </li>
+                        
+                        <li class="m-b-16">
+                            <span class="pointer" data-sl="/register_web"
+                                  title="Ajoutez votre cabinet">
+                                Ajoutez votre cabinet
+                            </span>
+                        </li>
+
+                        <li class="m-b-16">
+                            <a href="/front/user_account/login" rel="nofollow"
+                               title="Connexion professionnels">
+                                Connexion professionnels
+                            </a>
+                        </li>
+
+                                                                                                                                
+                        <li class="m-b-16">
+                            <p data-sl="aHR0cHM6Ly93d3cuYWR3ZWIucHN5Y2hvbG9ndWUubmV0Lw=="
+                               data-encoded="true" data-sl-t="_blank">
+                                Annoncez-vous
+                            </p>
+                        </li>
+                        
+                                                <li class="m-b-16">
+                            <a id="footer_help" href="https://insights.themindhubcompany.com/fr/knowledge" rel="nofollow" title="Avez-vous besoin d&#039;aide ?">
+                                Avez-vous besoin d&#039;aide ?
+                            </a>
+                        </li>
+                        
+                    </ul>
+                </div>
+
+                                                    <div class="social flex ai-center m-b-24">
+                        <span>Suivez-nous:</span>
+
+                                                                            <a title="psychologues Facebook" aria-label="Facebook"
+                               data-ga-event="socialButtons, footer_web, facebook" class="m-l-12"
+                               href="https://www.facebook.com/Psychologuenet" target="_blank" rel="noopener">
+
+                                <img height=30 width=30 class="lazyload" src="" data-src="/img/web/psico/svg/facebook.svg" />
+
+                            </a>
+                        
+                                                
+                                                                            <a title="psychologues Instagram" aria-label="Instagram"
+                                data-ga-event="socialButtons, footer_web, instagram" class="m-l-12"
+                                href="https://www.instagram.com/psychologuenet/" target="_blank" rel="noopener">
+                                <img height=30 width=30 class="lazyload" src="" data-src="/img/web/psico/svg/instagram.svg" />
+                            </a>
+                        
+                    </div>
+                
+                                <div class="GPTW">
+                    <a href="https://greatplacetowork.es/" target="_blank" rel="nofollow" title="Great Place to Work España">
+                        <img class="lazyload" src="" data-src="https://www.mundopsicologos.com/site/own/gptw_certified_badge_ESP.svg" alt="GPTW logo">
+                    </a>
+                </div>
+                            </div>
+
+            <div class="footer-seo">
+
+                                                            <p class="m-b-12">Derniers cabinets</p>
+
+                        <ul class="m-b-32">
+                                                            <li class="m-b-16">
+                                    <a href="/cabinets/delphine-danet-doyon" title="Delphine Danet-Doyon">
+                                        Delphine Danet-Doyon
+                                    </a>
+                                </li>
+                                                            <li class="m-b-16">
+                                    <a href="/cabinets/liliane-cotrel" title="Liliane COTREL">
+                                        Liliane COTREL
+                                    </a>
+                                </li>
+                                                            <li class="m-b-16">
+                                    <a href="/cabinets/fanny-chevreux" title="Fanny Chevreux">
+                                        Fanny Chevreux
+                                    </a>
+                                </li>
+                                                            <li class="m-b-16">
+                                    <a href="/cabinets/jordan-le-bellego" title="Jordan Le Bellego">
+                                        Jordan Le Bellego
+                                    </a>
+                                </li>
+                                                            <li class="m-b-16">
+                                    <a href="/cabinets/isabelle-bognini-garcia" title="Isabelle Bognini Garcia">
+                                        Isabelle Bognini Garcia
+                                    </a>
+                                </li>
+                                                    </ul>
+                    
+                                            <p class="m-b-12">Top villes</p>
+
+                        <ul class="m-b-32">
+                                                            <li class="m-b-16">
+                                    <a href="/cabinets/paris" title="Psychologues Paris">
+                                        Psychologues Paris
+                                    </a>
+                                </li>
+                                                            <li class="m-b-16">
+                                    <a href="/cabinets/bouches-du-rhone" title="Psychologues Bouches-du-Rhône">
+                                        Psychologues Bouches-du-Rhône
+                                    </a>
+                                </li>
+                                                            <li class="m-b-16">
+                                    <a href="/cabinets/rhone" title="Psychologues Rhône">
+                                        Psychologues Rhône
+                                    </a>
+                                </li>
+                                                            <li class="m-b-16">
+                                    <a href="/cabinets/haute-garonne" title="Psychologues Haute-Garonne">
+                                        Psychologues Haute-Garonne
+                                    </a>
+                                </li>
+                                                            <li class="m-b-16">
+                                    <a href="/cabinets/gironde" title="Psychologues Gironde">
+                                        Psychologues Gironde
+                                    </a>
+                                </li>
+                            
+                                                            <li class="m-b-16">
+                                    <a href="/geo_nav/locations"
+                                       title="Villes">
+                                        Villes
+                                    </a>
+                                </li>
+                                                    </ul>
+                    
+                    
+                                            <p class="m-b-12">Dernières recherches</p>
+
+                        <ul>
+                                                            <li class="m-b-16">
+                                    <a href="/cabinets/psychotherapie" title="Psychothérapie">
+                                        Psychothérapie
+                                    </a>
+                                </li>
+                                                            <li class="m-b-16">
+                                    <a href="/cabinets/psychologie-enfant" title="Psychologie enfant">
+                                        Psychologie enfant
+                                    </a>
+                                </li>
+                                                            <li class="m-b-16">
+                                    <a href="/cabinets/psychanalyse" title="Psychanalyse">
+                                        Psychanalyse
+                                    </a>
+                                </li>
+                                                            <li class="m-b-16">
+                                    <a href="/cabinets/therapie-couple" title="Thérapie de couple">
+                                        Thérapie de couple
+                                    </a>
+                                </li>
+                                                    </ul>
+                                    
+                                            </div>
+        </div>
+    </aside>
+
+        <aside class="footer-flags" >
+        <div class="wrapper">
+            <ul class="flex f-wrap">
+                                    <li class="flex ai-center m-b-20">
+                        <span class="flg-ar lazyload"></span>
+                        <a href="https://www.mundopsicologos.com.ar" class="f-10">
+                            Mundopsicologos.com.ar
+                        </a>
+                    </li>
+                                    <li class="flex ai-center m-b-20">
+                        <span class="flg-br lazyload"></span>
+                        <a href="https://br.mundopsicologos.com" class="f-10">
+                            MundoPsicologos.com
+                        </a>
+                    </li>
+                                    <li class="flex ai-center m-b-20">
+                        <span class="flg-cl lazyload"></span>
+                        <a href="https://www.psicologosonline.cl" class="f-10">
+                            PsicologosOnline.cl
+                        </a>
+                    </li>
+                                    <li class="flex ai-center m-b-20">
+                        <span class="flg-co lazyload"></span>
+                        <a href="https://www.psicologos.com.co" class="f-10">
+                            Psicologos.com.co
+                        </a>
+                    </li>
+                                    <li class="flex ai-center m-b-20">
+                        <span class="flg-es lazyload"></span>
+                        <a href="https://www.mundopsicologos.com" class="f-10">
+                            MundoPsicologos.com
+                        </a>
+                    </li>
+                                    <li class="flex ai-center m-b-20">
+                        <span class="flg-fr lazyload"></span>
+                        <a href="https://www.psychologue.net" class="f-10">
+                            Psychologue.net
+                        </a>
+                    </li>
+                                    <li class="flex ai-center m-b-20">
+                        <span class="flg-it lazyload"></span>
+                        <a href="https://www.guidapsicologi.it" class="f-10">
+                            GuidaPsicologi.it
+                        </a>
+                    </li>
+                                    <li class="flex ai-center m-b-20">
+                        <span class="flg-mx lazyload"></span>
+                        <a href="https://www.psico.mx" class="f-10">
+                            Psico.mx
+                        </a>
+                    </li>
+                                    <li class="flex ai-center m-b-20">
+                        <span class="flg-pt lazyload"></span>
+                        <a href="https://www.mundopsicologos.pt" class="f-10">
+                            MundoPsicologos.pt
+                        </a>
+                    </li>
+                
+                            </ul>
+        </div>
+                    </aside>
+    
+
+        <aside class="p-x-24 last-footer">
+        <div class="wrapper ie-footer-bottom">
+           <span id="js-copyright-info" class="m-auto">
+               © 2005 - 2024
+               Psychologue.net. Tous droits réservés. Mise à jour: 
+           </span>
+        </div>
+    </aside>
+    </footer>
+
+        
+                
+<script id="modal_template" type="x-template">
+    <div>
+        <div class="ie-modal-overlay" :class="{open: show}"></div>
+        <div class="ie-modal-wrapper" :class="{open: show}">
+            <div class="ie-modal" :class="{fullWidth: fullWidth}">
+                <span class="ie-modal-close icon-x" @click="close"></span>
+
+                <slot name="title"></slot>
+                <div class="ie-modal-container">
+                    <slot></slot>
+                </div>
+
+                <slot name="cta"></slot>
+            </div>
+        </div>
+    </div>
+</script>
+
+
+        <script id="super_modal_template" type="x-template">
+    <div class="ie-sp"
+         :class="[{'isSmall': isSmall, 'isBig': isBig, 'isRounded': isRounded}, customClass]"
+         v-if="isVisible || isLoading">
+        <div class="ie-sp-wrap">
+        <span class="ie-sp-close"
+              v-if="showClose"
+              @click="remove">×</span>
+
+            <div class="ie-sp-ttl"
+                 v-if="title && !isLoading"
+                 v-html="title"></div>
+            <div class="ie-sp-content"
+                 v-show="!isLoading"
+                 ref="content"
+                 v-html="content">
+            </div>
+
+            <div class="ie-sp-loader"
+                 v-if="isLoading">
+                <div class="ie-sp-loader-item"></div>
+            </div>
+        </div>
+    </div>
+</script>
+        <script id="super_lightbox_template" type="x-template">
+    <div class="ie-sp ie-sp--light-box"
+         :class="{'isSmall': isSmall, 'isBig': isBig}"
+         v-if="isVisible || isLoading">
+        <div class="ie-sp-wrap" @click="onClickOutside">
+            <span class="ie-sp-close"
+                  v-if="showClose"
+                  @click="remove">×</span>
+
+            <div class="ie-sp-content"
+                 v-show="!isLoading"
+                 ref="content"
+                 v-html="content">
+            </div>
+
+            <div class="ie-sp-loader"
+                 v-if="isLoading">
+                <div class="ie-sp-loader-item"></div>
+            </div>
+        </div>
+    </div>
+</script>
+
+            </main>
+            
+<script type="text/javascript" src="/10016320/site/own/_configurations.js"></script>
+<script type="text/javascript" src="/10016320/js/jquery-iempresas.js"></script>
+    <script type="text/javascript" src="/10016320/js/iempresas.js"></script>
+
+<script type="text/javascript">
+    //<![CDATA[
+    $.extend(App.pageVar, {
+        couId: "71",
+        proId: "75"
+    });
+    //]]>
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/",
+  "@type": "Organization",
+  "name": "Psychologue.net",
+  "url": "https://www.psychologue.net",
+  "logo": "https://www.psychologue.net/site/own/logo_color.png",
+  "sameAs": [
+            "https://www.facebook.com/Psychologuenet"
+              ]
+}
+</script>
+
+
+
+            
+<script type="text/javascript" src="/10016320/js/iempresas-article.js"></script>
+<script src="https://accounts.google.com/gsi/client" async defer></script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"a9443b4dd8","applicationID":"604860747,604861294","transactionName":"YAFXbEcDCEMHVkANWllLdk1GFgldSXNGC1tDXnx9WBIUVRVURzh2WApBSloOClUUaXIWWlkQaX5HDQhEJ0dADVZbAQ9LXQ0R","queueTime":0,"applicationTime":649,"atts":"TEZUGg8ZG00=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

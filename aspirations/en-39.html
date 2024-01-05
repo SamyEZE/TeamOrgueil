@@ -1,0 +1,1199 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
+  <head>
+    <meta charset="utf-8" /><script type="text/javascript">(window.NREUM||(NREUM={})).init={privacy:{cookies_enabled:true},ajax:{deny_list:["bam.nr-data.net"]}};(window.NREUM||(NREUM={})).loader_config={licenseKey:"NRJS-32db2f37a7e1f41235a",applicationID:"1009016335"};;/*! For license information please see nr-loader-rum-1.249.0.min.js.LICENSE.txt */
+(()=>{var e,t,r={234:(e,t,r)=>{"use strict";r.d(t,{P_:()=>v,Mt:()=>b,C5:()=>s,DL:()=>A,OP:()=>S,lF:()=>T,Yu:()=>x,Dg:()=>m,CX:()=>c,GE:()=>_,sU:()=>R});var n=r(8632),i=r(9567);const a={beacon:n.ce.beacon,errorBeacon:n.ce.errorBeacon,licenseKey:void 0,applicationID:void 0,sa:void 0,queueTime:void 0,applicationTime:void 0,ttGuid:void 0,user:void 0,account:void 0,product:void 0,extra:void 0,jsAttributes:{},userAttributes:void 0,atts:void 0,transactionName:void 0,tNamePlain:void 0},o={};function s(e){if(!e)throw new Error("All info objects require an agent identifier!");if(!o[e])throw new Error("Info for ".concat(e," was never set"));return o[e]}function c(e,t){if(!e)throw new Error("All info objects require an agent identifier!");o[e]=(0,i.D)(t,a);const r=(0,n.ek)(e);r&&(r.info=o[e])}const u=e=>{if(!e||"string"!=typeof e)return!1;try{document.createDocumentFragment().querySelector(e)}catch{return!1}return!0};var d=r(7056),l=r(50);const f="[data-nr-mask]",g=()=>{const e={mask_selector:"*",block_selector:"[data-nr-block]",mask_input_options:{color:!1,date:!1,"datetime-local":!1,email:!1,month:!1,number:!1,range:!1,search:!1,tel:!1,text:!1,time:!1,url:!1,week:!1,textarea:!1,select:!1,password:!0}};return{feature_flags:[],proxy:{assets:void 0,beacon:void 0},privacy:{cookies_enabled:!0},ajax:{deny_list:void 0,block_internal:!0,enabled:!0,harvestTimeSeconds:10,autoStart:!0},distributed_tracing:{enabled:void 0,exclude_newrelic_header:void 0,cors_use_newrelic_header:void 0,cors_use_tracecontext_headers:void 0,allowed_origins:void 0},session:{domain:void 0,expiresMs:d.oD,inactiveMs:d.Hb},ssl:void 0,obfuscate:void 0,jserrors:{enabled:!0,harvestTimeSeconds:10,autoStart:!0},metrics:{enabled:!0,autoStart:!0},page_action:{enabled:!0,harvestTimeSeconds:30,autoStart:!0},page_view_event:{enabled:!0,autoStart:!0},page_view_timing:{enabled:!0,harvestTimeSeconds:30,long_task:!1,autoStart:!0},session_trace:{enabled:!0,harvestTimeSeconds:10,autoStart:!0},harvest:{tooManyRequestsDelay:60},session_replay:{autoStart:!0,enabled:!1,harvestTimeSeconds:60,sampling_rate:50,error_sampling_rate:50,collect_fonts:!1,inline_images:!1,inline_stylesheet:!0,mask_all_inputs:!0,get mask_text_selector(){return e.mask_selector},set mask_text_selector(t){u(t)?e.mask_selector="".concat(t,",").concat(f):""===t||null===t?e.mask_selector=f:(0,l.Z)("An invalid session_replay.mask_selector was provided. '*' will be used.",t)},get block_class(){return"nr-block"},get ignore_class(){return"nr-ignore"},get mask_text_class(){return"nr-mask"},get block_selector(){return e.block_selector},set block_selector(t){u(t)?e.block_selector+=",".concat(t):""!==t&&(0,l.Z)("An invalid session_replay.block_selector was provided and will not be used",t)},get mask_input_options(){return e.mask_input_options},set mask_input_options(t){t&&"object"==typeof t?e.mask_input_options={...t,password:!0}:(0,l.Z)("An invalid session_replay.mask_input_option was provided and will not be used",t)}},spa:{enabled:!0,harvestTimeSeconds:10,autoStart:!0}}},p={},h="All configuration objects require an agent identifier!";function v(e){if(!e)throw new Error(h);if(!p[e])throw new Error("Configuration for ".concat(e," was never set"));return p[e]}function m(e,t){if(!e)throw new Error(h);p[e]=(0,i.D)(t,g());const r=(0,n.ek)(e);r&&(r.init=p[e])}function b(e,t){if(!e)throw new Error(h);var r=v(e);if(r){for(var n=t.split("."),i=0;i<n.length-1;i++)if("object"!=typeof(r=r[n[i]]))return;r=r[n[n.length-1]]}return r}const y={accountID:void 0,trustKey:void 0,agentID:void 0,licenseKey:void 0,applicationID:void 0,xpid:void 0},w={};function A(e){if(!e)throw new Error("All loader-config objects require an agent identifier!");if(!w[e])throw new Error("LoaderConfig for ".concat(e," was never set"));return w[e]}function _(e,t){if(!e)throw new Error("All loader-config objects require an agent identifier!");w[e]=(0,i.D)(t,y);const r=(0,n.ek)(e);r&&(r.loader_config=w[e])}const x=(0,n.mF)().o;var D=r(385),k=r(6818);const E={buildEnv:k.Re,customTransaction:void 0,disabled:!1,distMethod:k.gF,isolatedBacklog:!1,loaderType:void 0,maxBytes:3e4,offset:Math.floor(D._A?.performance?.timeOrigin||D._A?.performance?.timing?.navigationStart||Date.now()),onerror:void 0,origin:""+D._A.location,ptid:void 0,releaseIds:{},session:void 0,xhrWrappable:"function"==typeof D._A.XMLHttpRequest?.prototype?.addEventListener,version:k.q4,denyList:void 0},j={};function S(e){if(!e)throw new Error("All runtime objects require an agent identifier!");if(!j[e])throw new Error("Runtime for ".concat(e," was never set"));return j[e]}function R(e,t){if(!e)throw new Error("All runtime objects require an agent identifier!");j[e]=(0,i.D)(t,E);const r=(0,n.ek)(e);r&&(r.runtime=j[e])}function T(e){return function(e){try{const t=s(e);return!!t.licenseKey&&!!t.errorBeacon&&!!t.applicationID}catch(e){return!1}}(e)}},9567:(e,t,r)=>{"use strict";r.d(t,{D:()=>i});var n=r(50);function i(e,t){try{if(!e||"object"!=typeof e)return(0,n.Z)("Setting a Configurable requires an object as input");if(!t||"object"!=typeof t)return(0,n.Z)("Setting a Configurable requires a model to set its initial properties");const r=Object.create(Object.getPrototypeOf(t),Object.getOwnPropertyDescriptors(t)),a=0===Object.keys(r).length?e:r;for(let o in a)if(void 0!==e[o])try{Array.isArray(e[o])&&Array.isArray(t[o])?r[o]=Array.from(new Set([...e[o],...t[o]])):"object"==typeof e[o]&&"object"==typeof t[o]?r[o]=i(e[o],t[o]):r[o]=e[o]}catch(e){(0,n.Z)("An error occurred while setting a property of a Configurable",e)}return r}catch(e){(0,n.Z)("An error occured while setting a Configurable",e)}}},6818:(e,t,r)=>{"use strict";r.d(t,{Re:()=>i,gF:()=>a,q4:()=>n});const n="1.249.0",i="PROD",a="CDN"},385:(e,t,r)=>{"use strict";r.d(t,{Nk:()=>d,Tt:()=>s,_A:()=>a,cv:()=>l,iS:()=>o,il:()=>n,ux:()=>c,v6:()=>i,w1:()=>u});const n="undefined"!=typeof window&&!!window.document,i="undefined"!=typeof WorkerGlobalScope&&("undefined"!=typeof self&&self instanceof WorkerGlobalScope&&self.navigator instanceof WorkerNavigator||"undefined"!=typeof globalThis&&globalThis instanceof WorkerGlobalScope&&globalThis.navigator instanceof WorkerNavigator),a=n?window:"undefined"!=typeof WorkerGlobalScope&&("undefined"!=typeof self&&self instanceof WorkerGlobalScope&&self||"undefined"!=typeof globalThis&&globalThis instanceof WorkerGlobalScope&&globalThis),o=(a?.document?.readyState,Boolean("hidden"===a?.document?.visibilityState)),s=(a?.location,/iPad|iPhone|iPod/.test(a.navigator?.userAgent)),c=s&&"undefined"==typeof SharedWorker,u=((()=>{const e=a.navigator?.userAgent?.match(/Firefox[/\s](\d+\.\d+)/);Array.isArray(e)&&e.length>=2&&e[1]})(),Boolean(n&&window.document.documentMode)),d=!!a.navigator?.sendBeacon,l=Math.floor(a?.performance?.timeOrigin||a?.performance?.timing?.navigationStart||Date.now())},1117:(e,t,r)=>{"use strict";r.d(t,{w:()=>a});var n=r(50);const i={agentIdentifier:"",ee:void 0};class a{constructor(e){try{if("object"!=typeof e)return(0,n.Z)("shared context requires an object as input");this.sharedContext={},Object.assign(this.sharedContext,i),Object.entries(e).forEach((e=>{let[t,r]=e;Object.keys(i).includes(t)&&(this.sharedContext[t]=r)}))}catch(e){(0,n.Z)("An error occured while setting SharedContext",e)}}}},8e3:(e,t,r)=>{"use strict";r.d(t,{L:()=>d,R:()=>c});var n=r(8325),i=r(1284),a=r(4322),o=r(3325);const s={};function c(e,t){const r={staged:!1,priority:o.p[t]||0};u(e),s[e].get(t)||s[e].set(t,r)}function u(e){e&&(s[e]||(s[e]=new Map))}function d(){let e=arguments.length>0&&void 0!==arguments[0]?arguments[0]:"",t=arguments.length>1&&void 0!==arguments[1]?arguments[1]:"feature";if(u(e),!e||!s[e].get(t))return o(t);s[e].get(t).staged=!0;const r=[...s[e]];function o(t){const r=e?n.ee.get(e):n.ee,o=a.X.handlers;if(r.backlog&&o){var s=r.backlog[t],c=o[t];if(c){for(var u=0;s&&u<s.length;++u)l(s[u],c);(0,i.D)(c,(function(e,t){(0,i.D)(t,(function(t,r){r[0].on(e,r[1])}))}))}delete o[t],r.backlog[t]=null,r.emit("drain-"+t,[])}}r.every((e=>{let[t,r]=e;return r.staged}))&&(r.sort(((e,t)=>e[1].priority-t[1].priority)),r.forEach((t=>{let[r]=t;s[e].delete(r),o(r)})))}function l(e,t){var r=e[1];(0,i.D)(t[r],(function(t,r){var n=e[0];if(r[0]===n){var i=r[1],a=e[3],o=e[2];i.apply(a,o)}}))}},8325:(e,t,r)=>{"use strict";r.d(t,{A:()=>c,ee:()=>u});var n=r(8632),i=r(2210),a=r(234);class o{constructor(e){this.contextId=e}}var s=r(3117);const c="nr@context:".concat(s.a),u=function e(t,r){var n={},s={},d={},f=!1;try{f=16===r.length&&(0,a.OP)(r).isolatedBacklog}catch(e){}var g={on:h,addEventListener:h,removeEventListener:function(e,t){var r=n[e];if(!r)return;for(var i=0;i<r.length;i++)r[i]===t&&r.splice(i,1)},emit:function(e,r,n,i,a){!1!==a&&(a=!0);if(u.aborted&&!i)return;t&&a&&t.emit(e,r,n);for(var o=p(n),c=v(e),d=c.length,l=0;l<d;l++)c[l].apply(o,r);var f=b()[s[e]];f&&f.push([g,e,r,o]);return o},get:m,listeners:v,context:p,buffer:function(e,t){const r=b();if(t=t||"feature",g.aborted)return;Object.entries(e||{}).forEach((e=>{let[n,i]=e;s[i]=t,t in r||(r[t]=[])}))},abort:l,aborted:!1,isBuffering:function(e){return!!b()[s[e]]},debugId:r,backlog:f?{}:t&&"object"==typeof t.backlog?t.backlog:{}};return g;function p(e){return e&&e instanceof o?e:e?(0,i.X)(e,c,(()=>new o(c))):new o(c)}function h(e,t){n[e]=v(e).concat(t)}function v(e){return n[e]||[]}function m(t){return d[t]=d[t]||e(g,t)}function b(){return g.backlog}}(void 0,"globalEE"),d=(0,n.fP)();function l(){u.aborted=!0,u.backlog={}}d.ee||(d.ee=u)},5546:(e,t,r)=>{"use strict";r.d(t,{E:()=>n,p:()=>i});var n=r(8325).ee.get("handle");function i(e,t,r,i,a){a?(a.buffer([e],i),a.emit(e,t,r)):(n.buffer([e],i),n.emit(e,t,r))}},4322:(e,t,r)=>{"use strict";r.d(t,{X:()=>a});var n=r(5546);a.on=o;var i=a.handlers={};function a(e,t,r,a){o(a||n.E,i,e,t,r)}function o(e,t,r,i,a){a||(a="feature"),e||(e=n.E);var o=t[a]=t[a]||{};(o[r]=o[r]||[]).push([e,i])}},3239:(e,t,r)=>{"use strict";r.d(t,{bP:()=>s,iz:()=>c,m$:()=>o});var n=r(385);let i=!1,a=!1;try{const e={get passive(){return i=!0,!1},get signal(){return a=!0,!1}};n._A.addEventListener("test",null,e),n._A.removeEventListener("test",null,e)}catch(e){}function o(e,t){return i||a?{capture:!!e,passive:i,signal:t}:!!e}function s(e,t){let r=arguments.length>2&&void 0!==arguments[2]&&arguments[2],n=arguments.length>3?arguments[3]:void 0;window.addEventListener(e,t,o(r,n))}function c(e,t){let r=arguments.length>2&&void 0!==arguments[2]&&arguments[2],n=arguments.length>3?arguments[3]:void 0;document.addEventListener(e,t,o(r,n))}},3117:(e,t,r)=>{"use strict";r.d(t,{a:()=>n});const n=(0,r(4402).Rl)()},4402:(e,t,r)=>{"use strict";r.d(t,{Rl:()=>o,ky:()=>s});var n=r(385);const i="xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx";function a(e,t){return e?15&e[t]:16*Math.random()|0}function o(){const e=n._A?.crypto||n._A?.msCrypto;let t,r=0;return e&&e.getRandomValues&&(t=e.getRandomValues(new Uint8Array(30))),i.split("").map((e=>"x"===e?a(t,r++).toString(16):"y"===e?(3&a()|8).toString(16):e)).join("")}function s(e){const t=n._A?.crypto||n._A?.msCrypto;let r,i=0;t&&t.getRandomValues&&(r=t.getRandomValues(new Uint8Array(e)));const o=[];for(var s=0;s<e;s++)o.push(a(r,++i).toString(16));return o.join("")}},7056:(e,t,r)=>{"use strict";r.d(t,{Bq:()=>n,Hb:()=>a,oD:()=>i});const n="NRBA",i=144e5,a=18e5},7894:(e,t,r)=>{"use strict";function n(){return Math.round(performance.now())}r.d(t,{z:()=>n})},50:(e,t,r)=>{"use strict";function n(e,t){"function"==typeof console.warn&&(console.warn("New Relic: ".concat(e)),t&&console.warn(t))}r.d(t,{Z:()=>n})},2825:(e,t,r)=>{"use strict";r.d(t,{N:()=>d,T:()=>l});var n=r(8325),i=r(5546),a=r(3325),o=r(385);const s="newrelic";const c={stn:[a.D.sessionTrace],err:[a.D.jserrors,a.D.metrics],ins:[a.D.pageAction],spa:[a.D.spa],sr:[a.D.sessionReplay,a.D.sessionTrace]},u=new Set;function d(e,t){const r=n.ee.get(t);e&&"object"==typeof e&&(u.has(t)||(Object.entries(e).forEach((e=>{let[t,n]=e;c[t]?c[t].forEach((e=>{n?(0,i.p)("feat-"+t,[],void 0,e,r):(0,i.p)("block-"+t,[],void 0,e,r),(0,i.p)("rumresp-"+t,[Boolean(n)],void 0,e,r)})):n&&(0,i.p)("feat-"+t,[],void 0,void 0,r),l[t]=Boolean(n)})),Object.keys(c).forEach((e=>{void 0===l[e]&&(c[e]?.forEach((t=>(0,i.p)("rumresp-"+e,[!1],void 0,t,r))),l[e]=!1)})),u.add(t),function(){let e=arguments.length>0&&void 0!==arguments[0]?arguments[0]:{};try{o._A.dispatchEvent(new CustomEvent(s,{detail:e}))}catch(e){}}({loaded:!0})))}const l={}},2210:(e,t,r)=>{"use strict";r.d(t,{X:()=>i});var n=Object.prototype.hasOwnProperty;function i(e,t,r){if(n.call(e,t))return e[t];var i=r();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:i,writable:!0,enumerable:!1}),i}catch(e){}return e[t]=i,i}},1284:(e,t,r)=>{"use strict";r.d(t,{D:()=>n});const n=(e,t)=>Object.entries(e||{}).map((e=>{let[r,n]=e;return t(r,n)}))},4351:(e,t,r)=>{"use strict";r.d(t,{P:()=>a});var n=r(8325);const i=()=>{const e=new WeakSet;return(t,r)=>{if("object"==typeof r&&null!==r){if(e.has(r))return;e.add(r)}return r}};function a(e){try{return JSON.stringify(e,i())}catch(e){try{n.ee.emit("internal-error",[e])}catch(e){}}}},3960:(e,t,r)=>{"use strict";r.d(t,{KB:()=>o,b2:()=>a});var n=r(3239);function i(){return"undefined"==typeof document||"complete"===document.readyState}function a(e,t){if(i())return e();(0,n.bP)("load",e,t)}function o(e){if(i())return e();(0,n.iz)("DOMContentLoaded",e)}},8632:(e,t,r)=>{"use strict";r.d(t,{EZ:()=>d,ce:()=>a,ek:()=>u,fP:()=>o,gG:()=>l,h5:()=>c,mF:()=>s});var n=r(7894),i=r(385);const a={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net"};function o(){return i._A.NREUM||(i._A.NREUM={}),void 0===i._A.newrelic&&(i._A.newrelic=i._A.NREUM),i._A.NREUM}function s(){let e=o();return e.o||(e.o={ST:i._A.setTimeout,SI:i._A.setImmediate,CT:i._A.clearTimeout,XHR:i._A.XMLHttpRequest,REQ:i._A.Request,EV:i._A.Event,PR:i._A.Promise,MO:i._A.MutationObserver,FETCH:i._A.fetch}),e}function c(e,t){let r=o();r.initializedAgents??={},t.initializedAt={ms:(0,n.z)(),date:new Date},r.initializedAgents[e]=t}function u(e){let t=o();return t.initializedAgents?.[e]}function d(e,t){o()[e]=t}function l(){return function(){let e=o();const t=e.info||{};e.info={beacon:a.beacon,errorBeacon:a.errorBeacon,...t}}(),function(){let e=o();const t=e.init||{};e.init={...t}}(),s(),function(){let e=o();const t=e.loader_config||{};e.loader_config={...t}}(),o()}},7956:(e,t,r)=>{"use strict";r.d(t,{N:()=>i});var n=r(3239);function i(e){let t=arguments.length>1&&void 0!==arguments[1]&&arguments[1],r=arguments.length>2?arguments[2]:void 0,i=arguments.length>3?arguments[3]:void 0;(0,n.iz)("visibilitychange",(function(){if(t)return void("hidden"===document.visibilityState&&e());e(document.visibilityState)}),r,i)}},3081:(e,t,r)=>{"use strict";r.d(t,{gF:()=>a,mY:()=>i,t9:()=>n,vz:()=>s,xS:()=>o});const n=r(3325).D.metrics,i="sm",a="cm",o="storeSupportabilityMetrics",s="storeEventMetrics"},7633:(e,t,r)=>{"use strict";r.d(t,{t:()=>n});const n=r(3325).D.pageViewEvent},9251:(e,t,r)=>{"use strict";r.d(t,{t:()=>n});const n=r(3325).D.pageViewTiming},5938:(e,t,r)=>{"use strict";r.d(t,{W:()=>i});var n=r(8325);class i{constructor(e,t,r){this.agentIdentifier=e,this.aggregator=t,this.ee=n.ee.get(e),this.featureName=r,this.blocked=!1}}},7530:(e,t,r)=>{"use strict";r.d(t,{j:()=>b});var n=r(3325),i=r(234),a=r(5546),o=r(8325),s=r(7894),c=r(8e3),u=r(3960),d=r(385),l=r(50),f=r(3081),g=r(8632);function p(){const e=(0,g.gG)();["setErrorHandler","finished","addToTrace","addRelease","addPageAction","setCurrentRouteName","setPageViewName","setCustomAttribute","interaction","noticeError","setUserId","setApplicationVersion","start","recordReplay","pauseReplay"].forEach((t=>{e[t]=function(){for(var r=arguments.length,n=new Array(r),i=0;i<r;i++)n[i]=arguments[i];return function(t){for(var r=arguments.length,n=new Array(r>1?r-1:0),i=1;i<r;i++)n[i-1]=arguments[i];let a=[];return Object.values(e.initializedAgents).forEach((e=>{e.exposed&&e.api[t]&&a.push(e.api[t](...n))})),a.length>1?a:a[0]}(t,...n)}}))}var h=r(2825);const v=e=>{const t=e.startsWith("http");e+="/",r.p=t?e:"https://"+e};let m=!1;function b(e){let t=arguments.length>1&&void 0!==arguments[1]?arguments[1]:{},b=arguments.length>2?arguments[2]:void 0,y=arguments.length>3?arguments[3]:void 0,{init:w,info:A,loader_config:_,runtime:x={loaderType:b},exposed:D=!0}=t;const k=(0,g.gG)();A||(w=k.init,A=k.info,_=k.loader_config),(0,i.Dg)(e.agentIdentifier,w||{}),(0,i.GE)(e.agentIdentifier,_||{}),A.jsAttributes??={},d.v6&&(A.jsAttributes.isWorker=!0),(0,i.CX)(e.agentIdentifier,A);const E=(0,i.P_)(e.agentIdentifier),j=[A.beacon,A.errorBeacon];m||(E.proxy.assets&&(v(E.proxy.assets),j.push(E.proxy.assets)),E.proxy.beacon&&j.push(E.proxy.beacon),p(),(0,g.EZ)("activatedFeatures",h.T)),x.denyList=[...E.ajax.deny_list||[],...E.ajax.block_internal?j:[]],(0,i.sU)(e.agentIdentifier,x),void 0===e.api&&(e.api=function(e,t){t||(0,c.R)(e,"api");const g={};var p=o.ee.get(e),h=p.get("tracer"),v="api-",m=v+"ixn-";function b(t,r,n,a){const o=(0,i.C5)(e);return null===r?delete o.jsAttributes[t]:(0,i.CX)(e,{...o,jsAttributes:{...o.jsAttributes,[t]:r}}),A(v,n,!0,a||null===r?"session":void 0)(t,r)}function y(){}["setErrorHandler","finished","addToTrace","addRelease"].forEach((e=>{g[e]=A(v,e,!0,"api")})),g.addPageAction=A(v,"addPageAction",!0,n.D.pageAction),g.setCurrentRouteName=A(v,"routeName",!0,n.D.spa),g.setPageViewName=function(t,r){if("string"==typeof t)return"/"!==t.charAt(0)&&(t="/"+t),(0,i.OP)(e).customTransaction=(r||"http://custom.transaction")+t,A(v,"setPageViewName",!0)()},g.setCustomAttribute=function(e,t){let r=arguments.length>2&&void 0!==arguments[2]&&arguments[2];if("string"==typeof e){if(["string","number","boolean"].includes(typeof t)||null===t)return b(e,t,"setCustomAttribute",r);(0,l.Z)("Failed to execute setCustomAttribute.\nNon-null value must be a string, number or boolean type, but a type of <".concat(typeof t,"> was provided."))}else(0,l.Z)("Failed to execute setCustomAttribute.\nName must be a string type, but a type of <".concat(typeof e,"> was provided."))},g.setUserId=function(e){if("string"==typeof e||null===e)return b("enduser.id",e,"setUserId",!0);(0,l.Z)("Failed to execute setUserId.\nNon-null value must be a string type, but a type of <".concat(typeof e,"> was provided."))},g.setApplicationVersion=function(e){if("string"==typeof e||null===e)return b("application.version",e,"setApplicationVersion",!1);(0,l.Z)("Failed to execute setApplicationVersion. Expected <String | null>, but got <".concat(typeof e,">."))},g.start=e=>{try{const t=e?"defined":"undefined";(0,a.p)(f.xS,["API/start/".concat(t,"/called")],void 0,n.D.metrics,p);const r=Object.values(n.D);if(void 0===e)e=r;else{if((e=Array.isArray(e)&&e.length?e:[e]).some((e=>!r.includes(e))))return(0,l.Z)("Invalid feature name supplied. Acceptable feature names are: ".concat(r));e.includes(n.D.pageViewEvent)||e.push(n.D.pageViewEvent)}e.forEach((e=>{p.emit("".concat(e,"-opt-in"))}))}catch(e){(0,l.Z)("An unexpected issue occurred",e)}},g.recordReplay=function(){(0,a.p)(f.xS,["API/recordReplay/called"],void 0,n.D.metrics,p),(0,a.p)("recordReplay",[],void 0,n.D.sessionReplay,p)},g.pauseReplay=function(){(0,a.p)(f.xS,["API/pauseReplay/called"],void 0,n.D.metrics,p),(0,a.p)("pauseReplay",[],void 0,n.D.sessionReplay,p)},g.interaction=function(){return(new y).get()};var w=y.prototype={createTracer:function(e,t){var r={},i=this,o="function"==typeof t;return(0,a.p)(f.xS,["API/createTracer/called"],void 0,n.D.metrics,p),(0,a.p)(m+"tracer",[(0,s.z)(),e,r],i,n.D.spa,p),function(){if(h.emit((o?"":"no-")+"fn-start",[(0,s.z)(),i,o],r),o)try{return t.apply(this,arguments)}catch(e){throw h.emit("fn-err",[arguments,this,e],r),e}finally{h.emit("fn-end",[(0,s.z)()],r)}}}};function A(e,t,r,i){return function(){return(0,a.p)(f.xS,["API/"+t+"/called"],void 0,n.D.metrics,p),i&&(0,a.p)(e+t,[(0,s.z)(),...arguments],r?null:this,i,p),r?void 0:this}}function _(){r.e(75).then(r.bind(r,7438)).then((t=>{let{setAPI:r}=t;r(e),(0,c.L)(e,"api")})).catch((()=>(0,l.Z)("Downloading runtime APIs failed...")))}return["actionText","setName","setAttribute","save","ignore","onEnd","getContext","end","get"].forEach((e=>{w[e]=A(m,e,void 0,n.D.spa)})),g.noticeError=function(e,t){"string"==typeof e&&(e=new Error(e)),(0,a.p)(f.xS,["API/noticeError/called"],void 0,n.D.metrics,p),(0,a.p)("err",[e,(0,s.z)(),!1,t],void 0,n.D.jserrors,p)},d.il?(0,u.b2)((()=>_()),!0):_(),g}(e.agentIdentifier,y)),void 0===e.exposed&&(e.exposed=D),m=!0}},1926:(e,t,r)=>{r.nc=(()=>{try{return document?.currentScript?.nonce}catch(e){}return""})()},3325:(e,t,r)=>{"use strict";r.d(t,{D:()=>n,p:()=>i});const n={ajax:"ajax",jserrors:"jserrors",metrics:"metrics",pageAction:"page_action",pageViewEvent:"page_view_event",pageViewTiming:"page_view_timing",sessionReplay:"session_replay",sessionTrace:"session_trace",spa:"spa"},i={[n.pageViewEvent]:1,[n.pageViewTiming]:2,[n.metrics]:3,[n.jserrors]:4,[n.ajax]:5,[n.sessionTrace]:6,[n.pageAction]:7,[n.spa]:8,[n.sessionReplay]:9}}},n={};function i(e){var t=n[e];if(void 0!==t)return t.exports;var a=n[e]={exports:{}};return r[e](a,a.exports,i),a.exports}i.m=r,i.d=(e,t)=>{for(var r in t)i.o(t,r)&&!i.o(e,r)&&Object.defineProperty(e,r,{enumerable:!0,get:t[r]})},i.f={},i.e=e=>Promise.all(Object.keys(i.f).reduce(((t,r)=>(i.f[r](e,t),t)),[])),i.u=e=>"nr-rum-1.249.0.min.js",i.o=(e,t)=>Object.prototype.hasOwnProperty.call(e,t),e={},t="NRBA-1.249.0.PROD:",i.l=(r,n,a,o)=>{if(e[r])e[r].push(n);else{var s,c;if(void 0!==a)for(var u=document.getElementsByTagName("script"),d=0;d<u.length;d++){var l=u[d];if(l.getAttribute("src")==r||l.getAttribute("data-webpack")==t+a){s=l;break}}if(!s){c=!0;var f={75:"sha512-HcXyAuaRbdfES7GuZJPwimpBfHQYAggUt+9f7v0xmtqSP1pSPK/chshT+kmNNfPfvD1QbPyikVNC4frs8IQYkw=="};(s=document.createElement("script")).charset="utf-8",s.timeout=120,i.nc&&s.setAttribute("nonce",i.nc),s.setAttribute("data-webpack",t+a),s.src=r,0!==s.src.indexOf(window.location.origin+"/")&&(s.crossOrigin="anonymous"),f[o]&&(s.integrity=f[o])}e[r]=[n];var g=(t,n)=>{s.onerror=s.onload=null,clearTimeout(p);var i=e[r];if(delete e[r],s.parentNode&&s.parentNode.removeChild(s),i&&i.forEach((e=>e(n))),t)return t(n)},p=setTimeout(g.bind(null,void 0,{type:"timeout",target:s}),12e4);s.onerror=g.bind(null,s.onerror),s.onload=g.bind(null,s.onload),c&&document.head.appendChild(s)}},i.r=e=>{"undefined"!=typeof Symbol&&Symbol.toStringTag&&Object.defineProperty(e,Symbol.toStringTag,{value:"Module"}),Object.defineProperty(e,"__esModule",{value:!0})},i.p="https://js-agent.newrelic.com/",(()=>{var e={50:0,832:0};i.f.j=(t,r)=>{var n=i.o(e,t)?e[t]:void 0;if(0!==n)if(n)r.push(n[2]);else{var a=new Promise(((r,i)=>n=e[t]=[r,i]));r.push(n[2]=a);var o=i.p+i.u(t),s=new Error;i.l(o,(r=>{if(i.o(e,t)&&(0!==(n=e[t])&&(e[t]=void 0),n)){var a=r&&("load"===r.type?"missing":r.type),o=r&&r.target&&r.target.src;s.message="Loading chunk "+t+" failed.\n("+a+": "+o+")",s.name="ChunkLoadError",s.type=a,s.request=o,n[1](s)}}),"chunk-"+t,t)}};var t=(t,r)=>{var n,a,[o,s,c]=r,u=0;if(o.some((t=>0!==e[t]))){for(n in s)i.o(s,n)&&(i.m[n]=s[n]);if(c)c(i)}for(t&&t(r);u<o.length;u++)a=o[u],i.o(e,a)&&e[a]&&e[a][0](),e[a]=0},r=self["webpackChunk:NRBA-1.249.0.PROD"]=self["webpackChunk:NRBA-1.249.0.PROD"]||[];r.forEach(t.bind(null,0)),r.push=t.bind(null,r.push.bind(r))})(),(()=>{"use strict";i(1926);var e=i(50);class t{#e(e){return"Call to agent api ".concat(e," failed. The agent is not currently initialized.")}addPageAction(t,r){(0,e.Z)(this.#e("addPageAction"))}setPageViewName(t,r){(0,e.Z)(this.#e("setPageViewName"))}setCustomAttribute(t,r,n){(0,e.Z)(this.#e("setCustomAttribute"))}noticeError(t,r){(0,e.Z)(this.#e("noticeError"))}setUserId(t){(0,e.Z)(this.#e("setUserId"))}setApplicationVersion(t){(0,e.Z)(this.#e("setApplicationVersion"))}setErrorHandler(t){(0,e.Z)(this.#e("setErrorHandler"))}finished(t){(0,e.Z)(this.#e("finished"))}addRelease(t,r){(0,e.Z)(this.#e("addRelease"))}start(t){(0,e.Z)(this.#e("start"))}recordReplay(){(0,e.Z)(this.#e("recordReplay"))}pauseReplay(){(0,e.Z)(this.#e("pauseReplay"))}}var r=i(3325),n=i(234);const a=Object.values(r.D);function o(e){const t={};return a.forEach((r=>{t[r]=function(e,t){return!1!==(0,n.Mt)(t,"".concat(e,".enabled"))}(r,e)})),t}var s=i(7530);var c=i(8e3),u=i(5938),d=i(3960),l=i(385);class f extends u.W{constructor(e,t,r){let i=!(arguments.length>3&&void 0!==arguments[3])||arguments[3];super(e,t,r),this.auto=i,this.abortHandler=void 0,this.featAggregate=void 0,this.onAggregateImported=void 0,!1===(0,n.Mt)(this.agentIdentifier,"".concat(this.featureName,".autoStart"))&&(this.auto=!1),this.auto&&(0,c.R)(e,r)}importAggregator(){let t=arguments.length>0&&void 0!==arguments[0]?arguments[0]:{};if(this.featAggregate)return;if(!this.auto)return void this.ee.on("".concat(this.featureName,"-opt-in"),(()=>{(0,c.R)(this.agentIdentifier,this.featureName),this.auto=!0,this.importAggregator()}));const r=l.il&&!0===(0,n.Mt)(this.agentIdentifier,"privacy.cookies_enabled");let a;this.onAggregateImported=new Promise((e=>{a=e}));const o=async()=>{let n;try{if(r){const{setupAgentSession:e}=await i.e(75).then(i.bind(i,3228));n=e(this.agentIdentifier)}}catch(t){(0,e.Z)("A problem occurred when starting up session manager. This page will not start or extend any session.",t)}try{if(!this.shouldImportAgg(this.featureName,n))return(0,c.L)(this.agentIdentifier,this.featureName),void a(!1);const{lazyFeatureLoader:e}=await i.e(75).then(i.bind(i,8582)),{Aggregate:r}=await e(this.featureName,"aggregate");this.featAggregate=new r(this.agentIdentifier,this.aggregator,t),a(!0)}catch(t){(0,e.Z)("Downloading and initializing ".concat(this.featureName," failed..."),t),this.abortHandler?.(),(0,c.L)(this.agentIdentifier,this.featureName),a(!1)}};l.il?(0,d.b2)((()=>o()),!0):o()}shouldImportAgg(e,t){return e!==r.D.sessionReplay||!!n.Yu.MO&&(!1!==(0,n.Mt)(this.agentIdentifier,"session_trace.enabled")&&(!!t?.isNew||!!t?.state.sessionReplayMode))}}var g=i(7633);class p extends f{static featureName=g.t;constructor(e,t){let r=!(arguments.length>2&&void 0!==arguments[2])||arguments[2];super(e,t,g.t,r),this.importAggregator()}}var h=i(1117),v=i(1284);class m extends h.w{constructor(e){super(e),this.aggregatedData={}}store(e,t,r,n,i){var a=this.getBucket(e,t,r,i);return a.metrics=function(e,t){t||(t={count:0});return t.count+=1,(0,v.D)(e,(function(e,r){t[e]=b(r,t[e])})),t}(n,a.metrics),a}merge(e,t,r,n,i){var a=this.getBucket(e,t,n,i);if(a.metrics){var o=a.metrics;o.count+=r.count,(0,v.D)(r,(function(e,t){if("count"!==e){var n=o[e],i=r[e];i&&!i.c?o[e]=b(i.t,n):o[e]=function(e,t){if(!t)return e;t.c||(t=y(t.t));return t.min=Math.min(e.min,t.min),t.max=Math.max(e.max,t.max),t.t+=e.t,t.sos+=e.sos,t.c+=e.c,t}(i,o[e])}}))}else a.metrics=r}storeMetric(e,t,r,n){var i=this.getBucket(e,t,r);return i.stats=b(n,i.stats),i}getBucket(e,t,r,n){this.aggregatedData[e]||(this.aggregatedData[e]={});var i=this.aggregatedData[e][t];return i||(i=this.aggregatedData[e][t]={params:r||{}},n&&(i.custom=n)),i}get(e,t){return t?this.aggregatedData[e]&&this.aggregatedData[e][t]:this.aggregatedData[e]}take(e){for(var t={},r="",n=!1,i=0;i<e.length;i++)t[r=e[i]]=w(this.aggregatedData[r]),t[r].length&&(n=!0),delete this.aggregatedData[r];return n?t:null}}function b(e,t){return null==e?function(e){e?e.c++:e={c:1};return e}(t):t?(t.c||(t=y(t.t)),t.c+=1,t.t+=e,t.sos+=e*e,e>t.max&&(t.max=e),e<t.min&&(t.min=e),t):{t:e}}function y(e){return{t:e,min:e,max:e,sos:e*e,c:1}}function w(e){return"object"!=typeof e?[]:(0,v.D)(e,A)}function A(e,t){return t}var _=i(8632),x=i(4402),D=i(4351);var k=i(5546),E=i(7956),j=i(3239),S=i(7894),R=i(9251);class T extends f{static featureName=R.t;constructor(e,t){let r=!(arguments.length>2&&void 0!==arguments[2])||arguments[2];super(e,t,R.t,r),l.il&&((0,E.N)((()=>(0,k.p)("docHidden",[(0,S.z)()],void 0,R.t,this.ee)),!0),(0,j.bP)("pagehide",(()=>(0,k.p)("winPagehide",[(0,S.z)()],void 0,R.t,this.ee))),this.importAggregator())}}var I=i(3081);class N extends f{static featureName=I.t9;constructor(e,t){let r=!(arguments.length>2&&void 0!==arguments[2])||arguments[2];super(e,t,I.t9,r),this.importAggregator()}}new class extends t{constructor(t){let r=arguments.length>1&&void 0!==arguments[1]?arguments[1]:(0,x.ky)(16);super(),l._A?(this.agentIdentifier=r,this.sharedAggregator=new m({agentIdentifier:this.agentIdentifier}),this.features={},(0,_.h5)(r,this),this.desiredFeatures=new Set(t.features||[]),this.desiredFeatures.add(p),(0,s.j)(this,t,t.loaderType||"agent"),this.run()):(0,e.Z)("Failed to initial the agent. Could not determine the runtime environment.")}get config(){return{info:(0,n.C5)(this.agentIdentifier),init:(0,n.P_)(this.agentIdentifier),loader_config:(0,n.DL)(this.agentIdentifier),runtime:(0,n.OP)(this.agentIdentifier)}}run(){try{const t=o(this.agentIdentifier),n=[...this.desiredFeatures];n.sort(((e,t)=>r.p[e.featureName]-r.p[t.featureName])),n.forEach((n=>{if(t[n.featureName]||n.featureName===r.D.pageViewEvent){const i=function(e){switch(e){case r.D.ajax:return[r.D.jserrors];case r.D.sessionTrace:return[r.D.ajax,r.D.pageViewEvent];case r.D.sessionReplay:return[r.D.sessionTrace];case r.D.pageViewTiming:return[r.D.pageViewEvent];default:return[]}}(n.featureName);i.every((e=>t[e]))||(0,e.Z)("".concat(n.featureName," is enabled but one or more dependent features has been disabled (").concat((0,D.P)(i),"). This may cause unintended consequences or missing data...")),this.features[n.featureName]=new n(this.agentIdentifier,this.sharedAggregator)}}))}catch(t){(0,e.Z)("Failed to initialize all enabled instrument classes (agent aborted) -",t);for(const e in this.features)this.features[e].abortHandler?.();const r=(0,_.fP)();return delete r.initializedAgents[this.agentIdentifier]?.api,delete r.initializedAgents[this.agentIdentifier]?.features,delete this.sharedAggregator,r.ee?.abort(),delete r.ee?.get(this.agentIdentifier),!1}}addToTrace(t){(0,e.Z)("Call to agent api addToTrace failed. The session trace feature is not currently initialized.")}setCurrentRouteName(t){(0,e.Z)("Call to agent api setCurrentRouteName failed. The spa feature is not currently initialized.")}interaction(){(0,e.Z)("Call to agent api interaction failed. The spa feature is not currently initialized.")}}({features:[p,T,N],loaderType:"lite"})})()})();</script>
+<link rel="canonical" href="https://www.pitt.edu/pittwire/features-articles/pride-month-events-2023" />
+<meta name="description" content="Plus, resources for LGBTQ+ students, faculty and staff at Pitt." />
+<meta property="og:site_name" content="University of Pittsburgh" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://www.pitt.edu/pittwire/features-articles/pride-month-events-2023" />
+<meta property="og:title" content="Catch these Pittsburgh Pride Month events" />
+<meta property="og:description" content="Plus, resources for LGBTQ+ students, faculty and staff at Pitt." />
+<meta property="og:image" content="https://www.pitt.edu/sites/default/files/styles/open_graph/public/article-images/20210420_ao_pride_students_0132_insidedisplay.jpg?h=b9fbf23c&amp;itok=kUxUfAlo" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<script type="application/ld+json">{
+    "@context": "https://schema.org",
+    "@graph": [
+        {
+            "@type": "Organization",
+            "@id": "https://www.pitt.edu/",
+            "name": "University of Pittsburgh",
+            "url": "https://www.pitt.edu/"
+        }
+    ]
+}</script>
+<link rel="icon" href="/sites/default/files/favicon.ico" type="image/vnd.microsoft.icon" />
+
+    <title>Catch these Pittsburgh Pride Month events | University of Pittsburgh</title>
+    <link rel="stylesheet" media="all" href="/core/modules/system/css/components/ajax-progress.module.css?s6osgy" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/align.module.css?s6osgy" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/autocomplete-loading.module.css?s6osgy" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/fieldgroup.module.css?s6osgy" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/container-inline.module.css?s6osgy" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/clearfix.module.css?s6osgy" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/details.module.css?s6osgy" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/hidden.module.css?s6osgy" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/item-list.module.css?s6osgy" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/js.module.css?s6osgy" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/nowrap.module.css?s6osgy" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/position-container.module.css?s6osgy" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/progress.module.css?s6osgy" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/reset-appearance.module.css?s6osgy" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/resize.module.css?s6osgy" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/sticky-header.module.css?s6osgy" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/system-status-counter.css?s6osgy" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/system-status-report-counters.css?s6osgy" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/system-status-report-general-info.css?s6osgy" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/tabledrag.module.css?s6osgy" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/tablesort.module.css?s6osgy" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/tree-child.module.css?s6osgy" />
+<link rel="stylesheet" media="all" href="/core/modules/views/css/views.module.css?s6osgy" />
+<link rel="stylesheet" media="all" href="/sites/default/files/micon/fa/style.css?s6osgy" />
+<link rel="stylesheet" media="all" href="/modules/contrib/social_media_links/css/social_media_links.theme.css?s6osgy" />
+<link rel="stylesheet" media="all" href="/modules/contrib/extlink/extlink.css?s6osgy" />
+<link rel="stylesheet" media="all" href="/modules/contrib/paragraphs/css/paragraphs.unpublished.css?s6osgy" />
+<link rel="stylesheet" media="all" href="/modules/contrib/social_media/css/social_media.css?s6osgy" />
+<link rel="stylesheet" media="all" href="/themes/custom/pitt_default/css/global-styles.css?s6osgy" />
+<link rel="stylesheet" media="all" href="/themes/custom/pitt_default/css/navigation.css?s6osgy" />
+<link rel="stylesheet" media="all" href="/themes/custom/pitt_default/css/hero-banner.css?s6osgy" />
+<link rel="stylesheet" media="all" href="/themes/custom/pitt_default/css/content-well.css?s6osgy" />
+<link rel="stylesheet" media="all" href="/themes/custom/pitt_default/css/template-layout-mixin.css?s6osgy" />
+<link rel="stylesheet" media="all" href="/themes/custom/pitt_default/css/collapse.css?s6osgy" />
+<link rel="stylesheet" media="all" href="/themes/custom/pitt_default/css/footer-override.css?s6osgy" />
+<link rel="stylesheet" media="all" href="/themes/custom/pitt_default/css/button.css?s6osgy" />
+<link rel="stylesheet" media="all" href="/themes/custom/pitt_default/css/breadcrumb.css?s6osgy" />
+<link rel="stylesheet" media="all" href="/themes/custom/pitt_default/css/cse.css?s6osgy" />
+<link rel="stylesheet" media="all" href="/themes/custom/pitt_default/css/overrides.css?s6osgy" />
+<link rel="stylesheet" media="all" href="/themes/custom/pitt_default/css/lib_carousel_alt.css?s6osgy" />
+<link rel="stylesheet" media="all" href="/themes/custom/pitt_default/css/pittmag.css?s6osgy" />
+<link rel="stylesheet" media="all" href="/themes/contrib/zensource_front_end/css/components/hero-placeholder.css?s6osgy" />
+<link rel="stylesheet" media="all" href="/themes/contrib/zensource_front_end/css/classy/components/messages.css?s6osgy" />
+<link rel="stylesheet" media="all" href="/themes/contrib/zensource_front_end/css/classy/components/details.css?s6osgy" />
+<link rel="stylesheet" media="all" href="/themes/contrib/zenny/css/classy/components/pager.css?s6osgy" />
+<link rel="stylesheet" media="all" href="/themes/custom/pitt_default/css/modal.css?s6osgy" />
+<link rel="stylesheet" media="all" href="/themes/custom/pitt_default/css/card.css?s6osgy" />
+
+    
+	<!-- Google Tag Manager -->
+	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-NXCGL72');</script>
+	<!-- End Google Tag Manager -->
+
+  <script async src="https://cse.google.com/cse.js?cx=013753980878518964357:mgrjnoukllc"></script>
+
+  </head>
+  <body class="path-node page-node-type-article-page">
+	<!-- Google Tag Manager (noscript) -->
+	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NXCGL72"
+	height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+	<!-- End Google Tag Manager (noscript) -->
+
+        <a href="#main-content" class="visually-hidden focusable skip-link">
+      Skip to main content
+    </a>
+    
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+      <div class="region region-site-top">
+    <div class="progress-wrapper" role="region" aria-label="Progress bar">
+  <div class="progress">
+    <div class="progress-bar" aria-label="Scroll Progress" role="progressbar" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100"></div>
+  </div>
+</div>
+
+  </div>
+
+
+<div class="header-wrapper" role="region" aria-label="Navigation area">
+          <div id="block-pitt-pittwire-sitebranding" class="block block-system block-system-branding-block">
+  
+    
+  <!-- global nav -->
+<div class="header-wrapper" role="region" aria-label="Navigation area">
+<header class="header pitt-wire">
+  <div class="header-container">
+    <div class="header-grid">
+      <div class="pitt-wire-nav">
+        <div class="logo">
+                      <div class="logo-pitt"><a href="/"><img src="/themes/custom/pitt_pittwire/logo.svg" alt="University of Pittsburgh"></a></div>
+            <div class="logo-pitt print-only"><img src="/themes/custom/pitt_pittwire/logo-print.png" alt="UPitt Logo"></div>
+                    <div class="logo-pitt-wire"><a href="/pittwire"><img src="/themes/custom/pitt_pittwire/logo-pittwire.svg" alt="Pitt Wire"></a></div>
+          <div class="logo-pitt-wire print-only"><img src="/themes/custom/pitt_pittwire/logo-pittwire-print.png" alt="Pitt Wire"></div>
+        </div>
+        <div class="explore-sections"><button class="" data-toggle="modal" data-target="#pitt-wire-menu" data-gtm="">Explore Sections</button></div>
+      </div>
+      <!-- main navigation -->
+      <div class="navigation" role="navigation" aria-label="Mega Menu">
+        <ul class="navigation-button-wrapper">
+          <li>
+            <button type="button" class="navigation-button" data-toggle="modal" data-target="#pittwire-search-menu" data-gtm="">
+              <span class="sr-only">open search</span>
+              <span class="icon-search"></span>
+            </button>
+          </li>
+          <li>
+            <button type="button" class="navigation-button" data-toggle="modal" data-target="#hamburger-menu" data-gtm="">
+              <span class="sr-only">open menu</span>
+              <span class="icon-hamburger"></span>
+            </button>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</header>
+</div>
+</div>
+
+
+<div id="pitt-wire-menu" class="modal modal--side navigation-slide-menu left pitt-wire-menu" tabindex="-1" role="dialog" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <!-- modal - header -->
+      <div class="modal-header">
+        <!-- modal - dismiss -->
+        <button type="button" class="modal-dismiss-button" data-dismiss="modal" aria-label="Close" data-gtm="">
+          <span class="sr-only">Close</span>
+        </button>
+      </div>
+      <!-- modal - body -->
+      <div class="modal-body">
+               	        <p class="field field--type-string-long field--label-hidden field__item">
+	  	  From the latest big breakthrough to the most influential and inspiring figures on campus to Pitt in the community, Pittwire is your official source for what’s happening now.
+	  	  </p>
+	        
+        <div class="hamburger-menu-wrapper">
+          <div class="hamburger-menu-upper">
+            <div id="block-pittwireexploretopics" class="hamburger-menu-upper-column block block-menu menu--pittwire-explore-topics">
+    <div class="hamburger-menu-header">Explore Sections</div>
+
+            
+
+                <ul class="hamburger-menu-list">
+                    <li>
+                <a href="/pittwire/health-and-wellness" data-drupal-link-system-path="node/21">Health and Wellness</a>
+            </li>
+                    <li>
+                <a href="/pittwire/technology-and-science" data-drupal-link-system-path="node/13546">Technology and Science</a>
+            </li>
+                    <li>
+                <a href="/pittwire/arts-and-humanities" data-drupal-link-system-path="node/13547">Arts and Humanities</a>
+            </li>
+                    <li>
+                <a href="/pittwire/community-impact" data-drupal-link-system-path="node/13548">Community Impact</a>
+            </li>
+                    <li>
+                <a href="/pittwire/diversity-equity-and-inclusion" data-drupal-link-system-path="node/13551">Diversity, Equity, and Inclusion</a>
+            </li>
+                    <li>
+                <a href="/pittwire/global" data-drupal-link-system-path="node/13550">Global</a>
+            </li>
+                    <li>
+                <a href="/pittwire/innovation-and-research" data-drupal-link-system-path="node/13549">Innovation and Research</a>
+            </li>
+                    <li>
+                <a href="/pittwire/our-cityour-campus" data-drupal-link-system-path="node/13552">Our City/Our Campus</a>
+            </li>
+                    <li>
+                <a href="https://www.pittmag.pitt.edu/">Pitt Magazine</a>
+            </li>
+                </ul>
+
+
+
+    </div>
+            <div class="views-element-container hamburger-menu-upper-column block block-views block-views-blockcategory-menu-category-menu" id="block-views-block-category-menu-category-menu">
+            <div class="hamburger-menu-header">Explore By Category</div>
+                <div><div class="view view-category-menu view-id-category_menu view-display-id-category_menu js-view-dom-id-6692330b920f11a5a96c8e1c8a10274245e722112960a44c36adc4a609e21976">
+  
+    
+      
+      <div class="view-content">
+      <ul class="hamburger-menu-list">
+            <li><div class="views-field views-field-name"><span class="field-content"><a href="/pittwire/news/features-articles">Features &amp; Articles</a></span></div></li>
+            <li><div class="views-field views-field-name"><span class="field-content"><a href="/pittwire/news/accolades-honors">Accolades &amp; Honors</a></span></div></li>
+            <li><div class="views-field views-field-name"><span class="field-content"><a href="/pittwire/news/ones-to-watch">Ones to Watch</a></span></div></li>
+            <li><div class="views-field views-field-name"><span class="field-content"><a href="/pittwire/news/announcements-and-updates">Announcements and Updates</a></span></div></li>
+    </ul>
+
+    </div>
+  
+          </div>
+</div>
+
+    
+    <nav role="navigation" aria-labelledby="block-pittwireotherlinks-menu" id="block-pittwireotherlinks" class="block block-menu navigation menu--pittwire-other-links">
+            
+  <h2 class="visually-hidden" id="block-pittwireotherlinks-menu">Pittwire Other Links</h2>
+  
+
+        
+<ul class="hamburger-menu-main">
+            <li>
+            <a href="https://www.pittmag.pitt.edu/" target="_blank">Pitt Magazine</a>
+        </li>
+            <li>
+            <a href="https://calendar.pitt.edu/" target="_blank">Event Calendar</a>
+        </li>
+            <li>
+            <a href="https://www.pitt.edu/social" target="_blank">Social Media Directory</a>
+        </li>
+    </ul>
+
+
+
+  </nav>
+
+</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div id="search-menu" class="modal modal--side navigation-slide-menu right" tabindex="-1" role="dialog" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <!-- modal - header -->
+      <div class="modal-header">
+        <!-- modal - dismiss -->
+        <button type="button" class="modal-dismiss-button" data-dismiss="modal" aria-label="Close" data-gtm="">
+          <span class="sr-only">Close</span>
+        </button>
+      </div>
+      <!-- modal - body -->
+      <div class="modal-body">
+        <div class="search-menu-wrapper">
+          <div class="search-menu-header">Search Pitt</div>
+
+          <div class="search-menu-typeahead-wrapper">
+            <div class="search-menu-typeahead">
+              <label for="main-search-nav" class="sr-only">Search</label>
+
+              <!-- cse markup -->
+              <div class="gcse-searchbox-only" data-enableHistory="true" data-autoCompleteMaxCompletions="5" data-autoCompleteMatchType="any" data-resultsUrl="search-results"></div>
+              
+            </div>
+
+          </div>
+
+
+          <div class="search-menu-footer">
+            <a href="https://find.pitt.edu" class="arrow">Search for People</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div id="hamburger-menu" class="modal modal--side navigation-slide-menu right" tabindex="-1" role="dialog" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <!-- modal - header -->
+      <div class="modal-header">
+        <!-- modal - dismiss -->
+        <button type="button" class="modal-dismiss-button" data-dismiss="modal" aria-label="Close" data-gtm="">
+          <span class="sr-only">Close</span>
+        </button>
+      </div>
+      <!-- modal - body -->
+      <div class="modal-body">
+        <div class="hamburger-menu-wrapper">
+                      <div id="block-hamburgermenuupper-2" class="hamburger-menu-upper block block-blockgroup block-block-grouphamburger-menu-upper">
+  
+    
+      <div id="block-hamburgermenuuppercolumn1" class="hamburger-menu-upper-column block block-blockgroup block-block-grouphamburger-menu-upper-column-1">
+  
+    
+      <nav role="navigation" aria-labelledby="block-globalmenu-3-menu" id="block-globalmenu-3" class="block block-menu navigation menu--global-menu">
+            
+  <h2 class="visually-hidden" id="block-globalmenu-3-menu">Global Menu</h2>
+  
+
+        
+        <ul class="hamburger-menu-main">
+          <li>
+	  <a href="https://admissions.pitt.edu/apply/" class="data-gtm-utilityNavKPI" data-contentTitle="Apply">Apply</a>
+      </li>
+          <li>
+	  <a href="https://admissions.pitt.edu/visit/unscripted/" class="data-gtm-utilityNavKPI" data-contentTitle="Visit">Visit</a>
+      </li>
+          <li>
+	  <a href="https://www.giveto.pitt.edu/s/1729/18/home-giving.aspx?gid=2&amp;pgid=2135" class="data-gtm-utilityNavKPI" data-contentTitle="Give">Give</a>
+      </li>
+          <li>
+	  <a href="/pittwire" class="data-gtm-utilityNavKPI" data-contentTitle="Pittwire">Pittwire</a>
+      </li>
+          <li>
+	  <a href="http://calendar.pitt.edu/" class="data-gtm-utilityNavKPI" data-contentTitle="Events">Events</a>
+      </li>
+        </ul>
+  
+
+
+  </nav>
+      <button is="menu-blockmain-btn" class="collapse-trigger--md collapsed hamburger-menu-header-btn" role="tab" data-toggle="collapse" data-target="#menu-blockmain" aria-expanded="false" aria-controls="menu-blockmain" data-gtm="">Navigation</button>
+<div class="collapse-target--md collapse" id="menu-blockmain" role="tabpanel" aria-labelledby="menu-blockmain-btn">
+
+  
+  <div  id="block-navigation-2-menu" class="hamburger-menu-header">Navigation</div>
+  
+
+        
+        <ul class="hamburger-menu-list">
+          <li>
+		<a href="/about" class="data-gtm-utilityNavCategory" data-contentTitle="About">About</a>
+      </li>
+          <li>
+		<a href="/academics" class="data-gtm-utilityNavCategory" data-contentTitle="Academics">Academics</a>
+      </li>
+          <li>
+		<a href="/admissions" class="data-gtm-utilityNavCategory" data-contentTitle="Admissions">Admissions</a>
+      </li>
+          <li>
+		<a href="/research" class="data-gtm-utilityNavCategory" data-contentTitle="Research">Research</a>
+      </li>
+          <li>
+		<a href="/student-life" class="data-gtm-utilityNavCategory" data-contentTitle="Life at Pitt">Life at Pitt</a>
+      </li>
+          <li>
+		<a href="http://pittsburghpanthers.com/" class="data-gtm-utilityNavCategory" data-contentTitle="Athletics">Athletics</a>
+      </li>
+        </ul>
+  
+
+
+  </div>
+
+  </div>
+<div id="block-hamburgermenuuppercolumn2" class="hamburger-menu-upper-column block block-blockgroup block-block-grouphamburger-menu-upper-">
+  
+    
+            <button is="menu-blockquick-links-3-btn" class="collapse-trigger--md collapsed hamburger-menu-header-btn" role="tab" data-toggle="collapse" data-target="#menu-blockquick-links-3" aria-expanded="false" aria-controls="menu-blockquick-links-3" data-gtm="">Colleges &amp; Schools</button>
+<div class="collapse-target--md collapse" id="menu-blockquick-links-3" role="tabpanel" aria-labelledby="menu-blockquick-links-3-btn">
+
+  
+  <div  id="block-collegesschools-2-menu" class="hamburger-menu-header">Colleges &amp; Schools</div>
+  
+
+        
+        <ul class="hamburger-menu-list">
+          <li>
+		<a href="https://www.as.pitt.edu" class="data-gtm-utilityNavCategory" data-contentTitle="Arts &amp; Sciences">Arts &amp; Sciences</a>
+      </li>
+          <li>
+		<a href="https://www.business.pitt.edu" class="data-gtm-utilityNavCategory" data-contentTitle="Business">Business</a>
+      </li>
+          <li>
+		<a href="https://www.sci.pitt.edu" class="data-gtm-utilityNavCategory" data-contentTitle="Computing &amp; Information">Computing &amp; Information</a>
+      </li>
+          <li>
+		<a href="https://www.dental.pitt.edu" class="data-gtm-utilityNavCategory" data-contentTitle="Dental Medicine">Dental Medicine</a>
+      </li>
+          <li>
+		<a href="https://www.education.pitt.edu" class="data-gtm-utilityNavCategory" data-contentTitle="Education">Education</a>
+      </li>
+          <li>
+		<a href="https://www.engineering.pitt.edu" class="data-gtm-utilityNavCategory" data-contentTitle="Engineering">Engineering</a>
+      </li>
+          <li>
+		<a href="https://www.cgs.pitt.edu" class="data-gtm-utilityNavCategory" data-contentTitle="General Studies">General Studies</a>
+      </li>
+          <li>
+		<a href="https://www.shrs.pitt.edu" class="data-gtm-utilityNavCategory" data-contentTitle="Health &amp; Rehabilitation">Health &amp; Rehabilitation</a>
+      </li>
+          <li>
+		<a href="https://www.honors.pitt.edu" class="data-gtm-utilityNavCategory" data-contentTitle="Honors College">Honors College</a>
+      </li>
+          <li>
+		<a href="https://www.law.pitt.edu" class="data-gtm-utilityNavCategory" data-contentTitle="Law">Law</a>
+      </li>
+          <li>
+		<a href="https://www.medschool.pitt.edu" class="data-gtm-utilityNavCategory" data-contentTitle="Medicine">Medicine</a>
+      </li>
+          <li>
+		<a href="https://www.nursing.pitt.edu" class="data-gtm-utilityNavCategory" data-contentTitle="Nursing">Nursing</a>
+      </li>
+          <li>
+		<a href="https://www.pharmacy.pitt.edu" class="data-gtm-utilityNavCategory" data-contentTitle="Pharmacy">Pharmacy</a>
+      </li>
+          <li>
+		<a href="https://www.gspia.pitt.edu" class="data-gtm-utilityNavCategory" data-contentTitle="Public &amp; Intl Affairs">Public &amp; Intl Affairs</a>
+      </li>
+          <li>
+		<a href="https://publichealth.pitt.edu/" class="data-gtm-utilityNavCategory" data-contentTitle="Public Health">Public Health</a>
+      </li>
+          <li>
+		<a href="https://www.socialwork.pitt.edu/" class="data-gtm-utilityNavCategory" data-contentTitle="Social Work">Social Work</a>
+      </li>
+        </ul>
+  
+
+
+  </div>
+
+  </div>
+
+  </div>
+<div id="block-hamburgermenulower" class="hamburger-menu-lower block block-blockgroup block-block-grouphamburger-menu-lower">
+  
+    
+      <div id="block-hamburgermenulowercolumn1" class="hamburger-menu-lower-column block block-blockgroup block-block-grouphamburger-menu-lower-column-1">
+  
+    
+            <button is="menu-blockinfo-menu-btn" class="collapse-trigger--md collapsed hamburger-menu-header-btn" role="tab" data-toggle="collapse" data-target="#menu-blockinfo-menu" aria-expanded="false" aria-controls="menu-blockinfo-menu" data-gtm="">Info For</button>
+<div class="collapse-target--md collapse" id="menu-blockinfo-menu" role="tabpanel" aria-labelledby="menu-blockinfo-menu-btn">
+
+  
+  <div  id="block-infomenu-2-menu" class="hamburger-menu-header">Info For</div>
+  
+
+        
+            <ul class="hamburger-menu-list">
+      <li class="hamburger-menu-list-wrapper">
+        <ul class="hamburger-menu-list">
+                              <li>
+			<a href="http://coronavirus.pitt.edu/" class="data-gtm-utilityNavCategory" data-contentTitle="COVID-19 Response">COVID-19 Response</a>
+            </li>
+                                        <li>
+			<a href="https://www.alumni.pitt.edu/s/1729/alumni/home.aspx?gid=2&amp;pgid=2381" class="data-gtm-utilityNavCategory" data-contentTitle="Alumni">Alumni</a>
+            </li>
+                                                                                </ul>
+        <ul class="hamburger-menu-list">
+                                                                  <li>
+			<a href="https://www.community.pitt.edu/" class="data-gtm-utilityNavCategory" data-contentTitle="Community">Community</a>
+            </li>
+                                        <li>
+			<a href="/global" class="data-gtm-utilityNavCategory" data-contentTitle="Global">Global</a>
+            </li>
+                                        <li>
+			<a href="https://www.sustainable.pitt.edu/" class="data-gtm-utilityNavCategory" data-contentTitle="Sustainability">Sustainability</a>
+            </li>
+                          </ul>
+      </li>
+    </ul>
+  
+
+
+
+  </div>
+
+  </div>
+<div id="block-hamburgermenulowercolumn2" class="hamburger-menu-lower-column block block-blockgroup block-block-grouphamburger-menu-lower-column-2">
+  
+    
+      <div id="block-socialmedialinks-4" class="hamburger-menu-social block-social-media-links block block-social-media-links-block">
+  
+    
+      
+
+<ul class="social-media-links--platforms platforms inline horizontal">
+      <li>
+      <a class="social-media-link-icon--twitter" href="https://www.twitter.com/PittTweet"  >
+          <i class="micon fa-twitter" aria-hidden="true"></i>
+
+
+                <span class="platform--name visually-hidden">Twitter</span>
+      </a>
+    </li>
+      <li>
+      <a class="social-media-link-icon--instagram" href="https://www.instagram.com/pittofficial"  >
+          <i class="micon fa-instagram" aria-hidden="true"></i>
+
+
+                <span class="platform--name visually-hidden">Instagram</span>
+      </a>
+    </li>
+      <li>
+      <a class="social-media-link-icon--facebook" href="https://www.facebook.com/upitt"  >
+          <i class="micon fa-facebook" aria-hidden="true"></i>
+
+
+                <span class="platform--name visually-hidden">Facebook</span>
+      </a>
+    </li>
+      <li>
+      <a class="social-media-link-icon--youtube" href="https://www.youtube.com/user/pittweb"  >
+          <i class="micon fa-youtube" aria-hidden="true"></i>
+
+
+                <span class="platform--name visually-hidden">Youtube</span>
+      </a>
+    </li>
+  </ul>
+
+  </div>
+
+  </div>
+
+  </div>
+
+                  </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div id="pittwire-search-menu" class="modal modal--side navigation-slide-menu right" tabindex="-1" role="dialog" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <!-- modal - header -->
+      <div class="modal-header">
+        <!-- modal - dismiss -->
+        <button type="button" class="modal-dismiss-button" data-dismiss="modal" aria-label="Close" data-gtm="">
+          <span class="sr-only">Close</span>
+        </button>
+      </div>
+      <!-- modal - body -->
+      <div class="modal-body">
+        <div class="search-menu-wrapper">
+          <div class="search-menu-header">Search Pittwire</div>
+
+          <div class="search-menu-typeahead-wrapper">
+            <div class="search-menu-typeahead">
+              <label for="main-search-nav" class="sr-only">Search</label>
+
+              <!-- cse markup -->
+              <div class="gcse-searchbox-only" data-enableHistory="true" data-autoCompleteMaxCompletions="5" data-autoCompleteMatchType="any" data-resultsUrl="/pittwire/search-results"></div>
+              
+            </div>
+
+          </div>
+
+
+          <div class="search-menu-footer">
+            <a href="https://www.pitt.edu/search-results" class="arrow">Search www.pitt.edu</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+  
+</div>
+
+<!-- Main Container -->
+<main class="main-container" id="content">
+
+    <article class="main-content">
+          <div class="region region-content">
+    <div id="block-pitt-pittwire-mainpagecontent" class="block block-system block-system-main-block">
+  
+    
+      <!-- Main Content -->
+<main class="main-container" id="content">
+
+<!-- hero banner -->
+<div class="hero-banner hero-banner--fixed-height" role="region" aria-label="Hero area">
+  <!-- hero banner media -->
+  <div class="hero-banner-media">
+              	        <figure class="field field--type-image field--label-hidden field__item">
+	  	    <img src="/sites/default/files/styles/article_full_width_hero/public/article-images/20210420_ao_pride_students_0132_insidedisplay.jpg?h=b9fbf23c&amp;itok=aAOoNmpZ" alt="Four students holding pride flags on the lawn in front of the Cathedral of Learning" loading="lazy" typeof="foaf:Image" class="image-style-article-full-width-hero" />
+
+
+
+	  	  </figure>
+	        
+
+  </div>
+  <!-- hero banner content container -->
+  <div class="hero-banner-content-container">
+    <div class="hero-banner-content">
+            <div class="hero-banner-title">      	        <div class="field field--type-entity-reference field--label-hidden field__item">
+	  	  Features &amp; Articles
+	  	  </div>
+	        </div>
+            <h1 class="hero-banner-heading">Catch these Pittsburgh Pride Month events</h1>
+      <div class="hero-banner-date">      	  	  <time datetime="2023-06-12T12:00:00Z" class="datetime">June 12, 2023</time>
+
+	        </div>
+    </div>
+  </div>
+</div>
+
+  <!-- Layout level -->
+  <div class="layout">
+    <div class="layout--article">
+  
+      <!-- left column -->
+      <div class="left-column">
+        <div class="left-nav-content">
+          <div class="pittwire-heading">Tags</div>
+            	    <ul class="pittwire-tag-list field field--type-entity-reference field--label-hidden field__items">
+	      		        <li class="field__item">
+				Diversity, Equity, and Inclusion
+				</li>
+		      		        <li class="field__item">
+				Our City/Our Campus
+				</li>
+		      	    </ul>
+	  
+  
+          <div id="block-socialsharingblock-2" class="block block-social-media block-social-sharing-block">
+  
+    
+      
+
+<ul class="left-nav-menu-social">
+            <li>
+      <a    target="_blank"  rel="noopener noreferrer"  class="twitter share"   href="https://twitter.com/intent/tweet?url=https://www.pitt.edu/pittwire/features-articles/pride-month-events-2023&amp;hashtags=Hashtag"
+        title="Share on Twitter - opens in a new window">
+                  <img alt="Share on Twitter - opens in a new window" src="https://www.pitt.edu//libraries/xtwitter/icons/xtwitter.svg">
+              </a>
+
+    </li>
+          <li>
+      <a    target="_blank"  rel="noopener noreferrer"  class="facebook-share share"   href="http://www.facebook.com/share.php?u=https://www.pitt.edu/pittwire/features-articles/pride-month-events-2023&amp;title=Catch these Pittsburgh Pride Month events"
+        title="Share on Facebook - opens in a new window">
+                  <img alt="Share on Facebook - opens in a new window" src="https://www.pitt.edu/modules/contrib/social_media/icons/facebook_share.svg">
+              </a>
+
+    </li>
+          <li>
+      <a      class="email share"   href="mailto:?subject=Catch these Pittsburgh Pride Month events&amp;body=Check out this site https://www.pitt.edu/pittwire/features-articles/pride-month-events-2023"
+        title="Share via Email">
+                  <img alt="Share via Email" src="https://www.pitt.edu/modules/contrib/social_media/icons/email.svg">
+              </a>
+
+    </li>
+  </ul>
+
+
+  </div>
+
+          <!-- Subscribe Module -->
+<div id="block-subscribetopittwire" class="subscribe-wrapper block block-fixed-block-content block-fixed-block-contentsubscribe-to-pittwire">
+    <div class="subscribe-inner">
+          	        <figure class="field field--type-entity-reference field--label-hidden field__item">
+	  	    <img src="/sites/default/files/styles/subscription_callout/public/2021-07/img-pittwire-subscribe.png?h=7f3918f9&amp;itok=hC3ZYfSz" alt="FPO Tower" loading="lazy" typeof="foaf:Image" class="image-style-subscription-callout" />
+
+
+
+	  	  </figure>
+	        
+    <div class="subscribe-content">
+            	        <h2 class="subscribe-content-title field field--type-string field--label-hidden field__item">
+	  	  Subscribe to Pittwire Today
+	  	  </h2>
+	        
+            	  	  Get the most interesting and important stories from the University of Pittsburgh.
+	        
+    </div>
+  </div>
+  <div class="subscribe-form">
+    <div class="subscribe-form-btn">
+      <a href="/subscribe-pittwire" class="btn-submit">      	  	  Subscribe
+	        </a>
+    </div>
+  </div>
+  </div>
+
+        </div>
+      </div>
+  
+      <!-- Main Content -->
+      <section class="main-content">
+  
+          
+        <div role="article" about="/pittwire/features-articles/pride-month-events-2023" class="content-well">
+          
+                	  	  <p>Pride Month, held each June in commemoration of the <a href="https://www.pbs.org/wgbh/americanexperience/films/stonewall/#part01">Stonewall Uprising</a>, is a time for all people to come together to recognize LGBTQ+ resilience and societal contributions. Explore these local events and resources to celebrate and uplift the community.</p>
+
+<h2>LGBTQIA+ focused self-defense training</h2>
+
+<h3>Tuesday, June 13, 9:30 a.m.-noon</h3>
+
+<p><a href="https://www.set-point.org/">SETpoint</a> is offering a self-defense session geared toward LGBTQIA+ faculty and staff members, but everyone in the Pitt community is welcome. Join Pitt Queer Professionals on the third floor of the Cathedral of Learning for training, lunch and swag. RSVP to <span class="spamspan"><span class="u">pqp</span> [at] <span class="d">pitt.edu</span></span>.</p>
+
+<h2>Read a banned book</h2>
+
+<h3>Friday, June 16, 12:30-1:30 p.m.</h3>
+
+<p>The first 10 participants who register for the virtual Let’s Read It! LGBTQIA+ Banned Book Club will receive a free copy of “Gender Queer: A Memoir” by Maia Kobabe. <a href="https://pitt.libcal.com/event/10568111">Register to attend.</a></p>
+
+<h2>A day of neighborhood pride</h2>
+
+<h3>Saturday, June 17, various times</h3>
+
+<p>There are plenty of opportunities to share and show off your pride no matter your neighborhood. Check out free festivals in <a href="https://lebopride.org/">Mt. Lebanon</a>, <a href="https://qburgh.com/event/bellevue-pride/">Bellevue</a> and <a href="https://qburgh.com/event/lawrenceville-pride/">Lawrenceville</a>, which is hosting its first pride event this year.</p>
+
+<h2>Celebrate with Pitt organizations</h2>
+
+<h3>Tuesday, June 20, 11 a.m.-2 p.m.</h3>
+
+<p>Discover departments and resources from across the University at Pride on the Patio. Also enjoy free food and take-away items as you gather on the William Pitt Union patio and lawn. No registration is required for attendees, but there’s still time to <a href="https://pitt.co1.qualtrics.com/jfe/form/SV_cLSoPrTJDX8rnyC">reserve a table</a> for your department or organization. You can also sign up to volunteer by emailing <span class="spamspan"><span class="u">pqp</span> [at] <span class="d">pitt.edu</span></span>.</p>
+
+<h2>Shop and connect in Millvale</h2>
+
+<h3>Saturday, June 24, 10 a.m.-11 p.m.</h3>
+
+<p>This year marks the third annual <a href="https://www.pridemillvale.org/home">Pride Millvale</a>, a free event in the Pittsburgh neighborhood. The volunteer-led festival will host community partners, nonprofits, health and wellness resources and a variety of vendors.</p>
+
+<h2>A pride parade for the people</h2>
+
+<h3>Sunday, June 25, 10 a.m.</h3>
+
+<p>March through Pittsburgh’s Swissvale neighborhood with SisTers PGH during the nonprofit’s annual <a href="https://www.sisterspgh.org/2023-peoples-pride-presents-swissvale-pride">People’s Pride</a> event. The march will conclude at Dickson Elementary School, where an outdoor festival will showcase five local artists as well as headliner Durand Bernarr. Event programming this year is focused around improving housing access in Pittsburgh and Allegheny County.</p>
+
+<h2>Bingo!</h2>
+
+<h3>Monday, June 26, 7-9 p.m.</h3>
+
+<p>Pittsburgh drag queen Alora Chateaux will host an evening of performance, banter and several rounds of bingo in the William Pitt Union Assembly Room. Registration is forthcoming, but you can note your interest by writing <span class="spamspan"><span class="u">pqp</span> [at] <span class="d">pitt.edu</span></span></p>
+
+<p> </p>
+
+<p><em>— Nora Smith, photography by Aimee Obidzinski</em></p>
+
+	        
+        </div>
+  
+        
+          	    <div class="field field--type-entity-reference-revisions field--label-hidden field__items">
+	      		        <div class="field__item">
+				  <div class="paragraph paragraph--type--pittwire-text-box paragraph--view-mode--default">
+                	        <h3 class="field field--type-string field--label-hidden field__item">
+	  	  The meaning of Pride
+	  	  </h3>
+	              	        <div class="clearfix text-formatted field field--type-text-long field--label-hidden field__item">
+	  	  <p>Fifty-four years ago, something important happened that changed the way people think about LGBTQIA+ rights. It started at the Stonewall Inn in New York City. The police used to arrest LGBTQIA+ people there just for being themselves. One day, the community fought back. They had enough of the discrimination and unfair treatment. </p>
+
+<p>These protests, known as the Stonewall Riots, lasted for several days. People like Marsha P. Johnson stood up against the arrests and fought for equality. Johnson became a leader and worked hard to bring attention to the issues faced by the LGBTQIA+ community. In the many years after the riots, she helped create organizations and policies that support LGBTQIA+ rights. </p>
+
+<p>Today, we celebrate this movement every June during Pride Month. Pride is not just about parades and celebrations. It's about recognizing the power and resilience of the LGBTQIA+ community. Pride is about family, community, accepting ourselves, being visible and embracing who we are. It reminds us that everyone has the right to be themselves and be treated with respect. </p>
+
+<p>At the University of Pittsburgh and beyond, being able to express our true selves is important. It allows us to be innovative, relevant and sustainable. When we can be our authentic selves, it brings diversity to our workspaces, enables us to ask important questions, speak up and make positive changes. </p>
+
+<p>Pride encourages us to break free from the stereotypes and biases that limit us. It reminds us that our identities are complex and should be celebrated. Sometimes society tries to make us fit into one narrow box, but Pride encourages us to be who we are meant to be — not just survive but thrive. </p>
+
+<p>Pride is for everyone, not just LGBTQIA+ individuals. Stretch yourself to come together, support one another and work towards a world where everyone is treated equally. How can you do this in your space and place of work? While we should practice LGBTQIA+ inclusion throughout the year, June offers many opportunities at Pitt and in the region to get involved and show support for the LGBTQIA+ community. </p>
+
+<h3>Learn more about Pride Month</h3>
+
+<p>If you’re unfamiliar with the history behind Pride celebrations and LGBTQ+ liberation, June is an excellent time to learn. These resources can help:</p>
+
+<ul>
+	<li><a href="https://www.lgbtq.pitt.edu/">LGBTQIA+ at Pitt</a></li>
+	<li><a href="https://www.diversity.pitt.edu/events/monthly-celebrations/lgbtqia-pride-month">Pitt’s Office of Diversity, Equity, and Inclusion</a></li>
+	<li><a href="https://www.lgbtq.pitt.edu/engagement/faculty-and-staff-organizations">Pitt Queer Professionals and Transgender Working Group</a></li>
+	<li><a href="https://www.hrc.org/campaigns/celebrate-pride-with-us">The Human Rights Campaign</a></li>
+</ul>
+
+<p> </p>
+
+<p><em>— Bee Schindler, assistant director and <a href="https://www.healthdiversity.pitt.edu/social-justice/social-justice-fellowship">Social Justice Fellowship</a> manager in the <a href="https://www.healthdiversity.pitt.edu/">Office of Health Sciences Diversity, Equity and Inclusion</a></em></p>
+
+	  	  </div>
+	        
+      </div>
+
+				</div>
+		      	    </div>
+	  
+  
+      </section>
+  
+      <!-- Right Rail -->
+      <div class="right-rail">
+        <!-- Right Rail Content Here -->
+        <div class="right-rail-content">
+          
+    <div class="pittwire-heading">Trending</div>
+    <div><div class="view view-trending-articles view-id-trending_articles view-display-id-trending js-view-dom-id-0889db73948899cf6c1accc5eb07cc0556f68f17fa92ded2ef843632969fa085">
+  
+    
+      
+      <div class="view-content">
+          <div class="news-card views-row"><div class="views-field views-field-title"><span class="field-content"><h2 class="news-card-title"><a href="/pittwire/announcements-and-updates/2024-diversity-forum-speakers-schedule">Introducing the 2024 Diversity Forum speakers</a></h2>
+</span></div></div>
+    <div class="news-card views-row"><div class="views-field views-field-title"><span class="field-content"><h2 class="news-card-title"><a href="/pittwire/announcements-and-updates/2024-public-health-undergraduate-scholars-application">Apply for the Pitt Public Health Undergraduate Scholars Program by Jan. 31</a></h2>
+</span></div></div>
+    <div class="news-card views-row"><div class="views-field views-field-title"><span class="field-content"><h2 class="news-card-title"><a href="/pittwire/announcements-and-updates/caapp-book-prize-2024">Submissions are open for the 2024 Center for African American Poetry and Poetics Book Prize</a></h2>
+</span></div></div>
+
+    </div>
+  
+          </div>
+</div>
+
+
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+  <div class="layout--wide">
+    <!-- Main Content -->
+    <section class="main-content">
+      
+    </section>
+  </div>
+</main>
+
+  </div>
+
+  </div>
+
+    </article>
+
+</main>
+
+
+  <footer class="footer">
+                	        <div class="footer-bg field field--type-entity-reference field--label-hidden field__item">
+	  	    <img src="/sites/default/files/styles/footer_background/public/2021-03/img-bridge.png?itok=YCj_wGW3" alt="Bridge Icon" loading="lazy" typeof="foaf:Image" class="image-style-footer-background" />
+
+
+
+	  	  </div>
+	        
+  <div id="block-pitt-pittwire-footerblocks" class="footer-container">
+      <!-- Logo and Links -->
+<div class="footer-navigation" data-max-columns="2">
+      <div id="block-pitt-pittwire-sitebranding-2" class="footer-navigation-logo block block-system block-system-branding-block">
+  
+    
+        <a href="/" title="University of Pittsburgh" rel="home" class="site-logo">
+      <img src="/themes/custom/pitt_pittwire/logo.svg" alt="University of Pittsburgh" />
+    </a>
+    </div>
+<nav role="navigation" aria-labelledby="block-globalmenu-2-menu" id="block-globalmenu-2" class="menu--footer block block-menu navigation menu--global-menu">
+            
+  <h2 class="visually-hidden" id="block-globalmenu-2-menu">Global Menu</h2>
+  
+
+        
+        <ul>
+          <li>
+        <a href="https://admissions.pitt.edu/apply/">Apply</a>
+      </li>
+          <li>
+        <a href="https://admissions.pitt.edu/visit/unscripted/">Visit</a>
+      </li>
+          <li>
+        <a href="https://www.giveto.pitt.edu/s/1729/18/home-giving.aspx?gid=2&amp;pgid=2135">Give</a>
+      </li>
+          <li>
+        <a href="/pittwire" data-drupal-link-system-path="node/18">Pittwire</a>
+      </li>
+          <li>
+        <a href="http://calendar.pitt.edu/">Events</a>
+      </li>
+        </ul>
+  
+
+
+  </nav>
+
+  </div>
+<div class="footer-main" data-max-columns="2">
+      <!-- Footer Main Menu -->
+<div class="footer-sitemap" data-max-columns="2">
+      
+                    <ul>
+              <li>
+		<a href="/about" class="data-gtm-footerLinksCategory">About</a>
+        </li>
+                        <li>
+		<a href="/academics" class="data-gtm-footerLinksCategory">Academics</a>
+        </li>
+                        <li>
+		<a href="/admissions" class="data-gtm-footerLinksCategory">Admissions</a>
+        </li>
+            </ul>
+                      <ul>
+              <li>
+		<a href="/research" class="data-gtm-footerLinksCategory">Research</a>
+        </li>
+                        <li>
+		<a href="/student-life" class="data-gtm-footerLinksCategory">Life at Pitt</a>
+        </li>
+                        <li>
+		<a href="http://pittsburghpanthers.com/" class="data-gtm-footerLinksCategory">Athletics</a>
+        </li>
+            </ul>
+            
+
+<!-- End Main Menu -->
+
+  </div>
+<div id="block-footerquicklinksandcontact-2" class="block block-blockgroup block-block-groupfooter-quick-links-and-contact">
+  
+    
+      <!-- Quick Links and Contact Info -->
+<div class="footer-quicklinks">
+  <!-- Quick Links -->
+  <div class="collapse--secondary" data-max-columns="2">
+      <div id="block-pitt-pittwire-footerquicklinkscolumn1" class="block block-blockgroup block-block-groupfooter-quick-links-column-1">
+  
+    
+      <!-- collapse item -->
+<div class="footer-quicklinks-item">
+  <button id="quick-links-resources" class="collapse-trigger--md collapsed footer-quicklinks-item-header" role="tab" data-toggle="collapse" data-target="#collapse-item-quick-links-resources" aria-expanded="false" aria-controls="collapse-item-quick-links-resources" data-gtm="">Quick Links &amp; Resources</button>
+  <div id="collapse-item-quick-links-resources" class="collapse-target--md collapse" role="tabpanel" aria-labelledby="quick-links-resources">
+    <div class="collapse-content">
+      <div class="footer-quicklinks-item-header">Quick Links &amp; Resources</div>
+            
+        <ul>
+            <li>
+		<a href="https://www.diversity.pitt.edu/accessibility-statement" class="data-gtm-footerLinksKPI">Accessibility Statement</a>
+        </li>
+            <li>
+		<a href="https://www.personaled.pitt.edu/mentoring-advising/advising-pitt" class="data-gtm-footerLinksKPI">Advising at Pitt</a>
+        </li>
+            <li>
+		<a href="https://www.join.pitt.edu/" class="data-gtm-footerLinksKPI">Careers</a>
+        </li>
+            <li>
+		<a href="/about/general-info" class="data-gtm-footerLinksKPI">Consumer Info/Achievement</a>
+        </li>
+            <li>
+		<a href="/contact" class="data-gtm-footerLinksKPI">Contact Us</a>
+        </li>
+            <li>
+		<a href="http://coronavirus.pitt.edu/" class="data-gtm-footerLinksKPI">COVID-19 Response</a>
+        </li>
+            <li>
+		<a href="https://www.academics.pitt.edu/programs/a-z" class="data-gtm-footerLinksKPI">Departments A-Z</a>
+        </li>
+            <li>
+		<a href="https://www.diversity.pitt.edu/" class="data-gtm-footerLinksKPI">Diversity, Equity and Inclusion</a>
+        </li>
+            <li>
+		<a href="https://find.pitt.edu/" class="data-gtm-footerLinksKPI">Find People</a>
+        </li>
+            <li>
+		<a href="https://www.technology.pitt.edu/" class="data-gtm-footerLinksKPI">Information Technology</a>
+        </li>
+            <li>
+		<a href="https://www.lgbtq.pitt.edu/" class="data-gtm-footerLinksKPI">LGBTQ+</a>
+        </li>
+            <li>
+		<a href="https://www.diversity.pitt.edu/notice-nondiscrimination-and-anti-harassment-policy-statement" class="data-gtm-footerLinksKPI">Nondiscrimination and Anti-Harassment Policy</a>
+        </li>
+            <li>
+		<a href="https://www.pitt.edu/privacy-policy" class="data-gtm-footerLinksKPI">Privacy Policy</a>
+        </li>
+            <li>
+		<a href="http://my.pitt.edu" class="data-gtm-footerLinksKPI">My Pitt</a>
+        </li>
+        </ul>
+  
+
+
+          </div>
+  </div>
+</div>
+<!-- collapse item -->
+<div class="footer-quicklinks-item">
+  <button id="regional-campuses" class="collapse-trigger--md collapsed footer-quicklinks-item-header" role="tab" data-toggle="collapse" data-target="#collapse-item-regional-campuses" aria-expanded="false" aria-controls="collapse-item-regional-campuses" data-gtm="">Regional Campuses</button>
+  <div id="collapse-item-regional-campuses" class="collapse-target--md collapse" role="tabpanel" aria-labelledby="regional-campuses">
+    <div class="collapse-content">
+      <div class="footer-quicklinks-item-header">Regional Campuses</div>
+            
+        <ul>
+            <li>
+		<a href="https://upb.pitt.edu/" class="data-gtm-footerLinksKPI">Bradford</a>
+        </li>
+            <li>
+		<a href="http://www.greensburg.pitt.edu/" class="data-gtm-footerLinksKPI">Greensburg</a>
+        </li>
+            <li>
+		<a href="https://www.johnstown.pitt.edu/" class="data-gtm-footerLinksKPI">Johnstown</a>
+        </li>
+            <li>
+		<a href="https://www.titusville.pitt.edu/" class="data-gtm-footerLinksKPI">Titusville</a>
+        </li>
+        </ul>
+  
+
+
+          </div>
+  </div>
+</div>
+
+  </div>
+<div id="block-pitt-pittwire-footerquicklinkscolumn2" class="block block-blockgroup block-block-groupfooter-quick-links-column-2">
+  
+    
+      <!-- collapse item -->
+<div class="footer-quicklinks-item">
+  <button id="colleges-schools" class="collapse-trigger--md collapsed footer-quicklinks-item-header" role="tab" data-toggle="collapse" data-target="#collapse-item-colleges-schools" aria-expanded="false" aria-controls="collapse-item-colleges-schools" data-gtm="">Colleges &amp; Schools</button>
+  <div id="collapse-item-colleges-schools" class="collapse-target--md collapse" role="tabpanel" aria-labelledby="colleges-schools">
+    <div class="collapse-content">
+      <div class="footer-quicklinks-item-header">Colleges &amp; Schools</div>
+            
+        <ul>
+            <li>
+		<a href="https://www.as.pitt.edu" class="data-gtm-footerLinksKPI">Arts &amp; Sciences</a>
+        </li>
+            <li>
+		<a href="https://www.business.pitt.edu" class="data-gtm-footerLinksKPI">Business</a>
+        </li>
+            <li>
+		<a href="https://www.sci.pitt.edu" class="data-gtm-footerLinksKPI">Computing &amp; Information</a>
+        </li>
+            <li>
+		<a href="https://www.dental.pitt.edu" class="data-gtm-footerLinksKPI">Dental Medicine</a>
+        </li>
+            <li>
+		<a href="https://www.education.pitt.edu" class="data-gtm-footerLinksKPI">Education</a>
+        </li>
+            <li>
+		<a href="https://www.engineering.pitt.edu" class="data-gtm-footerLinksKPI">Engineering</a>
+        </li>
+            <li>
+		<a href="https://www.cgs.pitt.edu" class="data-gtm-footerLinksKPI">General Studies</a>
+        </li>
+            <li>
+		<a href="https://www.shrs.pitt.edu" class="data-gtm-footerLinksKPI">Health &amp; Rehabilitation</a>
+        </li>
+            <li>
+		<a href="https://www.honors.pitt.edu" class="data-gtm-footerLinksKPI">Honors College</a>
+        </li>
+            <li>
+		<a href="https://www.law.pitt.edu" class="data-gtm-footerLinksKPI">Law</a>
+        </li>
+            <li>
+		<a href="https://www.medschool.pitt.edu" class="data-gtm-footerLinksKPI">Medicine</a>
+        </li>
+            <li>
+		<a href="https://www.nursing.pitt.edu" class="data-gtm-footerLinksKPI">Nursing</a>
+        </li>
+            <li>
+		<a href="https://www.pharmacy.pitt.edu" class="data-gtm-footerLinksKPI">Pharmacy</a>
+        </li>
+            <li>
+		<a href="https://www.gspia.pitt.edu" class="data-gtm-footerLinksKPI">Public &amp; Intl Affairs</a>
+        </li>
+            <li>
+		<a href="https://publichealth.pitt.edu/" class="data-gtm-footerLinksKPI">Public Health</a>
+        </li>
+            <li>
+		<a href="https://www.socialwork.pitt.edu/" class="data-gtm-footerLinksKPI">Social Work</a>
+        </li>
+        </ul>
+  
+
+
+          </div>
+  </div>
+</div>
+
+  </div>
+
+    </div>
+</div>
+<div id="block-footercontact-2" class="footer-contact block block-blockgroup block-block-groupfooter-contact">
+  
+    
+      <div id="block-footersiteinformation-2" class="block block-block-content block-block-content60643064-ee6c-4394-90c4-9e061373c0d4">
+  
+    
+            	        <div class="field field--type-address field--label-hidden field__item">
+	  	  <p class="address" translate="no"><span class="address-line1">4200 Fifth Ave.</span><br>
+<span class="locality">Pittsburgh</span>, <span class="administrative-area">PA</span> <span class="postal-code">15260</span><br>
+<span class="country">United States</span></p>
+	  	  </div>
+	              	        <div class="field field--type-telephone field--label-hidden field__item">
+	  	  <a href="tel:+1-412-624-4141">+1 412-624-4141</a>
+	  	  </div>
+	        
+  </div>
+<div id="block-socialmedialinks-2" class="block-social-media-links block block-social-media-links-block">
+  
+    
+      
+
+<ul class="social-media-links--platforms platforms inline horizontal">
+      <li>
+      <a class="social-media-link-icon--twitter" href="https://www.twitter.com/PittTweet"  target="_blank" >
+          <i class="micon fa-twitter" aria-hidden="true"></i>
+
+
+                <span class="platform--name visually-hidden">Twitter</span>
+      </a>
+    </li>
+      <li>
+      <a class="social-media-link-icon--instagram" href="https://www.instagram.com/pittofficial"  target="_blank" >
+          <i class="micon fa-instagram" aria-hidden="true"></i>
+
+
+                <span class="platform--name visually-hidden">Instagram</span>
+      </a>
+    </li>
+      <li>
+      <a class="social-media-link-icon--facebook" href="https://www.facebook.com/upitt"  target="_blank" >
+          <i class="micon fa-facebook" aria-hidden="true"></i>
+
+
+                <span class="platform--name visually-hidden">Facebook</span>
+      </a>
+    </li>
+      <li>
+      <a class="social-media-link-icon--youtube" href="https://www.youtube.com/user/pittweb"  target="_blank" >
+          <i class="micon fa-youtube" aria-hidden="true"></i>
+
+
+                <span class="platform--name visually-hidden">Youtube</span>
+      </a>
+    </li>
+  </ul>
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </footer>
+
+
+
+
+
+
+  </div>
+
+    
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"node\/15226","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"data":{"extlink":{"extTarget":false,"extTargetNoOverride":false,"extNofollow":false,"extNoreferrer":true,"extFollowNoOverride":false,"extClass":"0","extLabel":"(link is external)","extImgClass":false,"extSubdomains":true,"extExclude":"","extInclude":"","extCssExclude":"#block-socialmedialinks","extCssExplicit":"","extAlert":false,"extAlertText":"This link will take you to an external web site. We are not responsible for their content.","mailtoClass":"0","mailtoLabel":"(link sends email)","extUseFontAwesome":false,"extIconPlacement":"append","extFaLinkClasses":"fa fa-external-link","extFaMailtoClasses":"fa fa-envelope-o","whitelistedDomains":[]}},"user":{"uid":0,"permissionsHash":"45709791c536f1a56041d94d00891fba6b9156605a804ed14b7a260a9fb3cf47"}}</script>
+<script src="/themes/custom/pitt_default/js/gsap/dist/gsap.min.js?v=9.3.21"></script>
+<script src="/themes/custom/pitt_default/js/gsap/dist/ScrollTrigger.min.js?v=9.3.21"></script>
+<script src="/core/assets/vendor/jquery/jquery.min.js?v=3.6.0"></script>
+<script src="/core/misc/polyfills/element.matches.js?v=9.3.21"></script>
+<script src="/core/misc/polyfills/object.assign.js?v=9.3.21"></script>
+<script src="/core/assets/vendor/once/once.min.js?v=1.0.1"></script>
+<script src="/core/assets/vendor/jquery-once/jquery.once.min.js?v=2.2.3"></script>
+<script src="/core/misc/drupalSettingsLoader.js?v=9.3.21"></script>
+<script src="/core/misc/drupal.js?v=9.3.21"></script>
+<script src="/core/misc/drupal.init.js?v=9.3.21"></script>
+<script src="/core/misc/debounce.js?v=9.3.21"></script>
+<script src="/themes/custom/pitt_default/js/collapse-native.js?v=9.3.21"></script>
+<script src="/themes/custom/pitt_default/js/collapse.js?v=9.3.21"></script>
+<script src="/themes/custom/pitt_default/js/transition.js?v=9.3.21"></script>
+<script src="/themes/custom/pitt_default/js/hoverintent.min.js?v=9.3.21"></script>
+<script src="/themes/custom/pitt_default/js/navigation.js?v=9.3.21"></script>
+<script src="/themes/custom/pitt_default/js/userInterface.js?v=9.3.21"></script>
+<script src="/themes/contrib/zensource_front_end/js/global.js?v=9.3.21"></script>
+<script src="/core/misc/jquery.once.bc.js?v=9.3.21"></script>
+<script src="/modules/contrib/extlink/extlink.js?v=9.3.21"></script>
+<script src="/modules/contrib/spamspan/js/spamspan.js?v=9.3.21"></script>
+<script src="/themes/custom/pitt_default/js/modal-native.js?s6osgy"></script>
+<script src="/themes/custom/pitt_default/js/modal.js?s6osgy"></script>
+<script src="/themes/custom/pitt_default/js/card.js?s6osgy"></script>
+
+  <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"NRJS-32db2f37a7e1f41235a","applicationID":"1009016335","transactionName":"NAAAYUNYCBFXVEddVw1KI1ZFUAkMGXNBQUgCCT5bXl0DPnVYXUBKDAkOUENlKA1SUmVdXRQmDVtFSwkOWlJBGQYVDAdC","queueTime":0,"applicationTime":527,"atts":"GEcDFwtCGx8=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

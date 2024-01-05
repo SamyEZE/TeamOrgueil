@@ -1,0 +1,1790 @@
+   #Orgueil et enseignement Philosophie antique, Numéros Philosophie
+   antique, Documents
+
+   Navigation – Plan du site
+
+Philosophie antique Philosophie antique
+
+   Problèmes, Renaissances, Usages
+
+   AccueilNuméros20VariaOrgueil et enseignement
+
+   Recherche___________ (BUTTON) Chercher
+   Sommaire - Document précédent
+   20 | 2020
+   Nouvelles figures de Socrate
+   Varia
+
+Orgueil et enseignement
+
+   À propos de quelques remarques du Commentaire au Premier Alcibiade de
+   Proclus
+   Corentin Tresnie
+   p. 237-261
+   https://doi.org/10.4000/philosant.3936
+   Résumé | Index | Plan | Texte | Bibliographie | Notes | Citation |
+   Auteur
+
+Résumés
+
+   Français English
+
+   L’humilité est usuellement considérée comme une vertu morale, mais
+   aussi épistémique. Une exception à cet égard dans la tradition
+   philosophique est le Commentaire au Premier Alcibiade de Proclus.
+   Celui-ci nous décrit le choix d’Alcibiade par Socrate, les premières
+   étapes de leur relation pédagogique, mais aussi et surtout les
+   principes théoriques qui les justifient, en faisant la part belle à ce
+   qu’on pourrait appeler l’orgueil épistémique, pourvu de trois
+   composantes : la fierté (φρόνημα), le mépris (καταφρονεῖν, etc.) et
+   l’ambition (φιλοτιμία). Après une étude terminologique des notions
+   pertinentes pour l’argument de Proclus à ce sujet, cet article tente de
+   le reconstituer par une analyse des trois composantes décrites par
+   Proclus et de leurs relations, en se concentrant sur l’aspect
+   particulièrement développé dans les pages du Commentaire préservées :
+   l’orgueil comme marque du potentiel de l’élève. Il décrit ensuite
+   comment cette reconnaissance s’inscrit dans la dynamique plus générale
+   de purification de l’orgueil d’Alcibiade par la méthode socratique, et
+   revient enfin à la question philosophique initiale de la valeur
+   éducative de l’humilité et de l’orgueil épistémiques.
+
+   Humility is usually seen as a moral as well as epistemic virtue.
+   Proclus’ Commentary on the First Alcibiades is a notable exception.
+   This text describes the choice of Alcibiades as a pupil by Socrates,
+   the first steps of their pedagogical interaction, but also the
+   theoretical principles that are in the background. Proclus gives a
+   remarkable importance to what one might call epistemic pride, which
+   consist in loftiness (φρόνημα), contempt (καταφρονεῖν, etc.) and love
+   of honour (φιλοτιμία). First, this article offers a lexical study of
+   the relevant notions. Then, it proceeds to reconstruct Proclus’
+   argument by analyzing the three above-mentioned components and their
+   relations with one another, focusing on what is especially elaborated
+   in the extant pages of the Commentary, namely the fact that pride is a
+   mark of the pupil’s potential. This allows to show how such a choice
+   can be related to the more general dynamic of the purification of
+   Alcibiades’ pride through the Socratic method. Lastly, the paper goes
+   back to the initial philosophical question of the pedagogical value of
+   epistemic humility and pride.
+   Haut de page
+
+Entrées d’index
+
+Mots-clés :
+
+   orgueil, humilité, purification, éducation, vertu, Alcibiade
+
+Keywords:
+
+   pride, humility, purification, education, virtue, Alcibiades
+
+Auteurs anciens :
+
+   Proclus, Socrate, Platon
+   Haut de page
+
+Plan
+
+   Introduction
+   1. Lexique
+   1.1. Φρόνημα et μεγαλαυχία
+   1.2. Μεγαλοφροσύνη, μεγαλοψυχία, μεγαλοπρέπεια
+   1.3. Oἴησις
+   1.4. Φιλοτιμία
+   1.5. Ὕβρις et τῦφος
+   2. L’élève potentiel du philosophe est l’orgueilleux
+   2.1. Nécessité d’un critère
+   2.2. Familiarité avec l’intelligible
+   2.3. Mépris des choses basses
+   2.4. L’ambition comme étape de l’ascension
+   2.5. Orgueil et naturel philosophe
+   3. Comment éduquer l’orgueilleux ?
+   3.1. L’orgueil comme obstacle et tremplin
+   3.2. Purification de l’orgueil et réminiscence
+   Conclusion
+   Haut de page
+
+Texte intégral
+
+   PDF 316k Partager par e-mail
+
+   La recherche présentée dans cet article a été rendue possible par une
+   bourse seed money de l’Université Libre de Bruxelles.
+
+Introduction
+
+     * 1  Roberts & Wood 2003.
+     * 2  Elle ne concerne donc que l’humilité en ce sens négatif, qui est
+       encore celui d’Albert le Grand, P (...)
+     * 3  La présence d’une telle fonction d’humiliation dans la démarche
+       socratique est notamment défendue (...)
+
+   1Il semble tout à fait raisonnable, et conforme au sens commun, de
+   considérer l’humilité comme une vertu indispensable pour tout
+   apprentissage ou éducation morale. Sous son aspect épistémique, auquel
+   nous allons ici nous intéresser, elle favorise l’ouverture aux
+   suggestions nouvelles et le détachement de tout enjeu d’originalité
+   personnelle, tout en limitant les résistances mal placées. C’est du
+   moins ainsi que la caractérisent R. C. Roberts et W. J. Wood, qui la
+   définissent doublement comme une absence de souci pour son image auprès
+   d’autrui ainsi que de domination sur lui, et comme une absence de
+   croyance en des privilèges indus, fondés sur une supériorité réelle ou
+   imaginée1. Il s’agit donc d’une définition purement négative2 : par
+   humilité, ici, est désignée une absence. Dans cette perspective,
+   l’apprenant humble est libre des entraves épistémiques que ne manquent
+   pas d’amener la vanité et l’arrogance, figures repoussoirs qui fondent
+   la définition sus-citée. L’enseignement bien compris, à commencer par
+   l’elenchos socratique, pourrait en conséquence avoir comme l’une de ses
+   fonctions premières de commencer par humilier (au sens propre de
+   « rendre humble ») la personne à éduquer, afin de la rendre mieux
+   disposée (c’est-à-dire : plus volontaire et plus efficace) à
+   l’apprentissage subséquent3.
+     * 4  La nécessité de choisir entre ces deux options est la conclusion
+       de l’article de Driver 1989. Elle (...)
+
+   2Mais le choix de l’humilité ne nous a-t-il rien fait perdre ? Est-il
+   seulement bien fondé ? L’objection est classique : l’humilité, par sa
+   méfiance envers une haute opinion de soi-même, peut mener à se
+   sous-estimer, c’est-à-dire à émettre un jugement faux à propos de
+   soi-même, voire à y croire. C’est d’autant plus le cas si l’on admet
+   que l’humilité rejette tout privilège, même fondé sur une supériorité
+   réelle. En conséquence, il faut soit admettre qu’une vertu puisse
+   reposer sur une erreur, soit refuser à l’humilité le rang de vertu4. La
+   première voie, qui appelle déjà la prudence si l’on traite de vertu
+   morale, devient périlleuse quand on parle de vertu épistémique. Il faut
+   dès lors être prêt à considérer la seconde. Si l’humilité ne peut être
+   une vertu épistémique, qu’en est-il de ce en opposition à quoi elle se
+   définit, et que nous nommerons provisoirement orgueil (épistémique) ?
+   Peut-on trouver, à l’encontre d’un certain sens commun et peut-être
+   d’une certaine tradition morale et pédagogique, une valeur positive à
+   l’absence d’humilité (disons à l’orgueil) d’un apprenant ?
+     * 5  À lire Augustin, on pourrait croire que tout le néoplatonisme
+       est une voie d’orgueil (superbia ; v (...)
+     * 6  Voir par exemple l’article de Roskam 2012.
+     * 7  Une exception est Layne 2014, qui remarque cette dimension de la
+       lecture proclienne, sans qu’elle (...)
+
+   3Rares sont les philosophes à avoir pris cette voie au sérieux. Parmi
+   eux, nous pouvons cependant compter Proclus5, qui propose une lecture
+   hétérodoxe et sans doute parfois peu fidèle du profil d’Alcibiade tel
+   qu’il apparaît dans le (premier) dialogue éponyme attribué à Platon ;
+   elle est cependant riche et féconde, et offre un traitement original de
+   la question qui nous occupe. Curieusement, elle n’a fait l’objet que de
+   fort peu d’attention parmi les commentateurs modernes, qui se
+   contentent de prendre acte, en passant, du fait que selon le
+   Commentaire, Socrate purifie Alcibiade de son orgueil en le redirigeant
+   vers la vertu6, sans s’attarder sur la valorisation préliminaire de cet
+   orgueil par Proclus7. C’est cette valorisation que nous tenterons de
+   mieux comprendre ici (section 2) : quelle fécondité Proclus
+   assigne-t-il à l’orgueil d’Alcibiade ? Nous pourrons ainsi jeter un
+   nouveau jour sur la façon dont, selon lui, Socrate réoriente cet
+   orgueil vers un nouvel objet, façon que nous rappellerons brièvement
+   (section 3). Pour ce faire, nous commencerons cependant par une mise au
+   point terminologique (section 1).
+
+1. Lexique
+
+     * 8  Segonds 1985-1986.
+     * 9  O’Neill 1971.
+
+   4Afin de ne pas commettre de contresens quant à l’argument de Proclus
+   dans le Commentaire à l’Alcibiade, il convient d’abord de clarifier la
+   signification des termes en présence. La traduction française d’A.
+   Segonds8, d’ordinaire habile et précise, ainsi que la traduction
+   anglaise de W. O’Neill9, sont pour certains termes quelque peu
+   flottantes (φρόνημα, μεγαλοφροσύνη), ou simplement améliorables
+   (οἴησις) ; c’est pourquoi nous commencerons par nous attarder sur
+   ceux-ci.
+
+1.1. Φρόνημα et μεγαλαυχία
+
+     * 10  Segonds traduit le terme tantôt par « pensée », tantôt par
+       « orgueil », « fierté », par le fait d’ (...)
+     * 11  In Alc. 27.3-8 : ὃ δὴ καὶ ὁ Σωκράτης ἐνδεικνύμενος διὰ τῆς
+       πρώτης ταύτης κλήσεως ἐγείρει μὲν τὸ φρ (...)
+     * 12  Par exemple dans le Critias, 120e.
+     * 13  In Alc. 62, 3-6, à comparer avec 100, 8-10 ; 211, 1-5.
+     * 14  In Alc. 95, 8-12 ; 98, 3-7 ; 99, 6-16.
+     * 15  In Alc. 147, 11-15 ; 156, 7-10.
+     * 16  In Alc. 112, 22-25 ; 115, 19-22 ; voir aussi In R. I, 49, 7 sur
+       le φρόνημα de l’art poétique.
+     * 17  In Alc. 113, 13-16 ; la question du rang de l’âme sera traitée
+       plus loin.
+     * 18  In Alc. 108, 7-16 ; 110, 10-12 ; 111, 8-11 ; 115, 15-17 ; 265,
+       7-11.
+
+   5Le concept central pour notre propos est celui de φρόνημα, traduit de
+   façon plutôt variable10. Tout l’enjeu de la partie du dialogue
+   commentée par Proclus est, selon ce dernier, que Socrate « éveille le
+   φρόνημα de son aimé (sc. Alcibiade) à l’adhésion à la véritable beauté,
+   suscite en lui l’admiration pour la vie philosophique, et le mène à
+   l’accomplissement de la véritable érotique »11. Le terme peut bien sûr
+   signifier « pensée » au sens large12, mais il a dans le reste du
+   Commentaire un sens plus spécifique : il est associé à la μεγαλαυχία,
+   arrogance souhaitable envers la multitude ignorante, mais dommageable
+   si on en fait preuve vis-à-vis des sages, surtout pour se glorifier de
+   sa beauté physique13. Le φρόνημα est et rend imposant (ἁδρός) et
+   superbe (γαῦρος) quand il implique mépris des richesses et des
+   prétendants non vertueux14. Il est la marque d’une éducation
+   philosophique, et caractérise tant l’excellence de Périclès que la
+   franchise de Socrate15. Il peut en revanche être creux (διακένον) ou
+   vain (μάταιον) quand il se fourvoie sur ce qui est digne de lui16. On
+   peut à juste titre le ressentir à propos du rang ontologique de son
+   âme, par opposition au rang social, dont on ne tire que vanité
+   (χαυνότης)17. C’est qu’il est possible d’être fier (φρονεῖν) tant des
+   choses belles et grandes que des petites et matérielles18. En
+   conséquence, il nous semble possible, partout dans le Commentaire à
+   l’Alcibiade, de traduire φρόνημα par « fierté » : c’est la fierté
+   d’Alcibiade que Socrate éveille aux (ou redirige vers les) véritables
+   beautés, philosophie et érotique, et nous verrons plus loin pourquoi et
+   comment.
+
+1.2. Μεγαλοφροσύνη, μεγαλοψυχία, μεγαλοπρέπεια
+
+     * 19  Au point que les traducteurs ont à l’occasion pu la confondre
+       avec le φρόνημα (voir notes suivante (...)
+     * 20  In Alc. 134, 7-11 ; Segonds y traduit μεγαλοφροσύνη par
+       « orgueil », O’Neill par « arrogance ».
+     * 21  In Alc. 84, 27-85, 3 ; Segonds y traduit ὁ μεγαλόφρων par « le
+       magnanime », O’Neill par « the high (...)
+     * 22  In Alc. 97, 13-98, 3 ; Segonds y traduit μεγαλοφροσύνη par
+       « générosité », O’Neill par « high reso (...)
+     * 23  In Alc. 115, 19-22 ; Segonds y traduit μεγαλοφροσύνη par
+       « grandeur d’âme », O’Neill par « high-mi (...)
+     * 24  In Parm. 854, 20-24, qui fait référence à la République, 487a4.
+       Notons que dans la République (528 (...)
+     * 25  Dont l’emploi chez Platon, y compris par opposition à
+       μεγαλόψυχος et μεγαλόφρων, a été étudié par (...)
+     * 26  In Ti. I, 62, 9 ; I, 64, 16 ; II, 221, 10.
+     * 27  In Crat. 117, 11 ; 129, 19 ; In Ti. III, 262, 18.
+     * 28  In Crat. 128, 19 ; In Parm. 617, 20.
+     * 29  In Parm. 780, 23 (Parménide, Zénon et Socrate) ; 997, 8
+       (Socrate) ; In Alc. 18, 18-19 (Platon) ; 3 (...)
+     * 30  Comme le fait d’ailleurs Guillaume de Moerbeke, Decem Dub.
+       35-37 et De Prov. 25, 19 : il traduit p (...)
+
+   6Une autre façon, étymologiquement liée19, de qualifier l’attitude
+   d’Alcibiade consiste à louer sa μεγαλοφροσύνη, qui lui fait mépriser la
+   dissolution de ses amants20. Cette qualité est celle de qui aime la
+   véritable puissance (celle des démons) plutôt que le pouvoir
+   politique21. Elle peut être attribuée aux prétendants d’Alcibiade dans
+   la mesure où ils renoncent pour lui à leurs richesses, qu’ils lui
+   offrent, mais ils ne peuvent l’avoir véritablement, car elle implique
+   science et sagesse22. Faute de celles-ci, elle n’est qu’apparente
+   (φαινομένη)23. Il s’agit en fait de la caractéristique du naturel
+   philosophe, qualifié aussi de μεγαλόψυχος et de μεγαλοπρεπής24. Ce
+   dernier adjectif25 est aussi plus particulièrement utilisé pour
+   qualifier le ton du discours de Timée26, ainsi que les Héros27.
+   Μεγαλόφρων s’applique aussi à ceux-ci28, mais est avant tout le
+   qualificatif des grands philosophes29. Comme Proclus emploie ces termes
+   comme des synonymes, il semble préférable de toujours les comprendre
+   comme, sinon de les traduire par, « magnanimité » et « magnanime »30.
+
+1.3. Oἴησις
+
+     * 31  In Alc. 108, 11-14 ; 141, 9-11 ; 211, 1-5.
+     * 32  In Alc. 175, 15-16 ; 212, 3-4.
+     * 33  In Alc. 164, 6 ; 288, 24-27 ; 304, 7-9.
+     * 34  In Alc. 7, 9-11 ; 12, 5-6 ; 17, 2-4 ; 141, 9-11 ; 290, 27-28 ;
+       cf. In Parm. 655, 7.
+     * 35  In Alc. 15, 5-7 ; 102, 20-23 ; 240, 2-3 ; 305, 22-24.
+     * 36  In Alc. 290, 27-28 ; 291, 8-10 ; 304, 4-10 ; cf. In Parm. 654,
+       4 ; 656, 13 ; In Crat. 121, 10 ; In (...)
+     * 37  In Alc. 212, 8-11.
+     * 38  ἀηδεῖς καὶ φορτικοὺς, cf. In Alc. 175, 2.
+     * 39  In Alc. 211, 11-15.
+     * 40  In Alc. 164, 6-7.
+     * 41  A. Segonds, dans la plupart des passages cités, traduit par
+       « prétention », mais ce terme implique (...)
+
+   7Alcibiade est en outre fréquemment caractérisé par son οἴησις. Il
+   s’agit aussi d’une certaine forme de fierté ou de suffisance, mais mal
+   placée, car reposant principalement sur le corps31. Plus précisément,
+   il s’agit de la condition initiale d’Alcibiade, qualifiée d’erronée
+   (ψευδής)32, de vide (κενὴ)33 et de superflue (περιττὴ)34. Proclus
+   rendra clair qu’il désigne par là le fait pour Alcibiade de croire (à
+   tort) posséder un savoir ou une compétence35, c’est-à-dire sa double
+   ignorance36 ; elle est en tant que telle un obstacle majeur à la
+   connaissance37. Elle est ce qui nous rend odieux et insupportables38,
+   et est une légitime cause de honte39 ; elle est toutefois rapprochée de
+   la cause du mépris d’Alcibiade pour ses prétendants indignes40,
+   c’est-à-dire de sa fierté. Afin de conserver cette nuance en un terme
+   désignant principalement la double ignorance d’Alcibiade, nous le
+   traduirons par « présomption »41.
+
+1.4. Φιλοτιμία
+
+     * 42  In Alc. 23, 14-24, 20 ; 156, 5-7.
+     * 43  In Alc. 76, 8-10 ; cf. In R. I.230, 20-231, 26 et In Ti. I,
+       148, 3-11.
+     * 44  In Alc. 160, 4-5 ; 219, 2-4 ; cf. l’emploi du même adjectif
+       pour qualifier la partie irascible de (...)
+     * 45  In R. 193, 1-5.
+     * 46  In Alc. 138, 10-11 ; être second est cependant insuffisant, et
+       ce mode de gouvernance est donc vou (...)
+     * 47  In Alc. 147, 21-148, 9 ; cf. In Parm. 719, 31-721, 23 et 780,
+       11.
+     * 48  In Alc. 243, 10-12.
+     * 49  In R. II.305, 15-17 et 320, 5-24.
+     * 50  C’est d’ailleurs ainsi que traduit Segonds dans la plupart des
+       passages de l’In Alc. sus-cités ; l (...)
+
+   8Reste la dernière caractéristique de la personnalité d’Alcibiade, sa
+   φιλοτιμία42. Il s’agit plus exactement d’un genre de vie centré sur la
+   quête de gloire43. Elle est associée à la partie irascible de l’âme44
+   ainsi qu’aux héros homériques45, et caractérise la seconde meilleure
+   forme de gouvernement après celui de la raison46. Elle reste toutefois
+   une passion (πάθος) laide47, qui soumet l’âme à l’opinion de la
+   multitude48. Elle est d’ailleurs ce que rejette finalement Ulysse, par
+   son choix d’une vie simple dans le mythe d’Er49. À condition de garder
+   à l’esprit que le terme implique une soif de gloire, la traduction par
+   « ambition » s’impose50.
+
+1.5. Ὕβρις et τῦφος
+
+     * 51  In R. I, 101, 27 (cf. Lois, 716a7) ; In Ti. I, 175, 7 (cf.
+       Timée 24e2) ; Theol. Plat. V, 77, 1-4 ((...)
+     * 52  In Alc. 293, 26 ; il s’agit en fait d’une citation des Lois,
+       716a7.
+     * 53  In Alc. 313, 1-5, commentant l’Alcibiade, 114d7.
+     * 54  In Alc. 108, 11-14.
+     * 55  In Alc. 312, 10-12.
+     * 56  In Parm. 686, 19-21.
+
+   9Qu’en est-il du terme grec traditionnel pour désigner l’orgueil, celui
+   d’ὕβρις ? Proclus l’utilise peu, et seulement lorsqu’il commente un
+   emploi de ce mot par Platon lui-même51. Il peut s’agir d’une façon de
+   désigner la double ignorance52, mais c’est aussi une description
+   revendiquée par Socrate pour lui-même en tant qu’il fait preuve de
+   franchise (παρρησία)53 ; Proclus comprend ainsi le terme comme ce qu’en
+   français nous appellerions « insolence ». Plus proche du sens classique
+   de « démesure » (mais guère plus usité par Proclus) est le τῦφος, qui
+   désigne le φρόνημα mal dirigé (c’est-à-dire celui qui se fonde sur le
+   corps)54, et dont le contraire (l’ἀτυφία) est rapproché de la
+   μεγαλοφροσύνη55 : le τῦφος est l’état d’ignorance (double) qu’il s’agit
+   de réfuter56.
+
+2. L’élève potentiel du philosophe est l’orgueilleux
+
+2.1. Nécessité d’un critère
+
+   10Lorsque Socrate justifie son intérêt pour Alcibiade, il apporte la
+   précision suivante :
+
+     * 57  Premier Alcibiade, 103b2-5 : σχεδὸν οὖν κατανενόηκα ἐν τούτῳ τῷ
+       χρόνῳ σκοπούμενος ὡς πρὸς τοὺς ἐρα (...)
+
+   j’ai donc été plutôt attentif, pendant le temps où je t’observais, à
+   comment tu traites tes amants : parmi eux, alors qu’ils sont magnanimes
+   et de bonne naissance, il n’en est pas un qui n’ait pris la fuite parce
+   qu’il était méprisé par ta fierté57.
+
+   Selon Proclus, cette observation préliminaire est indispensable à
+   l’amant socratique pour pouvoir reconnaître l’objet potentiel de son
+   amour :
+
+     * 58  In Alc. 95, 17-19 et 23-25 : δεῖ γὰρ τὸν ἐρωτικὸν ἀπὸ τῆς
+       γνώσεως ἀρχόμενον οὕτω τελευτᾶν εἰς τὴν (...)
+
+   il faut en effet que l’amoureux, ayant commencé par la connaissance,
+   achève par la providence envers son aimé ; […] l’amoureux connaît
+   d’abord celui qu’il aime, il sait quelles sont ses qualités, et ce
+   n’est qu’ensuite qu’il lui fait partager sa providence58.
+
+     * 59  In Alc. 95, 25-96, 22.
+     * 60  In Alc. 162, 18-163, 13 : le démon n’autorise Socrate à agir
+       que si l’action entreprise doit être (...)
+     * 61  In Alc. 163, 13-15.
+
+   11On ne peut enseigner à celui que l’on ne connaît pas. Puisque l’aimé
+   en question est un être en devenir dont on examine les vertus
+   naturelles, il s’agit certes d’une connaissance probable, ce qui
+   expliquerait pour Proclus le « plutôt » (σχεδὸν) platonicien59 : on ne
+   peut espérer que des indices et non des signes certains du potentiel de
+   chacun. Reste que Socrate n’aurait pas approché Alcibiade s’il ne les
+   avait trouvés en nombre suffisant : le Socrate de Proclus est l’agent
+   d’une providence divine qui ne fait jamais rien en vain, en
+   l’occurrence n’enseigne pas à qui est incapable de recevoir, et
+   interdit donc toute action prématurée60, « et nous aussi, il faut que
+   nous observions dans nos actes ces règles de piété »61. En quoi
+   consiste cet indice ? Il est ramassé en quelques lignes :
+
+     * 62  In Alc. 99, 9-100, 1 : τὸ γὰρ τῶν παρόντων μὲν ὑπερφρονεῖν ὡς
+       ἐσκιαγραφημένων καὶ οὐδενὸς ἀξίων, ἄ (...)
+
+   Mépriser les choses qui nous entourent comme des illusions qui ne
+   valent rien, et leur préférer quelque chose d’autre de grand,
+   d’admirable et de supérieur à la multiplicité, c’est un signe clair de
+   la gestation du beau en soi dans les âmes. C’est ce que montre Socrate
+   dans la République, quand il dit que le propre des âmes qui descendent
+   du ciel est l’autorité, la grandeur et la magnanimité dans le choix des
+   vies : elles portent en effet encore un écho de la vie de là-bas, et
+   pour cela s’élancent vers les rôles de pouvoir et méprisent toutes les
+   autres choses comme petites et ne valant rien. Mais cette affection,
+   bien éduquée, est le principe du salut des âmes62.
+
+   Tâchons maintenant, dans le reste de cette section, d’expliciter ce
+   texte très dense.
+
+2.2. Familiarité avec l’intelligible
+
+     * 63  Le terme est employé, avec le même sens (écho des réalités
+       intelligibles et/ou divines) ailleurs d (...)
+     * 64  République, X, 619a-d.
+     * 65  In Alc. 137, 5-138, 9 ; argument déjà annoncé en 133, 19-21. Ce
+       passage est à juste titre souligné (...)
+     * 66  Phèdre, 248a-253c.
+     * 67  In Alc. 136, 13-137, 4 ; argument déjà annoncé par le choix de
+       vocabulaire en 133, 22-134, 7.
+     * 68  In Parm. 693, 3-20 (cas d’Aristote le Tyran) ; In Ti. I, 70,
+       25-71, 12 (cas de Critias).
+     * 69  In R. II, 301, 9-302, 8.
+
+   12En quoi consiste cet « écho (ἀπήχημα)63 de la vie de là-bas » que
+   portent les âmes qui « descendent de là-haut » ? L’allusion à la
+   République peut nous l’indiquer. Il s’agit d’un moment précis du mythe
+   d’Er, celui où les âmes choisissent tour à tour leur prochaine vie :
+   les âmes qui, sans être philosophes, ont eu une vie bien ordonnée grâce
+   aux bonnes lois de leur cité, et reçu la récompense céleste qui en
+   découle, sont les premières à se jeter sur les vies de tyrans, car
+   elles sont oublieuses des souffrances qui s’ensuivront pour elles64.
+   Pour Proclus, cela s’explique par la familiarité que ces âmes ont
+   acquise avec les dieux lors de leur séjour auprès d’eux : habituées à
+   gouverner avec eux l’univers entier, elles se sentent d’autant plus à
+   l’aise avec une vie qui implique un pouvoir absolu sur les choses
+   humaines ; les unes choisiront une vie d’ambition, les autres de
+   tyrannie65. Ces âmes sont pour Proclus les mêmes que celles qui ont eu
+   la meilleure part à la procession des dieux décrite dans le Phèdre66 :
+   étant les suivantes de l’hégémonique Zeus, elles ne peuvent que
+   rechercher l’hégémonie d’ici-bas une fois réincarnées67. D’où vient,
+   alors, le fait qu’au contraire de Zeus (tel que Proclus le considère),
+   elles sèment plus souvent le chaos que le bien ici bas ? Le goût pour
+   le pouvoir – et la conviction d’en être digne – sont bien le signe
+   d’une nature noble et philosophique68, mais ils peuvent cependant faire
+   des dégâts si cette nature ne se rend pas compte que le pouvoir chez
+   les hommes n’est pas toujours corrélé à la sagesse, comme c’est le cas
+   chez les dieux69. Hériter des dieux et être conscient de cet héritage
+   ne signifie pas nécessairement être capable d’en faire bon usage.
+     * 70  In Alc. 111, 7-112, 5.
+
+   13De façon plus générale, la grandeur, la beauté, la noblesse, l’amitié
+   et la puissance sont source de fierté en tant qu’elles dérivent à titre
+   premier des dieux70 :
+
+     * 71  In Alc. 112, 5-10 : ταῦτα δὴ οὖν αἱ ψυχαὶ κατὰ τὰς αὐτοφυεῖς
+       ἐννοίας ἐν τοῖς θείοις διαλάμπειν προ (...)
+
+   Les âmes, ayant d’avance saisi grâce à leurs notions innées que ces
+   choses brillent chez les dieux, s’émerveillent de la beauté et de la
+   grandeur dans les corps mortels, en tant qu’elles transportent une
+   image de celles des dieux ; mais par leur ignorance de la beauté et de
+   la grandeur véritables, elles en restent à celles d’ici et n’admirent
+   que celles-ci71.
+
+     * 72  In Alc. 112, 10-26.
+
+   14Le même raisonnement s’applique à l’amitié ainsi qu’à la noblesse,
+   qui est une qualité divine dont l’équivalent humain n’est qu’un
+   reflet ; c’est par ce reflet qu’elle est suggérée à notre esprit, et il
+   n’est digne de fierté qu’à cet égard : on ne peut être fier que de la
+   noblesse du rang de son âme72. La plupart des âmes se contentent des
+   versions inférieures et dérivées de tous ces biens ; il n’en reste pas
+   moins que leur admiration et leur désir de ces fortunes terrestres
+   trouvent leur fondement tant objectif que subjectif dans l’origine
+   divine de celles-ci. On n’aime et ne tire fierté de l’honneur, du
+   pouvoir et de la grandeur terrestres qu’en tant qu’ils suggèrent leurs
+   modèles divins. Proclus l’explique d’ailleurs plus loin dans son
+   Commentaire :
+
+     * 73  In Alc. 135, 9-17 : πᾶσα γὰρ ψυχή, φησὶν ὁ Πλάτων, φύσει
+       τεθέαται τὰ ὄντα. εἶδεν οὖν ἐκεῖ τὸ ἀληθῶ (...)
+
+   Car toute âme, comme le dit Platon, a par nature contemplé les êtres.
+   Elle a donc vu, là-bas, le véritable objet d’honneur, les objets
+   d’autorité et de pouvoir établis chez les dieux eux-mêmes, et les ayant
+   vus, elle s’en est émerveillée, et en a gardé en elle des échos ; mais
+   à cause de l’oubli et de l’ignorance, elle ne sait plus ce qu’elle
+   admire, ni en vertu de quelles notions elle aspire à la puissance, à la
+   grandeur et au pouvoir, ou au plaisir, ou aux richesses73.
+
+   15C’est bien toute âme qui a cet écho de l’intelligible, par lequel
+   elle peut être ramenée vers lui, et qui lui en fait déjà désirer les
+   reflets que sont la grandeur, l’honneur (etc.) terrestres. Ce désir
+   n’est pas une entrave, mais une condition de possibilité de
+   l’apprentissage. Mais s’il est universel (ou même seulement partagé par
+   toutes les âmes humaines), il ne peut pas servir de critère de
+   sélection d’un élève ; il suggère au contraire que chacun a en droit la
+   possibilité d’accéder à la connaissance, et peut donc recevoir un
+   enseignement. Toutefois, la mobilisation par Proclus des passages de la
+   République et du Phèdre suggère qu’il est présent davantage dans
+   certaines que dans d’autres. En conséquence, même si toutes les âmes
+   sont en droit capables de connaître, certaines sont en fait pourvues
+   d’un plus haut potentiel que les autres. On aurait donc là non un
+   critère définitif mais seulement un premier indice : on a d’autant plus
+   de raisons de considérer une âme comme disposée à saisir l’intelligible
+   – c’est-à-dire à apprendre au sens (néo)platonicien du terme – que son
+   désir pour les reflets de celui-ci (honneur, pouvoir, etc.) est
+   intense. Une telle intensité peut en outre être difficile à percevoir,
+   notamment si l’âme en question la (dis)simule habilement, et ce premier
+   indice est dès lors, à lui seul, insuffisant pour sélectionner son
+   élève. Il faut donc le confirmer par d’autres signes.
+
+2.3. Mépris des choses basses
+
+   16Le désir des belles et grandes choses ne suffit pas ; il faut encore
+   qu’il motive et provoque le mépris de tout le reste, et c’est cela qui
+   incite vraiment Socrate à aller vers Alcibiade :
+
+     * 74  In Alc. 95, 8-13 : ταῦτα δὴ οὖν πάντα κατανοῶν καὶ
+       ἀνασκοπούμενος εὗρεν αὐτὸν ἀδούλωτον ὑπὸ τῶν ὅλ (...)
+
+   ayant réfléchi et observé tout cela, Socrate a compris qu’Alcibiade
+   n’était pas soumis à ses autres amants, ni vaincu par la vie d’amour
+   des richesses, mais maintenait une vigoureuse fierté et jugeait petites
+   toutes les choses humaines ; voyant qu’il en était ainsi, il lui fait
+   partager ses propres conseils74.
+
+     * 75  In Alc. 98, 3-7 : πάντας δὴ οὖν εἰκότως τοὺς τοιούτους ὁ
+       Ἀλκιβιάδης ὑπερεβάλετο τῷ φρονήματι φύσιν (...)
+     * 76  In Alc. 99, 3-5 : τὸ γὰρ τῶν μὲν ἀναξίων τοῦ ἔρωτος ὑπεριδεῖν,
+       τὸν δὲ ἄξιον θαυμάσαι, πολλὴν αὐτῷ (...)
+     * 77  Ce lien est aussi fait en In Alc. 100, 1-5.
+     * 78  In Alc. 58, 11-59, 22.
+     * 79  In Alc. 196, 22-198, 13. Notons toutefois que l’explication de
+       Proclus est ici un peu confuse : il (...)
+     * 80  In Alc. 100, 8-19.
+
+   17L’initiative de Socrate n’est pas simple opportunisme qui profiterait
+   de l’éviction de ses concurrents pour tenter sa chance : c’est parce
+   qu’ il observe Alcibiade rejeter ses prétendants en raison de leur
+   bassesse qu’il le juge digne d’amour. En effet, qu’est-ce qui explique
+   ce rejet par Alcibiade ? Socrate l’explique : « il convient donc
+   qu’Alcibiade ait méprisé par fierté tous ces prétendants, ayant obtenu
+   une nature plus superbe et plus vigoureuse, et qu’il les ait mis en
+   fuite, puisqu’ils ne supportaient pas le poids de sa fierté75. » Or,
+   poursuit Proclus, « mépriser ceux qui sont indignes d’aimer – et
+   admirer qui en est digne – témoigne de sa grande familiarité avec le
+   beau et de sa préparation à la vertu »76. Quelle différence avec la
+   capacité cognitive naturelle de chacun, qui se fondait sur le désir
+   pour les reflets de l’intelligible ? Le fier est un cran plus loin que
+   le reste des âmes, en ce qu’il n’est pas dupe des grandes choses d’ici,
+   et sait les mépriser comme les simples reflets qu’elles sont, ainsi que
+   ceux qui ne jurent que par elles. Ce mépris est corrélatif d’un certain
+   respect pour ce qui ne serait pas aussi bas et dispersé77, c’est-à-dire
+   ne serait pas humain, bien que cet objet d’estime puisse être encore
+   indéterminé : Alcibiade n’a à ce stade pas encore été approché par
+   Socrate. Mépriser les gens de moindre valeur n’empêche pas d’entretenir
+   avec eux des rapports, par exemple utilitaires ; de telles
+   fréquentations peuvent d’ailleurs se révéler un excellent exercice pour
+   entraîner son âme et sa fierté à dominer les mauvaises influences de la
+   masse78. Cela implique cependant de savoir quand cesser de s’y mêler et
+   adapter : ainsi Alcibiade refuse-t-il d’apprendre, comme le font les
+   autres enfants, à jouer de la flûte79. Certes, rien n’empêche que le
+   mépris dont on a parlé soit lié à une certaine vanité, mais dans la
+   mesure où celle-ci est au service d’une fierté qui élève au-dessus des
+   passions vulgaires, au nom de l’écho en l’âme des intelligibles, ce
+   mépris est conforme à la raison (κατὰ λόγον)80. Au désir de
+   l’intelligible contenu en chaque âme, dont l’intensité peut être plus
+   grande chez certaines, s’adjoint chez celles-ci un mépris pour tout ce
+   qui ne le satisfait pas, en une sorte de radicalisation de ce désir,
+   dont les symptômes extérieurs sont d’autant plus visibles, et qui aide
+   donc à la distinguer des autres.
+
+2.4. L’ambition comme étape de l’ascension
+
+   18Nous avons vu jusqu’ici que chaque âme aimait l’intelligible à
+   travers ses reflets, que cet élan était plus intense chez certaines
+   (les fières), au point parfois de mépriser les plus bas reflets pour ce
+   qu’ils sont. Mais la liste de ces reflets était longue, puisqu’elle
+   comprenait tous les habituels objets de désir, semblait-il à égalité :
+   l’amour du plaisir peut en principe mener à la connaissance, et on
+   pourrait imaginer le cas d’un hédoniste qui mépriserait certaines
+   formes de plaisirs plus bas au profit de plus raffinés ou plus stables.
+   Reste donc à savoir si l’on peut vraiment accepter qu’un tel hédoniste
+   présente les mêmes dispositions qu’un Alcibiade à recevoir
+   l’enseignement socratique.
+     * 81  In Alc. 159, 26-160, 12.
+     * 82  In Alc. 218, 1-219, 13 ; à nouveau, l’ambition d’Alcibiade
+       comme correspondant à la partie irascib (...)
+     * 83  In Alc. 138, 10-139.3.
+
+   19Or, que désire Alcibiade ? Il est ambitieux (φιλότιμος) et aime donc
+   l’honneur et le pouvoir (δυναστεία). Il correspond ainsi à l’âme
+   irascible, intermédiaire entre les désirs de la foule et la raison de
+   Socrate, qui correspondent quant à eux aux deux autres parties de
+   l’âme81. Cette ambition comprise comme intermédiaire entre le vice et
+   la vertu se manifeste dans ses réponses aux premières questions de
+   Socrate : bien qu’il soit encore incapable de comprendre qu’il ne faut
+   jamais faire la guerre aux justes, il se refuse déjà à envisager
+   ouvertement, comme le fait le Thrasymaque de la République, de mener
+   une telle guerre82. De même que le gouvernement timocratique est le
+   meilleur après celui conforme à la raison, la vie d’ambition ne le cède
+   qu’à celle du philosophe ; elle est la première « tunique » revêtue par
+   l’âme lors de sa descente, et la dernière dont elle se débarrasse lors
+   de sa remontée83.
+
+     * 84  In Alc. 139, 3-18 : εἰ τοίνυν ἡ πρώτη τῶν ψυχῶν κάθοδος ἡ
+       φιλότιμός ἐστι ζωή, δῆλον ὡς οὐκ ἔστιν ἡ (...)
+
+   Si donc la première descente des âmes est la vie d’ambition, il est
+   évident qu’un tel désir ne relève pas de celles qui sont tombées
+   profondément, mais de celles qui s’en sont retournées dans
+   l’antichambre de la raison. C’est pourquoi Socrate a considéré qu’une
+   telle disposition était digne d’amour, en tant qu’elle élève au-dessus
+   du devenir et qu’elle est très apparentée à la raison : notre cœur
+   (θυμός) y est plus apparenté que notre appétit (ἐπιθυμία). Pour ces
+   raisons, Socrate a considéré que la vie d’ambition et de quête de
+   pouvoir était digne de la sollicitude amoureuse. Il ressort clairement
+   de tout cela que pour être un digne amant de quelqu’un, il faut
+   connaître la nature de son âme, avoir passé en revue ses différents
+   choix de vies, être un juge crédible de ses apparences, et capable de
+   voir de quoi chaque chose contient des reflets, et par quelles voies il
+   est naturel pour chaque âme de parvenir à son but propre. En effet,
+   celui qui ne saisit pas tout cela avec précision manque les biens qui
+   sont issus de l’inspiration amoureuse84.
+
+     * 85  In Ti. III, 286, 3-288, 3.
+     * 86  In Ti. III, 288, 20 : τελεώτερα
+     * 87  In Ti. III, 288, 3-6.
+     * 88  In Ti. III, 297, 21-298, 1.
+     * 89  In Ti. III, 344,15-19. Ce passage a ceci de curieux que Proclus
+       donne pour exemples de cette forme (...)
+     * 90  In Ti. III, 340, 30-343, 8. Pour une analyse de ces trois modes
+       de passion ou d’erreur, voir Baltz (...)
+     * 91  Cette accessibilité à la raison n’exclut pas l’utilisation du
+       discours exhortatif et édifiant, et (...)
+
+   20Au cours de sa génération temporelle, l’âme particulière acquiert
+   successivement trois puissances : la sensation (αἴσθησις) à la
+   naissance, le désir (ἐπιθυμία) durant l’enfance, qui fait rechercher le
+   plaisant et éviter le douloureux, et enfin le cœur (θυμός), qui pousse
+   à éliminer le nuisible, et survient à l’âge adulte85. Ce dernier est la
+   marque de créatures plus abouties86 (en vertu du principe qui veut que
+   le premier en dignité soit le dernier dans le temps), mais il peut être
+   source de vice par défaut (la lâcheté) ou par excès (la témérité, qui à
+   son tour rend ambitieux et querelleur)87. L’ambition n’est pas à
+   proprement parler une passion, puisqu’elle est au nombre des tuniques
+   de l’âme et que celles-ci sont les accrétions élémentaires et
+   irrationnelles dont l’âme se charge avant même d’être descendue dans le
+   corps et d’en subir les passions88. Elle en est même la première : la
+   vie de querelle qu’elle provoque souvent va de pair avec la lutte
+   intérieure à l’âme entre les opinions vraies et fausses89. Or, celle-ci
+   est la seule passion cognitive et morale à pouvoir faire l’objet d’une
+   réfutation philosophique, par opposition à l’oblicité (erreur pourvue
+   d’une cohérence interne) ou au renversement (où la raison se fait
+   l’esclave de l’arbitraire des passions), qui exigent une correction
+   infra-rationnelle90. Sans pour autant renoncer à l’ambivalence
+   classique de la φιλοτιμία et à la nécessité de l’approcher avec
+   prudence et rhétorique (voir section 3 infra), Proclus en fait donc une
+   quasi-passion qui est – elle seule, peut-être – directement accessible
+   à la raison et à l’intervention socratique91.
+     * 92  Cet impératif d’adaptation et de différenciation est aussi
+       mobilisé en In Alc. 3, 11-13 ; 28.12-29 (...)
+     * 93  In Alc. 162, 5-18.
+
+   21Par ailleurs, ce que Proclus déploie ici est aussi un argument
+   général : pour être un bon amant – c’est-à-dire un bon enseignant,
+   puisque tel est ici le rôle de Socrate –, il faut connaître son aimé,
+   son potentiel, ses choix, ses buts, et fonder ses soins sur cette
+   connaissance préalable afin de s’adapter à son aimé, c’est-à-dire à son
+   élève92. Alcibiade, par son choix d’une vie d’ambition, son mépris des
+   biens inférieurs et son invincible fierté, montre un potentiel
+   particulièrement élevé, puisque ces caractéristiques l’ont déjà
+   détourné en bonne partie du devenir et rapproché de la raison, sans
+   encore l’y avoir fait prendre part : il ne lui manque pour poursuivre
+   cette ascension que l’impulsion socratique, dont l’apport peut dès lors
+   être considéré comme opportun. Il ne l’est que depuis qu’Alcibiade a
+   atteint l’âge adulte : les enfants, en effet, sont incapables de la vie
+   d’ambition, qui ne s’actualise et ne se manifeste qu’une fois arrivé à
+   un âge suffisant93, preuve supplémentaire de l’importance de cette
+   ambition comme condition préalable, au moins dans le cas du prodige
+   qu’est Alcibiade, de son éducation philosophique.
+
+2.5. Orgueil et naturel philosophe
+
+   22Proclus a cherché à expliquer ce qui, dans l’attitude d’Alcibiade, a
+   motivé Socrate à l’approcher après une longue période d’observation,
+   afin de lui dispenser un enseignement philosophique. Cette décision
+   étant par ailleurs soumise à l’approbation du démon, qui refuse que
+   Socrate fasse quoi que ce soit de vain, elle doit se fonder sur un
+   signe, sinon certain, au moins suffisant, du potentiel d’Alcibiade et
+   de sa capacité de tirer bénéfice de cet enseignement philosophique pour
+   se rapprocher de l’intelligible. En d’autres termes, il faut déterminer
+   si Alcibiade a le profil d’un naturel philosophe, et c’est cette notion
+   que Proclus tente de caractériser avec les arguments que l’on a
+   examinés. Quels en sont les traits saillants ? Alcibiade est, plus
+   encore que les autres âmes, fier des qualités qui, en lui, suggèrent
+   l’intelligible, et il les cultive d’autant plus qu’il éprouve pour
+   l’intelligible (par l’intermédiaire de ces qualités) un puissant désir.
+   Celui-ci est si puissant qu’il éclipse celui de toutes les autres
+   choses, qu’il ne lui reste plus qu’à mépriser. Cette fierté et ce
+   mépris s’expriment au plus haut point dans son ambition, c’est-à-dire
+   dans son amour des honneurs et du pouvoir, reflets par excellence de la
+   condition divine, et surtout palier intermédiaire entre les passions et
+   la connaissance philosophique. Tout ceci témoigne de la familiarité
+   d’Alcibiade avec les dieux, et de la conscience plus ou moins obscurcie
+   de cette familiarité. Ce témoignage est celui qu’attendaient Socrate et
+   son démon pour juger Alcibiade digne d’être aimé, c’est-à-dire
+   enseigné. Or, quel terme peut désigner ce mélange de fierté, de mépris
+   et d’ambition mieux que celui d’orgueil ? Si l’on comprend ce terme à
+   la lumière des passages cités, il est permis de dire que pour Proclus,
+   le naturel philosophe – c’est-à-dire l’élève capable de recevoir un
+   enseignement philosophique et qui mérite donc d’être pris en charge –
+   n’est autre que l’orgueilleux, celui qui est à la fois fier, méprisant
+   et ambitieux.
+
+3. Comment éduquer l’orgueilleux ?
+
+     * 94  Layne 2014 .
+     * 95  Sa position est certes unique, mais nuance celles de ses
+       prédécesseurs plus qu’elle n’innove radic (...)
+     * 96  Dillon 1994 montre que l’In Alc. de Proclus hérite au moins en
+       partie de cette structure typique.
+
+   23Le Premier Alcibiade n’est pas seulement le récit du choix d’un élève
+   prometteur par Socrate, il est aussi celui de sa conversion à la
+   philosophie. En l’occurrence, pour Proclus, il montre comment Socrate
+   aide une âme, d’autant plus dangereuse et corruptible qu’elle est
+   brillante, à travailler assez sur elle-même pour que la suite de sa vie
+   et surtout des prochaines soit plus vertueuse94 ; le Diadoque est à ce
+   titre moins original que sur le point précédent et s’inscrit dans une
+   tradition exégétique95. Sa lecture de la relation de Socrate et
+   Alcibiade reprend d’ailleurs la structure classique de l’art d’aimer,
+   qui consiste à reconnaître l’aimé potentiel (comme nous l’avons vu dans
+   la section 2), à en gagner les faveurs, et enfin à en faire bon
+   usage96 ; voyons brièvement comment cette structure s’applique à un
+   aimé-élève orgueilleux.
+
+3.1. L’orgueil comme obstacle et tremplin
+
+     * 97  In Alc. 23, 16-25 ; 133, 1-7.
+     * 98  In Alc. 24, 2-20 ; 98, 7-16 ; 100, 19-23 ; voir aussi In Parm.
+       782, 23-25.
+     * 99  In Alc. 24, 20-25, 3 ; 101, 23-103, 28 ; 105, 5-7 ; 209, 2-8.
+     * 100  In Alc. 209, 8-13 ; le danger de l’éristique est dénoncé en In
+       Parm. 779-881 ; 977, 17-978, 10 ; 1 (...)
+     * 101  In Alc. 210, 4-211, 5.
+
+   24En tant qu’ambitieux, Alcibiade est forcément querelleur, et risque
+   donc de mépriser les paroles de Socrate avant même de les avoir
+   entendues97. Il faut donc le ménager, l’approcher par des éloges qui
+   remplissent la double fonction d’apaiser son esprit de rivalité envers
+   Socrate, et de stimuler d’autant plus sa volonté de briller par son
+   mépris des amants et des biens indignes de lui98. Elle est même triple,
+   car Socrate glisse dans ses compliments de subtils blâmes, qui
+   dénoncent l’ignorance (double) d’Alcibiade, et le blâme est d’autant
+   plus cinglant qu’il est délicat99. Dans sa forme la plus pure, il
+   consiste à montrer à Alcibiade qu’il s’autoréfute, prévenant ainsi
+   toute résistance éristique100. Mais, pourrait-on objecter, quel rapport
+   entre le fait de contredire (ou même d’être ignorant) et la fierté, le
+   mépris ou l’ambition ? L’ignorance est laide, elle est donc honteuse,
+   et il est encore plus honteux de se contredire soi-même, or la honte
+   est ce que craint au plus haut point l’ambitieux et donc
+   l’orgueilleux101. Alcibiade est acculé dans une impasse, car il est la
+   source de sa propre honte, par son souhait d’une grandeur qui se
+   détruit elle-même faute de se connaître assez.
+     * 102  In Alc. 151, 12-154, 16
+     * 103  In Alc. 113, 26-114, 16 ; 154, 17-156, 18.
+
+   25Socrate, qui sait offrir à chaque type d’âme ce qu’elle cherche au
+   plus haut point, en une version beaucoup plus stable que ce qu’elle
+   pourrait trouver en dehors de la philosophie, promet à Alcibiade une
+   grandeur et une puissance telles qu’elles ne se retournent pas contre
+   leur possesseur, ne le diminuent pas et ne le forcent pas à se nier
+   comme ambitieux en se couvrant de honte à cause d’elles102. Il présente
+   ainsi sa philosophie comme une providence démonique capable de donner
+   accès au plus grand pouvoir, rentrant par là dans le jeu des grands
+   desseins de l’orgueil d’Alcibiade tout en montrant bien combien ils
+   sont impossibles sans la philosophie103.
+     * 104  In Alc. 42, 5-43, 5.
+     * 105  In Alc. 164, 1-22.
+     * 106  In Alc. 20, 1-21, 7 ; 46, 14-47, 15 ; 165, 14-166, 17.
+     * 107  In Alc. 21, 7-9 : τὸ γὰρ τὴν αἰτίαν ποθῆσαι μαθεῖν ὧν πράττει
+       Σωκράτης, ἐραστήν ἐστι γενέσθαι τῆς (...)
+
+   26Ce moment de basculement, où les rêves de l’orgueilleux radicalisent
+   leur mépris des attachements indignes de lui au point d’avoir un besoin
+   incontournable de l’enseignement du philosophe, est celui du θαυμάζειν,
+   étonnement admiratif qui est le principe de la philosophie104. Il est
+   provoqué par la μεγαληγορία de Socrate, sa grandiloquence qui déplace
+   la portée de la discussion et de la quête de pouvoir et d’honneur
+   d’Alcibiade à des échelles grandioses qu’il n’aurait pas osé
+   envisager105. Si la grandiloquence étonne (au sens commun et au sens
+   philosophique), c’est parce qu’elle fait entrevoir à Alcibiade des
+   formes de pouvoir encore plus hautes. Parmi elles, on peut aussi
+   compter la surhumaine patience de Socrate à le suivre et poursuivre
+   avant et après les autres amants, en une longanimité qui intrigue
+   Alcibiade et le pousse à chercher à en connaître les raisons106. Or
+   « être pris du besoin d’apprendre la cause de ce que fait Socrate,
+   c’est devenir l’amant de la connaissance qui préexiste en lui »107.
+   Voilà Alcibiade intrigué, et surtout mené par cette curiosité à ne plus
+   pouvoir mépriser, mais plutôt désirer, par ambition, ce pouvoir inconnu
+   et sa source.
+     * 108  Proclus distingue en fait trois vertus du bon élève :
+       l’εὐφυία, la προθυμία et l’ἐμπειρία, ou expé (...)
+
+   27L’orgueilleux n’écoute que lui-même et ceux qui parlent son langage,
+   pour le flatter ou l’assister dans ses buts, mais il est d’autant plus
+   vulnérable à la honte (ou à son risque) et à la curiosité qu’il est
+   orgueilleux, et telle est la voie par laquelle Socrate peut se faire
+   entendre de lui, le gagner comme interlocuteur, aimé et élève, et ainsi
+   préparer sa conversion. Alcibiade a une naturelle tendance à toujours
+   rechercher mieux que ce qu’il a, or c’est comme cela que Proclus
+   caractérise la « bonne nature » (εὐφυία) de l’élève ; grâce à
+   l’étonnement, le voici maintenant équipé de motivation ou ardeur
+   (προθυμία)108.
+
+3.2. Purification de l’orgueil et réminiscence
+
+     * 109  In Alc. 37, 19-42, 7 ; 45, 7-46, 1 ; 60, 1-64, 6 ; 84, 26-85,
+       7 ; 153, 6-154, 16.
+     * 110  Voir à ce sujet Trouillard 1957a (en 335-338).
+     * 111  In Alc. 14, 9-19 ; 225, 4-11 ; ce plan tripartite est
+       simplifié en 212, 1-16 où la seconde étape e (...)
+
+   28La motivation ainsi trouvée par Alcibiade dans
+   l’enseignement-providence de Socrate est intrinsèque : l’obtention
+   d’une puissance stable, à travers les hautes promesses et l’étonnante
+   patience du patronage démonique de Socrate, se confond avec l’action de
+   ce dernier en tant précisément qu’il joue pour son élève le rôle de
+   démon, et que toute puissance réelle vient d’une providence
+   démonique109. En effet, l’automotricité de l’âme d’Alcibiade, même
+   prometteuse, intriguée et motivée, ne suffit pas à en mener à bien la
+   conversion. Ce n’est que par la médiation et le contact avec ce qui est
+   cause pour l’âme de sa propre liberté que celle-ci pourra, à la fois de
+   son propre chef et sous l’impulsion de cette cause démonique, se
+   tourner vers cette dernière110. L’exercice par Socrate d’une telle
+   providence, c’est-à-dire l’obtention par Alcibiade de la puissance
+   qu’il cherche, se fait en trois étapes : purification de l’erreur,
+   exhortation à la vertu, réminiscence de son être véritable111.
+     * 112  In Alc. 174, 1-181, 3. On comprend mieux pourquoi seule une
+       âme dans laquelle luttent des opinions (...)
+     * 113  In Alc. 119, 8-16 ; les références à la dimension purgative et
+       médicale de cet acte psychique sont (...)
+     * 114  In Alc. 280, 24-281, 16.
+     * 115  In Eucl. 15, 26-16, 16.
+
+   29La première étape est principalement purification de la double
+   ignorance, elle a déjà commencé avec les (auto)réfutations d’Alcibiade,
+   et par là mené à un tri entre ses opinions et attachements visant à en
+   exclure les objets inférieurs pour en assurer la cohérence112. Il
+   importe que ce tri et cette purification soient opérés activement par
+   l’orgueilleux Alcibiade lui-même : c’est seulement ainsi qu’il en
+   comprendra et acceptera les enjeux et implications, à savoir la
+   nécessité de reconnaître son ignorance et de chercher à la combler pour
+   rendre possibles ses hautes aspirations113. Dès lors, l’action de
+   Socrate consiste moins à prodiguer un enseignement qu’à aider Alcibiade
+   à lever l’écran qui l’empêche d’y voir clair et de se souvenir de ce
+   qu’il sait déjà114 : c’est là la condition pour que l’âme soit
+   maintenue dans son automotricité115. C’est bien toujours au nom de
+   l’orgueil et de sa cohérence interne ainsi radicalisée que ce qu’on
+   pourrait décrire comme des vanités sont éliminées : il s’agit d’en
+   purifier l’orgueil, auquel elles sont extérieures.
+     * 116  In Alc. 145, 1-150, 27. Voir aussi la description plus sévère
+       qu’en donne Proclus en De Prov. 16-2 (...)
+     * 117  De Prov. 24, 1-11 et 25, 29-34.
+     * 118  In Alc. 218, 1-223, 19 ; 228, 10-14.
+
+   30Ce n’est qu’avec l’exhortation à la vertu que la purification se fait
+   interne à l’orgueil. L’ambition d’Alcibiade et les formes de mépris qui
+   y sont directement liées, bien qu’utiles à la prise en charge par
+   Socrate et à l’adoption de la philosophie contre les vanités, sont
+   ultimement déraisonnables et donc indésirables : les honneurs d’ici
+   sont aimés en vertu de leur grandeur qui rappelle aux âmes bien nées
+   l’intelligible, mais le but dernier est le modèle et non le reflet, qui
+   en lui-même n’apporte que ruine116. En effet, l’ambition vise les
+   honneurs et le pouvoir, mais, ce faisant, elle s’asservit tant
+   vis-à-vis de la foule que du destin, dont le caprice peut donner ou
+   soudain reprendre : radicalisée, l’ambition se sape elle-même117. Or,
+   en vertu de la cohérence exigée par la purification, l’ambition
+   d’Alcibiade ne doit pas souhaiter ce qui en détruirait les conditions
+   de possibilité. Au contraire, si l’honneur et le pouvoir sont
+   recherchés, c’est, consciemment ou non, dans l’optique d’une tension
+   vers la justice, dont Alcibiade a déjà l’intuition ; c’est cette
+   intuition qui fonde sa fierté et donne leur sens à son ambition (qui
+   est bien une tunique dont il faut à un moment se débarrasser) et à son
+   mépris, dont elle doit conditionner les applications118. Ces derniers
+   se voient donc, sinon exclus par la phase protreptique de
+   l’enseignement socratique, au moins profondément redéfinis, donnant
+   ainsi une coloration nouvelle à l’orgueil dont ils sont deux des trois
+   composantes.
+     * 119  In Alc. 187, 1-188, 20 ; 225, 11-14.
+     * 120  In Alc. 188, 20-189, 14 ; 293, 19-23.
+     * 121  Voir à ce sujet O’Meara 1989, p. 152-155.
+     * 122  In Alc. 225, 18-226, 8.
+     * 123  Voir section 2.2.
+     * 124  Voir note 112.
+
+   31Cette redéfinition se trouve affermie dans la troisième étape, celle
+   de la réminiscence, c’est-à-dire de la connaissance proprement dite.
+   Celle-ci n’est possible (du moins pour une âme) que par enseignement ou
+   par découverte, la seconde voie étant supérieure à la première si le
+   maître en est humain, inférieure s’il est divin119. Or, toutes deux
+   exigent comme condition préalable d’avoir surmonté la double
+   ignorance120, et donc d’avoir renoncé à ce que l’ambition peut avoir
+   d’esprit éristique, puisque ce dernier trait empêche d’avance l’une
+   comme l’autre. La découverte, chemin privilégié, est d’autant plus
+   praticable que l’âme est automotrice. Mais comme on l’a vu, cette
+   automotricité ne s’actualise vraiment qu’à deux conditions. L’une
+   d’elles est une médiation démonique comme celle de Socrate :
+   l’enseignement (ou plutôt : un certain type d’enseignement) est un
+   complément ou un point de départ de la découverte plus qu’une
+   alternative121. L’autre condition est la liberté vis-à-vis des attaches
+   inférieures, que le mépris avait justement permis à Alcibiade
+   d’éviter122. L’orgueilleux, en tant que méprisant, est meilleur
+   chercheur ; en tant que fier123 et qu’ambitieux124, il est plus digne
+   de recevoir un enseignement.
+     * 125  In Alc. 90, 12-22, voir le commentaire de Layne 2014 mais
+       aussi celui de la proposition 209 des Él (...)
+     * 126  In R. II, 320, 5-24. La vie d’ambition y est clairement
+       associée à la διανοία, ce qui est cohérent (...)
+
+   32L’affirmation que celui qui est déjà le plus capable de chercher seul
+   est seul digne de l’enseignement du philosophe n’est-elle pas cruelle,
+   voire inadmissible dans ses conséquences ? Bien qu’elle soit sans aucun
+   doute porteuse d’un élitisme marqué, il faut la replacer dans le cadre
+   plus large de l’économie de métempsychose admise par Proclus. Chaque
+   âme a encore bien des incarnations devant elle pour acquérir le
+   détachement et l’automotricité suffisants à la découverte, et
+   d’ailleurs celle d’Alcibiade ne parviendra pas à être philosophe dans
+   sa vie actuelle, mais au moins aura-t-elle progressé125. En revanche,
+   nous avons ailleurs un aperçu de l’état d’une âme ayant accompli la
+   réminiscence, du moins en ce qui concerne sa dimension discursive :
+   celle d’Ulysse, parvenue au terme de la recherche, qui accède à un
+   niveau supérieur de sagesse en même temps qu’elle abandonne pour de bon
+   toute ambition126 ; ce que l’orgueil a d’essentiel est la fierté, et la
+   redéfinition qu’elle exige de l’ambition mène ultimement à l’abandon de
+   celle-ci pour retrouver l’intelligible dont l’âme est fière d’avoir le
+   souvenir.
+
+Conclusion
+
+     * 127  Notons que dans les passages où il évoque cette possibilité
+       (voir note 92 supra), les autres profi (...)
+
+   33Le modèle que nous offre Proclus est-il satisfaisant ? Il se donne
+   ses propres bornes : bien que l’orgueilleux soit le profil le plus
+   prometteur, celui qui pourrait sans doute aller le plus loin dans la
+   réception de l’enseignement philosophique, Proclus semble laisser une
+   place à l’exploitation d’autres traits de caractère127 par l’enseignant
+   avisé : l’orgueil est une vertu épistémique, mais elle n’est pas
+   rigoureusement indispensable, et peut-être l’humble peut-il aussi
+   apprendre. Cette réserve admise, l’orgueil (si l’on accepte ce nom pour
+   le trait trouvé par Proclus chez l’Alcibiade du dialogue) se
+   révèle-t-il plus prometteur que l’humilité, et échappe-t-il aux failles
+   de celle-ci ?
+
+   34Soulignons d’abord que les deux traits ne sont ni symétriques ni
+   contradictoires (au sens où l’absence de l’un impliquerait la présence
+   de l’autre), mais seulement contraires car incompatibles. En effet,
+   l’humilité épistémique telle que définie par Robert et Wood refuse
+   l’ambition (comprise comme amour des honneurs et du pouvoir),
+   puisqu’elle exige l’absence de souci de son image auprès d’autrui et de
+   volonté de le dominer, mais pourrait tolérer une forme de fierté, dans
+   la mesure où celle-ci ne prétend pas dépasser autrui et, en
+   conséquence, se défend de le mépriser.
+     * 128  Le lien entre motivation et cognition a été bien documenté au
+       cours des dernières années, voir par (...)
+
+   35Chacune des deux vertus s’autorise de la libération de certaines
+   entraves épistémiques : l’humilité protégerait des interférences de ce
+   que Proclus appellerait l’ambition, l’orgueil des distractions causées
+   par tout ce qui ne mène pas à l’honneur ou à une connaissance
+   susceptible de le mériter. L’humilité se caractériserait précisément
+   par une ouverture indifférenciée à une diversité d’influences et de
+   sources de connaissance possibles, là où l’orgueil est d’emblée une
+   fermeture qui n’accorde d’exception que durement conquise sur un mépris
+   généralisé. Cette conquête est une étape décisive dans le parcours
+   épistémique de l’orgueilleux : une fois accomplie, l’orgueil passe du
+   statut d’obstacle à celui de tremplin et de source positive de
+   motivation active, ce qui permet des merveilles cognitives128. Au
+   contraire, l’humilité est une disponibilité qui offre peu de résistance
+   et peu d’impulsion : la sortie de l’ignorance double en sera d’autant
+   plus aisée, celle de l’ignorance simple d’autant plus laborieuse.
+     * 129  Comme on l’a vu (cf. note 119 supra), l’humilité pourrait être
+       réhabilitée dans le cas d’un enseig (...)
+
+   36L’orgueil de l’apprenant, tout comme son humilité dans une acception
+   stricte telle que celle qu’on a vue en introduction, est une
+   mésestimation de ses propres capacités : tant que la connaissance de
+   soi n’est pas acquise (et, si l’on veut suivre la tradition
+   platonicienne, il n’y a rien d’autre qui puisse être connu, puisque
+   tout connaissable est remémoré à partir du soi), toute estimation de
+   soi-même est inexacte et relève au mieux d’une vertu épistémique
+   imparfaite, au pire d’un vice épistémique. Mais l’humble se
+   sous-estime : à la limite, il n’a même pas besoin d’être réfuté pour
+   accepter l’enseignement, puisqu’il refuse tout privilège, réel ou non,
+   sur autrui ; mais pour la même raison, il n’a aucun motif de souhaiter
+   cesser un jour d’être élève. Au contraire, l’orgueilleux se surestime,
+   il prétend à des privilèges épistémiques dont certains au moins sont
+   indus. C’est justement pour cela qu’il est réfutable, et qu’il ne
+   supportera pas de rester réfuté : être élève n’est qu’un moyen afin
+   d’apprendre, de connaître assez pour n’être plus réfutable, même par
+   soi-même. Si l’on accepte avec Proclus que le savoir ne s’acquiert que
+   par enseignement ou par recherche, et que cette dernière est plus
+   propre au caractère automoteur de l’âme (ou à l’autonomie de la pensée
+   libre et critique), il faut bien convenir ici que l’humble, très
+   réceptif à recevoir un enseignement mais sans motif de chercher par
+   lui-même, se retrouvera ultimement dans une impasse d’hétéronomie129,
+   là où l’orgueilleux, qui ne consent qu’à contrecœur à jouer l’élève
+   (mais fera tous les efforts nécessaires pour ne plus en avoir besoin),
+   se prête bien mieux à la recherche autonome, pourvu que sa fierté n’ait
+   pas été étouffée. En conséquence, dans la mesure où l’on souhaite non
+   seulement enseigner, mais aussi enseigner à apprendre, c’est-à-dire à
+   poursuivre une recherche autonome, l’orgueil se révèle un trait (vice
+   ou vertu) épistémique plus fécond et prometteur.
+
+   37Une certaine conception de l’autorité tolère l’orgueilleux maître et
+   encourage l’élève humble : on peut s’accorder quelque morgue quand on
+   sait, mais le débutant doit faire profil bas pour mieux s’imprégner de
+   l’enseignement reçu, et rester vigilant dans sa quête de savoir. Si
+   l’on suit l’argument de Proclus tel qu’ici reconstitué, cette
+   conception mériterait d’être renversée : peut-être faudrait-il plutôt
+   encourager qui doit apprendre à être orgueilleux, et tolérer chez le
+   maître quelque humilité ?
+   Haut de page
+
+Bibliographie
+
+   Baltzly, D. 2006: « Pathways to Purification: The Cathartic Virtues in
+   the Neoplatonic Commentary Tradition », dans H. Tarrant et D. Baltzly
+   (éd.), Reading Plato in Antiquity, London, 2006, p. 169-184.
+
+   Dillon, J. 1994: « A Platonist Ars Amatoria », The Classical Quarterly,
+   44/2 (1994), p. 387-392.
+
+   Driver, J. 1989: « The Virtues of Ignorance », Journal of Philosophy,
+   86/7 (1989), p. 373-384.
+
+   Gauthier, R. A. 1951 : Magnanimité. L’idéal de la grandeur dans la
+   philosophie païenne et dans la théologie chrétienne, Paris, 1951
+   (Bibliothèque Thomiste, 28).
+
+   Hoffmann, P. 1994-1995 : « Théologies et mystiques de la Grèce
+   hellénistique et de la fin de l’Antiquité », Annuaire de l’EPHE,
+   Section des sciences religieuses, 103 (1994-1995), p. 259-271.
+
+   Hoffmann, P. 1998 : « La fonction des prologues exégétiques dans la
+   pensée pédagogique néoplatonicienne », dans J.-D. Dubois et B. Roussel
+   (éd.), Entrer en matière : les prologues, Paris, 1998 (Patrimoines.
+   Religions du livre), p. 209-245.
+
+   Lake, B. M. et al. 2017: « Building machines that learn and think like
+   people », Behavioral and Brain Sciences, 40 (2017), en ligne.
+
+   doi :10.1017/S0140525X16001837
+
+   Layne, D. A. 2014: « A Fatal or Providential Affair? Socrates and
+   Alcibiades in Proclus’ Commentary on the Alcibiades I », dans
+   P. d’Hoine & G. Van Riel (éd.), Fate, Providence and Moral
+   Responsibility in Ancient, Medieval and Early Modern Thought: Studies
+   in Honour of Carlos Steel, Leuven, 2014 (Ancient and Medieval
+   Philosophy, 1. 49), p. 267-290.
+
+   Moutsopoulos, E. 1985 : Les Structures de l’imaginaire de la
+   philosophie de Proclus, Paris, 1985 (Collection d’études anciennes).
+
+   O’Meara, D. J. 1989 : Pythagoras Revived: Mathematics and Philosophy in
+   Late Antiquity, Oxford, 1989.
+
+   O’Neill, W. 1971 (trad.) : Proclus, Alcibiades I: A translation and
+   commentary, La Haye, 1971 [1965].
+
+   Renaud, F. 2002 : « Humbling as Upbringing: The Ethical Dimension of
+   the Elenchus in the Lysis » dans G. A. Scott (éd.), Does Socrates Have
+   a Method? Rethinking the Elenchus in Plato’s Dialogues and Beyond,
+   University Park, 2002, p. 183-198.
+
+   Roberts, R. C. & W. J. Wood 2003 : « Humility and Epistemic Goods »
+   dans M. DePaul & L. Zagzebski (éd.), Intellectual Virtue: Perspectives
+   from Ethics and Epistemology, Oxford, 2003, p. 257-279.
+
+   Roskam, G. 2012: « Socrates and Alcibiades: A Notorious σκάνδαλον in
+   the Later Platonist Tradition », dans L. R. Lanzillotta & I. M.
+   Gallarte (éd.), Plutarch in the Religious and Philosophical Discourse
+   of Late Antiquity, Leyde-Boston, 2012 (Studies in Platonism,
+   Neoplatonism, and the Platonic tradition, 14), p. 85-100.
+
+   Segonds, A. Ph. 1985-1986 (éd.) : Proclus, Sur le Premier Alcibiade de
+   Platon. 1; 2, (2 vol. ) Paris, 1985-1986 (CUF).
+
+   Torchia, N. J. 1987: « St. Augustine’s Treatment of superbia and its
+   Plotinian Affinities », Augustinian Studies, 18 (1987), p. 66-80.
+
+   Trouillard, J. 1957a : « Le sens des médiations proclusiennes », Revue
+   philosophique de Louvain, 47 (1957), p. 331-342.
+
+   Trouillard, J. 1957b : « Réflexions sur l’ὄχημα dans les Éléments de
+   Théologie de Proclus », Revue des Études Grecques, 70 (1957),
+   p. 102-107.
+
+   van den Berg, R. M. 2017: « Proclus and Damascius on ΦΙΛΟΤΙΜΙΑ: The
+   Neoplatonic Psychology of a Political Emotion », Philosophie Antique,
+   17 (2017), p. 149-165.
+
+   DOI : https://doi.org/10.4000/philosant.289
+
+   Wildberg, C. 2017: « Proclus of Athens: A Life », dans P. d’Hoine & M.
+   Martijn (éd.), All From One: A Guide to Proclus, Oxford, 2017, p. 1-26.
+   Haut de page
+
+Notes
+
+   1  Roberts & Wood 2003.
+
+   2  Elle ne concerne donc que l’humilité en ce sens négatif, qui est
+   encore celui d’Albert le Grand, Paradis de l’Âme, II, mais non la
+   réhabilitation positive postérieure par Thomas d’Aquin (ST II, II, 161)
+   ou Siger de Brabant (Questions morales, 1 et 4).
+
+   3  La présence d’une telle fonction d’humiliation dans la démarche
+   socratique est notamment défendue par Renaud 2002.
+
+   4  La nécessité de choisir entre ces deux options est la conclusion de
+   l’article de Driver 1989. Elle y distingue (dans sa note 5) l’humilité,
+   qui n’implique pas nécessairement de dépréciation de soi, de la
+   modestie, qui l’exige. Cette distinction est en soi sensée, mais pas
+   dans le cas qui nous occupera ici : si, comme on va le voir, l’un des
+   buts est de mener à la connaissance de soi, on ne peut la présupposer,
+   ni dès lors exiger a priori une correcte estimation par l’apprenant de
+   sa propre valeur.
+
+   5  À lire Augustin, on pourrait croire que tout le néoplatonisme est
+   une voie d’orgueil (superbia ; voir les Confessions, 7, 20 et la Cité
+   de Dieu, 10), mais, outre le fait qu’il mobilise surtout le concept
+   plotinien d’audace (τόλμα ; voir Torchia 1987), cet « orgueil » ne fait
+   l’objet d’aucune thématisation – à plus forte raison d’aucune
+   valorisation – explicite de la part des néoplatoniciens non chrétiens,
+   si ce n’est, comme nous allons tenter de le montrer, chez Proclus.
+
+   6  Voir par exemple l’article de Roskam 2012.
+
+   7  Une exception est Layne 2014, qui remarque cette dimension de la
+   lecture proclienne, sans qu’elle ne joue un rôle décisif dans le propos
+   de son article. Par ailleurs, nous verrons que l’ambition est une
+   composante de l’orgueil ; le rôle de celle-ci chez Proclus est aussi
+   commenté par van den Berg 2017. Notons enfin que la biographie de
+   Proclus écrite par Marinus (voir en particulier les §12 et 16)
+   suggérerait que le Diadoque ait lui-même cultivé une certaine forme
+   d’orgueil personnel, selon Wildberg 2017.
+
+   8  Segonds 1985-1986.
+
+   9  O’Neill 1971.
+
+   10  Segonds traduit le terme tantôt par « pensée », tantôt par
+   « orgueil », « fierté », par le fait d’être « gorgé de grands
+   desseins », par « décision », ou « prétention » ; O’Neill par « mind »,
+   « lofty frame of mind », « pride », « high-spirit »,
+   « high-mindedness », « vauting », « arrogance », « high resolve »,
+   « resolution », ou par « thinking highly ».
+
+   11  In Alc. 27.3-8 : ὃ δὴ καὶ ὁ Σωκράτης ἐνδεικνύμενος διὰ τῆς πρώτης
+   ταύτης κλήσεως ἐγείρει μὲν τὸ φρόνημα τοῦ ἐρωμένου πρὸς τὴν τοῦ
+   ἀληθινοῦ κάλλους ἀντοχήν, ἀνακινεῖ δὲ τὸ ἐν αὐτῷ θαῦμα τῆς φιλοσόφου
+   ζωῆς, περιάγει δὲ αὐτὸν εἰς τὴν τῆς ἀληθοῦς ἐρωτικῆς ἀποπλήρωσιν.
+
+   12  Par exemple dans le Critias, 120e.
+
+   13  In Alc. 62, 3-6, à comparer avec 100, 8-10 ; 211, 1-5.
+
+   14  In Alc. 95, 8-12 ; 98, 3-7 ; 99, 6-16.
+
+   15  In Alc. 147, 11-15 ; 156, 7-10.
+
+   16  In Alc. 112, 22-25 ; 115, 19-22 ; voir aussi In R. I, 49, 7 sur le
+   φρόνημα de l’art poétique.
+
+   17  In Alc. 113, 13-16 ; la question du rang de l’âme sera traitée plus
+   loin.
+
+   18  In Alc. 108, 7-16 ; 110, 10-12 ; 111, 8-11 ; 115, 15-17 ; 265,
+   7-11.
+
+   19  Au point que les traducteurs ont à l’occasion pu la confondre avec
+   le φρόνημα (voir notes suivantes).
+
+   20  In Alc. 134, 7-11 ; Segonds y traduit μεγαλοφροσύνη par
+   « orgueil », O’Neill par « arrogance ».
+
+   21  In Alc. 84, 27-85, 3 ; Segonds y traduit ὁ μεγαλόφρων par « le
+   magnanime », O’Neill par « the high-minded man ».
+
+   22  In Alc. 97, 13-98, 3 ; Segonds y traduit μεγαλοφροσύνη par
+   « générosité », O’Neill par « high resolve ».
+
+   23  In Alc. 115, 19-22 ; Segonds y traduit μεγαλοφροσύνη par « grandeur
+   d’âme », O’Neill par « high-mindedness ».
+
+   24  In Parm. 854, 20-24, qui fait référence à la République, 487a4.
+   Notons que dans la République (528c), la lexique de la μεγαλοφροσύνη
+   peut aussi désigner le mépris d’une connaissance perçue comme inutile,
+   nuance que Proclus semble – sciemment ou non — négliger.
+
+   25  Dont l’emploi chez Platon, y compris par opposition à μεγαλόψυχος
+   et μεγαλόφρων, a été étudié par Gauthier 1951, p. 41-54.
+
+   26  In Ti. I, 62, 9 ; I, 64, 16 ; II, 221, 10.
+
+   27  In Crat. 117, 11 ; 129, 19 ; In Ti. III, 262, 18.
+
+   28  In Crat. 128, 19 ; In Parm. 617, 20.
+
+   29  In Parm. 780, 23 (Parménide, Zénon et Socrate) ; 997, 8 (Socrate) ;
+   In Alc. 18, 18-19 (Platon) ; 312, 11 (Socrate) ; dans ces deux derniers
+   passages, A. Segonds traduit μεγαλοφροσύνη respectivement par
+   « élévation d’esprit » et « magnanimité », O’Neill par « exalted mind »
+   et « magnanimity ».
+
+   30  Comme le fait d’ailleurs Guillaume de Moerbeke, Decem Dub. 35-37 et
+   De Prov. 25, 19 : il traduit par le terme magnanimitas, à côté duquel
+   il translittère en megalofronos et forge magnisapienter.
+
+   31  In Alc. 108, 11-14 ; 141, 9-11 ; 211, 1-5.
+
+   32  In Alc. 175, 15-16 ; 212, 3-4.
+
+   33  In Alc. 164, 6 ; 288, 24-27 ; 304, 7-9.
+
+   34  In Alc. 7, 9-11 ; 12, 5-6 ; 17, 2-4 ; 141, 9-11 ; 290, 27-28 ; cf.
+   In Parm. 655, 7.
+
+   35  In Alc. 15, 5-7 ; 102, 20-23 ; 240, 2-3 ; 305, 22-24.
+
+   36  In Alc. 290, 27-28 ; 291, 8-10 ; 304, 4-10 ; cf. In Parm. 654, 4 ;
+   656, 13 ; In Crat. 121, 10 ; In Ti. III, 333, 17-20 ; notons une
+   exception (In Alc. 236, 24-25) où οἴησις désigne un (hypothétique)
+   moment de simple ignorance.
+
+   37  In Alc. 212, 8-11.
+
+   38  ἀηδεῖς καὶ φορτικοὺς, cf. In Alc. 175, 2.
+
+   39  In Alc. 211, 11-15.
+
+   40  In Alc. 164, 6-7.
+
+   41  A. Segonds, dans la plupart des passages cités, traduit par
+   « prétention », mais ce terme implique en français une revendication,
+   explicite ou non, là où l’οἴησις semble plutôt désigner l’état
+   subjectif qui correspond à celle-ci. Notre proposition rejoint,
+   semble-t-il pour des raisons différentes, la traduction de Moutsopoulos
+   1985, p. 122. La traduction par conceit chez O’Neill semble avoir suivi
+   une semblable intuition.
+
+   42  In Alc. 23, 14-24, 20 ; 156, 5-7.
+
+   43  In Alc. 76, 8-10 ; cf. In R. I.230, 20-231, 26 et In Ti. I, 148,
+   3-11.
+
+   44  In Alc. 160, 4-5 ; 219, 2-4 ; cf. l’emploi du même adjectif pour
+   qualifier la partie irascible de l’âme en In R. I, 222, 19-223, 26 ;
+   232, 10 ; 250, 10.
+
+   45  In R. 193, 1-5.
+
+   46  In Alc. 138, 10-11 ; être second est cependant insuffisant, et ce
+   mode de gouvernance est donc voué à l’échec en tant que son but n’est
+   pas le bien commun mais seulement la quête des honneurs pour eux-mêmes,
+   cf. In Alc. 146, 18-21.
+
+   47  In Alc. 147, 21-148, 9 ; cf. In Parm. 719, 31-721, 23 et 780, 11.
+
+   48  In Alc. 243, 10-12.
+
+   49  In R. II.305, 15-17 et 320, 5-24.
+
+   50  C’est d’ailleurs ainsi que traduit Segonds dans la plupart des
+   passages de l’In Alc. sus-cités ; le Trésor de la Langue Française
+   informatisé donne pour première définition de l’ambition « recherche
+   immodérée de la domination et des honneurs », ce qui correspond à peu
+   près à la φιλοτιμία ici décrite.
+
+   51  In R. I, 101, 27 (cf. Lois, 716a7) ; In Ti. I, 175, 7 (cf. Timée
+   24e2) ; Theol. Plat. V, 77, 1-4 (idem).
+
+   52  In Alc. 293, 26 ; il s’agit en fait d’une citation des Lois, 716a7.
+
+   53  In Alc. 313, 1-5, commentant l’Alcibiade, 114d7.
+
+   54  In Alc. 108, 11-14.
+
+   55  In Alc. 312, 10-12.
+
+   56  In Parm. 686, 19-21.
+
+   57  Premier Alcibiade, 103b2-5 : σχεδὸν οὖν κατανενόηκα ἐν τούτῳ τῷ
+   χρόνῳ σκοπούμενος ὡς πρὸς τοὺς ἐραστὰς ἔσχες· πολλῶν γὰρ γενομένων καὶ
+   μεγαλοφρόνων οὐδεὶς ὃς οὐχ ὑπερβληθεὶς τῷ φρονήματι ὑπὸ σοῦ πέφευγεν.
+
+   58  In Alc. 95, 17-19 et 23-25 : δεῖ γὰρ τὸν ἐρωτικὸν ἀπὸ τῆς γνώσεως
+   ἀρχόμενον οὕτω τελευτᾶν εἰς τὴν περὶ τὸν ἐρώμενον πρόνοιαν· [...] ὁ
+   ἐρωτικὸς γινώσκει πρότερον τὸ ἐραστόν, ὁποῖόν τί ἐστιν, ἔπειθ’ οὕτως
+   αὐτῷ μεταδίδωσι τῆς ἑαυτοῦ προνοίας.
+
+   59  In Alc. 95, 25-96, 22.
+
+   60  In Alc. 162, 18-163, 13 : le démon n’autorise Socrate à agir que si
+   l’action entreprise doit être féconde.
+
+   61  In Alc. 163, 13-15.
+
+   62  In Alc. 99, 9-100, 1 : τὸ γὰρ τῶν παρόντων μὲν ὑπερφρονεῖν ὡς
+   ἐσκιαγραφημένων καὶ οὐδενὸς ἀξίων, ἄλλο δέ τι πρὸ τούτων ἐπιζητεῖν μέγα
+   καὶ θαυμαστὸν καὶ ὑπερέχον τῶν πολλῶν τεκμήριόν ἐστιν ἐμφανὲς τῆς περὶ
+   αὐτὸ τὸ καλὸν ὠδῖνος τῶν ψυχῶν. τοῦτο δὲ καὶ ὁ ἐν Πολιτείᾳ Σωκράτης
+   ἐνέφηνε, τῶν ἀπ’ οὐρανοῦ κατιουσῶν ψυχῶν τὸ ἡγεμονικὸν καὶ ἁδρὸν καὶ
+   μεγαλόφρον ἐν ταῖς αἱρέσεσι τῶν βίων ἴδιον εἰπών· ἔτι γὰρ ἀπήχημα
+   φέρουσι τῆς ἐκεῖ ζωῆς καὶ διὰ τοῦτο ταῖς δυνάμεσιν ἐπιτρέχουσι καὶ τῶν
+   ἄλλων ἁπάντων ὡς μικρῶν καὶ οὐδενὸς ἀξίων ὑπερορῶσιν. ἔστι δὲ τοῦτο τὸ
+   πάθος, εὖ παιδαγωγηθέν, ἀρχὴ τῆς σωτηρίας τῶν ψυχῶν.
+
+   63  Le terme est employé, avec le même sens (écho des réalités
+   intelligibles et/ou divines) ailleurs dans le corpus proclien : In Alc.
+   135, 13 (voir plus bas) ; 272, 3 ; In Ti. III, 158, 8 ; In R. I, 185,
+   1 ; In Eucl. 28, 25 ; Elem. Theol. 129 (p. 114, 127 Dodds) ; Theol.
+   Plat. I, 26 (p. 116-117 Saffrey et Westerink) et 29 (p. 125-126) ; Dec.
+   Dub. 45, 12 ; voir la note 1 de la traduction de Segonds 1985-1986,
+   p. 178.
+
+   64  République, X, 619a-d.
+
+   65  In Alc. 137, 5-138, 9 ; argument déjà annoncé en 133, 19-21. Ce
+   passage est à juste titre souligné par van den Berg 2017 (en 153-154).
+   Cependant, Proclus n’y dit pas que toute âme qui aime le pouvoir est
+   ambitieuse/φιλότιμος, mais que les âmes ambitieuses en sont une
+   sous-classe : les deux notions sont distinguées.
+
+   66  Phèdre, 248a-253c.
+
+   67  In Alc. 136, 13-137, 4 ; argument déjà annoncé par le choix de
+   vocabulaire en 133, 22-134, 7.
+
+   68  In Parm. 693, 3-20 (cas d’Aristote le Tyran) ; In Ti. I, 70, 25-71,
+   12 (cas de Critias).
+
+   69  In R. II, 301, 9-302, 8.
+
+   70  In Alc. 111, 7-112, 5.
+
+   71  In Alc. 112, 5-10 : ταῦτα δὴ οὖν αἱ ψυχαὶ κατὰ τὰς αὐτοφυεῖς
+   ἐννοίας ἐν τοῖς θείοις διαλάμπειν προειληφυῖαι καὶ τὸ ἐν τοῖς θνητοῖς
+   σώμασι κάλλος καὶ μέγεθος τεθήπασιν ὡς ἔμφασιν ἐκείνων ἔχοντα· διὰ δὲ
+   τὴν ἄγνοιαν ἐκείνων τῶν ἀληθινῶν ἐν τούτοις καταμένουσι καὶ ταῦτα μόνα
+   θαυμάζουσι.
+
+   72  In Alc. 112, 10-26.
+
+   73  In Alc. 135, 9-17 : πᾶσα γὰρ ψυχή, φησὶν ὁ Πλάτων, φύσει τεθέαται
+   τὰ ὄντα. εἶδεν οὖν ἐκεῖ τὸ ἀληθῶς τίμιον καὶ τὸ ἡγεμονικὸν καὶ τὸ
+   ἀρχικὸν ἐν αὐτοῖς ἱδρυμένα τοῖς θεοῖς, καὶ ἰδοῦσα τέθηπεν αὐτὰ καὶ ἔχει
+   τινὰ αὐτῶν ἐντὸς ἀπηχήματα· διὰ δὲ τὴν λήθην αὖ καὶ τὴν ἄγνοιαν οὐκ
+   οἶδε, τί ποτέ ἐστιν ὃ θαυμάζει, καὶ κατὰ ποίας ἐννοίας ὀρέγεται τῆς
+   δυνάμεως καὶ τοῦ μεγέθους καὶ τῆς ἀρχῆς ἢ τῆς ἡδονῆς ἢ τῶν χρημάτων. La
+   citation provient du Phèdre, 249e4-5.
+
+   74  In Alc. 95, 8-13 : ταῦτα δὴ οὖν πάντα κατανοῶν καὶ ἀνασκοπούμενος
+   εὗρεν αὐτὸν ἀδούλωτον ὑπὸ τῶν ὅλων ἐραστῶν, ἀνίκητον ὑπὸ τῆς
+   φιλοχρημάτου ζωῆς, φρονήματος ἀντεχόμενον ἁδροῦ καὶ σμικρὰ πάντα τὰ
+   ἀνθρώπινα νομίζοντα· καὶ ταῦτα θεασάμενος οὕτω δὴ μεταδίδωσιν αὐτῷ τῶν
+   οἰκείων συμβουλιῶν.
+
+   75  In Alc. 98, 3-7 : πάντας δὴ οὖν εἰκότως τοὺς τοιούτους ὁ Ἀλκιβιάδης
+   ὑπερεβάλετο τῷ φρονήματι φύσιν γαυροτέραν τινὰ καὶ ἁδροτέραν λαχών, καὶ
+   φυγάδας αὐτοὺς ἀπέδειξεν οὐκ ἐνεγκόντας τὸ φρόνημα αὐτοῦ τὸ ὑπέρογκον.
+   Ce passage et le suivant ont été commentés par Layne 2014 .
+
+   76  In Alc. 99, 3-5 : τὸ γὰρ τῶν μὲν ἀναξίων τοῦ ἔρωτος ὑπεριδεῖν, τὸν
+   δὲ ἄξιον θαυμάσαι, πολλὴν αὐτῷ μαρτυρεῖ τὴν πρὸς τὸ καλὸν οἰκειότητα
+   καὶ εἰς ἀρετὴν παρασκευήν.
+
+   77  Ce lien est aussi fait en In Alc. 100, 1-5.
+
+   78  In Alc. 58, 11-59, 22.
+
+   79  In Alc. 196, 22-198, 13. Notons toutefois que l’explication de
+   Proclus est ici un peu confuse : il justifie le refus de la flûte dans
+   la bonne éducation par sa capacité de rendre tous les sons, y compris
+   ceux rejetés par Platon, mais mentionne comme cause historique du refus
+   d’Alcibiade sa volonté de ne pas déformer son beau visage ni d’adopter
+   un instrument trop peu noble pour lui ; est-ce donc là une
+   manifestation précoce de fierté (dont on verra qu’elle est censée
+   n’apparaître vraiment qu’à l’âge adulte), ou une pure vanité ?
+
+   80  In Alc. 100, 8-19.
+
+   81  In Alc. 159, 26-160, 12.
+
+   82  In Alc. 218, 1-219, 13 ; à nouveau, l’ambition d’Alcibiade comme
+   correspondant à la partie irascible de l’âme constitue un intermédiaire
+   entre la raison qu’est Socrate et les désirs, représentés cette fois
+   par Thrasymaque.
+
+   83  In Alc. 138, 10-139.3.
+
+   84  In Alc. 139, 3-18 : εἰ τοίνυν ἡ πρώτη τῶν ψυχῶν κάθοδος ἡ φιλότιμός
+   ἐστι ζωή, δῆλον ὡς οὐκ ἔστιν ἡ ἔφεσις αὕτη τῶν εἰς βάθος πεσόντων, ἀλλ’
+   ἐν προθύροις τοῦ λόγου στρεφομένων. διὸ δὴ καὶ ὁ Σωκράτης ἀξιέραστον
+   εἶναι τὸ τοιοῦτον ἦθος ὑπείληφεν ὡς ὑπερανέχον τῆς γενέσεως καὶ τῷ λόγῳ
+   συγγενέστερον· ἐγγυτέρω γάρ ἐστιν ὁ θυμὸς ἡμῶν ἤπερ ἡ ἐπιθυμία. διὰ
+   ταύτας μὲν οὖν τὰς αἰτίας τὴν φίλαρχον καὶ φιλότιμον ζωὴν ὁ Σωκράτης
+   ἀξίαν ἐρωτικῆς ὑπέλαβεν εἶναι κηδεμονίας. Ἐκ δὲ τούτων φανερὸν ὅτι χρὴ
+   τὸν γνησίως ἐραστήν τινος καὶ ψυχῆς φύσιν εἰδέναι καὶ τὰς διαφόρους
+   αἱρέσεις τῶν βίων ἐπεσκέφθαι καὶ τῶν εἰδώλων ἀξιόπιστον εἶναι κριτὴν
+   καὶ δυνάμενον ὁρᾶν, τίνων ἐμφάσεις ἕκαστον ἔχει καὶ διὰ ποίων ὁδῶν
+   πέφυκεν ἑκάστη ψυχὴ τυγχάνειν τοῦ οἰκείου τέλους. ὁ γὰρ μὴ ταῦτα
+   συνιδὼν κριβῶς ἀποτυγχάνει τῶν ἐκ τῆς ἐρωτικῆς ἐπιπνοίας ἀγαθῶν.
+
+   85  In Ti. III, 286, 3-288, 3.
+
+   86  In Ti. III, 288, 20 : τελεώτερα
+
+   87  In Ti. III, 288, 3-6.
+
+   88  In Ti. III, 297, 21-298, 1.
+
+   89  In Ti. III, 344,15-19. Ce passage a ceci de curieux que Proclus
+   donne pour exemples de cette forme « récupérable » de passion et
+   d’erreur les personnages non seulement de Thrasymaque mais aussi de
+   Calliclès auxquels l’oblicité semble mieux convenir. Plus encore : si
+   la vie de querelle est associée à cette première passion, cela place
+   Alcibiade au même rang qu’eux. Notons cependant que ce caractère
+   d’Alcibiade est clairement provoqué par son ambition, ce qui ne vaut
+   pas nécessairement pour Thrasymaque, qui est par ailleurs (voir note
+   82) censé représenter les désirs (et il en va sans doute de même pour
+   Calliclès). Leur désaccord intérieur est bon signe – et d’ailleurs
+   Socrate leur accordera du temps – mais il peut n’être pas causé par
+   l’ambition, et donc ne pas indiquer l’orgueil.
+
+   90  In Ti. III, 340, 30-343, 8. Pour une analyse de ces trois modes de
+   passion ou d’erreur, voir Baltzly 2006.
+
+   91  Cette accessibilité à la raison n’exclut pas l’utilisation du
+   discours exhortatif et édifiant, et en bénéficie même grandement, comme
+   le montre van den Berg 2017 (p. 158-160), ne serait-ce que, comme on le
+   verra, pour permettre que la réfutation rationnelle soit entendue et la
+   démarche socratique acceptée.
+
+   92  Cet impératif d’adaptation et de différenciation est aussi mobilisé
+   en In Alc. 3, 11-13 ; 28.12-29.1 ; 151, 12-154, 16.
+
+   93  In Alc. 162, 5-18.
+
+   94  Layne 2014 .
+
+   95  Sa position est certes unique, mais nuance celles de ses
+   prédécesseurs plus qu’elle n’innove radicalement, voir Layne 2014 ainsi
+   que, pour la comparaison avec Plutarque, Roskam 2012.
+
+   96  Dillon 1994 montre que l’In Alc. de Proclus hérite au moins en
+   partie de cette structure typique.
+
+   97  In Alc. 23, 16-25 ; 133, 1-7.
+
+   98  In Alc. 24, 2-20 ; 98, 7-16 ; 100, 19-23 ; voir aussi In Parm. 782,
+   23-25.
+
+   99  In Alc. 24, 20-25, 3 ; 101, 23-103, 28 ; 105, 5-7 ; 209, 2-8.
+
+   100  In Alc. 209, 8-13 ; le danger de l’éristique est dénoncé en In
+   Parm. 779-881 ; 977, 17-978, 10 ; 1027, 26-31.
+
+   101  In Alc. 210, 4-211, 5.
+
+   102  In Alc. 151, 12-154, 16
+
+   103  In Alc. 113, 26-114, 16 ; 154, 17-156, 18.
+
+   104  In Alc. 42, 5-43, 5.
+
+   105  In Alc. 164, 1-22.
+
+   106  In Alc. 20, 1-21, 7 ; 46, 14-47, 15 ; 165, 14-166, 17.
+
+   107  In Alc. 21, 7-9 : τὸ γὰρ τὴν αἰτίαν ποθῆσαι μαθεῖν ὧν πράττει
+   Σωκράτης, ἐραστήν ἐστι γενέσθαι τῆς ἐν αὐτῷ προϋπαρχούσης ἐπιστήμης.
+   Voir aussi 19, 18-20.1.
+
+   108  Proclus distingue en fait trois vertus du bon élève : l’εὐφυία, la
+   προθυμία et l’ἐμπειρία, ou expérience, voir In Parm. IV, 926, 5-927,
+   32. Considérerait-il qu’Alcibiade dispose déjà de cette expérience par
+   sa formation d’aristocrate ? Le dialogue indique cependant qu’Alcibiade
+   n’est pas formé en mathématiques et en physique (106e), or, c’est une
+   telle « expérience » que vise Proclus. Restent donc deux possibilités :
+   soit la fierté d’Alcibiade constitue un souvenir assez clair pour tenir
+   lieu d’expérience préparatoire en lieu et place de ces disciplines,
+   soit Proclus considère que Socrate entend d’abord y former Alcibiade
+   avant de passer à la philosophie proprement dite. Sur cette « triade
+   des vertus », voir aussi Hoffmann 1994-1995 (plus particulièrement les
+   p. 265-267) ainsi que Hoffmann 1998 (plus particulièrement les
+   p. 225-227).
+
+   109  In Alc. 37, 19-42, 7 ; 45, 7-46, 1 ; 60, 1-64, 6 ; 84, 26-85, 7 ;
+   153, 6-154, 16.
+
+   110  Voir à ce sujet Trouillard 1957a (en 335-338).
+
+   111  In Alc. 14, 9-19 ; 225, 4-11 ; ce plan tripartite est simplifié en
+   212, 1-16 où la seconde étape est escamotée.
+
+   112  In Alc. 174, 1-181, 3. On comprend mieux pourquoi seule une âme
+   dans laquelle luttent des opinions vraies et fausses, comme peut l’être
+   l’âme ambitieuse (voir section 2.4 supra, notes 89-90), doit se prêter
+   à cet exercice : chez une âme oblique, le sentiment de cohérence
+   risquerait de n’être que renforcé par l’examen. Une bonne
+   reconnaissance de l’élève potentiel (section 2.1) est donc bien une
+   précaution indispensable.
+
+   113  In Alc. 119, 8-16 ; les références à la dimension purgative et
+   médicale de cet acte psychique sont nombreuses dans le texte : In Alc.
+   155, 2-10 ; 172, 13-18 ; 210, 4-10 ; 232, 11-233, 2 ; 265, 4-11 ; 278,
+   30-279, 20 ; 304, 12-305, 21.
+
+   114  In Alc. 280, 24-281, 16.
+
+   115  In Eucl. 15, 26-16, 16.
+
+   116  In Alc. 145, 1-150, 27. Voir aussi la description plus sévère
+   qu’en donne Proclus en De Prov. 16-23.
+
+   117  De Prov. 24, 1-11 et 25, 29-34.
+
+   118  In Alc. 218, 1-223, 19 ; 228, 10-14.
+
+   119  In Alc. 187, 1-188, 20 ; 225, 11-14.
+
+   120  In Alc. 188, 20-189, 14 ; 293, 19-23.
+
+   121  Voir à ce sujet O’Meara 1989, p. 152-155.
+
+   122  In Alc. 225, 18-226, 8.
+
+   123  Voir section 2.2.
+
+   124  Voir note 112.
+
+   125  In Alc. 90, 12-22, voir le commentaire de Layne 2014 mais aussi
+   celui de la proposition 209 des Éléments de Théologie par Trouillard
+   1957b.
+
+   126  In R. II, 320, 5-24. La vie d’ambition y est clairement associée à
+   la διανοία, ce qui est cohérent avec sa caractérisation comme ultime
+   tunique et comme source du débat interne à l’âme, voir notes 89-90 et
+   112.
+
+   127  Notons que dans les passages où il évoque cette possibilité (voir
+   note 92 supra), les autres profils qu’il mentionne correspondent aussi
+   à des passions qu’on peut considérer (et la tradition platonicienne le
+   ferait sans hésiter) comme des vices.
+
+   128  Le lien entre motivation et cognition a été bien documenté au
+   cours des dernières années, voir par exemple la bibliographie et les
+   commentaires liés à l’article de Lake et al. 2017.
+
+   129  Comme on l’a vu (cf. note 119 supra), l’humilité pourrait être
+   réhabilitée dans le cas d’un enseignement par révélation directe d’une
+   instance divine, dont l’influence serait préférable même à la recherche
+   autonome. Cela exige cependant d’admettre à la fois qu’une telle
+   influence est possible, et qu’elle est réellement distincte de
+   l’activité de recherche autonome par laquelle le soi (ou, si l’on
+   préfère, l’âme) se donne à lui-même les moyens d’apprendre fût-ce avec
+   l’aide d’une médiation démonique ou divine. Qui veut utiliser cet
+   argument de Proclus pour trouver chez lui (ou fonder contre lui) une
+   fécondité de l’humilité épistémique devra donc accepter cette
+   dépendance de la connaissance envers une grâce divine extérieure au
+   sujet connaissant.
+   Haut de page
+
+Pour citer cet article
+
+Référence papier
+
+   Corentin Tresnie, « Orgueil et enseignement », Philosophie antique,
+   20 | 2020, 237-261.
+
+Référence électronique
+
+   Corentin Tresnie, « Orgueil et enseignement », Philosophie antique [En
+   ligne], 20 | 2020, mis en ligne le 31 octobre 2021, consulté le 04
+   janvier 2024. URL : http://journals.openedition.org/philosant/3936 ;
+   DOI : https://doi.org/10.4000/philosant.3936
+   Haut de page
+
+Auteur
+
+Corentin Tresnie
+
+   Université Libre de Bruxelles
+
+   corentin.tresnie@ulb.be
+
+Articles du même auteur
+
+     * Nicolas D’Andrès, Socrate néoplatonicien. Une science de l’amour
+       dans le Commentaire de Proclus sur le Premier Alcibiade [Texte
+       intégral]
+       Paris, Vrin, 2020 (Textes et traditions), 304 p., ISBN :
+       978-2-7116-2955-8
+       Paru dans Philosophie antique, 21 | 2021
+
+   Haut de page
+
+Droits d’auteur
+
+   CC-BY-NC-ND-4.0
+
+   Le texte seul est utilisable sous licence CC BY-NC-ND 4.0. Les autres
+   éléments (illustrations, fichiers annexes importés) sont « Tous droits
+   réservés », sauf mention contraire.
+   Haut de page
+   Sommaire - Document précédent
+
+Navigation
+
+Index
+
+     * Auteurs
+     * Auteurs anciens
+     * Mots-clés
+
+Derniers numéros
+
+     * 23 | 2023
+       Commentateurs antiques
+     * 22 | 2022
+       Philosophie latine
+
+Numéros en texte intégral
+
+     * 21 | 2021
+       Les éléments
+     * 20 | 2020
+       Nouvelles figures de Socrate
+     * 19 | 2019
+       L’épicurisme antique
+     * 18 | 2018
+       L’athéisme antique
+     * 17 | 2017
+       Platon et la politique
+     * 16 | 2016
+       Causalités aristotéliciennes
+     * 15 | 2015
+       Questions sur le scepticisme pyrrhonien
+     * 14 | 2014
+       Le devoir
+     * 13 | 2013
+       Analogie et connaissance
+     * 12 | 2012
+       Autour de la perception
+     * 11 | 2011
+       Influences, filiations, réceptions (XVIIe-XXe siècles)
+     * 10 | 2010
+       Philosophie et mathématiques
+     * 9 | 2009
+       Néoplatonisme
+     * 8 | 2008
+       Les anciens sophistes
+     * 7 | 2007
+       Présocratiques
+     * 3 | 2003
+       Enjeux de la dialectique
+     * 2 | 2002
+       Questions aristotéliciennes
+
+Tous les numéros
+
+Pré-publication
+
+     * Comptes rendus en pré-publication
+     * Notes critiques en pré-publication
+     * Annonces en pré-publication
+
+Appels à contribution
+
+     * Appels en cours
+     * Appels clos
+
+Présentation
+
+     * La revue Philosophie antique
+     * Organisation de la revue
+     * Les comités
+     * Instructions aux auteurs et normes bibliographiques
+
+Informations
+
+     * Contacts
+     * Crédits du site
+     * Politiques de publication
+
+Suivez-nous
+
+     * Flux RSS Flux RSS
+
+Lettres d’information
+
+     * La Lettre d’OpenEdition
+
+   Accès membres
+
+   Login ____________________
+   Mot de passe ____________________
+   (BUTTON) Se connecter (BUTTON) Annuler
+
+Affiliations/partenaires
+
+     * Logo Éditions Vrin
+     * Logo Centre Jean-Pépin
+     * Logo Centre Léon-Robin
+     * Logo « Savoirs, textes, langage » (STL) UMR 8163
+     * OpenEdition Journals
+
+   ISSN électronique 2648-2789
+
+   Voir la notice dans le catalogue OpenEdition
+
+   Plan du site – Contacts – Crédits du site – Flux de syndication
+
+   Politique de confidentialité – Gestion des cookies – Signaler un
+   problème
+
+   Nous adhérons à OpenEdition – Édité avec Lodel – Accès réservé
+
+   (BUTTON)
+
+   Rechercher dans OpenEdition Search
+
+   Vous allez être redirigé vers OpenEdition Search
+   ____________________
+   ( ) Dans tout OpenEdition
+   (*) Dans Philosophie antique
+   (BUTTON) Rechercher
+
+     * Français
+          + English
+
+     * Partager
+          + Facebook
+          + Twitter
+          + Google+
+
+   ">
+   (BUTTON)
+
+     * Accueil
+     * Catalogue des 625 revues
+
+   OpenEdition Search
+   (BUTTON) Tout OpenEdition
+
+   (BUTTON) Français
+     * English
+
+   Portail de ressources électroniques en sciences humaines et sociales
+   OpenEdition
+   Nos plateformes
+   OpenEdition Books OpenEdition Journals Hypotheses Calenda
+   Bibliothèques et institutions
+   OpenEdition Freemium
+   Nos services
+   OpenEdition Search La lettre d'OpenEdition
+   Suivez-nous

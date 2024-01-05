@@ -1,124 +1,142 @@
 #!/usr/bin/env bash
 
-# Vérification du nombre d'arguments
-if [ $# -ne 2 ]; then
-    echo "On attend deux arguments: chemin vers le fichier et mot d'étude"
-    exit 1
+# Vérifie si l'argument du chemin du fichier est fourni
+if [[ $# -ne 1 ]]; then
+    echo "Usage : $0 chemin_du_fichier"
+    exit
 fi
 
-chemin=$1
-mot_etude=$2
+URLS=$1
+MOT=$FICHIER
 
-# Vérification de l'existence du fichier
-if [ ! -f "$chemin" ]; then
-    echo "Le fichier spécifié n'existe pas: $chemin"
-    exit 1
-fi
+# Obtient le nom de base du fichier sans l'extension .txt et convertit en minuscules
+FICHIER=$(basename "$1" .txt | tr '[:upper:]' '[:lower:]')
 
-# Extraction du nom du fichier sans extension pour créer les sous-dossiers
-base_filename=$(basename -- "$chemin")
-filename_no_ext="${base_filename%.*}"
+# Associe le nom du fichier à une langue
+case $FICHIER in
+    "orgueil")
+        LANGUE="fr"
+        ;;
+    "pride")
+        LANGUE="en"
+        ;;
+    "orgullo")
+        LANGUE="es"
+        ;;
+    "gurur")
+        LANGUE="tr"
+        ;;
+    *)
+        echo "Langue non supportée"
+        exit 1
+        ;;
+esac
 
-# Vérification et création des répertoires nécessaires
-mkdir -p "aspirations/$filename_no_ext" "dumps-text/$filename_no_ext" "contextes/$filename_no_ext"
+# Définition du fichier de sortie
+OUTPUT_FILE="../tableaux/tableau_${LANGUE}.html"
 
-# Début du fichier HTML avec style Bulma
-cat <<EOF > "tableaux/tableau_$filename_no_ext.html"
-<html>
+# Création de l'en-tête du fichier HTML
+cat <<EOF > $OUTPUT_FILE
+<!DOCTYPE html>
+<html lang="$LANGUE">
 <head>
-    <title>Tableau des URL du mot $mot_etude</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tableaux - Projet de Groupe</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.9.3/css/bulma.min.css">
+    <style>
+        .hero-background {
+            background: url('Org.png') center center;
+            background-size: cover;
+        }
+        .hero-title {
+            font-size: 4rem;
+            color: white;
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+            font-family: 'Arial', sans-serif;
+        }
+    </style>
 </head>
 <body>
-    <!-- Barre de navigation -->
-    <nav class="navbar is-primary" role="navigation" aria-label="main navigation">
-        <div class="navbar-brand">
-            <a class="navbar-item" href="../index.html">
-                Accueil
-            </a>
-        </div>
-        <div class="navbar-menu">
-            <div class="navbar-start">
-                <a class="navbar-item" href="tableaufr.html">Français</a>
-                <a class="navbar-item" href="tableaues.html">Espagnol</a>
-                <a class="navbar-item" href="tableautr.html">Turc</a>
-                <a class="navbar-item" href="tableauar.html">Anglais</a>
+    <section class="hero is-fullheight hero-background">
+        <div class="hero-body">
+            <div class="container has-text-centered">
+                <h1 class="title hero-title">
+                    Tableau de $MOT
+                </h1>
             </div>
         </div>
-    </nav>
+    </section>
 
     <section class="section">
         <div class="container">
-            <table class="table is-bordered is-striped is-fullwidth">
-                <tr>
-                    <th>Numéro</th>
-                    <th>URLs</th>
-                    <th>Code</th>
-                    <th>Encodage</th>
-                    <th>Aspiration</th>
-                    <th>Dump</th>
-                    <th>Compte</th>
-                    <th>Contextes</th>
-                </tr>
+            <table class="table is-striped is-narrow is-hoverable is-fullwidth">
+                <thead>
+                    <tr>
+                        <th>Nº ligne</th>
+                        <th>URL</th>
+                        <th>Aspiration</th>
+                        <th>Dump</th>
+                        <th>Contexte</th>
+                        <th>Concordancier</th>
+                        <th>Code HTTP</th>
+                        <th>Encodage</th>
+                        <th>Compte</th>
+                    </tr>
+                </thead>
 EOF
 
-lineN=1
+lineno=1
 
-# Lecture du fichier ligne par ligne et traitement
-while IFS= read -r line; do
-    sanitized_filename=$(echo "$line" | md5sum | cut -d' ' -f1)  # Create a sanitized filename based on URL hash
+# Boucle de lecture de chaque ligne du fichier d'URLs
+while read -r URL; do
+    FICHIER_ASPIRATION="../aspirations/${LANGUE}-${lineno}.html"
 
-    code=$(curl -s -I -L -w "%{http_code}" -o /dev/null "$line")
-    if [[ $code -ne 200 ]]; then
-        echo "URL did not return a successful status: $line (HTTP $code)"
-        continue
+    response=$(curl -s -L -w "%{http_code}" -o "$FICHIER_ASPIRATION" "$URL")
+    encoding=$(curl -s -I -L -w "%{content_type}" -o /dev/null "$URL" | grep -o "charset=\S+" | cut -d"=" -f2 | tail -n 1 | tr '[:lower:]' '[:upper:]')
+    COMPTE=0
+    FICHIER_DUMP="NA"
+    FICHIER_CONTEXTE="NA"
+    CONCORDANCIER="NA"
+
+    if [ $response -eq 200 ]; then
+        # Création du dump texte
+        if [[ ! $encoding == "UTF-8" ]]; then
+            iconv -f "$encoding" -t "UTF-8" "$FICHIER_ASPIRATION" > "temp.html"
+            mv "temp.html" "$FICHIER_ASPIRATION"
+            encoding="UTF-8"
+        fi
+        FICHIER_DUMP="../dump-texts/${LANGUE}-${lineno}.txt"
+        lynx -assume_charset="UTF-8" -dump -nolist "$FICHIER_ASPIRATION" > "$FICHIER_DUMP"
+
+        COMPTE=$(grep -i -o "$MOT" $FICHIER_DUMP | wc -l)
+
+        FICHIER_CONTEXTE="../contextes/${LANGUE}-${lineno}.txt"
+        grep -i -C 3 "$MOT" $FICHIER_DUMP > $FICHIER_CONTEXTE
+
+        programmes/concordancier.sh $MOT $lineno $FICHIER_CONTEXTE $LANGUE
+        CONCORDANCIER="../concordances/${LANGUE}-${lineno}.html"
+        echo "<tbody>
+            <tr>
+                <th>$lineno</th><td>$URL</td><td><a href='$FICHIER_ASPIRATION'>Aspiration</a></td><td><a href='$FICHIER_DUMP'>Dump</a></td><td><a href='$FICHIER_CONTEXTE'>Contexte</a></td><td><a href='$CONCORDANCIER'>Concordancier</a></td><td>$response</td><td>$encoding</td><td>$COMPTE</td>
+            </tr>
+            </tbody>" >> $OUTPUT_FILE
+    else
+        FICHIER_ASPIRATION="NA"
+        echo "<tbody>
+            <tr>
+                <th>$lineno</th><td>$URL</td><td>$FICHIER_ASPIRATION</td><td>$FICHIER_DUMP</td><td>$FICHIER_CONTEXTE</td><td>$CONCORDANCIER</td><td>$response</td><td>$encoding</td><td>$COMPTE</td>
+            </tr>
+            </tbody>" >> $OUTPUT_FILE
     fi
-    encodage=$(curl -s -I -L -w "%{content_type}" -o /dev/null "$line" | grep -o "charset=\S*" | cut -d"=" -f2 | tail -n 1)
-    encodage=${encodage:-UTF-8}  # Default to UTF-8 if not found
+    lineno=$(expr $lineno + 1)
+    echo "Traitement de l'URL $lineno terminé"
+done < "$URLS"
 
-    # Aspiration de la page par cURL
-    curl -s "$line" > "aspirations/$filename_no_ext/aspiration_${sanitized_filename}.html"
-
-    # Récupération du dump textuel avec Lynx
-    lynx -dump "$line" > "dumps-text/$filename_no_ext/dump_${sanitized_filename}.txt"
-
-    # Comptage des occurrences du mot d'étude
-    compte=$(grep -c -i "$mot_etude" "dumps-text/$filename_no_ext/dump_${sanitized_filename}.txt")
-
-    # Si le compte est zéro, afficher un message et passer à l'URL suivante
-    if [[ $compte -eq 0 ]]; then
-        echo "This URL : $line has 0 occurrence"
-        continue
-    fi
-
-    # Récupération des contextes d'apparition du mot
-    contextes=$(grep -C 2 -i "$mot_etude" "dumps-text/$filename_no_ext/dump_${sanitized_filename}.txt")
-    echo "$contextes" > "contextes/$filename_no_ext/contexte_${sanitized_filename}.txt"
-
-    # Écriture de la ligne du tableau HTML
-    cat <<EOF >> "tableaux/tableau_$filename_no_ext.html"
-                <tr>
-                    <td>${lineN}</td>
-                    <td><a href='${line}'>${line}</a></td>
-                    <td>${code}</td>
-                    <td>${encodage}</td>
-                    <td><a href="aspirations/$filename_no_ext/aspiration_${sanitized_filename}.html">aspiration</a></td>
-                    <td><a href="dumps-text/$filename_no_ext/dump_${sanitized_filename}.txt">dump</a></td>
-                    <td>${compte}</td>
-                    <td><a href="contextes/$filename_no_ext/contexte_${sanitized_filename}.txt">contextes</a></td>
-                </tr>
-EOF
-
-    lineN=$((lineN + 1))
-done < "$chemin"
-
-# Fin du fichier HTML
-cat <<EOF >> "tableaux/tableau_$filename_no_ext.html"
-            </table>
+echo "         </table>
         </div>
-    </section>
 </body>
-</html>
-EOF
+</html>" >> $OUTPUT_FILE
 
-echo "Tableau HTML généré : tableaux/tableau_$filename_no_ext.html"
+echo "gg wp"
+
