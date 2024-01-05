@@ -1,0 +1,1801 @@
+<!DOCTYPE html>
+<html lang="fr-FR">
+<head>
+	<meta charset="UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<link rel="pingback" href="https://www.ofqj.org/xmlrpc.php" />
+
+	<script type="text/javascript">
+		document.documentElement.className = 'js';
+	</script>
+	
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin /><link rel="dns-prefetch" href="//tracker.wpserveur.net"><style id="et-divi-userfonts">@font-face { font-family: "BarlowSemiCondensed-Bold"; font-display: swap;  src: url("https://www.ofqj.org/wp-content/uploads/et-fonts/BarlowSemiCondensed-Bold.ttf") format("truetype"); }</style><style id="et-builder-googlefonts-cached-inline">/* Original: https://fonts.googleapis.com/css?family=Barlow+Condensed:100,100italic,200,200italic,300,300italic,regular,italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic|Heebo:100,200,300,regular,500,600,700,800,900|Barlow:100,100italic,200,200italic,300,300italic,regular,italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&#038;subset=latin,latin-ext&#038;display=swap *//* User Agent: Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) Safari/538.1 Daum/4.1 */@font-face {font-family: 'Barlow';font-style: italic;font-weight: 100;font-display: swap;src: url(https://fonts.gstatic.com/s/barlow/v12/7cHtv4kjgoGqM7E_CfNY8HMJnQ.ttf) format('truetype');}@font-face {font-family: 'Barlow';font-style: italic;font-weight: 200;font-display: swap;src: url(https://fonts.gstatic.com/s/barlow/v12/7cHsv4kjgoGqM7E_CfP04WogvT8.ttf) format('truetype');}@font-face {font-family: 'Barlow';font-style: italic;font-weight: 300;font-display: swap;src: url(https://fonts.gstatic.com/s/barlow/v12/7cHsv4kjgoGqM7E_CfOQ4mogvT8.ttf) format('truetype');}@font-face {font-family: 'Barlow';font-style: italic;font-weight: 400;font-display: swap;src: url(https://fonts.gstatic.com/s/barlow/v12/7cHrv4kjgoGqM7E_Cfs1wHo.ttf) format('truetype');}@font-face {font-family: 'Barlow';font-style: italic;font-weight: 500;font-display: swap;src: url(https://fonts.gstatic.com/s/barlow/v12/7cHsv4kjgoGqM7E_CfPI42ogvT8.ttf) format('truetype');}@font-face {font-family: 'Barlow';font-style: italic;font-weight: 600;font-display: swap;src: url(https://fonts.gstatic.com/s/barlow/v12/7cHsv4kjgoGqM7E_CfPk5GogvT8.ttf) format('truetype');}@font-face {font-family: 'Barlow';font-style: italic;font-weight: 700;font-display: swap;src: url(https://fonts.gstatic.com/s/barlow/v12/7cHsv4kjgoGqM7E_CfOA5WogvT8.ttf) format('truetype');}@font-face {font-family: 'Barlow';font-style: italic;font-weight: 800;font-display: swap;src: url(https://fonts.gstatic.com/s/barlow/v12/7cHsv4kjgoGqM7E_CfOc5mogvT8.ttf) format('truetype');}@font-face {font-family: 'Barlow';font-style: italic;font-weight: 900;font-display: swap;src: url(https://fonts.gstatic.com/s/barlow/v12/7cHsv4kjgoGqM7E_CfO452ogvT8.ttf) format('truetype');}@font-face {font-family: 'Barlow';font-style: normal;font-weight: 100;font-display: swap;src: url(https://fonts.gstatic.com/s/barlow/v12/7cHrv4kjgoGqM7E3b_s1wHo.ttf) format('truetype');}@font-face {font-family: 'Barlow';font-style: normal;font-weight: 200;font-display: swap;src: url(https://fonts.gstatic.com/s/barlow/v12/7cHqv4kjgoGqM7E3w-os6Vop.ttf) format('truetype');}@font-face {font-family: 'Barlow';font-style: normal;font-weight: 300;font-display: swap;src: url(https://fonts.gstatic.com/s/barlow/v12/7cHqv4kjgoGqM7E3p-ks6Vop.ttf) format('truetype');}@font-face {font-family: 'Barlow';font-style: normal;font-weight: 400;font-display: swap;src: url(https://fonts.gstatic.com/s/barlow/v12/7cHpv4kjgoGqM7E_Ass8.ttf) format('truetype');}@font-face {font-family: 'Barlow';font-style: normal;font-weight: 500;font-display: swap;src: url(https://fonts.gstatic.com/s/barlow/v12/7cHqv4kjgoGqM7E3_-gs6Vop.ttf) format('truetype');}@font-face {font-family: 'Barlow';font-style: normal;font-weight: 600;font-display: swap;src: url(https://fonts.gstatic.com/s/barlow/v12/7cHqv4kjgoGqM7E30-8s6Vop.ttf) format('truetype');}@font-face {font-family: 'Barlow';font-style: normal;font-weight: 700;font-display: swap;src: url(https://fonts.gstatic.com/s/barlow/v12/7cHqv4kjgoGqM7E3t-4s6Vop.ttf) format('truetype');}@font-face {font-family: 'Barlow';font-style: normal;font-weight: 800;font-display: swap;src: url(https://fonts.gstatic.com/s/barlow/v12/7cHqv4kjgoGqM7E3q-0s6Vop.ttf) format('truetype');}@font-face {font-family: 'Barlow';font-style: normal;font-weight: 900;font-display: swap;src: url(https://fonts.gstatic.com/s/barlow/v12/7cHqv4kjgoGqM7E3j-ws6Vop.ttf) format('truetype');}@font-face {font-family: 'Barlow Condensed';font-style: italic;font-weight: 100;font-display: swap;src: url(https://fonts.gstatic.com/s/barlowcondensed/v12/HTxzL3I-JCGChYJ8VI-L6OO_au7B6xTru2H_nKk.ttf) format('truetype');}@font-face {font-family: 'Barlow Condensed';font-style: italic;font-weight: 200;font-display: swap;src: url(https://fonts.gstatic.com/s/barlowcondensed/v12/HTxyL3I-JCGChYJ8VI-L6OO_au7B6xTrF3DmtYkD.ttf) format('truetype');}@font-face {font-family: 'Barlow Condensed';font-style: italic;font-weight: 300;font-display: swap;src: url(https://fonts.gstatic.com/s/barlowcondensed/v12/HTxyL3I-JCGChYJ8VI-L6OO_au7B6xTrc3PmtYkD.ttf) format('truetype');}@font-face {font-family: 'Barlow Condensed';font-style: italic;font-weight: 400;font-display: swap;src: url(https://fonts.gstatic.com/s/barlowcondensed/v12/HTxxL3I-JCGChYJ8VI-L6OO_au7B6xTj1lH2.ttf) format('truetype');}@font-face {font-family: 'Barlow Condensed';font-style: italic;font-weight: 500;font-display: swap;src: url(https://fonts.gstatic.com/s/barlowcondensed/v12/HTxyL3I-JCGChYJ8VI-L6OO_au7B6xTrK3LmtYkD.ttf) format('truetype');}@font-face {font-family: 'Barlow Condensed';font-style: italic;font-weight: 600;font-display: swap;src: url(https://fonts.gstatic.com/s/barlowcondensed/v12/HTxyL3I-JCGChYJ8VI-L6OO_au7B6xTrB3XmtYkD.ttf) format('truetype');}@font-face {font-family: 'Barlow Condensed';font-style: italic;font-weight: 700;font-display: swap;src: url(https://fonts.gstatic.com/s/barlowcondensed/v12/HTxyL3I-JCGChYJ8VI-L6OO_au7B6xTrY3TmtYkD.ttf) format('truetype');}@font-face {font-family: 'Barlow Condensed';font-style: italic;font-weight: 800;font-display: swap;src: url(https://fonts.gstatic.com/s/barlowcondensed/v12/HTxyL3I-JCGChYJ8VI-L6OO_au7B6xTrf3fmtYkD.ttf) format('truetype');}@font-face {font-family: 'Barlow Condensed';font-style: italic;font-weight: 900;font-display: swap;src: url(https://fonts.gstatic.com/s/barlowcondensed/v12/HTxyL3I-JCGChYJ8VI-L6OO_au7B6xTrW3bmtYkD.ttf) format('truetype');}@font-face {font-family: 'Barlow Condensed';font-style: normal;font-weight: 100;font-display: swap;src: url(https://fonts.gstatic.com/s/barlowcondensed/v12/HTxxL3I-JCGChYJ8VI-L6OO_au7B43Lj1lH2.ttf) format('truetype');}@font-face {font-family: 'Barlow Condensed';font-style: normal;font-weight: 200;font-display: swap;src: url(https://fonts.gstatic.com/s/barlowcondensed/v12/HTxwL3I-JCGChYJ8VI-L6OO_au7B497yz3jWvA.ttf) format('truetype');}@font-face {font-family: 'Barlow Condensed';font-style: normal;font-weight: 300;font-display: swap;src: url(https://fonts.gstatic.com/s/barlowcondensed/v12/HTxwL3I-JCGChYJ8VI-L6OO_au7B47rxz3jWvA.ttf) format('truetype');}@font-face {font-family: 'Barlow Condensed';font-style: normal;font-weight: 400;font-display: swap;src: url(https://fonts.gstatic.com/s/barlowcondensed/v12/HTx3L3I-JCGChYJ8VI-L6OO_au7B6x_T3w.ttf) format('truetype');}@font-face {font-family: 'Barlow Condensed';font-style: normal;font-weight: 500;font-display: swap;src: url(https://fonts.gstatic.com/s/barlowcondensed/v12/HTxwL3I-JCGChYJ8VI-L6OO_au7B4-Lwz3jWvA.ttf) format('truetype');}@font-face {font-family: 'Barlow Condensed';font-style: normal;font-weight: 600;font-display: swap;src: url(https://fonts.gstatic.com/s/barlowcondensed/v12/HTxwL3I-JCGChYJ8VI-L6OO_au7B4873z3jWvA.ttf) format('truetype');}@font-face {font-family: 'Barlow Condensed';font-style: normal;font-weight: 700;font-display: swap;src: url(https://fonts.gstatic.com/s/barlowcondensed/v12/HTxwL3I-JCGChYJ8VI-L6OO_au7B46r2z3jWvA.ttf) format('truetype');}@font-face {font-family: 'Barlow Condensed';font-style: normal;font-weight: 800;font-display: swap;src: url(https://fonts.gstatic.com/s/barlowcondensed/v12/HTxwL3I-JCGChYJ8VI-L6OO_au7B47b1z3jWvA.ttf) format('truetype');}@font-face {font-family: 'Barlow Condensed';font-style: normal;font-weight: 900;font-display: swap;src: url(https://fonts.gstatic.com/s/barlowcondensed/v12/HTxwL3I-JCGChYJ8VI-L6OO_au7B45L0z3jWvA.ttf) format('truetype');}@font-face {font-family: 'Heebo';font-style: normal;font-weight: 100;font-display: swap;src: url(https://fonts.gstatic.com/s/heebo/v22/NGSpv5_NC0k9P_v6ZUCbLRAHxK1EiS2sdUmj.ttf) format('truetype');}@font-face {font-family: 'Heebo';font-style: normal;font-weight: 200;font-display: swap;src: url(https://fonts.gstatic.com/s/heebo/v22/NGSpv5_NC0k9P_v6ZUCbLRAHxK1ECSysdUmj.ttf) format('truetype');}@font-face {font-family: 'Heebo';font-style: normal;font-weight: 300;font-display: swap;src: url(https://fonts.gstatic.com/s/heebo/v22/NGSpv5_NC0k9P_v6ZUCbLRAHxK1E1yysdUmj.ttf) format('truetype');}@font-face {font-family: 'Heebo';font-style: normal;font-weight: 400;font-display: swap;src: url(https://fonts.gstatic.com/s/heebo/v22/NGSpv5_NC0k9P_v6ZUCbLRAHxK1EiSysdUmj.ttf) format('truetype');}@font-face {font-family: 'Heebo';font-style: normal;font-weight: 500;font-display: swap;src: url(https://fonts.gstatic.com/s/heebo/v22/NGSpv5_NC0k9P_v6ZUCbLRAHxK1EuyysdUmj.ttf) format('truetype');}@font-face {font-family: 'Heebo';font-style: normal;font-weight: 600;font-display: swap;src: url(https://fonts.gstatic.com/s/heebo/v22/NGSpv5_NC0k9P_v6ZUCbLRAHxK1EVyusdUmj.ttf) format('truetype');}@font-face {font-family: 'Heebo';font-style: normal;font-weight: 700;font-display: swap;src: url(https://fonts.gstatic.com/s/heebo/v22/NGSpv5_NC0k9P_v6ZUCbLRAHxK1EbiusdUmj.ttf) format('truetype');}@font-face {font-family: 'Heebo';font-style: normal;font-weight: 800;font-display: swap;src: url(https://fonts.gstatic.com/s/heebo/v22/NGSpv5_NC0k9P_v6ZUCbLRAHxK1ECSusdUmj.ttf) format('truetype');}@font-face {font-family: 'Heebo';font-style: normal;font-weight: 900;font-display: swap;src: url(https://fonts.gstatic.com/s/heebo/v22/NGSpv5_NC0k9P_v6ZUCbLRAHxK1EICusdUmj.ttf) format('truetype');}/* User Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:27.0) Gecko/20100101 Firefox/27.0 */@font-face {font-family: 'Barlow';font-style: italic;font-weight: 100;font-display: swap;src: url(https://fonts.gstatic.com/s/barlow/v12/7cHtv4kjgoGqM7E_CfNY8HMJng.woff) format('woff');}@font-face {font-family: 'Barlow';font-style: italic;font-weight: 200;font-display: swap;src: url(https://fonts.gstatic.com/s/barlow/v12/7cHsv4kjgoGqM7E_CfP04WogvTw.woff) format('woff');}@font-face {font-family: 'Barlow';font-style: italic;font-weight: 300;font-display: swap;src: url(https://fonts.gstatic.com/s/barlow/v12/7cHsv4kjgoGqM7E_CfOQ4mogvTw.woff) format('woff');}@font-face {font-family: 'Barlow';font-style: italic;font-weight: 400;font-display: swap;src: url(https://fonts.gstatic.com/s/barlow/v12/7cHrv4kjgoGqM7E_Cfs1wHk.woff) format('woff');}@font-face {font-family: 'Barlow';font-style: italic;font-weight: 500;font-display: swap;src: url(https://fonts.gstatic.com/s/barlow/v12/7cHsv4kjgoGqM7E_CfPI42ogvTw.woff) format('woff');}@font-face {font-family: 'Barlow';font-style: italic;font-weight: 600;font-display: swap;src: url(https://fonts.gstatic.com/s/barlow/v12/7cHsv4kjgoGqM7E_CfPk5GogvTw.woff) format('woff');}@font-face {font-family: 'Barlow';font-style: italic;font-weight: 700;font-display: swap;src: url(https://fonts.gstatic.com/s/barlow/v12/7cHsv4kjgoGqM7E_CfOA5WogvTw.woff) format('woff');}@font-face {font-family: 'Barlow';font-style: italic;font-weight: 800;font-display: swap;src: url(https://fonts.gstatic.com/s/barlow/v12/7cHsv4kjgoGqM7E_CfOc5mogvTw.woff) format('woff');}@font-face {font-family: 'Barlow';font-style: italic;font-weight: 900;font-display: swap;src: url(https://fonts.gstatic.com/s/barlow/v12/7cHsv4kjgoGqM7E_CfO452ogvTw.woff) format('woff');}@font-face {font-family: 'Barlow';font-style: normal;font-weight: 100;font-display: swap;src: url(https://fonts.gstatic.com/s/barlow/v12/7cHrv4kjgoGqM7E3b_s1wHk.woff) format('woff');}@font-face {font-family: 'Barlow';font-style: normal;font-weight: 200;font-display: swap;src: url(https://fonts.gstatic.com/s/barlow/v12/7cHqv4kjgoGqM7E3w-os6Voq.woff) format('woff');}@font-face {font-family: 'Barlow';font-style: normal;font-weight: 300;font-display: swap;src: url(https://fonts.gstatic.com/s/barlow/v12/7cHqv4kjgoGqM7E3p-ks6Voq.woff) format('woff');}@font-face {font-family: 'Barlow';font-style: normal;font-weight: 400;font-display: swap;src: url(https://fonts.gstatic.com/s/barlow/v12/7cHpv4kjgoGqM7E_Ass_.woff) format('woff');}@font-face {font-family: 'Barlow';font-style: normal;font-weight: 500;font-display: swap;src: url(https://fonts.gstatic.com/s/barlow/v12/7cHqv4kjgoGqM7E3_-gs6Voq.woff) format('woff');}@font-face {font-family: 'Barlow';font-style: normal;font-weight: 600;font-display: swap;src: url(https://fonts.gstatic.com/s/barlow/v12/7cHqv4kjgoGqM7E30-8s6Voq.woff) format('woff');}@font-face {font-family: 'Barlow';font-style: normal;font-weight: 700;font-display: swap;src: url(https://fonts.gstatic.com/s/barlow/v12/7cHqv4kjgoGqM7E3t-4s6Voq.woff) format('woff');}@font-face {font-family: 'Barlow';font-style: normal;font-weight: 800;font-display: swap;src: url(https://fonts.gstatic.com/s/barlow/v12/7cHqv4kjgoGqM7E3q-0s6Voq.woff) format('woff');}@font-face {font-family: 'Barlow';font-style: normal;font-weight: 900;font-display: swap;src: url(https://fonts.gstatic.com/s/barlow/v12/7cHqv4kjgoGqM7E3j-ws6Voq.woff) format('woff');}@font-face {font-family: 'Barlow Condensed';font-style: italic;font-weight: 100;font-display: swap;src: url(https://fonts.gstatic.com/s/barlowcondensed/v12/HTxzL3I-JCGChYJ8VI-L6OO_au7B6xTru2H_nKo.woff) format('woff');}@font-face {font-family: 'Barlow Condensed';font-style: italic;font-weight: 200;font-display: swap;src: url(https://fonts.gstatic.com/s/barlowcondensed/v12/HTxyL3I-JCGChYJ8VI-L6OO_au7B6xTrF3DmtYkA.woff) format('woff');}@font-face {font-family: 'Barlow Condensed';font-style: italic;font-weight: 300;font-display: swap;src: url(https://fonts.gstatic.com/s/barlowcondensed/v12/HTxyL3I-JCGChYJ8VI-L6OO_au7B6xTrc3PmtYkA.woff) format('woff');}@font-face {font-family: 'Barlow Condensed';font-style: italic;font-weight: 400;font-display: swap;src: url(https://fonts.gstatic.com/s/barlowcondensed/v12/HTxxL3I-JCGChYJ8VI-L6OO_au7B6xTj1lH1.woff) format('woff');}@font-face {font-family: 'Barlow Condensed';font-style: italic;font-weight: 500;font-display: swap;src: url(https://fonts.gstatic.com/s/barlowcondensed/v12/HTxyL3I-JCGChYJ8VI-L6OO_au7B6xTrK3LmtYkA.woff) format('woff');}@font-face {font-family: 'Barlow Condensed';font-style: italic;font-weight: 600;font-display: swap;src: url(https://fonts.gstatic.com/s/barlowcondensed/v12/HTxyL3I-JCGChYJ8VI-L6OO_au7B6xTrB3XmtYkA.woff) format('woff');}@font-face {font-family: 'Barlow Condensed';font-style: italic;font-weight: 700;font-display: swap;src: url(https://fonts.gstatic.com/s/barlowcondensed/v12/HTxyL3I-JCGChYJ8VI-L6OO_au7B6xTrY3TmtYkA.woff) format('woff');}@font-face {font-family: 'Barlow Condensed';font-style: italic;font-weight: 800;font-display: swap;src: url(https://fonts.gstatic.com/s/barlowcondensed/v12/HTxyL3I-JCGChYJ8VI-L6OO_au7B6xTrf3fmtYkA.woff) format('woff');}@font-face {font-family: 'Barlow Condensed';font-style: italic;font-weight: 900;font-display: swap;src: url(https://fonts.gstatic.com/s/barlowcondensed/v12/HTxyL3I-JCGChYJ8VI-L6OO_au7B6xTrW3bmtYkA.woff) format('woff');}@font-face {font-family: 'Barlow Condensed';font-style: normal;font-weight: 100;font-display: swap;src: url(https://fonts.gstatic.com/s/barlowcondensed/v12/HTxxL3I-JCGChYJ8VI-L6OO_au7B43Lj1lH1.woff) format('woff');}@font-face {font-family: 'Barlow Condensed';font-style: normal;font-weight: 200;font-display: swap;src: url(https://fonts.gstatic.com/s/barlowcondensed/v12/HTxwL3I-JCGChYJ8VI-L6OO_au7B497yz3jWvw.woff) format('woff');}@font-face {font-family: 'Barlow Condensed';font-style: normal;font-weight: 300;font-display: swap;src: url(https://fonts.gstatic.com/s/barlowcondensed/v12/HTxwL3I-JCGChYJ8VI-L6OO_au7B47rxz3jWvw.woff) format('woff');}@font-face {font-family: 'Barlow Condensed';font-style: normal;font-weight: 400;font-display: swap;src: url(https://fonts.gstatic.com/s/barlowcondensed/v12/HTx3L3I-JCGChYJ8VI-L6OO_au7B6x_T3A.woff) format('woff');}@font-face {font-family: 'Barlow Condensed';font-style: normal;font-weight: 500;font-display: swap;src: url(https://fonts.gstatic.com/s/barlowcondensed/v12/HTxwL3I-JCGChYJ8VI-L6OO_au7B4-Lwz3jWvw.woff) format('woff');}@font-face {font-family: 'Barlow Condensed';font-style: normal;font-weight: 600;font-display: swap;src: url(https://fonts.gstatic.com/s/barlowcondensed/v12/HTxwL3I-JCGChYJ8VI-L6OO_au7B4873z3jWvw.woff) format('woff');}@font-face {font-family: 'Barlow Condensed';font-style: normal;font-weight: 700;font-display: swap;src: url(https://fonts.gstatic.com/s/barlowcondensed/v12/HTxwL3I-JCGChYJ8VI-L6OO_au7B46r2z3jWvw.woff) format('woff');}@font-face {font-family: 'Barlow Condensed';font-style: normal;font-weight: 800;font-display: swap;src: url(https://fonts.gstatic.com/s/barlowcondensed/v12/HTxwL3I-JCGChYJ8VI-L6OO_au7B47b1z3jWvw.woff) format('woff');}@font-face {font-family: 'Barlow Condensed';font-style: normal;font-weight: 900;font-display: swap;src: url(https://fonts.gstatic.com/s/barlowcondensed/v12/HTxwL3I-JCGChYJ8VI-L6OO_au7B45L0z3jWvw.woff) format('woff');}@font-face {font-family: 'Heebo';font-style: normal;font-weight: 100;font-display: swap;src: url(https://fonts.gstatic.com/s/heebo/v22/NGSpv5_NC0k9P_v6ZUCbLRAHxK1EiS2sdUmg.woff) format('woff');}@font-face {font-family: 'Heebo';font-style: normal;font-weight: 200;font-display: swap;src: url(https://fonts.gstatic.com/s/heebo/v22/NGSpv5_NC0k9P_v6ZUCbLRAHxK1ECSysdUmg.woff) format('woff');}@font-face {font-family: 'Heebo';font-style: normal;font-weight: 300;font-display: swap;src: url(https://fonts.gstatic.com/s/heebo/v22/NGSpv5_NC0k9P_v6ZUCbLRAHxK1E1yysdUmg.woff) format('woff');}@font-face {font-family: 'Heebo';font-style: normal;font-weight: 400;font-display: swap;src: url(https://fonts.gstatic.com/s/heebo/v22/NGSpv5_NC0k9P_v6ZUCbLRAHxK1EiSysdUmg.woff) format('woff');}@font-face {font-family: 'Heebo';font-style: normal;font-weight: 500;font-display: swap;src: url(https://fonts.gstatic.com/s/heebo/v22/NGSpv5_NC0k9P_v6ZUCbLRAHxK1EuyysdUmg.woff) format('woff');}@font-face {font-family: 'Heebo';font-style: normal;font-weight: 600;font-display: swap;src: url(https://fonts.gstatic.com/s/heebo/v22/NGSpv5_NC0k9P_v6ZUCbLRAHxK1EVyusdUmg.woff) format('woff');}@font-face {font-family: 'Heebo';font-style: normal;font-weight: 700;font-display: swap;src: url(https://fonts.gstatic.com/s/heebo/v22/NGSpv5_NC0k9P_v6ZUCbLRAHxK1EbiusdUmg.woff) format('woff');}@font-face {font-family: 'Heebo';font-style: normal;font-weight: 800;font-display: swap;src: url(https://fonts.gstatic.com/s/heebo/v22/NGSpv5_NC0k9P_v6ZUCbLRAHxK1ECSusdUmg.woff) format('woff');}@font-face {font-family: 'Heebo';font-style: normal;font-weight: 900;font-display: swap;src: url(https://fonts.gstatic.com/s/heebo/v22/NGSpv5_NC0k9P_v6ZUCbLRAHxK1EICusdUmg.woff) format('woff');}/* User Agent: Mozilla/5.0 (Windows NT 6.3; rv:39.0) Gecko/20100101 Firefox/39.0 */@font-face {font-family: 'Barlow';font-style: italic;font-weight: 100;font-display: swap;src: url(https://fonts.gstatic.com/s/barlow/v12/7cHtv4kjgoGqM7E_CfNY8HMJmA.woff2) format('woff2');}@font-face {font-family: 'Barlow';font-style: italic;font-weight: 200;font-display: swap;src: url(https://fonts.gstatic.com/s/barlow/v12/7cHsv4kjgoGqM7E_CfP04WogvTo.woff2) format('woff2');}@font-face {font-family: 'Barlow';font-style: italic;font-weight: 300;font-display: swap;src: url(https://fonts.gstatic.com/s/barlow/v12/7cHsv4kjgoGqM7E_CfOQ4mogvTo.woff2) format('woff2');}@font-face {font-family: 'Barlow';font-style: italic;font-weight: 400;font-display: swap;src: url(https://fonts.gstatic.com/s/barlow/v12/7cHrv4kjgoGqM7E_Cfs1wH8.woff2) format('woff2');}@font-face {font-family: 'Barlow';font-style: italic;font-weight: 500;font-display: swap;src: url(https://fonts.gstatic.com/s/barlow/v12/7cHsv4kjgoGqM7E_CfPI42ogvTo.woff2) format('woff2');}@font-face {font-family: 'Barlow';font-style: italic;font-weight: 600;font-display: swap;src: url(https://fonts.gstatic.com/s/barlow/v12/7cHsv4kjgoGqM7E_CfPk5GogvTo.woff2) format('woff2');}@font-face {font-family: 'Barlow';font-style: italic;font-weight: 700;font-display: swap;src: url(https://fonts.gstatic.com/s/barlow/v12/7cHsv4kjgoGqM7E_CfOA5WogvTo.woff2) format('woff2');}@font-face {font-family: 'Barlow';font-style: italic;font-weight: 800;font-display: swap;src: url(https://fonts.gstatic.com/s/barlow/v12/7cHsv4kjgoGqM7E_CfOc5mogvTo.woff2) format('woff2');}@font-face {font-family: 'Barlow';font-style: italic;font-weight: 900;font-display: swap;src: url(https://fonts.gstatic.com/s/barlow/v12/7cHsv4kjgoGqM7E_CfO452ogvTo.woff2) format('woff2');}@font-face {font-family: 'Barlow';font-style: normal;font-weight: 100;font-display: swap;src: url(https://fonts.gstatic.com/s/barlow/v12/7cHrv4kjgoGqM7E3b_s1wH8.woff2) format('woff2');}@font-face {font-family: 'Barlow';font-style: normal;font-weight: 200;font-display: swap;src: url(https://fonts.gstatic.com/s/barlow/v12/7cHqv4kjgoGqM7E3w-os6Vos.woff2) format('woff2');}@font-face {font-family: 'Barlow';font-style: normal;font-weight: 300;font-display: swap;src: url(https://fonts.gstatic.com/s/barlow/v12/7cHqv4kjgoGqM7E3p-ks6Vos.woff2) format('woff2');}@font-face {font-family: 'Barlow';font-style: normal;font-weight: 400;font-display: swap;src: url(https://fonts.gstatic.com/s/barlow/v12/7cHpv4kjgoGqM7E_Ass5.woff2) format('woff2');}@font-face {font-family: 'Barlow';font-style: normal;font-weight: 500;font-display: swap;src: url(https://fonts.gstatic.com/s/barlow/v12/7cHqv4kjgoGqM7E3_-gs6Vos.woff2) format('woff2');}@font-face {font-family: 'Barlow';font-style: normal;font-weight: 600;font-display: swap;src: url(https://fonts.gstatic.com/s/barlow/v12/7cHqv4kjgoGqM7E30-8s6Vos.woff2) format('woff2');}@font-face {font-family: 'Barlow';font-style: normal;font-weight: 700;font-display: swap;src: url(https://fonts.gstatic.com/s/barlow/v12/7cHqv4kjgoGqM7E3t-4s6Vos.woff2) format('woff2');}@font-face {font-family: 'Barlow';font-style: normal;font-weight: 800;font-display: swap;src: url(https://fonts.gstatic.com/s/barlow/v12/7cHqv4kjgoGqM7E3q-0s6Vos.woff2) format('woff2');}@font-face {font-family: 'Barlow';font-style: normal;font-weight: 900;font-display: swap;src: url(https://fonts.gstatic.com/s/barlow/v12/7cHqv4kjgoGqM7E3j-ws6Vos.woff2) format('woff2');}@font-face {font-family: 'Barlow Condensed';font-style: italic;font-weight: 100;font-display: swap;src: url(https://fonts.gstatic.com/s/barlowcondensed/v12/HTxzL3I-JCGChYJ8VI-L6OO_au7B6xTru2H_nKw.woff2) format('woff2');}@font-face {font-family: 'Barlow Condensed';font-style: italic;font-weight: 200;font-display: swap;src: url(https://fonts.gstatic.com/s/barlowcondensed/v12/HTxyL3I-JCGChYJ8VI-L6OO_au7B6xTrF3DmtYkG.woff2) format('woff2');}@font-face {font-family: 'Barlow Condensed';font-style: italic;font-weight: 300;font-display: swap;src: url(https://fonts.gstatic.com/s/barlowcondensed/v12/HTxyL3I-JCGChYJ8VI-L6OO_au7B6xTrc3PmtYkG.woff2) format('woff2');}@font-face {font-family: 'Barlow Condensed';font-style: italic;font-weight: 400;font-display: swap;src: url(https://fonts.gstatic.com/s/barlowcondensed/v12/HTxxL3I-JCGChYJ8VI-L6OO_au7B6xTj1lHz.woff2) format('woff2');}@font-face {font-family: 'Barlow Condensed';font-style: italic;font-weight: 500;font-display: swap;src: url(https://fonts.gstatic.com/s/barlowcondensed/v12/HTxyL3I-JCGChYJ8VI-L6OO_au7B6xTrK3LmtYkG.woff2) format('woff2');}@font-face {font-family: 'Barlow Condensed';font-style: italic;font-weight: 600;font-display: swap;src: url(https://fonts.gstatic.com/s/barlowcondensed/v12/HTxyL3I-JCGChYJ8VI-L6OO_au7B6xTrB3XmtYkG.woff2) format('woff2');}@font-face {font-family: 'Barlow Condensed';font-style: italic;font-weight: 700;font-display: swap;src: url(https://fonts.gstatic.com/s/barlowcondensed/v12/HTxyL3I-JCGChYJ8VI-L6OO_au7B6xTrY3TmtYkG.woff2) format('woff2');}@font-face {font-family: 'Barlow Condensed';font-style: italic;font-weight: 800;font-display: swap;src: url(https://fonts.gstatic.com/s/barlowcondensed/v12/HTxyL3I-JCGChYJ8VI-L6OO_au7B6xTrf3fmtYkG.woff2) format('woff2');}@font-face {font-family: 'Barlow Condensed';font-style: italic;font-weight: 900;font-display: swap;src: url(https://fonts.gstatic.com/s/barlowcondensed/v12/HTxyL3I-JCGChYJ8VI-L6OO_au7B6xTrW3bmtYkG.woff2) format('woff2');}@font-face {font-family: 'Barlow Condensed';font-style: normal;font-weight: 100;font-display: swap;src: url(https://fonts.gstatic.com/s/barlowcondensed/v12/HTxxL3I-JCGChYJ8VI-L6OO_au7B43Lj1lHz.woff2) format('woff2');}@font-face {font-family: 'Barlow Condensed';font-style: normal;font-weight: 200;font-display: swap;src: url(https://fonts.gstatic.com/s/barlowcondensed/v12/HTxwL3I-JCGChYJ8VI-L6OO_au7B497yz3jWuQ.woff2) format('woff2');}@font-face {font-family: 'Barlow Condensed';font-style: normal;font-weight: 300;font-display: swap;src: url(https://fonts.gstatic.com/s/barlowcondensed/v12/HTxwL3I-JCGChYJ8VI-L6OO_au7B47rxz3jWuQ.woff2) format('woff2');}@font-face {font-family: 'Barlow Condensed';font-style: normal;font-weight: 400;font-display: swap;src: url(https://fonts.gstatic.com/s/barlowcondensed/v12/HTx3L3I-JCGChYJ8VI-L6OO_au7B6x_T2g.woff2) format('woff2');}@font-face {font-family: 'Barlow Condensed';font-style: normal;font-weight: 500;font-display: swap;src: url(https://fonts.gstatic.com/s/barlowcondensed/v12/HTxwL3I-JCGChYJ8VI-L6OO_au7B4-Lwz3jWuQ.woff2) format('woff2');}@font-face {font-family: 'Barlow Condensed';font-style: normal;font-weight: 600;font-display: swap;src: url(https://fonts.gstatic.com/s/barlowcondensed/v12/HTxwL3I-JCGChYJ8VI-L6OO_au7B4873z3jWuQ.woff2) format('woff2');}@font-face {font-family: 'Barlow Condensed';font-style: normal;font-weight: 700;font-display: swap;src: url(https://fonts.gstatic.com/s/barlowcondensed/v12/HTxwL3I-JCGChYJ8VI-L6OO_au7B46r2z3jWuQ.woff2) format('woff2');}@font-face {font-family: 'Barlow Condensed';font-style: normal;font-weight: 800;font-display: swap;src: url(https://fonts.gstatic.com/s/barlowcondensed/v12/HTxwL3I-JCGChYJ8VI-L6OO_au7B47b1z3jWuQ.woff2) format('woff2');}@font-face {font-family: 'Barlow Condensed';font-style: normal;font-weight: 900;font-display: swap;src: url(https://fonts.gstatic.com/s/barlowcondensed/v12/HTxwL3I-JCGChYJ8VI-L6OO_au7B45L0z3jWuQ.woff2) format('woff2');}@font-face {font-family: 'Heebo';font-style: normal;font-weight: 100;font-display: swap;src: url(https://fonts.gstatic.com/s/heebo/v22/NGSpv5_NC0k9P_v6ZUCbLRAHxK1EiS2sdUmm.woff2) format('woff2');}@font-face {font-family: 'Heebo';font-style: normal;font-weight: 200;font-display: swap;src: url(https://fonts.gstatic.com/s/heebo/v22/NGSpv5_NC0k9P_v6ZUCbLRAHxK1ECSysdUmm.woff2) format('woff2');}@font-face {font-family: 'Heebo';font-style: normal;font-weight: 300;font-display: swap;src: url(https://fonts.gstatic.com/s/heebo/v22/NGSpv5_NC0k9P_v6ZUCbLRAHxK1E1yysdUmm.woff2) format('woff2');}@font-face {font-family: 'Heebo';font-style: normal;font-weight: 400;font-display: swap;src: url(https://fonts.gstatic.com/s/heebo/v22/NGSpv5_NC0k9P_v6ZUCbLRAHxK1EiSysdUmm.woff2) format('woff2');}@font-face {font-family: 'Heebo';font-style: normal;font-weight: 500;font-display: swap;src: url(https://fonts.gstatic.com/s/heebo/v22/NGSpv5_NC0k9P_v6ZUCbLRAHxK1EuyysdUmm.woff2) format('woff2');}@font-face {font-family: 'Heebo';font-style: normal;font-weight: 600;font-display: swap;src: url(https://fonts.gstatic.com/s/heebo/v22/NGSpv5_NC0k9P_v6ZUCbLRAHxK1EVyusdUmm.woff2) format('woff2');}@font-face {font-family: 'Heebo';font-style: normal;font-weight: 700;font-display: swap;src: url(https://fonts.gstatic.com/s/heebo/v22/NGSpv5_NC0k9P_v6ZUCbLRAHxK1EbiusdUmm.woff2) format('woff2');}@font-face {font-family: 'Heebo';font-style: normal;font-weight: 800;font-display: swap;src: url(https://fonts.gstatic.com/s/heebo/v22/NGSpv5_NC0k9P_v6ZUCbLRAHxK1ECSusdUmm.woff2) format('woff2');}@font-face {font-family: 'Heebo';font-style: normal;font-weight: 900;font-display: swap;src: url(https://fonts.gstatic.com/s/heebo/v22/NGSpv5_NC0k9P_v6ZUCbLRAHxK1EICusdUmm.woff2) format('woff2');}</style><meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+<script>window._wca = window._wca || [];</script>
+
+	<!-- This site is optimized with the Yoast SEO plugin v21.7 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Fierté Montréal 2023 - OFQJ France</title>
+	<meta name="description" content="L&#039;OFQJ soutient les chercheur.e.s, militant.e.s, jeunes engagé.e.s en faveur des droits LGBTQ+ au festival Fierté Montréal 2023" />
+	<link rel="canonical" href="https://www.ofqj.org/fierte-montreal-2023/" />
+	<meta property="og:locale" content="fr_FR" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Fierté Montréal 2023 - OFQJ France" />
+	<meta property="og:description" content="L&#039;OFQJ soutient les chercheur.e.s, militant.e.s, jeunes engagé.e.s en faveur des droits LGBTQ+ au festival Fierté Montréal 2023" />
+	<meta property="og:url" content="https://www.ofqj.org/fierte-montreal-2023/" />
+	<meta property="og:site_name" content="OFQJ en France" />
+	<meta property="article:publisher" content="https://www.facebook.com/OFQJenFrance/app/116943498446376/" />
+	<meta property="article:published_time" content="2023-03-06T12:11:51+00:00" />
+	<meta property="article:modified_time" content="2023-05-02T12:09:22+00:00" />
+	<meta property="og:image" content="https://www.ofqj.org/wp-content/uploads/2023/03/OFQJ-FIERTE-BENEVOLE-750x47056-1.png" />
+	<meta property="og:image:width" content="750" />
+	<meta property="og:image:height" content="470" />
+	<meta property="og:image:type" content="image/png" />
+	<meta name="author" content="Claire Favillier" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:creator" content="@ofqj_france" />
+	<meta name="twitter:site" content="@ofqj_france" />
+	<meta name="twitter:label1" content="Écrit par" />
+	<meta name="twitter:data1" content="Claire Favillier" />
+	<meta name="twitter:label2" content="Durée de lecture estimée" />
+	<meta name="twitter:data2" content="7 minutes" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Article","@id":"https://www.ofqj.org/fierte-montreal-2023/#article","isPartOf":{"@id":"https://www.ofqj.org/fierte-montreal-2023/"},"author":{"name":"Claire Favillier","@id":"https://www.ofqj.org/#/schema/person/12c7f258098a3c29262641dc37758344"},"headline":"Fierté Montréal 2023","datePublished":"2023-03-06T12:11:51+00:00","dateModified":"2023-05-02T12:09:22+00:00","mainEntityOfPage":{"@id":"https://www.ofqj.org/fierte-montreal-2023/"},"wordCount":2139,"commentCount":0,"publisher":{"@id":"https://www.ofqj.org/#organization"},"image":{"@id":"https://www.ofqj.org/fierte-montreal-2023/#primaryimage"},"thumbnailUrl":"https://i0.wp.com/www.ofqj.org/wp-content/uploads/2023/03/OFQJ-FIERTE-BENEVOLE-750x47056-1.png?fit=750%2C470&ssl=1","keywords":["Engagement citoyen","Fierté Montréal","Gay Pride"],"articleSection":["Archive appels à candidature"],"inLanguage":"fr-FR","potentialAction":[{"@type":"CommentAction","name":"Comment","target":["https://www.ofqj.org/fierte-montreal-2023/#respond"]}]},{"@type":"WebPage","@id":"https://www.ofqj.org/fierte-montreal-2023/","url":"https://www.ofqj.org/fierte-montreal-2023/","name":"Fierté Montréal 2023 - OFQJ France","isPartOf":{"@id":"https://www.ofqj.org/#website"},"primaryImageOfPage":{"@id":"https://www.ofqj.org/fierte-montreal-2023/#primaryimage"},"image":{"@id":"https://www.ofqj.org/fierte-montreal-2023/#primaryimage"},"thumbnailUrl":"https://i0.wp.com/www.ofqj.org/wp-content/uploads/2023/03/OFQJ-FIERTE-BENEVOLE-750x47056-1.png?fit=750%2C470&ssl=1","datePublished":"2023-03-06T12:11:51+00:00","dateModified":"2023-05-02T12:09:22+00:00","description":"L'OFQJ soutient les chercheur.e.s, militant.e.s, jeunes engagé.e.s en faveur des droits LGBTQ+ au festival Fierté Montréal 2023","breadcrumb":{"@id":"https://www.ofqj.org/fierte-montreal-2023/#breadcrumb"},"inLanguage":"fr-FR","potentialAction":[{"@type":"ReadAction","target":["https://www.ofqj.org/fierte-montreal-2023/"]}]},{"@type":"ImageObject","inLanguage":"fr-FR","@id":"https://www.ofqj.org/fierte-montreal-2023/#primaryimage","url":"https://i0.wp.com/www.ofqj.org/wp-content/uploads/2023/03/OFQJ-FIERTE-BENEVOLE-750x47056-1.png?fit=750%2C470&ssl=1","contentUrl":"https://i0.wp.com/www.ofqj.org/wp-content/uploads/2023/03/OFQJ-FIERTE-BENEVOLE-750x47056-1.png?fit=750%2C470&ssl=1","width":750,"height":470,"caption":"Fierté Montréal 2023"},{"@type":"BreadcrumbList","@id":"https://www.ofqj.org/fierte-montreal-2023/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Accueil","item":"https://www.ofqj.org/"},{"@type":"ListItem","position":2,"name":"Archive appels à candidature","item":"https://www.ofqj.org/category/archive-appels-a-candidature/"},{"@type":"ListItem","position":3,"name":"Fierté Montréal 2023"}]},{"@type":"WebSite","@id":"https://www.ofqj.org/#website","url":"https://www.ofqj.org/","name":"OFQJ en France","description":"Office Franco-Québecois pour la jeunesse","publisher":{"@id":"https://www.ofqj.org/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.ofqj.org/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"fr-FR"},{"@type":"Organization","@id":"https://www.ofqj.org/#organization","name":"OFQJ : Office franco-québécois pour la jeunesse","url":"https://www.ofqj.org/","logo":{"@type":"ImageObject","inLanguage":"fr-FR","@id":"https://www.ofqj.org/#/schema/logo/image/","url":"https://www.ofqj.org/wp-content/uploads/2019/03/logo-neuf.png","contentUrl":"https://www.ofqj.org/wp-content/uploads/2019/03/logo-neuf.png","width":491,"height":200,"caption":"OFQJ : Office franco-québécois pour la jeunesse"},"image":{"@id":"https://www.ofqj.org/#/schema/logo/image/"},"sameAs":["https://www.facebook.com/OFQJenFrance/app/116943498446376/","https://twitter.com/ofqj_france","https://www.instagram.com/ofqj_volontaires","https://www.linkedin.com/company/office-franco-qu-b-cois-pour-la-jeunesse","https://www.youtube.com/channel/UCEuJv1hIt-qvCU6GI6IvQfg","https://fr.wikipedia.org/wiki/Office_franco-québécois_pour_la_jeunesse"]},{"@type":"Person","@id":"https://www.ofqj.org/#/schema/person/12c7f258098a3c29262641dc37758344","name":"Claire Favillier","image":{"@type":"ImageObject","inLanguage":"fr-FR","@id":"https://www.ofqj.org/#/schema/person/image/","url":"https://secure.gravatar.com/avatar/400074309145548f7486a1b9d79dd791?s=96&d=mm&r=g","contentUrl":"https://secure.gravatar.com/avatar/400074309145548f7486a1b9d79dd791?s=96&d=mm&r=g","caption":"Claire Favillier"}}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//stats.wp.com' />
+<link rel='dns-prefetch' href='//www.ofqj.org' />
+<link rel='dns-prefetch' href='//www.googletagmanager.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//i0.wp.com' />
+<link rel='dns-prefetch' href='//c0.wp.com' />
+<link rel="alternate" type="application/rss+xml" title="OFQJ en France &raquo; Flux" href="https://www.ofqj.org/feed/" />
+<link rel="alternate" type="application/rss+xml" title="OFQJ en France &raquo; Flux des commentaires" href="https://www.ofqj.org/comments/feed/" />
+<meta content="Divi-child v." name="generator"/><link rel='stylesheet' id='pt-cv-public-style-css' href='https://www.ofqj.org/wp-content/plugins/content-views-query-and-display-post-page/public/assets/css/cv.css' type='text/css' media='all' />
+<link rel='stylesheet' id='pt-cv-public-pro-style-css' href='https://www.ofqj.org/wp-content/plugins/pt-content-views-pro/public/assets/css/cvpro.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='mec-select2-style-css' href='https://www.ofqj.org/wp-content/plugins/modern-events-calendar-lite/assets/packages/select2/select2.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='mec-font-icons-css' href='https://www.ofqj.org/wp-content/plugins/modern-events-calendar-lite/assets/css/iconfonts.css' type='text/css' media='all' />
+<link rel='stylesheet' id='mec-frontend-style-css' href='https://www.ofqj.org/wp-content/plugins/modern-events-calendar-lite/assets/css/frontend.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='mec-tooltip-style-css' href='https://www.ofqj.org/wp-content/plugins/modern-events-calendar-lite/assets/packages/tooltip/tooltip.css' type='text/css' media='all' />
+<link rel='stylesheet' id='mec-tooltip-shadow-style-css' href='https://www.ofqj.org/wp-content/plugins/modern-events-calendar-lite/assets/packages/tooltip/tooltipster-sideTip-shadow.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='featherlight-css' href='https://www.ofqj.org/wp-content/plugins/modern-events-calendar-lite/assets/packages/featherlight/featherlight.css' type='text/css' media='all' />
+<link rel='stylesheet' id='mec-lity-style-css' href='https://www.ofqj.org/wp-content/plugins/modern-events-calendar-lite/assets/packages/lity/lity.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='mec-general-calendar-style-css' href='https://www.ofqj.org/wp-content/plugins/modern-events-calendar-lite/assets/css/mec-general-calendar.css' type='text/css' media='all' />
+<link rel='stylesheet' id='sbi_styles-css' href='https://www.ofqj.org/wp-content/plugins/instagram-feed/css/sbi-styles.min.css' type='text/css' media='all' />
+<style id='wp-block-library-theme-inline-css' type='text/css'>
+.wp-block-audio figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-audio figcaption{color:hsla(0,0%,100%,.65)}.wp-block-audio{margin:0 0 1em}.wp-block-code{border:1px solid #ccc;border-radius:4px;font-family:Menlo,Consolas,monaco,monospace;padding:.8em 1em}.wp-block-embed figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-embed figcaption{color:hsla(0,0%,100%,.65)}.wp-block-embed{margin:0 0 1em}.blocks-gallery-caption{color:#555;font-size:13px;text-align:center}.is-dark-theme .blocks-gallery-caption{color:hsla(0,0%,100%,.65)}.wp-block-image figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-image figcaption{color:hsla(0,0%,100%,.65)}.wp-block-image{margin:0 0 1em}.wp-block-pullquote{border-bottom:4px solid;border-top:4px solid;color:currentColor;margin-bottom:1.75em}.wp-block-pullquote cite,.wp-block-pullquote footer,.wp-block-pullquote__citation{color:currentColor;font-size:.8125em;font-style:normal;text-transform:uppercase}.wp-block-quote{border-left:.25em solid;margin:0 0 1.75em;padding-left:1em}.wp-block-quote cite,.wp-block-quote footer{color:currentColor;font-size:.8125em;font-style:normal;position:relative}.wp-block-quote.has-text-align-right{border-left:none;border-right:.25em solid;padding-left:0;padding-right:1em}.wp-block-quote.has-text-align-center{border:none;padding-left:0}.wp-block-quote.is-large,.wp-block-quote.is-style-large,.wp-block-quote.is-style-plain{border:none}.wp-block-search .wp-block-search__label{font-weight:700}.wp-block-search__button{border:1px solid #ccc;padding:.375em .625em}:where(.wp-block-group.has-background){padding:1.25em 2.375em}.wp-block-separator.has-css-opacity{opacity:.4}.wp-block-separator{border:none;border-bottom:2px solid;margin-left:auto;margin-right:auto}.wp-block-separator.has-alpha-channel-opacity{opacity:1}.wp-block-separator:not(.is-style-wide):not(.is-style-dots){width:100px}.wp-block-separator.has-background:not(.is-style-dots){border-bottom:none;height:1px}.wp-block-separator.has-background:not(.is-style-wide):not(.is-style-dots){height:2px}.wp-block-table{margin:0 0 1em}.wp-block-table td,.wp-block-table th{word-break:normal}.wp-block-table figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-table figcaption{color:hsla(0,0%,100%,.65)}.wp-block-video figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-video figcaption{color:hsla(0,0%,100%,.65)}.wp-block-video{margin:0 0 1em}.wp-block-template-part.has-background{margin-bottom:0;margin-top:0;padding:1.25em 2.375em}
+</style>
+<link rel='stylesheet' id='mediaelement-css' href='https://c0.wp.com/c/6.4.2/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-mediaelement-css' href='https://c0.wp.com/c/6.4.2/wp-includes/js/mediaelement/wp-mediaelement.min.css' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}body { margin: 0;--wp--style--global--content-size: 823px;--wp--style--global--wide-size: 1080px; }.wp-site-blocks > .alignleft { float: left; margin-right: 2em; }.wp-site-blocks > .alignright { float: right; margin-left: 2em; }.wp-site-blocks > .aligncenter { justify-content: center; margin-left: auto; margin-right: auto; }:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}a:where(:not(.wp-element-button)){text-decoration: underline;}.wp-element-button, .wp-block-button__link{background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;line-height: inherit;padding: calc(0.667em + 2px) calc(1.333em + 2px);text-decoration: none;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='dica-lightbox-styles-css' href='https://www.ofqj.org/wp-content/plugins/dg-divi-carousel/styles/light-box-styles.css' type='text/css' media='all' />
+<link rel='stylesheet' id='swipe-style-css' href='https://www.ofqj.org/wp-content/plugins/dg-divi-carousel/styles/swiper.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='rpt_front_style-css' href='https://www.ofqj.org/wp-content/plugins/related-posts-thumbnails/assets/css/front.css' type='text/css' media='all' />
+<link rel='stylesheet' id='searchandfilter-css' href='https://www.ofqj.org/wp-content/plugins/search-filter/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='magnific-popup-css' href='https://www.ofqj.org/wp-content/themes/Divi/includes/builder/feature/dynamic-assets/assets/css/magnific_popup.css' type='text/css' media='all' />
+<link rel='stylesheet' id='dsm-animate-css' href='https://www.ofqj.org/wp-content/plugins/supreme-modules-for-divi/public/css/animate.css' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-layout-css' href='https://c0.wp.com/p/woocommerce/8.4.0/assets/css/woocommerce-layout.css' type='text/css' media='all' />
+<style id='woocommerce-layout-inline-css' type='text/css'>
+
+	.infinite-scroll .woocommerce-pagination {
+		display: none;
+	}
+</style>
+<link rel='stylesheet' id='woocommerce-smallscreen-css' href='https://c0.wp.com/p/woocommerce/8.4.0/assets/css/woocommerce-smallscreen.css' type='text/css' media='only screen and (max-width: 768px)' />
+<link rel='stylesheet' id='woocommerce-general-css' href='https://c0.wp.com/p/woocommerce/8.4.0/assets/css/woocommerce.css' type='text/css' media='all' />
+<style id='woocommerce-inline-inline-css' type='text/css'>
+.woocommerce form .form-row .required { visibility: visible; }
+</style>
+<link rel='stylesheet' id='cmplz-general-css' href='https://www.ofqj.org/wp-content/plugins/complianz-gdpr/assets/css/cookieblocker.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='popup-maker-site-css' href='//www.ofqj.org/wp-content/uploads/pum/pum-site-styles.css?generated=1688466903' type='text/css' media='all' />
+<link rel='stylesheet' id='et_monarch-css-css' href='https://www.ofqj.org/wp-content/plugins/monarch/css/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='et-gf-open-sans-css' href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' type='text/css' media='all' />
+<link rel='stylesheet' id='divi-carousel-styles-css' href='https://www.ofqj.org/wp-content/plugins/dg-divi-carousel/styles/style.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='divi-styles-css' href='https://www.ofqj.org/wp-content/plugins/modern-events-calendar-lite/app/addons/divi/styles/style.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='supreme-modules-for-divi-styles-css' href='https://www.ofqj.org/wp-content/plugins/supreme-modules-for-divi/styles/style.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='newsletter-css' href='https://www.ofqj.org/wp-content/plugins/newsletter/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='divi-style-parent-css' href='https://www.ofqj.org/wp-content/themes/Divi/style-static.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='divi-style-pum-css' href='https://www.ofqj.org/wp-content/themes/Divi-child/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css' href='https://c0.wp.com/p/jetpack/12.9.3/css/jetpack.css' type='text/css' media='all' />
+<!--n2css--><script type="text/javascript" src="https://c0.wp.com/c/6.4.2/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js" id="wp-polyfill-inert-js"></script>
+<script type="text/javascript" src="https://c0.wp.com/c/6.4.2/wp-includes/js/dist/vendor/regenerator-runtime.min.js" id="regenerator-runtime-js"></script>
+<script type="text/javascript" src="https://c0.wp.com/c/6.4.2/wp-includes/js/dist/vendor/wp-polyfill.min.js" id="wp-polyfill-js"></script>
+<script type="text/javascript" src="https://c0.wp.com/c/6.4.2/wp-includes/js/dist/hooks.min.js" id="wp-hooks-js"></script>
+<script data-service="jetpack-statistics" data-category="statistics" type="text/plain" data-cmplz-src="https://stats.wp.com/w.js" id="woo-tracks-js"></script>
+<script type="text/javascript" src="https://c0.wp.com/c/6.4.2/wp-includes/js/jquery/jquery.min.js" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://c0.wp.com/c/6.4.2/wp-includes/js/jquery/jquery-migrate.min.js" id="jquery-migrate-js"></script>
+<script type="text/javascript" src="https://www.ofqj.org/wp-content/plugins/modern-events-calendar-lite/assets/js/mec-general-calendar.js" id="mec-general-calendar-script-js"></script>
+<script type="text/javascript" id="mec-frontend-script-js-extra">
+/* <![CDATA[ */
+var mecdata = {"day":"jour","days":"jours","hour":"heure","hours":"heures","minute":"minute","minutes":"minutes","second":"seconde","seconds":"secondes","elementor_edit_mode":"no","recapcha_key":"","ajax_url":"https:\/\/www.ofqj.org\/wp-admin\/admin-ajax.php","fes_nonce":"93356a4780","current_year":"2024","current_month":"01","datepicker_format":"dd-mm-yy&d-m-Y"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.ofqj.org/wp-content/plugins/modern-events-calendar-lite/assets/js/frontend.js" id="mec-frontend-script-js"></script>
+<script type="text/javascript" src="https://www.ofqj.org/wp-content/plugins/modern-events-calendar-lite/assets/js/events.js" id="mec-events-script-js"></script>
+<script type="text/javascript" src="https://c0.wp.com/p/woocommerce/8.4.0/assets/js/jquery-blockui/jquery.blockUI.min.js" id="jquery-blockui-js" defer="defer" data-wp-strategy="defer"></script>
+<script type="text/javascript" id="wc-add-to-cart-js-extra">
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_view_cart":"Voir le panier","cart_url":"https:\/\/www.ofqj.org\/panier\/","is_cart":"","cart_redirect_after_add":"yes"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://c0.wp.com/p/woocommerce/8.4.0/assets/js/frontend/add-to-cart.min.js" id="wc-add-to-cart-js" defer="defer" data-wp-strategy="defer"></script>
+<script type="text/javascript" src="https://c0.wp.com/p/woocommerce/8.4.0/assets/js/js-cookie/js.cookie.min.js" id="js-cookie-js" defer="defer" data-wp-strategy="defer"></script>
+<script type="text/javascript" id="woocommerce-js-extra">
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://c0.wp.com/p/woocommerce/8.4.0/assets/js/frontend/woocommerce.min.js" id="woocommerce-js" defer="defer" data-wp-strategy="defer"></script>
+<script data-service="jetpack-statistics" data-category="statistics" defer type="text/plain" data-cmplz-src="https://stats.wp.com/s-202401.js" id="woocommerce-analytics-js"></script>
+
+<!-- Extrait Google Analytics ajouté par Site Kit -->
+<script data-service="google-analytics" data-category="statistics" type="text/plain" data-cmplz-src="https://www.googletagmanager.com/gtag/js?id=UA-63674309-1" id="google_gtagjs-js" async></script>
+<script type="text/javascript" id="google_gtagjs-js-after">
+/* <![CDATA[ */
+window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}
+gtag('set', 'linker', {"domains":["www.ofqj.org"]} );
+gtag("js", new Date());
+gtag("set", "developer_id.dZTNiMT", true);
+gtag("config", "UA-63674309-1", {"anonymize_ip":true});
+gtag("config", "G-YY8T5EG7HY");
+/* ]]> */
+</script>
+
+<!-- Arrêter l&#039;extrait Google Analytics ajouté par Site Kit -->
+<link rel="https://api.w.org/" href="https://www.ofqj.org/wp-json/" /><link rel="alternate" type="application/json" href="https://www.ofqj.org/wp-json/wp/v2/posts/84586" /><link rel='shortlink' href='https://www.ofqj.org/?p=84586' />
+<link rel="alternate" type="application/json+oembed" href="https://www.ofqj.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.ofqj.org%2Ffierte-montreal-2023%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.ofqj.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.ofqj.org%2Ffierte-montreal-2023%2F&#038;format=xml" />
+            <style>
+                #wp-admin-bar-wps-link > a:before {
+                    content: url('https://www.wpserveur.net/wp-content/themes/wpserveur/img/WP.svg');
+                    width: 24px;
+                }
+            </style>
+			<meta name="generator" content="Site Kit by Google 1.114.0" />			<style>
+			#related_posts_thumbnails li{
+				border-right: 1px solid #dddddd;
+				background-color: #ffffff			}
+			#related_posts_thumbnails li:hover{
+				background-color: #eeeeee;
+			}
+			.relpost_content{
+				font-size:	12px;
+				color: 		#333333;
+			}
+			.relpost-block-single{
+				background-color: #ffffff;
+				border-right: 1px solid  #dddddd;
+				border-left: 1px solid  #dddddd;
+				margin-right: -1px;
+			}
+			.relpost-block-single:hover{
+				background-color: #eeeeee;
+			}
+		</style>
+
+		<style>img#wpstats{display:none}</style>
+		<style>.cmplz-hidden{display:none!important;}</style><style type="text/css" id="et-social-custom-css">
+				 
+			</style><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+	<meta name="google-site-verification" content="3SRElti98myjrYnY5scTmQzZsZ0y9xEe_EzPtlnoyiM"><meta name="facebook-domain-verification" content="8z43fwt755rdlv0hex666h6j6hhw0j">
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WB5TCWZ');</script>
+<!-- End Google Tag Manager --><link rel="icon" href="https://i0.wp.com/www.ofqj.org/wp-content/uploads/2019/07/cropped-OFQJ_logo_couleur_seul.png?fit=32%2C32&#038;ssl=1" sizes="32x32" />
+<link rel="icon" href="https://i0.wp.com/www.ofqj.org/wp-content/uploads/2019/07/cropped-OFQJ_logo_couleur_seul.png?fit=192%2C192&#038;ssl=1" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://i0.wp.com/www.ofqj.org/wp-content/uploads/2019/07/cropped-OFQJ_logo_couleur_seul.png?fit=180%2C180&#038;ssl=1" />
+<meta name="msapplication-TileImage" content="https://i0.wp.com/www.ofqj.org/wp-content/uploads/2019/07/cropped-OFQJ_logo_couleur_seul.png?fit=270%2C270&#038;ssl=1" />
+			<style type="text/css" id="pt-cv-custom-style-7f4b04d8j5">label.cvp-label{margin-right:10px;}</style>
+			<link rel="stylesheet" id="et-core-unified-tb-70015-84586-cached-inline-styles" href="https://www.ofqj.org/wp-content/et-cache/84586/et-core-unified-tb-70015-84586.min.css?ver=1702914606" /><link rel="stylesheet" id="et-core-unified-84586-cached-inline-styles" href="https://www.ofqj.org/wp-content/et-cache/84586/et-core-unified-84586.min.css?ver=1702914605" /><link rel="stylesheet" id="et-core-unified-tb-70015-deferred-84586-cached-inline-styles" href="https://www.ofqj.org/wp-content/et-cache/84586/et-core-unified-tb-70015-deferred-84586.min.css?ver=1702914606" /><style type="text/css">.mec-hourly-schedule-speaker-name, .mec-events-meta-group-countdown .countdown-w span, .mec-single-event .mec-event-meta dt, .mec-hourly-schedule-speaker-job-title, .post-type-archive-mec-events h1, .mec-ticket-available-spots .mec-event-ticket-name, .tax-mec_category h1, .mec-wrap h1, .mec-wrap h2, .mec-wrap h3, .mec-wrap h4, .mec-wrap h5, .mec-wrap h6,.entry-content .mec-wrap h1, .entry-content .mec-wrap h2, .entry-content .mec-wrap h3,.entry-content  .mec-wrap h4, .entry-content .mec-wrap h5, .entry-content .mec-wrap h6{ font-family: 'Roboto Condensed', Helvetica, Arial, sans-serif;}.mec-single-event .mec-event-meta .mec-events-event-cost, .mec-event-data-fields .mec-event-data-field-item .mec-event-data-field-value, .mec-event-data-fields .mec-event-data-field-item .mec-event-data-field-name, .mec-wrap .info-msg div, .mec-wrap .mec-error div, .mec-wrap .mec-success div, .mec-wrap .warning-msg div, .mec-breadcrumbs .mec-current, .mec-events-meta-group-tags, .mec-single-event .mec-events-meta-group-booking .mec-event-ticket-available, .mec-single-modern .mec-single-event-bar>div dd, .mec-single-event .mec-event-meta dd, .mec-single-event .mec-event-meta dd a, .mec-next-occ-booking span, .mec-hourly-schedule-speaker-description, .mec-single-event .mec-speakers-details ul li .mec-speaker-job-title, .mec-single-event .mec-speakers-details ul li .mec-speaker-name, .mec-event-data-field-items, .mec-load-more-button, .mec-events-meta-group-tags a, .mec-events-button, .mec-wrap abbr, .mec-event-schedule-content dl dt, .mec-breadcrumbs a, .mec-breadcrumbs span .mec-event-content p, .mec-wrap p { font-family: 'Bree Serif',sans-serif; font-weight:300;}.mec-event-grid-minimal .mec-modal-booking-button:hover, .mec-events-timeline-wrap .mec-organizer-item a, .mec-events-timeline-wrap .mec-organizer-item:after, .mec-events-timeline-wrap .mec-shortcode-organizers i, .mec-timeline-event .mec-modal-booking-button, .mec-wrap .mec-map-lightbox-wp.mec-event-list-classic .mec-event-date, .mec-timetable-t2-col .mec-modal-booking-button:hover, .mec-event-container-classic .mec-modal-booking-button:hover, .mec-calendar-events-side .mec-modal-booking-button:hover, .mec-event-grid-yearly  .mec-modal-booking-button, .mec-events-agenda .mec-modal-booking-button, .mec-event-grid-simple .mec-modal-booking-button, .mec-event-list-minimal  .mec-modal-booking-button:hover, .mec-timeline-month-divider,  .mec-wrap.colorskin-custom .mec-totalcal-box .mec-totalcal-view span:hover,.mec-wrap.colorskin-custom .mec-calendar.mec-event-calendar-classic .mec-selected-day,.mec-wrap.colorskin-custom .mec-color, .mec-wrap.colorskin-custom .mec-event-sharing-wrap .mec-event-sharing > li:hover a, .mec-wrap.colorskin-custom .mec-color-hover:hover, .mec-wrap.colorskin-custom .mec-color-before *:before ,.mec-wrap.colorskin-custom .mec-widget .mec-event-grid-classic.owl-carousel .owl-nav i,.mec-wrap.colorskin-custom .mec-event-list-classic a.magicmore:hover,.mec-wrap.colorskin-custom .mec-event-grid-simple:hover .mec-event-title,.mec-wrap.colorskin-custom .mec-single-event .mec-event-meta dd.mec-events-event-categories:before,.mec-wrap.colorskin-custom .mec-single-event-date:before,.mec-wrap.colorskin-custom .mec-single-event-time:before,.mec-wrap.colorskin-custom .mec-events-meta-group.mec-events-meta-group-venue:before,.mec-wrap.colorskin-custom .mec-calendar .mec-calendar-side .mec-previous-month i,.mec-wrap.colorskin-custom .mec-calendar .mec-calendar-side .mec-next-month:hover,.mec-wrap.colorskin-custom .mec-calendar .mec-calendar-side .mec-previous-month:hover,.mec-wrap.colorskin-custom .mec-calendar .mec-calendar-side .mec-next-month:hover,.mec-wrap.colorskin-custom .mec-calendar.mec-event-calendar-classic dt.mec-selected-day:hover,.mec-wrap.colorskin-custom .mec-infowindow-wp h5 a:hover, .colorskin-custom .mec-events-meta-group-countdown .mec-end-counts h3,.mec-calendar .mec-calendar-side .mec-next-month i,.mec-wrap .mec-totalcal-box i,.mec-calendar .mec-event-article .mec-event-title a:hover,.mec-attendees-list-details .mec-attendee-profile-link a:hover,.mec-wrap.colorskin-custom .mec-next-event-details li i, .mec-next-event-details i:before, .mec-marker-infowindow-wp .mec-marker-infowindow-count, .mec-next-event-details a,.mec-wrap.colorskin-custom .mec-events-masonry-cats a.mec-masonry-cat-selected,.lity .mec-color,.lity .mec-color-before :before,.lity .mec-color-hover:hover,.lity .mec-wrap .mec-color,.lity .mec-wrap .mec-color-before :before,.lity .mec-wrap .mec-color-hover:hover,.leaflet-popup-content .mec-color,.leaflet-popup-content .mec-color-before :before,.leaflet-popup-content .mec-color-hover:hover,.leaflet-popup-content .mec-wrap .mec-color,.leaflet-popup-content .mec-wrap .mec-color-before :before,.leaflet-popup-content .mec-wrap .mec-color-hover:hover, .mec-calendar.mec-calendar-daily .mec-calendar-d-table .mec-daily-view-day.mec-daily-view-day-active.mec-color, .mec-map-boxshow div .mec-map-view-event-detail.mec-event-detail i,.mec-map-boxshow div .mec-map-view-event-detail.mec-event-detail:hover,.mec-map-boxshow .mec-color,.mec-map-boxshow .mec-color-before :before,.mec-map-boxshow .mec-color-hover:hover,.mec-map-boxshow .mec-wrap .mec-color,.mec-map-boxshow .mec-wrap .mec-color-before :before,.mec-map-boxshow .mec-wrap .mec-color-hover:hover, .mec-choosen-time-message, .mec-booking-calendar-month-navigation .mec-next-month:hover, .mec-booking-calendar-month-navigation .mec-previous-month:hover, .mec-yearly-view-wrap .mec-agenda-event-title a:hover, .mec-yearly-view-wrap .mec-yearly-title-sec .mec-next-year i, .mec-yearly-view-wrap .mec-yearly-title-sec .mec-previous-year i, .mec-yearly-view-wrap .mec-yearly-title-sec .mec-next-year:hover, .mec-yearly-view-wrap .mec-yearly-title-sec .mec-previous-year:hover, .mec-av-spot .mec-av-spot-head .mec-av-spot-box span, .mec-wrap.colorskin-custom .mec-calendar .mec-calendar-side .mec-previous-month:hover .mec-load-month-link, .mec-wrap.colorskin-custom .mec-calendar .mec-calendar-side .mec-next-month:hover .mec-load-month-link, .mec-yearly-view-wrap .mec-yearly-title-sec .mec-previous-year:hover .mec-load-month-link, .mec-yearly-view-wrap .mec-yearly-title-sec .mec-next-year:hover .mec-load-month-link, .mec-skin-list-events-container .mec-data-fields-tooltip .mec-data-fields-tooltip-box ul .mec-event-data-field-item a, .mec-booking-shortcode .mec-event-ticket-name, .mec-booking-shortcode .mec-event-ticket-price, .mec-booking-shortcode .mec-ticket-variation-name, .mec-booking-shortcode .mec-ticket-variation-price, .mec-booking-shortcode label, .mec-booking-shortcode .nice-select, .mec-booking-shortcode input, .mec-booking-shortcode span.mec-book-price-detail-description, .mec-booking-shortcode .mec-ticket-name, .mec-booking-shortcode label.wn-checkbox-label, .mec-wrap.mec-cart table tr td a {color: #27348b}.mec-skin-carousel-container .mec-event-footer-carousel-type3 .mec-modal-booking-button:hover, .mec-wrap.colorskin-custom .mec-event-sharing .mec-event-share:hover .event-sharing-icon,.mec-wrap.colorskin-custom .mec-event-grid-clean .mec-event-date,.mec-wrap.colorskin-custom .mec-event-list-modern .mec-event-sharing > li:hover a i,.mec-wrap.colorskin-custom .mec-event-list-modern .mec-event-sharing .mec-event-share:hover .mec-event-sharing-icon,.mec-wrap.colorskin-custom .mec-event-list-modern .mec-event-sharing li:hover a i,.mec-wrap.colorskin-custom .mec-calendar:not(.mec-event-calendar-classic) .mec-selected-day,.mec-wrap.colorskin-custom .mec-calendar .mec-selected-day:hover,.mec-wrap.colorskin-custom .mec-calendar .mec-calendar-row  dt.mec-has-event:hover,.mec-wrap.colorskin-custom .mec-calendar .mec-has-event:after, .mec-wrap.colorskin-custom .mec-bg-color, .mec-wrap.colorskin-custom .mec-bg-color-hover:hover, .colorskin-custom .mec-event-sharing-wrap:hover > li, .mec-wrap.colorskin-custom .mec-totalcal-box .mec-totalcal-view span.mec-totalcalview-selected,.mec-wrap .flip-clock-wrapper ul li a div div.inn,.mec-wrap .mec-totalcal-box .mec-totalcal-view span.mec-totalcalview-selected,.event-carousel-type1-head .mec-event-date-carousel,.mec-event-countdown-style3 .mec-event-date,#wrap .mec-wrap article.mec-event-countdown-style1,.mec-event-countdown-style1 .mec-event-countdown-part3 a.mec-event-button,.mec-wrap .mec-event-countdown-style2,.mec-map-get-direction-btn-cnt input[type="submit"],.mec-booking button,span.mec-marker-wrap,.mec-wrap.colorskin-custom .mec-timeline-events-container .mec-timeline-event-date:before, .mec-has-event-for-booking.mec-active .mec-calendar-novel-selected-day, .mec-booking-tooltip.multiple-time .mec-booking-calendar-date.mec-active, .mec-booking-tooltip.multiple-time .mec-booking-calendar-date:hover, .mec-ongoing-normal-label, .mec-calendar .mec-has-event:after, .mec-event-list-modern .mec-event-sharing li:hover .telegram{background-color: #27348b;}.mec-booking-tooltip.multiple-time .mec-booking-calendar-date:hover, .mec-calendar-day.mec-active .mec-booking-tooltip.multiple-time .mec-booking-calendar-date.mec-active{ background-color: #27348b;}.mec-skin-carousel-container .mec-event-footer-carousel-type3 .mec-modal-booking-button:hover, .mec-timeline-month-divider, .mec-wrap.colorskin-custom .mec-single-event .mec-speakers-details ul li .mec-speaker-avatar a:hover img,.mec-wrap.colorskin-custom .mec-event-list-modern .mec-event-sharing > li:hover a i,.mec-wrap.colorskin-custom .mec-event-list-modern .mec-event-sharing .mec-event-share:hover .mec-event-sharing-icon,.mec-wrap.colorskin-custom .mec-event-list-standard .mec-month-divider span:before,.mec-wrap.colorskin-custom .mec-single-event .mec-social-single:before,.mec-wrap.colorskin-custom .mec-single-event .mec-frontbox-title:before,.mec-wrap.colorskin-custom .mec-calendar .mec-calendar-events-side .mec-table-side-day, .mec-wrap.colorskin-custom .mec-border-color, .mec-wrap.colorskin-custom .mec-border-color-hover:hover, .colorskin-custom .mec-single-event .mec-frontbox-title:before, .colorskin-custom .mec-single-event .mec-wrap-checkout h4:before, .colorskin-custom .mec-single-event .mec-events-meta-group-booking form > h4:before, .mec-wrap.colorskin-custom .mec-totalcal-box .mec-totalcal-view span.mec-totalcalview-selected,.mec-wrap .mec-totalcal-box .mec-totalcal-view span.mec-totalcalview-selected,.event-carousel-type1-head .mec-event-date-carousel:after,.mec-wrap.colorskin-custom .mec-events-masonry-cats a.mec-masonry-cat-selected, .mec-marker-infowindow-wp .mec-marker-infowindow-count, .mec-wrap.colorskin-custom .mec-events-masonry-cats a:hover, .mec-has-event-for-booking .mec-calendar-novel-selected-day, .mec-booking-tooltip.multiple-time .mec-booking-calendar-date.mec-active, .mec-booking-tooltip.multiple-time .mec-booking-calendar-date:hover, .mec-virtual-event-history h3:before, .mec-booking-tooltip.multiple-time .mec-booking-calendar-date:hover, .mec-calendar-day.mec-active .mec-booking-tooltip.multiple-time .mec-booking-calendar-date.mec-active, .mec-rsvp-form-box form > h4:before, .mec-wrap .mec-box-title::before, .mec-box-title::before  {border-color: #27348b;}.mec-wrap.colorskin-custom .mec-event-countdown-style3 .mec-event-date:after,.mec-wrap.colorskin-custom .mec-month-divider span:before, .mec-calendar.mec-event-container-simple dl dt.mec-selected-day, .mec-calendar.mec-event-container-simple dl dt.mec-selected-day:hover{border-bottom-color:#27348b;}.mec-wrap.colorskin-custom  article.mec-event-countdown-style1 .mec-event-countdown-part2:after{border-color: transparent transparent transparent #27348b;}.mec-wrap.colorskin-custom .mec-box-shadow-color { box-shadow: 0 4px 22px -7px #27348b;}.mec-events-timeline-wrap .mec-shortcode-organizers, .mec-timeline-event .mec-modal-booking-button, .mec-events-timeline-wrap:before, .mec-wrap.colorskin-custom .mec-timeline-event-local-time, .mec-wrap.colorskin-custom .mec-timeline-event-time ,.mec-wrap.colorskin-custom .mec-timeline-event-location,.mec-choosen-time-message { background: rgba(39,52,139,.11);}.mec-wrap.colorskin-custom .mec-timeline-events-container .mec-timeline-event-date:after{ background: rgba(39,52,139,.3);}.mec-booking-shortcode button { box-shadow: 0 2px 2px rgba(39 52 139 / 27%);}.mec-booking-shortcode button.mec-book-form-back-button{ background-color: rgba(39 52 139 / 40%);}.mec-events-meta-group-booking-shortcode{ background: rgba(39,52,139,.14);}.mec-booking-shortcode label.wn-checkbox-label, .mec-booking-shortcode .nice-select,.mec-booking-shortcode input, .mec-booking-shortcode .mec-book-form-gateway-label input[type=radio]:before, .mec-booking-shortcode input[type=radio]:checked:before, .mec-booking-shortcode ul.mec-book-price-details li, .mec-booking-shortcode ul.mec-book-price-details{ border-color: rgba(39 52 139 / 27%) !important;}.mec-booking-shortcode input::-webkit-input-placeholder,.mec-booking-shortcode textarea::-webkit-input-placeholder{color: #27348b}.mec-booking-shortcode input::-moz-placeholder,.mec-booking-shortcode textarea::-moz-placeholder{color: #27348b}.mec-booking-shortcode input:-ms-input-placeholder,.mec-booking-shortcode textarea:-ms-input-placeholder {color: #27348b}.mec-booking-shortcode input:-moz-placeholder,.mec-booking-shortcode textarea:-moz-placeholder {color: #27348b}.mec-booking-shortcode label.wn-checkbox-label:after, .mec-booking-shortcode label.wn-checkbox-label:before, .mec-booking-shortcode input[type=radio]:checked:after{background-color: #27348b}.mec-wrap h1 a, .mec-wrap h2 a, .mec-wrap h3 a, .mec-wrap h4 a, .mec-wrap h5 a, .mec-wrap h6 a,.entry-content .mec-wrap h1 a, .entry-content .mec-wrap h2 a, .entry-content .mec-wrap h3 a,.entry-content  .mec-wrap h4 a, .entry-content .mec-wrap h5 a, .entry-content .mec-wrap h6 a {color: #27348b !important;}.mec-wrap.colorskin-custom h1 a:hover, .mec-wrap.colorskin-custom h2 a:hover, .mec-wrap.colorskin-custom h3 a:hover, .mec-wrap.colorskin-custom h4 a:hover, .mec-wrap.colorskin-custom h5 a:hover, .mec-wrap.colorskin-custom h6 a:hover,.entry-content .mec-wrap.colorskin-custom h1 a:hover, .entry-content .mec-wrap.colorskin-custom h2 a:hover, .entry-content .mec-wrap.colorskin-custom h3 a:hover,.entry-content  .mec-wrap.colorskin-custom h4 a:hover, .entry-content .mec-wrap.colorskin-custom h5 a:hover, .entry-content .mec-wrap.colorskin-custom h6 a:hover {color: #e73455 !important;}.mec-wrap.colorskin-custom .mec-event-description {color: #27348b;}</style><style type="text/css">.mec-wrap .col-md-1 {width: 25%;}
+.mec-single-title {color:#27348B!important; font-weight:bold!important;}
+#comment-wrap {display:none!important;}
+.mec-single-event .mec-events-meta-group {margin-bottom:30px!important;}
+.mec-event-content ul {
+  font-family: 'Bree Serif',sans-serif;
+  margin-bottom:20px;
+}
+.mec-event-content ul li {
+  list-style-type:disc!important;
+}
+.mec-event-date {
+  font-weight: bold!important;
+  font-size: 1em!important;
+
+}</style></head>
+<body data-cmplz=1 class="post-template-default single single-post postid-84586 single-format-standard theme-Divi et-tb-has-template et-tb-has-footer woocommerce-no-js et_monarch et_pb_button_helper_class et_fullwidth_nav et_fullwidth_secondary_nav et_fixed_nav et_show_nav et_pb_show_title et_secondary_nav_enabled et_primary_nav_dropdown_animation_fade et_secondary_nav_dropdown_animation_fade et_header_style_left et_pb_svg_logo et_cover_background et_pb_gutter et_pb_gutters3 et_pb_pagebuilder_layout et_smooth_scroll et_right_sidebar et_divi_theme et-db">
+	<div id="page-container">
+<div id="et-boc" class="et-boc">
+			
+				<div id="top-header">
+		<div class="container clearfix">
+
+		
+			<div id="et-secondary-menu">
+			<ul class="et-social-icons">
+
+	<li class="et-social-icon et-social-facebook">
+		<a href="https://www.facebook.com/OFQJenFrance/" class="icon" target="_blank">
+			<span>Facebook</span>
+		</a>
+	</li>
+	<li class="et-social-icon et-social-twitter">
+		<a href="https://twitter.com/ofqj_france" class="icon" target="_blank">
+			<span>Twitter</span>
+		</a>
+	</li>
+	<li class="et-social-icon et-social-instagram">
+		<a href="https://www.instagram.com/OFQJ_france/" class="icon" target="_blank">
+			<span>Instagram</span>
+		</a>
+	</li>
+	<li class="et-social-icon et-social-youtube">
+		<a href="https://www.youtube.com/user/OFQJ/featured" class="icon" target="_blank">
+			<span>youtube</span>
+		</a>
+	</li>
+
+	<li class="et-social-icon et-social-linkedin">
+		<a href="https://fr.linkedin.com/company/office-franco-qu-b-cois-pour-la-jeunesse" class="icon" target="_blank">
+			<span>linkedin</span>
+		</a>
+	</li>	
+</ul><ul id="et-secondary-nav" class="menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-505"><a href="https://www.ofqj.org/">OFQJ FRANCE</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-221"><a href="https://www.lojiq.org/destinations/france-ofqj/">OFQJ QUEBEC</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-222"><a href="/infolettre/">INFOLETTRE</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-217"><a href="#">Mon espace OFQJ</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-79280"><a href="#">Projets avant 2023</a>
+	<ul class="sub-menu">
+		<li class="popmake-82238 menu-item menu-item-type-custom menu-item-object-custom menu-item-52448"><a href="https://chronos.ofqj.org/chronos/module/adm/connexion.aspx?role=2">Compte candidat</a></li>
+		<li class="popmake-82405 menu-item menu-item-type-custom menu-item-object-custom menu-item-284"><a href="https://chronos.ofqj.org/chronos/module/adm/connexion.aspx?role=4">Compte structure</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-79281"><a href="#">Offres et candidatures Totem</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-218"><a href="https://totem.ofqj.org">Compte candidat</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-79282"><a href="https://totem.ofqj.org">Compte structure partenaire</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-280"><a href="/deposer-un-projet/">Déposer un projet</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-60209"><a href="https://www.ofqj.org/nos-conditions-generales/">Conditions des programmes</a></li>
+</ul>
+</li>
+</ul><a href="https://www.ofqj.org/panier/" class="et-cart-info">
+				<span>Articles 0</span>
+			</a>			</div>
+
+		</div>
+	</div>
+
+
+	<header id="main-header" data-height-onload="66">
+		<div class="container clearfix et_menu_container">
+					<div class="logo_container">
+				<span class="logo_helper"></span>
+				<a href="https://www.ofqj.org/">
+				<img src="https://www.ofqj.org/wp-content/uploads/2023/02/55eOFQJ_Horizontal.svg" width="93" height="43" alt="OFQJ en France" id="logo" data-height-percentage="76" />
+				</a>
+			</div>
+					<div id="et-top-navigation" data-height="66" data-fixed-height="40">
+									<nav id="top-menu-nav">
+					<ul id="top-menu" class="nav"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-19"><a href="#">L&rsquo;OFQJ</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3875"><a href="https://www.ofqj.org/notre-organisation/">Notre organisation</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4974"><a href="https://www.ofqj.org/notre-organisation/notre-mission/">Notre mission</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-301"><a href="https://www.ofqj.org/notre-organisation/nos-equipes/">Nos équipes</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3910"><a href="https://www.ofqj.org/notre-organisation/50-ans-de-reves-et-dactions/">50 ans de rêves et d’actions</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-83665"><a href="https://www.ofqj.org/55ans/">55 ans d’opportunités avec l’OFQJ</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-31109"><a href="https://www.ofqj.org/notre-organisation/publications-et-chiffres-cles/">Publications et chiffres clés</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-31110"><a href="https://www.ofqj.org/notre-organisation/espace-presse-et-ressources/">Espace presse et ressources</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-46359"><a href="https://www.ofqj.org/notre-organisation/recrutement/">Recrutement</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-17"><a href="#">Nos programmes</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-325"><a href="https://www.ofqj.org/emploi-insertion-sociale-et-professionnelle/">Emploi, insertion sociale et professionnelle</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-322"><a href="https://www.ofqj.org/entrepreneuriat-et-developpement-economique/">Entrepreneuriat et développement économique</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-323"><a href="https://www.ofqj.org/cooperation-professionnelle-et-culturelle/">Coopération culturelle</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-92643"><a href="https://www.ofqj.org/odyssart/">Odyssart</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-324"><a href="https://www.ofqj.org/engagement-citoyen/">Engagement citoyen</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-326"><a href="https://www.ofqj.org/mobilite-etudiante/">Mobilité étudiante</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-18"><a href="#">Information Mobilité</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344"><a href="https://www.ofqj.org/nos-ateliers-dinformation/">Nos ateliers d’information</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343"><a href="https://www.ofqj.org/permis-de-travail/">Les permis de travail</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-341"><a href="https://www.ofqj.org/preparer-son-sejour/">Préparer son séjour</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-63780"><a href="https://www.ofqj.org/avantages-participants/">Avantages participants</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-61702"><a href="https://www.ofqj.org/partir-bien-assure-chapka/">Partir bien assuré</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-61700"><a href="https://www.ofqj.org/preparer-son-sejour/entente-de-securite-sociale-france-quebec/">Entente de sécurité sociale France-Québec</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-339"><a href="https://www.ofqj.org/apres-la-mobilite/">Après la mobilité</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-20"><a href="#">Partenariats</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-311"><a href="https://www.ofqj.org/partenaires-de-lofqj/">Nos partenaires</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-310"><a href="https://www.ofqj.org/conventions-territoriales/convention-pole-emploi/">Convention Pôle Emploi</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-309"><a href="https://www.ofqj.org/conventions-territoriales/">Conventions territoriales</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-349"><a href="#">Accueillir un Français</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-351"><a href="https://www.ofqj.org/accueillir-un-stagiaire/">Accueillir un stagiaire</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-350"><a href="https://www.ofqj.org/accueillir-un-volontaire-en-service-civique/">Accueillir un volontaire en service civique</a></li>
+</ul>
+</li>
+</ul>					</nav>
+				
+				
+				
+									<div id="et_top_search">
+						<span id="et_search_icon"></span>
+					</div>
+				
+				<div id="et_mobile_nav_menu">
+				<div class="mobile_nav closed">
+					<span class="select_page">Sélectionner une page</span>
+					<span class="mobile_menu_bar mobile_menu_bar_toggle"></span>
+				</div>
+			</div>			</div> <!-- #et-top-navigation -->
+		</div> <!-- .container -->
+				<div class="et_search_outer">
+			<div class="container et_search_form_container">
+				<form role="search" method="get" class="et-search-form" action="https://www.ofqj.org/">
+				<input type="search" class="et-search-field" placeholder="Rechercher &hellip;" value="" name="s" title="Rechercher:" />				</form>
+				<span class="et_close_search_field"></span>
+			</div>
+		</div>
+			</header> <!-- #main-header -->
+<div id="et-main-area">
+	
+<div id="main-content">
+		<div class="container">
+		<div id="content-area" class="clearfix">
+			<div id="left-area">
+											<article id="post-84586" class="et_pb_post post-84586 post type-post status-publish format-standard has-post-thumbnail hentry category-archive-appels-a-candidature tag-engagement-citoyen tag-fierte-montreal tag-gay-pride">
+											<div class="et_post_meta_wrapper">
+							<h1 class="entry-title">Fierté Montréal 2023</h1>
+
+						<p class="post-meta"><span class="published">6 Mar 2023</span> | <a href="https://www.ofqj.org/category/archive-appels-a-candidature/" rel="category tag">Archive appels à candidature</a></p><img src="https://i0.wp.com/www.ofqj.org/wp-content/uploads/2023/03/OFQJ-FIERTE-BENEVOLE-750x47056-1.png?resize=750%2C470&#038;ssl=1" alt="Fierté Montréal 2023" class="" width="1080" height="675" />
+												</div>
+				
+					<div class="entry-content">
+					<div class="et-l et-l--post">
+			<div class="et_builder_inner_content et_pb_gutters3">
+		<div class="et_pb_section et_pb_section_3 et_section_regular" >
+				
+				
+				
+				
+				
+				
+				<div class="et_pb_row et_pb_row_5">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_7  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_code et_pb_code_0">
+				
+				
+				
+				
+				<div class="et_pb_code_inner"><span><span><a href="https://www.ofqj.org/">Accueil</a></span> » <span><a href="https://www.ofqj.org/category/archive-appels-a-candidature/">Archive appels à candidature</a></span> » <span class="breadcrumb_last" aria-current="page">Fierté Montréal 2023</span></span></div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div><div class="et_pb_row et_pb_row_6">
+				<div class="et_pb_column et_pb_column_1_2 et_pb_column_8  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_3  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h2>Fierté Montréal 2023 : participez à une mission de coopération citoyenne pendant les journées communautaires</h2></div>
+			</div>
+			</div><div class="et_pb_column et_pb_column_1_2 et_pb_column_9  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_4  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><p>Montréal, Québec<br />Du 10 au 13 août 2023<br />Date limite de candidature : 24 avril 2023</p></div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div><div class="et_pb_row et_pb_row_7">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_10  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_5  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><blockquote>
+<p>L’OFQJ, en partenariat avec la <a href="https://www.fiertemtl.com/">Fierté Montréal</a> et la section Québécoise de l’OFQJ, soutient la participation de chercheur.e.s, militant.e.s, juristes, jeunes engagé.e.s en faveur des droits LGBTQ+ afin de leur permettre de prendre part aux journées communautaires du festival de la Fierté. En complément, l’OFQJ Québec organisera un programme de rencontres et d’activités. Le projet de mobilité internationale se déroulera à Montréal du 10 au 13 août 2023.</p>
+</blockquote></div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div><div class="et_pb_row et_pb_row_8">
+				<div class="et_pb_column et_pb_column_1_2 et_pb_column_11  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_video et_pb_video_0">
+				
+				
+				
+				
+				<div class="et_pb_video_box"><iframe data-placeholder-image="https://www.ofqj.org/wp-content/uploads/complianz/placeholders/youtubeQ0_IXT2eiNY-hqdefault.webp" data-category="marketing" data-service="youtube" class="cmplz-placeholder-element cmplz-iframe cmplz-iframe-styles cmplz-video " data-cmplz-target="src" data-src-cmplz="https://www.youtube.com/embed/Q0_IXT2eiNY?feature=oembed" title="Conférences et panels de discussion 2022" width="1080" height="608"  src="about:blank"   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+				
+			</div>
+			</div><div class="et_pb_column et_pb_column_1_2 et_pb_column_12  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module dsm_text_divider dsm_text_divider_0">
+				
+				
+				
+				
+				
+				
+				<div class="et_pb_module_inner">
+					<div class="dsm-text-divider-wrapper dsm-text-divider-align-center et_pb_bg_layout_light">
+				
+				
+				<div class="dsm-text-divider-before dsm-divider"></div>
+				<h3 class="dsm-text-divider-header et_pb_module_header"><span>Fierté Montréal </span></h3>
+				<div class="dsm-text-divider-after dsm-divider"></div>
+			</div>
+				</div>
+			</div><div class="et_pb_module et_pb_text et_pb_text_6  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><p>Le Festival de la Fierté de Montréal est un événement majeur de la communauté LGBTQ+ qui célèbre la diversité, l&rsquo;inclusion et l&rsquo;égalité des droits. Chaque année, pendant dix jours en été, Montréal vibre au rythme des festivités, des défilés, des spectacles mais aussi des activités qui célèbrent les acquis et les revendications de la communauté LGBTQ+.</p>
+<p>Au cœur de ce festival, les journées communautaires sont une occasion unique pour les jeunes engagé.e.s en faveur des droits LGBTQ+ de se rassembler, d&rsquo;échanger, de s&rsquo;informer et de se mobiliser. Ces journées offrent l’opportunité, aux associations, groupes communautaires et aux acteurs locaux de présenter leurs actions et initiatives, de rencontrer de nouveaux partenaires et de sensibiliser le public aux enjeux qui touchent la communauté LGBTQ+.</p></div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div><div class="et_pb_row et_pb_row_9">
+				<div class="et_pb_column et_pb_column_1_2 et_pb_column_13  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_7  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h3>Objectif</h3>
+<p>Ce projet vise à encourager l&rsquo;engagement des jeunes en faveur des droits LGBTQ+ et à renforcer leur engagement, leur participation citoyenne, d’acquérir de nouvelles compétences, et de participer activement à la vie de la communauté LGBTQ+.</p>
+<p>Plus spécifiquement, les objectifs sont de :</p>
+<ul>
+<li>Favoriser l&rsquo;engagement des jeunesses en faveur des droits LGBTQ+ et renforcer leur participation citoyenne ;</li>
+<li>Permettre aux jeunes adultes sélectionné.e.s de développer leurs compétences en matière de leadership, de communication et de collaboration ;</li>
+<li>Promouvoir l&rsquo;échange interculturel et la coopération entre la France et le Québec dans le domaine de la citoyenneté et des droits LGBTQ+ ;</li>
+<li>Contribuer au renforcement de la solidarité et de la compréhension mutuelle entre les jeunesses des deux pays</li>
+<li>Faciliter la création de réseaux engagés en faveur des droits LGBTQ+ et leur donner les moyens de mener des actions collectives à long terme.</li>
+</ul>
+<p>Informations complémentaires sur le site de notre partenaire à l&rsquo;adresse suivante <a href="https://www.fiertemtl.com/">https://www.fiertemtl.com</a></p></div>
+			</div>
+			</div><div class="et_pb_column et_pb_column_1_2 et_pb_column_14  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_8  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h3>Programme de séjour présentiel</h3>
+<p>En complément des journées communautaires, accompagné de son écosystème de partenaires Québécois, la section québécoise de l’OFQJ organisera des temps de rencontre et visites de terrain. <strong>Ces journées ont pour objectif de créer du lien entre les jeunesses françaises et québécoises, de favoriser des coopérations, le partage d’expériences et de susciter de futures collaborations.</strong></p>
+<p>La délégation internationale sera organisée pendant 4 journées, du 10 au 13 août 2023.</p>
+<p>Le détail du programme n’est pas encore finalisé mais il contiendra notamment :</p>
+<ul>
+<li>Des rencontres de terrain :</li>
+<li>Des temps de réseautage OFQJ France &amp; OFQJ Québec ;</li>
+<li>La participation à une activité de bénévolat ponctuelle en équipe internationale pendant quelques heures : temps organisé par notre partenaire « Fierté Montréal » (exemples évoqués : distribution de drapeaux pendant un défilé, information pendant un temps fort).</li>
+</ul></div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div><div class="et_pb_row et_pb_row_10">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_15  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module dsm_text_divider dsm_text_divider_1">
+				
+				
+				
+				
+				
+				
+				<div class="et_pb_module_inner">
+					<div class="dsm-text-divider-wrapper dsm-text-divider-align-center et_pb_bg_layout_light">
+				
+				
+				<div class="dsm-text-divider-before dsm-divider"></div>
+				<h3 class="dsm-text-divider-header et_pb_module_header"><span>L'appel à candidatures</span></h3>
+				<div class="dsm-text-divider-after dsm-divider"></div>
+			</div>
+				</div>
+			</div><div class="et_pb_module et_pb_toggle et_pb_toggle_0 et_pb_toggle_item  et_pb_toggle_close">
+				
+				
+				
+				
+				<h5 class="et_pb_toggle_title">Profil des candidat.e.s</h5>
+				<div class="et_pb_toggle_content clearfix"><p>Les candidats souhaitant prendre part à la mission doivent :</p>
+<ul>
+<li>Être âgé.e de 18 à 35 ans ;</li>
+<li>Être français.e ou résider en France depuis plus de 1 an ;</li>
+<li>Justifier d’un intérêt académique, d’un engagement professionnel ou citoyen en faveur des droits LGBTQ+.</li>
+</ul>
+<p>L’OFQJ vise la participation de jeunes chercheur.e.s, militant.e.s, juristes, jeunes engagé.e.s en faveur des droits LGBTQ+.</p></div>
+			</div><div class="et_pb_module et_pb_toggle et_pb_toggle_1 et_pb_toggle_item  et_pb_toggle_close">
+				
+				
+				
+				
+				<h5 class="et_pb_toggle_title">Soutien de l&#039;OFQJ et de ses partenaires</h5>
+				<div class="et_pb_toggle_content clearfix"><h4>Soutien de l’OFQJ</h4>
+<ul>
+<li>Prise en charge du logement en chambre double pour les nuits allant 9 au 14 août 2023 ;</li>
+<li>Organisation du programme de rencontres et visites de terrain ;</li>
+<li><strong>Un forfait de 600 euros</strong> sera accordé aux jeunes sélectionné.e.s. Ce forfait à vocation à couvrir une partie des frais liés à la mobilité internationale.</li>
+</ul>
+<p>Notez que le soutien de l’OFQJ est conditionné à la remise d’un rapport de mission contenant (à minima) la restitution d’une activité/rencontre. De plus, il est attendu des participant.e.s qu’iels soient pourvoyeurs de contenus : photos, vidéos, textes eventuellement.</p>
+<p>Les participant.e.s sélectionné.e.s s’engagent à participer à la totalité de l’évènement. Y compris les temps forts organisées par notre section québécoise.</p>
+<h4>Reste à charge du participant</h4>
+<p>Le montant du soutien permet de couvrir une partie des dépenses. Cependant les participant(e)s devront prendre en charge le reste des dépenses liées à :</p>
+<ul>
+<li> La mobilité internationale ;</li>
+<li>La mobilité à Montréal ;</li>
+<li>AVE /Visa ;</li>
+<li>Assurance hospitalisation/rapatriement ;</li>
+<li>Repas ;</li>
+<li>Dépenses personnelles.</li>
+</ul></div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div><div class="et_pb_row et_pb_row_11">
+				<div class="et_pb_column et_pb_column_1_2 et_pb_column_16  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_9  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h2>En savoir plus</h2>
+<p><a href="https://www.fiertemtl.com/">Fierté Montréal 2023</a></p>
+<p><a href="https://www.ofqj.org/engagement-citoyen/">Le programme Engagement citoyen de l&rsquo;OFQJ</a></p></div>
+			</div>
+			</div><div class="et_pb_column et_pb_column_1_2 et_pb_column_17  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_10  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h2>Votre interlocuteur à l&rsquo;OFQJ</h2>
+<p><strong>Guillaume LOUERAT</strong>, Chargé de projet Engagement citoyen<br />glouerat@ofqj.org &#8211; Tél : 01 49 33 28 71</p></div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div><div class="et_pb_row et_pb_row_12">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_18  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module dsm_text_divider dsm_text_divider_2">
+				
+				
+				
+				
+				
+				
+				<div class="et_pb_module_inner">
+					<div class="dsm-text-divider-wrapper dsm-text-divider-align-center et_pb_bg_layout_light">
+				
+				
+				<div class="dsm-text-divider-before dsm-divider"></div>
+				<h3 class="dsm-text-divider-header et_pb_module_header"><span>Comment postuler ?</span></h3>
+				<div class="dsm-text-divider-after dsm-divider"></div>
+			</div>
+				</div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div><div class="et_pb_row et_pb_row_13">
+				<div class="et_pb_column et_pb_column_1_3 et_pb_column_19  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_11  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h4>Créez votre compte sur totem.ofqj.org<br />et complétez votre profil</h4></div>
+			</div>
+			</div><div class="et_pb_column et_pb_column_1_3 et_pb_column_20  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_12  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h3>Postulez à l’appel à candidatures</h3>
+<p><em>Accessible également via </em><br /><em>Découvrir les opportunités –</em><br /><em>Coopération professionnelle et citoyenne</em></p></div>
+			</div>
+			</div><div class="et_pb_column et_pb_column_1_3 et_pb_column_21  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_button_module_wrapper et_pb_button_5_wrapper et_pb_button_alignment_center et_pb_module ">
+				<a class="et_pb_button et_pb_button_5 et_pb_bg_layout_light" href="https://totem.ofqj.org/candidate/missions/2630" target="_blank">S&#039;inscrire en ligne</a>
+			</div><div class="et_pb_module et_pb_text et_pb_text_13  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h4 style="text-align: center;">Date limite de candidature :<br />24 avril 2023</h4></div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div>
+				
+				
+			</div><div class="et_pb_section et_pb_section_4 et_section_regular" >
+				
+				
+				
+				
+				
+				
+				<div class="et_pb_row et_pb_row_14">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_22  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module dsm_text_divider dsm_text_divider_3">
+				
+				
+				
+				
+				
+				
+				<div class="et_pb_module_inner">
+					<div class="dsm-text-divider-wrapper dsm-text-divider-align-center et_pb_bg_layout_light">
+				
+				
+				<div class="dsm-text-divider-before dsm-divider"></div>
+				<h3 class="dsm-text-divider-header et_pb_module_header"><span>À lire avant de partir</span></h3>
+				<div class="dsm-text-divider-after dsm-divider"></div>
+			</div>
+				</div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div><div class="et_pb_row et_pb_row_15">
+				<div class="et_pb_column et_pb_column_1_2 et_pb_column_23  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_image et_pb_image_2">
+				
+				
+				
+				
+				<span class="et_pb_image_wrap "><img  decoding="async"  src="https://www.ofqj.org/wp-content/uploads/2022/11/undraw_notify_re_65on.svg" alt="" title="undraw notify" class="wp-image-81007" /></span>
+			</div><div class="et_pb_module et_pb_text et_pb_text_14  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h2>Pensez à l&rsquo;Autorisation de voyage électronique (AVE)</h2></div>
+			</div><div class="et_pb_module et_pb_text et_pb_text_15  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><p>Depuis le 15 mars 2016, les voyageurs étrangers dispensés de visa qui prennent un vol à destination du Canada ou qui transitent par le Canada vers leur destination finale doivent obtenir une autorisation de voyage électronique (AVE). Une fois obtenue, cette AVE est valable 5 ans.</p>
+<p style="text-align: center;"><strong><a title="Gouvernement du Canada - AVE" href="http://www.cic.gc.ca/francais/visiter/ave.asp" target="_blank" rel="noopener noreferrer">Gouvernement du Canada &#8211; AVE</a></strong></p>
+<p style="text-align: center;"><a title="Gouvernement du Canada - Formulaire de demande d'AVE" href="http://www.cic.gc.ca/francais/visiter/ave-commencer.asp" target="_blank" rel="noopener noreferrer"><strong>Gouvernement du Canada &#8211; Formulaire de demande d&rsquo;AVE</strong></a></p>
+<p>Attention, depuis les moteurs de recherche des sites frauduleux vous proposent de prendre votre AVE moyennant plusieurs dizaines d’euros. Réalisez vous-même la demande en ligne de l’AVE, les frais de traitement ne coûte en réalité que 7$CAN.</p></div>
+			</div>
+			</div><div class="et_pb_column et_pb_column_1_2 et_pb_column_24  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_image et_pb_image_3">
+				
+				
+				
+				
+				<span class="et_pb_image_wrap "><img fetchpriority="high" decoding="async" width="838" height="638" src="https://www.ofqj.org/wp-content/uploads/2022/04/undraw_people_re_8spw.svg" alt="" title="undraw people" class="wp-image-74308" /></span>
+			</div><div class="et_pb_module et_pb_text et_pb_text_16  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h2>Découvrez les avantages participants</h2></div>
+			</div><div class="et_pb_module et_pb_text et_pb_text_17  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner">Être participant de l’OFQJ signifie bénéficier d’un accompagnement à la mobilité internationale et de conseils pour la réalisation de son projet de mobilité.</p>
+<p>Pour donner un coup de pouce supplémentaire et faire en sorte que vous partiez dans les meilleures conditions possibles, l’OFQJ et ses partenaires vous proposent des offres spécifiques, à tarifs négociés, notamment sur l&rsquo;aérien.</div>
+			</div><div class="et_pb_button_module_wrapper et_pb_button_6_wrapper  et_pb_module ">
+				<a class="et_pb_button et_pb_button_6 et_pb_bg_layout_light" href="https://www.ofqj.org/avantages-participants">En savoir plus</a>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div>
+				
+				
+			</div>		</div>
+	</div>
+	<span class="et_social_bottom_trigger"></span>					</div>
+					<div class="et_post_meta_wrapper">
+										</div>
+				</article>
+
+						</div>
+
+				<div id="sidebar">
+		<div id="nav_menu-3" class="et_pb_widget widget_nav_menu"><div class="menu-menu-droite-container"><ul id="menu-menu-droite" class="menu"><li id="menu-item-58252" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-58252"><a href="#">Participer</a>
+<ul class="sub-menu">
+	<li id="menu-item-58245" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-58245"><a href="https://www.ofqj.org/appels-a-candidatures/">Appels à candidatures</a></li>
+	<li id="menu-item-91791" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-91791"><a href="https://www.ofqj.org/odyssart/">Appel à projets Odyssart</a></li>
+	<li id="menu-item-58247" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-58247"><a href="https://www.ofqj.org/stages-pour-demandeurs-demploi/">Banque de stages pour demandeurs d’emploi</a></li>
+	<li id="menu-item-58250" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-58250"><a href="https://www.ofqj.org/missions-de-service-civique/">Missions de service civique</a></li>
+	<li id="menu-item-69346" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-69346"><a href="https://www.ofqj.org/stages-ithq/">Stages étudiants Hôtellerie Restauration</a></li>
+	<li id="menu-item-58248" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-58248"><a href="https://www.ofqj.org/deposer-un-projet/">Déposer un projet</a></li>
+</ul>
+</li>
+<li id="menu-item-58253" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-58253"><a href="#">S&rsquo;informer</a>
+<ul class="sub-menu">
+	<li id="menu-item-58251" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-58251"><a href="https://www.ofqj.org/nos-ateliers-dinformation/">Nos ateliers d’information</a></li>
+	<li id="menu-item-58263" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-58263"><a href="https://www.ofqj.org/evenements/">Agenda des webinaires</a></li>
+	<li id="menu-item-58254" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-58254"><a href="https://www.ofqj.org/actualites/">Actualités</a></li>
+	<li id="menu-item-58246" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-58246"><a href="https://www.ofqj.org/communaute-des-volontaires/">Communauté des volontaires</a></li>
+	<li id="menu-item-58249" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-58249"><a href="https://www.ofqj.org/infolettre/">Infolettre</a></li>
+</ul>
+</li>
+<li id="menu-item-77327" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-77327"><a href="#">Aides financières</a>
+<ul class="sub-menu">
+	<li id="menu-item-77328" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-77328"><a href="https://www.ofqj.org/mobilite-etudiante/aide-financiere-pour-un-stage-lie-aux-etudes/">Aide financière pour un stage lié aux études</a></li>
+	<li id="menu-item-77329" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-77329"><a href="https://www.ofqj.org/mobilite-etudiante/aide-financiere-pour-une-formation-professionnelle/">Aide financière pour une formation professionnelle</a></li>
+	<li id="menu-item-77330" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-77330"><a href="https://www.ofqj.org/cooperation-professionnelle-et-culturelle/missions-professionnelles-et-culturelles/">Missions professionnelles et culturelles</a></li>
+	<li id="menu-item-77331" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-77331"><a href="https://www.ofqj.org/engagement-citoyen/missions-citoyennes/">Missions citoyennes</a></li>
+	<li id="menu-item-77332" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-77332"><a href="https://www.ofqj.org/entrepreneuriat-et-developpement-economique/missions-entrepreneuriales-et-developpement-economique/">Missions entrepreneuriales et développement économique</a></li>
+</ul>
+</li>
+<li id="menu-item-58255" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-58255"><a href="#">A ne pas rater</a>
+<ul class="sub-menu">
+	<li id="menu-item-65766" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-65766"><a href="https://www.ofqj.org/avantages-participants/">Avantages participants</a></li>
+	<li id="menu-item-83666" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-83666"><a href="https://www.ofqj.org/55-ans-de-cooperation-france-quebec-pour-la-jeunesse/">55 ans de coopération France-Québec pour la jeunesse : l’OFQJ célèbre son anniversaire en 2023</a></li>
+	<li id="menu-item-79284" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-79284"><a href="https://www.ofqj.org/comment-bien-postuler-a-une-mission-de-service-civique-international/">Comment bien postuler à une mission de service civique international ?</a></li>
+	<li id="menu-item-69345" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-69345"><a href="https://www.ofqj.org/lofqj-lance-son-reseau-club-entreprise-pour-les-stages-de-perfectionnement/">L’OFQJ lance son réseau “Club entreprises” pour les stages de perfectionnement</a></li>
+</ul>
+</li>
+</ul></div></div>	</div>
+		</div>
+	</div>
+	</div>
+
+	<footer class="et-l et-l--footer">
+			<div class="et_builder_inner_content et_pb_gutters3">
+		<div class="et_pb_section et_pb_section_0_tb_footer et_section_regular" >
+				
+				
+				
+				
+				
+				
+				<div class="et_pb_row et_pb_row_0_tb_footer">
+				<div class="et_pb_column et_pb_column_1_3 et_pb_column_0_tb_footer  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_blurb et_pb_blurb_0_tb_footer  et_pb_text_align_left  et_pb_blurb_position_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_blurb_content">
+					<div class="et_pb_main_blurb_image"><span class="et_pb_image_wrap"><span class="et-waypoint et_pb_animation_top et_pb_animation_top_tablet et_pb_animation_top_phone et-pb-icon et-pb-icon-circle"></span></span></div>
+					<div class="et_pb_blurb_container">
+						<h4 class="et_pb_module_header"><span>Appelez-nous</span></h4>
+						<div class="et_pb_blurb_description"><p>+33 (0)1 49 33 28 50</p></div>
+					</div>
+				</div>
+			</div>
+			</div><div class="et_pb_column et_pb_column_1_3 et_pb_column_1_tb_footer  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_blurb et_pb_blurb_1_tb_footer  et_pb_text_align_left  et_pb_blurb_position_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_blurb_content">
+					<div class="et_pb_main_blurb_image"><span class="et_pb_image_wrap"><span class="et-waypoint et_pb_animation_top et_pb_animation_top_tablet et_pb_animation_top_phone et-pb-icon et-pb-icon-circle"></span></span></div>
+					<div class="et_pb_blurb_container">
+						<h4 class="et_pb_module_header"><span>Horaires d'ouverture du standard</span></h4>
+						<div class="et_pb_blurb_description"><p>Lun &#8211; Ven : 9h30 &#8211; 12h30</p></div>
+					</div>
+				</div>
+			</div>
+			</div><div class="et_pb_column et_pb_column_1_3 et_pb_column_2_tb_footer  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_blurb et_pb_blurb_2_tb_footer et_clickable  et_pb_text_align_left  et_pb_blurb_position_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_blurb_content">
+					<div class="et_pb_main_blurb_image"><span class="et_pb_image_wrap"><span class="et-waypoint et_pb_animation_top et_pb_animation_top_tablet et_pb_animation_top_phone et-pb-icon et-pb-icon-circle"></span></span></div>
+					<div class="et_pb_blurb_container">
+						<h4 class="et_pb_module_header"><span>Email</span></h4>
+						<div class="et_pb_blurb_description"><p><a href="mailto:ressources@ofqj.org" target="_blank" rel="noopener noreferrer">ressources@ofqj.org</a></p></div>
+					</div>
+				</div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div>
+				
+				
+			</div><div class="et_pb_section et_pb_section_1_tb_footer et_pb_with_background et_section_regular" >
+				
+				
+				
+				
+				
+				
+				<div class="et_pb_row et_pb_row_1_tb_footer et_pb_equal_columns et_pb_gutters2">
+				<div class="et_pb_column et_pb_column_1_4 et_pb_column_3_tb_footer  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_blurb et_pb_blurb_3_tb_footer  et_pb_text_align_left  et_pb_blurb_position_top et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_blurb_content">
+					<div class="et_pb_main_blurb_image"><span class="et_pb_image_wrap"><span class="et-waypoint et_pb_animation_top et_pb_animation_top_tablet et_pb_animation_top_phone et-pb-icon"></span></span></div>
+					<div class="et_pb_blurb_container">
+						
+						
+					</div>
+				</div>
+			</div><div class="et_pb_module et_pb_code et_pb_code_0_tb_footer">
+				
+				
+				
+				
+				<div class="et_pb_code_inner"><form id="inscriptionMailPro" name="inscriptionMailPro" action="https://admin.mailpro.com/Form/ProcessForm/" method="post" class="form-horizontal" style="margin:20px;">
+  
+<h2 style="color:#fff;">Abonnez-vous à l’Infolettre mensuelle de l’OFQJ</h2>  
+<div class="form-group">
+  <label for="awEmail" class="control-label col-sm-2" style="color:#fff;">E-mail</label>
+  <input required type="email" style="line-height:1.1em;border:1px solid #244397 ;height:30px;width:100%;" id="awEmail" name="awEmail" defaultvalue="Email">
+<input name="formGuid" type="hidden" value="d8c3dff7-555c-41f6-a5ad-dfbc63c77e11" />
+  </div>
+  <div class="form-group">
+<label for="awchamp[]" class="control-label col-sm-2" style="color:#fff;">Prénom</label>
+<input  maxlength="500" class="fieldvalue form-control " name="awchamp[]" data-field-id="616486" data-field-type="text" data-field-date="" value=""   style="line-height:1.1em;border:1px solid #244397 ;height:30px;width:100%;" data-field-type-c="text" type="text">
+  </div>
+  <div class="form-group">
+  <label for="awchamp[]" class="control-label col-sm-2" style="color:#fff;">Nom</label>
+  <input  maxlength="500" class="fieldvalue form-control " name="awchamp[]" data-field-id="664556" data-field-type="text" data-field-date="" value=""   style="line-height:1.1em;border:1px solid #244397 ;height:30px;width:100%;" data-field-type-c="text" type="text">
+  </div>
+  <div class="form-group">
+                    <script src='https://www.google.com/recaptcha/api.js'></script><div class="g-recaptcha" data-sitekey="6LeMdxQUAAAAALzeOd_pBFHf3ipA8ovEOKWoAgfi"></div>
+  
+                    <button type="submit" id="btnSubmit" label="S'inscrire" class="et_pb_button et_pb_button_0_tb_footer et_pb_bg_layout_light" style="background-color:#244397;margin: 20px auto;border:1px solid white;">S'abonner</button>
+    </div>
+        </form></div>
+			</div>
+			</div><div class="et_pb_column et_pb_column_1_4 et_pb_column_4_tb_footer  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_0_tb_footer  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h3>À propos de nous</h3></div>
+			</div><div class="et_pb_module et_pb_text et_pb_text_1_tb_footer  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><p>L’OFQJ, organisme bi-gouvernemental implanté en France et au Québec agit depuis 50 ans comme initiateur et accompagnateur de projets de mobilité des jeunes adultes de 18 à 35 ans, sur les enjeux d’actualité ou sur les priorités politiques des deux Gouvernements.</p></div>
+			</div><div class="et_pb_module et_pb_blurb et_pb_blurb_4_tb_footer  et_pb_text_align_left  et_pb_blurb_position_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_blurb_content">
+					<div class="et_pb_main_blurb_image"><span class="et_pb_image_wrap"><span class="et-waypoint et_pb_animation_top et_pb_animation_top_tablet et_pb_animation_top_phone et-pb-icon">=</span></span></div>
+					<div class="et_pb_blurb_container">
+						<h4 class="et_pb_module_header"><span>Poser une question</span></h4>
+						
+					</div>
+				</div>
+			</div>
+			</div><div class="et_pb_column et_pb_column_1_4 et_pb_column_5_tb_footer  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_2_tb_footer  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h3>Accés rapides</h3></div>
+			</div><div class="et_pb_module et_pb_blurb et_pb_blurb_5_tb_footer et_clickable  et_pb_text_align_left  et_pb_blurb_position_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_blurb_content">
+					<div class="et_pb_main_blurb_image"><a href="https://www.ofqj.org/nos-ateliers-dinformation/"><span class="et_pb_image_wrap"><span class="et-waypoint et_pb_animation_top et_pb_animation_top_tablet et_pb_animation_top_phone et-pb-icon">$</span></span></a></div>
+					<div class="et_pb_blurb_container">
+						<h4 class="et_pb_module_header"><a href="https://www.ofqj.org/nos-ateliers-dinformation/">Les ateliers d'information</a></h4>
+						
+					</div>
+				</div>
+			</div><div class="et_pb_module et_pb_blurb et_pb_blurb_6_tb_footer et_clickable  et_pb_text_align_left  et_pb_blurb_position_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_blurb_content">
+					<div class="et_pb_main_blurb_image"><a href="https://www.ofqj.org/permis-de-travail/"><span class="et_pb_image_wrap"><span class="et-waypoint et_pb_animation_top et_pb_animation_top_tablet et_pb_animation_top_phone et-pb-icon">$</span></span></a></div>
+					<div class="et_pb_blurb_container">
+						<h4 class="et_pb_module_header"><a href="https://www.ofqj.org/permis-de-travail/">Les permis de travail</a></h4>
+						
+					</div>
+				</div>
+			</div><div class="et_pb_module et_pb_blurb et_pb_blurb_7_tb_footer et_clickable  et_pb_text_align_left  et_pb_blurb_position_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_blurb_content">
+					<div class="et_pb_main_blurb_image"><a href="https://www.ofqj.org/mobilite-etudiante/"><span class="et_pb_image_wrap"><span class="et-waypoint et_pb_animation_top et_pb_animation_top_tablet et_pb_animation_top_phone et-pb-icon">$</span></span></a></div>
+					<div class="et_pb_blurb_container">
+						<h4 class="et_pb_module_header"><a href="https://www.ofqj.org/mobilite-etudiante/">Mobilité étudiante</a></h4>
+						
+					</div>
+				</div>
+			</div><div class="et_pb_module et_pb_blurb et_pb_blurb_8_tb_footer et_clickable  et_pb_text_align_left  et_pb_blurb_position_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_blurb_content">
+					<div class="et_pb_main_blurb_image"><a href="https://www.ofqj.org/odyssart"><span class="et_pb_image_wrap"><span class="et-waypoint et_pb_animation_top et_pb_animation_top_tablet et_pb_animation_top_phone et-pb-icon">$</span></span></a></div>
+					<div class="et_pb_blurb_container">
+						<h4 class="et_pb_module_header"><a href="https://www.ofqj.org/odyssart">Appel à projets Odyssart</a></h4>
+						
+					</div>
+				</div>
+			</div><div class="et_pb_module et_pb_blurb et_pb_blurb_9_tb_footer et_clickable  et_pb_text_align_left  et_pb_blurb_position_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_blurb_content">
+					<div class="et_pb_main_blurb_image"><a href="https://www.ofqj.org/avantages-participants/"><span class="et_pb_image_wrap"><span class="et-waypoint et_pb_animation_top et_pb_animation_top_tablet et_pb_animation_top_phone et-pb-icon">$</span></span></a></div>
+					<div class="et_pb_blurb_container">
+						<h4 class="et_pb_module_header"><a href="https://www.ofqj.org/avantages-participants/">Avantages participants OFQJ</a></h4>
+						
+					</div>
+				</div>
+			</div>
+			</div><div class="et_pb_column et_pb_column_1_4 et_pb_column_6_tb_footer  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_3_tb_footer  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h3>Contactez-nous</h3></div>
+			</div><div class="et_pb_module et_pb_blurb et_pb_blurb_10_tb_footer  et_pb_text_align_left  et_pb_blurb_position_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_blurb_content">
+					<div class="et_pb_main_blurb_image"><span class="et_pb_image_wrap"><span class="et-waypoint et_pb_animation_top et_pb_animation_top_tablet et_pb_animation_top_phone et-pb-icon"></span></span></div>
+					<div class="et_pb_blurb_container">
+						
+						<div class="et_pb_blurb_description"><p>11, passage de l’Aqueduc<br />93200 Saint Denis</p></div>
+					</div>
+				</div>
+			</div><div class="et_pb_module et_pb_blurb et_pb_blurb_11_tb_footer  et_pb_text_align_left  et_pb_blurb_position_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_blurb_content">
+					<div class="et_pb_main_blurb_image"><span class="et_pb_image_wrap"><span class="et-waypoint et_pb_animation_top et_pb_animation_top_tablet et_pb_animation_top_phone et-pb-icon"></span></span></div>
+					<div class="et_pb_blurb_container">
+						
+						<div class="et_pb_blurb_description"><span>934, Ste-Catherine Est, Montréal</span><br />
+<span>(Québec) H2L 2E9</span></div>
+					</div>
+				</div>
+			</div><div class="et_pb_module et_pb_blurb et_pb_blurb_12_tb_footer  et_pb_text_align_left  et_pb_blurb_position_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_blurb_content">
+					<div class="et_pb_main_blurb_image"><span class="et_pb_image_wrap"><span class="et-waypoint et_pb_animation_top et_pb_animation_top_tablet et_pb_animation_top_phone et-pb-icon"></span></span></div>
+					<div class="et_pb_blurb_container">
+						
+						<div class="et_pb_blurb_description"><p><strong>+33 (0)1 49 33 28 50</strong></p></div>
+					</div>
+				</div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div>
+				
+				
+			</div><div class="et_pb_section et_pb_section_2_tb_footer et_pb_with_background et_section_regular" >
+				
+				
+				
+				
+				
+				
+				<div class="et_pb_row et_pb_row_2_tb_footer">
+				<div class="et_pb_column et_pb_column_3_4 et_pb_column_7_tb_footer  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_4_tb_footer  et_pb_text_align_left et_pb_text_align_center-tablet et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><p><span>Réalisé par </span><a href="https://web-theorie.fr/">Web Theorie</a><span> &#8211; </span><a href="https://www.ofqj.org/mentions-legales/">Mentions légales</a><span> &#8211; </span><a href="https://www.ofqj.org/rgpd/">RGPD</a><span> &#8211; </span><a href="https://www.ofqj.org/nos-conditions-generales/">Nos conditions générales</a><span> &#8211; </span><a href="https://www.ofqj.org/espace-presse/">Espace presse</a></p></div>
+			</div>
+			</div><div class="et_pb_column et_pb_column_1_4 et_pb_column_8_tb_footer  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<ul class="et_pb_module et_pb_social_media_follow et_pb_social_media_follow_0_tb_footer clearfix  et_pb_text_align_right et_pb_text_align_center-tablet et_pb_bg_layout_light">
+				
+				
+				
+				
+				<li
+            class='et_pb_with_border et_pb_social_media_follow_network_0_tb_footer et_pb_section_video_on_hover et_pb_social_icon et_pb_social_network_link  et-social-facebook'><a
+              href='https://www.facebook.com/OFQJenFrance/'
+              class='icon et_pb_with_border'
+              title='Suivez sur Facebook'
+               target="_blank"><span
+                class='et_pb_social_media_follow_network_name'
+                aria-hidden='true'
+                >Suivre</span></a></li><li
+            class='et_pb_with_border et_pb_social_media_follow_network_1_tb_footer et_pb_section_video_on_hover et_pb_social_icon et_pb_social_network_link  et-social-twitter'><a
+              href='https://twitter.com/ofqj_france'
+              class='icon et_pb_with_border'
+              title='Suivez sur X'
+               target="_blank"><span
+                class='et_pb_social_media_follow_network_name'
+                aria-hidden='true'
+                >Suivre</span></a></li><li
+            class='et_pb_with_border et_pb_social_media_follow_network_2_tb_footer et_pb_section_video_on_hover et_pb_social_icon et_pb_social_network_link  et-social-instagram'><a
+              href='https://www.instagram.com/OFQJ_france/'
+              class='icon et_pb_with_border'
+              title='Suivez sur Instagram'
+               target="_blank"><span
+                class='et_pb_social_media_follow_network_name'
+                aria-hidden='true'
+                >Suivre</span></a></li><li
+            class='et_pb_with_border et_pb_social_media_follow_network_3_tb_footer et_pb_section_video_on_hover et_pb_social_icon et_pb_social_network_link  et-social-youtube'><a
+              href='https://www.youtube.com/channel/UCEuJv1hIt-qvCU6GI6IvQfg'
+              class='icon et_pb_with_border'
+              title='Suivez sur Youtube'
+               target="_blank"><span
+                class='et_pb_social_media_follow_network_name'
+                aria-hidden='true'
+                >Suivre</span></a></li><li
+            class='et_pb_with_border et_pb_social_media_follow_network_4_tb_footer et_pb_section_video_on_hover et_pb_social_icon et_pb_social_network_link  et-social-linkedin'><a
+              href='https://fr.linkedin.com/company/ofqj-france'
+              class='icon et_pb_with_border'
+              title='Suivez sur LinkedIn'
+               target="_blank"><span
+                class='et_pb_social_media_follow_network_name'
+                aria-hidden='true'
+                >Suivre</span></a></li><li
+            class='et_pb_with_border et_pb_social_media_follow_network_5_tb_footer et_pb_section_video_on_hover et_pb_social_icon et_pb_social_network_link  et-social-tiktok et-pb-social-fa-icon'><a
+              href='https://www.tiktok.com/@ofqj_france'
+              class='icon et_pb_with_border'
+              title='Suivez sur TikTok'
+               target="_blank"><span
+                class='et_pb_social_media_follow_network_name'
+                aria-hidden='true'
+                >Suivre</span></a></li>
+			</ul>
+			</div>
+				
+				
+				
+				
+			</div>
+				
+				
+			</div>		</div>
+	</footer>
+		</div>
+
+			
+		</div>
+		</div>
+
+			    <!-- WPServeur Tracker ne pas enlever -->
+    <noscript><img src="https://tracker.wpserveur.net/matomo.php?idsite=777&amp;rec=1" style="border:0;display: none;" alt="" /></noscript>
+    <script type="text/javascript">
+  var _paq = window._paq || [];
+  _paq.push([function() {
+      var self = this;
+      function getOriginalVisitorCookieTimeout() {
+	      var now = new Date(),
+	       nowTs = Math.round(now.getTime() / 1000),
+	       visitorInfo = self.getVisitorInfo();
+	       var createTs = parseInt(visitorInfo[2]);
+	       var cookieTimeout = 2592000; // 1 mois en secondes
+	       var originalTimeout = createTs + cookieTimeout - nowTs;
+	       return originalTimeout;
+      }
+      this.setVisitorCookieTimeout( getOriginalVisitorCookieTimeout() );
+  }]);
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+      var u="https://tracker.wpserveur.net/";
+      _paq.push(['setTrackerUrl', u+'matomo.php']);
+      _paq.push(['setSiteId', '777']);
+      _paq.push(['setSecureCookie', true]);
+        var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<!-- WPServeur Tracker ne pas enlever -->
+    
+<!-- Consent Management powered by Complianz | GDPR/CCPA Cookie Consent https://wordpress.org/plugins/complianz-gdpr -->
+<div id="cmplz-cookiebanner-container"><div class="cmplz-cookiebanner cmplz-hidden banner-2 optin cmplz-bottom-right cmplz-categories-type-save-preferences" aria-modal="true" data-nosnippet="true" role="dialog" aria-live="polite" aria-labelledby="cmplz-header-2-optin" aria-describedby="cmplz-message-2-optin">
+	<div class="cmplz-header">
+		<div class="cmplz-logo"></div>
+		<div class="cmplz-title" id="cmplz-header-2-optin">Gérer le consentement aux cookies</div>
+		<div class="cmplz-close" tabindex="0" role="button" aria-label="close-dialog">
+			<svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="times" class="svg-inline--fa fa-times fa-w-11" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 352 512"><path fill="currentColor" d="M242.72 256l100.07-100.07c12.28-12.28 12.28-32.19 0-44.48l-22.24-22.24c-12.28-12.28-32.19-12.28-44.48 0L176 189.28 75.93 89.21c-12.28-12.28-32.19-12.28-44.48 0L9.21 111.45c-12.28 12.28-12.28 32.19 0 44.48L109.28 256 9.21 356.07c-12.28 12.28-12.28 32.19 0 44.48l22.24 22.24c12.28 12.28 32.2 12.28 44.48 0L176 322.72l100.07 100.07c12.28 12.28 32.2 12.28 44.48 0l22.24-22.24c12.28-12.28 12.28-32.19 0-44.48L242.72 256z"></path></svg>
+		</div>
+	</div>
+
+	<div class="cmplz-divider cmplz-divider-header"></div>
+	<div class="cmplz-body">
+		<div class="cmplz-message" id="cmplz-message-2-optin">Nous utilisons des cookies pour optimiser notre site web et notre service.</div>
+		<!-- categories start -->
+		<div class="cmplz-categories">
+			<details class="cmplz-category cmplz-functional" >
+				<summary>
+						<span class="cmplz-category-header">
+							<span class="cmplz-category-title">Fonctionnel</span>
+							<span class='cmplz-always-active'>
+								<span class="cmplz-banner-checkbox">
+									<input type="checkbox"
+										   id="cmplz-functional-optin"
+										   data-category="cmplz_functional"
+										   class="cmplz-consent-checkbox cmplz-functional"
+										   size="40"
+										   value="1"/>
+									<label class="cmplz-label" for="cmplz-functional-optin" tabindex="0"><span class="screen-reader-text">Fonctionnel</span></label>
+								</span>
+								Toujours activé							</span>
+							<span class="cmplz-icon cmplz-open">
+								<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"  height="18" ><path d="M224 416c-8.188 0-16.38-3.125-22.62-9.375l-192-192c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0L224 338.8l169.4-169.4c12.5-12.5 32.75-12.5 45.25 0s12.5 32.75 0 45.25l-192 192C240.4 412.9 232.2 416 224 416z"/></svg>
+							</span>
+						</span>
+				</summary>
+				<div class="cmplz-description">
+					<span class="cmplz-description-functional">Le stockage ou l’accès technique est strictement nécessaire dans la finalité d’intérêt légitime de permettre l’utilisation d’un service spécifique explicitement demandé par l’abonné ou l’utilisateur, ou dans le seul but d’effectuer la transmission d’une communication sur un réseau de communications électroniques.</span>
+				</div>
+			</details>
+
+			<details class="cmplz-category cmplz-preferences" >
+				<summary>
+						<span class="cmplz-category-header">
+							<span class="cmplz-category-title">Préférences</span>
+							<span class="cmplz-banner-checkbox">
+								<input type="checkbox"
+									   id="cmplz-preferences-optin"
+									   data-category="cmplz_preferences"
+									   class="cmplz-consent-checkbox cmplz-preferences"
+									   size="40"
+									   value="1"/>
+								<label class="cmplz-label" for="cmplz-preferences-optin" tabindex="0"><span class="screen-reader-text">Préférences</span></label>
+							</span>
+							<span class="cmplz-icon cmplz-open">
+								<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"  height="18" ><path d="M224 416c-8.188 0-16.38-3.125-22.62-9.375l-192-192c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0L224 338.8l169.4-169.4c12.5-12.5 32.75-12.5 45.25 0s12.5 32.75 0 45.25l-192 192C240.4 412.9 232.2 416 224 416z"/></svg>
+							</span>
+						</span>
+				</summary>
+				<div class="cmplz-description">
+					<span class="cmplz-description-preferences">Le stockage ou l’accès technique est nécessaire dans la finalité d’intérêt légitime de stocker des préférences qui ne sont pas demandées par l’abonné ou la personne utilisant le service.</span>
+				</div>
+			</details>
+
+			<details class="cmplz-category cmplz-statistics" >
+				<summary>
+						<span class="cmplz-category-header">
+							<span class="cmplz-category-title">Statistiques</span>
+							<span class="cmplz-banner-checkbox">
+								<input type="checkbox"
+									   id="cmplz-statistics-optin"
+									   data-category="cmplz_statistics"
+									   class="cmplz-consent-checkbox cmplz-statistics"
+									   size="40"
+									   value="1"/>
+								<label class="cmplz-label" for="cmplz-statistics-optin" tabindex="0"><span class="screen-reader-text">Statistiques</span></label>
+							</span>
+							<span class="cmplz-icon cmplz-open">
+								<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"  height="18" ><path d="M224 416c-8.188 0-16.38-3.125-22.62-9.375l-192-192c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0L224 338.8l169.4-169.4c12.5-12.5 32.75-12.5 45.25 0s12.5 32.75 0 45.25l-192 192C240.4 412.9 232.2 416 224 416z"/></svg>
+							</span>
+						</span>
+				</summary>
+				<div class="cmplz-description">
+					<span class="cmplz-description-statistics">Le stockage ou l’accès technique qui est utilisé exclusivement à des fins statistiques.</span>
+					<span class="cmplz-description-statistics-anonymous">Le stockage ou l’accès technique qui est utilisé exclusivement dans des finalités statistiques anonymes. En l’absence d’une assignation à comparaître, d’une conformité volontaire de la part de votre fournisseur d’accès à internet ou d’enregistrements supplémentaires provenant d’une tierce partie, les informations stockées ou extraites à cette seule fin ne peuvent généralement pas être utilisées pour vous identifier.</span>
+				</div>
+			</details>
+			<details class="cmplz-category cmplz-marketing" >
+				<summary>
+						<span class="cmplz-category-header">
+							<span class="cmplz-category-title">Marketing</span>
+							<span class="cmplz-banner-checkbox">
+								<input type="checkbox"
+									   id="cmplz-marketing-optin"
+									   data-category="cmplz_marketing"
+									   class="cmplz-consent-checkbox cmplz-marketing"
+									   size="40"
+									   value="1"/>
+								<label class="cmplz-label" for="cmplz-marketing-optin" tabindex="0"><span class="screen-reader-text">Marketing</span></label>
+							</span>
+							<span class="cmplz-icon cmplz-open">
+								<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"  height="18" ><path d="M224 416c-8.188 0-16.38-3.125-22.62-9.375l-192-192c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0L224 338.8l169.4-169.4c12.5-12.5 32.75-12.5 45.25 0s12.5 32.75 0 45.25l-192 192C240.4 412.9 232.2 416 224 416z"/></svg>
+							</span>
+						</span>
+				</summary>
+				<div class="cmplz-description">
+					<span class="cmplz-description-marketing">Le stockage ou l’accès technique est nécessaire pour créer des profils d’utilisateurs afin d’envoyer des publicités, ou pour suivre l’utilisateur sur un site web ou sur plusieurs sites web ayant des finalités marketing similaires.</span>
+				</div>
+			</details>
+		</div><!-- categories end -->
+			</div>
+
+	<div class="cmplz-links cmplz-information">
+		<a class="cmplz-link cmplz-manage-options cookie-statement" href="#" data-relative_url="#cmplz-manage-consent-container">Gérer les options</a>
+		<a class="cmplz-link cmplz-manage-third-parties cookie-statement" href="#" data-relative_url="#cmplz-cookies-overview">Gérer les services</a>
+		<a class="cmplz-link cmplz-manage-vendors tcf cookie-statement" href="#" data-relative_url="#cmplz-tcf-wrapper">Gérer {vendor_count} fournisseurs</a>
+		<a class="cmplz-link cmplz-external cmplz-read-more-purposes tcf" target="_blank" rel="noopener noreferrer nofollow" href="https://cookiedatabase.org/tcf/purposes/">En savoir plus sur ces finalités</a>
+			</div>
+
+	<div class="cmplz-divider cmplz-footer"></div>
+
+	<div class="cmplz-buttons">
+		<button class="cmplz-btn cmplz-accept">Accepter les cookies</button>
+		<button class="cmplz-btn cmplz-deny">Refuser</button>
+		<button class="cmplz-btn cmplz-view-preferences">Voir les préférences</button>
+		<button class="cmplz-btn cmplz-save-preferences">Enregistrer les préférences</button>
+		<a class="cmplz-btn cmplz-manage-options tcf cookie-statement" href="#" data-relative_url="#cmplz-manage-consent-container">Voir les préférences</a>
+			</div>
+
+	<div class="cmplz-links cmplz-documents">
+		<a class="cmplz-link cookie-statement" href="#" data-relative_url="">{title}</a>
+		<a class="cmplz-link privacy-statement" href="#" data-relative_url="">{title}</a>
+		<a class="cmplz-link impressum" href="#" data-relative_url="">{title}</a>
+			</div>
+
+</div>
+</div>
+					<div id="cmplz-manage-consent" data-nosnippet="true"><button class="cmplz-btn cmplz-hidden cmplz-manage-consent manage-consent-2">Gérer le consentement</button>
+
+</div><div id="pum-82238" class="pum pum-overlay pum-theme-4402 pum-theme-theme-par-defaut popmake-overlay pum-overlay-disabled click_open" data-popmake="{&quot;id&quot;:82238,&quot;slug&quot;:&quot;fermeture-chronos-candidat&quot;,&quot;theme_id&quot;:4402,&quot;cookies&quot;:[],&quot;triggers&quot;:[{&quot;type&quot;:&quot;click_open&quot;,&quot;settings&quot;:{&quot;extra_selectors&quot;:&quot;&quot;,&quot;cookie_name&quot;:null}}],&quot;mobile_disabled&quot;:null,&quot;tablet_disabled&quot;:null,&quot;meta&quot;:{&quot;display&quot;:{&quot;stackable&quot;:&quot;1&quot;,&quot;overlay_disabled&quot;:&quot;1&quot;,&quot;scrollable_content&quot;:false,&quot;disable_reposition&quot;:false,&quot;size&quot;:&quot;custom&quot;,&quot;responsive_min_width&quot;:&quot;0px&quot;,&quot;responsive_min_width_unit&quot;:false,&quot;responsive_max_width&quot;:&quot;100px&quot;,&quot;responsive_max_width_unit&quot;:false,&quot;custom_width&quot;:&quot;100%&quot;,&quot;custom_width_unit&quot;:false,&quot;custom_height&quot;:&quot;380px&quot;,&quot;custom_height_unit&quot;:false,&quot;custom_height_auto&quot;:&quot;1&quot;,&quot;location&quot;:&quot;center top&quot;,&quot;position_from_trigger&quot;:false,&quot;position_top&quot;:&quot;0&quot;,&quot;position_left&quot;:&quot;0&quot;,&quot;position_bottom&quot;:&quot;0&quot;,&quot;position_right&quot;:&quot;0&quot;,&quot;position_fixed&quot;:&quot;1&quot;,&quot;animation_type&quot;:&quot;fadeAndSlide&quot;,&quot;animation_speed&quot;:&quot;300&quot;,&quot;animation_origin&quot;:&quot;top&quot;,&quot;overlay_zindex&quot;:false,&quot;zindex&quot;:&quot;1999999999&quot;},&quot;close&quot;:{&quot;text&quot;:&quot;J&#039;ai compris&quot;,&quot;button_delay&quot;:&quot;0&quot;,&quot;overlay_click&quot;:false,&quot;esc_press&quot;:false,&quot;f4_press&quot;:false},&quot;click_open&quot;:[]}}" role="dialog" aria-modal="false"
+								   	aria-labelledby="pum_popup_title_82238">
+
+	<div id="popmake-82238" class="pum-container popmake theme-4402 size-custom pum-position-fixed">
+
+				
+
+							<div id="pum_popup_title_82238" class="pum-title popmake-title">
+				Fermeture de l&#039;interface Chronos			</div>
+		
+
+		
+
+				<div class="pum-content popmake-content" tabindex="0">
+			<div class="et_pb_section et_pb_section_0 et_section_regular" >
+				
+				
+				
+				
+				
+				
+				<div class="et_pb_row et_pb_row_0">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_0  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_image et_pb_image_0">
+				
+				
+				
+				
+				<span class="et_pb_image_wrap "><img src="https://www.ofqj.org/wp-content/uploads/2022/02/error-message_flaticon.png" alt="Error message - flaticon" title="Error message - flaticon" srcset="https://i0.wp.com/www.ofqj.org/wp-content/uploads/2022/02/error-message_flaticon.png?w=512&ssl=1 512w, https://i0.wp.com/www.ofqj.org/wp-content/uploads/2022/02/error-message_flaticon.png?resize=300%2C300&ssl=1 300w, https://i0.wp.com/www.ofqj.org/wp-content/uploads/2022/02/error-message_flaticon.png?resize=150%2C150&ssl=1 150w, https://i0.wp.com/www.ofqj.org/wp-content/uploads/2022/02/error-message_flaticon.png?resize=480%2C480&ssl=1 480w, https://i0.wp.com/www.ofqj.org/wp-content/uploads/2022/02/error-message_flaticon.png?resize=100%2C100&ssl=1 100w" sizes="(max-width: 512px) 100vw, 512px" class="wp-image-71749" /></span>
+			</div><div class="et_pb_module et_pb_text et_pb_text_0  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><p style="text-align: center;"><strong>L&rsquo;interface OFQJ « Chronos » ferme ses portes fin 2022</strong>. A partir du 1er janvier 2023, tous vos projets individuels ou de groupe doivent être déposés sur <a href="https://totem.ofqj.org" target="_blank" rel="noopener">la nouvelle interface TOTEM</a>.<br /><strong>L&rsquo;accès Chronos reste ouvert uniquement pour la gestion de vos projets 2022 toujours en cours.</strong></p>
+<p style="text-align: center;">Les comptes personnels ne sont pas transférés d&rsquo;un outil à l&rsquo;autre, et <strong>vous êtes invité à vous recréer un compte sur totem.ofqj.org</strong></p></div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div><div class="et_pb_row et_pb_row_1">
+				<div class="et_pb_column et_pb_column_1_2 et_pb_column_1  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				
+				
+				<div class="et_pb_button_module_wrapper et_pb_button_0_wrapper  et_pb_module ">
+				<a class="et_pb_button et_pb_button_0 et_pb_bg_layout_light" href="https://chronos.ofqj.org/chronos/module/adm/connexion.aspx?role=2">Continuer sur Chronos</a>
+			</div>
+			</div><div class="et_pb_column et_pb_column_1_2 et_pb_column_2  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_button_module_wrapper et_pb_button_1_wrapper  et_pb_module ">
+				<a class="et_pb_button et_pb_button_1 et_pb_bg_layout_light" href="https://totem.ofqj.org">Aller sur Totem</a>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div>
+				
+				
+			</div>
+		</div>
+
+
+				
+
+							<button type="button" class="pum-close popmake-close" aria-label="Fermer">
+			J&#039;ai compris			</button>
+		
+	</div>
+
+</div>
+<div id="pum-82405" class="pum pum-overlay pum-theme-4402 pum-theme-theme-par-defaut popmake-overlay pum-overlay-disabled click_open" data-popmake="{&quot;id&quot;:82405,&quot;slug&quot;:&quot;fermeture-de-chronos-structures&quot;,&quot;theme_id&quot;:4402,&quot;cookies&quot;:[],&quot;triggers&quot;:[{&quot;type&quot;:&quot;click_open&quot;,&quot;settings&quot;:{&quot;extra_selectors&quot;:&quot;&quot;,&quot;cookie_name&quot;:null}}],&quot;mobile_disabled&quot;:null,&quot;tablet_disabled&quot;:null,&quot;meta&quot;:{&quot;display&quot;:{&quot;stackable&quot;:&quot;1&quot;,&quot;overlay_disabled&quot;:&quot;1&quot;,&quot;scrollable_content&quot;:false,&quot;disable_reposition&quot;:false,&quot;size&quot;:&quot;custom&quot;,&quot;responsive_min_width&quot;:&quot;0px&quot;,&quot;responsive_min_width_unit&quot;:false,&quot;responsive_max_width&quot;:&quot;100px&quot;,&quot;responsive_max_width_unit&quot;:false,&quot;custom_width&quot;:&quot;100%&quot;,&quot;custom_width_unit&quot;:false,&quot;custom_height&quot;:&quot;380px&quot;,&quot;custom_height_unit&quot;:false,&quot;custom_height_auto&quot;:&quot;1&quot;,&quot;location&quot;:&quot;center top&quot;,&quot;position_from_trigger&quot;:false,&quot;position_top&quot;:&quot;0&quot;,&quot;position_left&quot;:&quot;0&quot;,&quot;position_bottom&quot;:&quot;0&quot;,&quot;position_right&quot;:&quot;0&quot;,&quot;position_fixed&quot;:&quot;1&quot;,&quot;animation_type&quot;:&quot;fadeAndSlide&quot;,&quot;animation_speed&quot;:&quot;300&quot;,&quot;animation_origin&quot;:&quot;top&quot;,&quot;overlay_zindex&quot;:false,&quot;zindex&quot;:&quot;1999999999&quot;},&quot;close&quot;:{&quot;text&quot;:&quot;&quot;,&quot;button_delay&quot;:&quot;0&quot;,&quot;overlay_click&quot;:false,&quot;esc_press&quot;:false,&quot;f4_press&quot;:false},&quot;click_open&quot;:[]}}" role="dialog" aria-modal="false"
+								   	aria-labelledby="pum_popup_title_82405">
+
+	<div id="popmake-82405" class="pum-container popmake theme-4402 size-custom pum-position-fixed">
+
+				
+
+							<div id="pum_popup_title_82405" class="pum-title popmake-title">
+				Fermeture de Chronos			</div>
+		
+
+		
+
+				<div class="pum-content popmake-content" tabindex="0">
+			<div class="et_pb_section et_pb_section_1 et_section_regular" >
+				
+				
+				
+				
+				
+				
+				<div class="et_pb_row et_pb_row_2">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_3  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_image et_pb_image_1">
+				
+				
+				
+				
+				<span class="et_pb_image_wrap "><img src="https://www.ofqj.org/wp-content/uploads/2022/02/error-message_flaticon.png" alt="Error message - flaticon" title="Error message - flaticon" srcset="https://i0.wp.com/www.ofqj.org/wp-content/uploads/2022/02/error-message_flaticon.png?w=512&ssl=1 512w, https://i0.wp.com/www.ofqj.org/wp-content/uploads/2022/02/error-message_flaticon.png?resize=300%2C300&ssl=1 300w, https://i0.wp.com/www.ofqj.org/wp-content/uploads/2022/02/error-message_flaticon.png?resize=150%2C150&ssl=1 150w, https://i0.wp.com/www.ofqj.org/wp-content/uploads/2022/02/error-message_flaticon.png?resize=480%2C480&ssl=1 480w, https://i0.wp.com/www.ofqj.org/wp-content/uploads/2022/02/error-message_flaticon.png?resize=100%2C100&ssl=1 100w" sizes="(max-width: 512px) 100vw, 512px" class="wp-image-71749" /></span>
+			</div><div class="et_pb_module et_pb_text et_pb_text_1  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><p style="text-align: center;"><strong>L&rsquo;interface OFQJ « Chronos » ferme ses portes fin 2022</strong>. A partir du 1er janvier 2023, tous vos projets individuels ou de groupe doivent être déposés sur <a href="https://totem.ofqj.org" target="_blank" rel="noopener">la nouvelle interface TOTEM</a>.<br /><strong>L&rsquo;accès Chronos reste ouvert uniquement pour la gestion de vos projets 2022 toujours en cours.</strong></p>
+<p style="text-align: center;">Les comptes personnels ne sont pas transférés d&rsquo;un outil à l&rsquo;autre, et <strong>vous êtes invité à vous recréer un compte sur totem.ofqj.org</strong></p></div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div><div class="et_pb_row et_pb_row_3">
+				<div class="et_pb_column et_pb_column_1_2 et_pb_column_4  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				
+				
+				<div class="et_pb_button_module_wrapper et_pb_button_2_wrapper  et_pb_module ">
+				<a class="et_pb_button et_pb_button_2 et_pb_bg_layout_light" href="https://chronos.ofqj.org/chronos/module/adm/connexion.aspx?role=4">Continuer sur Chronos</a>
+			</div>
+			</div><div class="et_pb_column et_pb_column_1_2 et_pb_column_5  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_button_module_wrapper et_pb_button_3_wrapper  et_pb_module ">
+				<a class="et_pb_button et_pb_button_3 et_pb_bg_layout_light" href="https://totem.ofqj.org">Aller sur Totem</a>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div>
+				
+				
+			</div>
+		</div>
+
+
+				
+
+							<button type="button" class="pum-close popmake-close" aria-label="Fermer">
+			FERMER			</button>
+		
+	</div>
+
+</div>
+<div id="pum-20211" class="pum pum-overlay pum-theme-4402 pum-theme-theme-par-defaut popmake-overlay click_open" data-popmake="{&quot;id&quot;:20211,&quot;slug&quot;:&quot;attention-compte-structure&quot;,&quot;theme_id&quot;:4402,&quot;cookies&quot;:[],&quot;triggers&quot;:[{&quot;type&quot;:&quot;click_open&quot;,&quot;settings&quot;:{&quot;extra_selectors&quot;:&quot;&quot;,&quot;cookie_name&quot;:null}}],&quot;mobile_disabled&quot;:null,&quot;tablet_disabled&quot;:null,&quot;meta&quot;:{&quot;display&quot;:{&quot;stackable&quot;:false,&quot;overlay_disabled&quot;:false,&quot;scrollable_content&quot;:false,&quot;disable_reposition&quot;:false,&quot;size&quot;:false,&quot;responsive_min_width&quot;:false,&quot;responsive_min_width_unit&quot;:false,&quot;responsive_max_width&quot;:false,&quot;responsive_max_width_unit&quot;:false,&quot;custom_width&quot;:false,&quot;custom_width_unit&quot;:false,&quot;custom_height&quot;:false,&quot;custom_height_unit&quot;:false,&quot;custom_height_auto&quot;:false,&quot;location&quot;:false,&quot;position_from_trigger&quot;:false,&quot;position_top&quot;:false,&quot;position_left&quot;:false,&quot;position_bottom&quot;:false,&quot;position_right&quot;:false,&quot;position_fixed&quot;:false,&quot;animation_type&quot;:false,&quot;animation_speed&quot;:false,&quot;animation_origin&quot;:false,&quot;overlay_zindex&quot;:false,&quot;zindex&quot;:false},&quot;close&quot;:{&quot;text&quot;:false,&quot;button_delay&quot;:false,&quot;overlay_click&quot;:false,&quot;esc_press&quot;:false,&quot;f4_press&quot;:false},&quot;click_open&quot;:[]}}" role="dialog" aria-modal="false"
+								   	aria-labelledby="pum_popup_title_20211">
+
+	<div id="popmake-20211" class="pum-container popmake theme-4402 pum-responsive pum-responsive-medium responsive size-medium">
+
+				
+
+							<div id="pum_popup_title_20211" class="pum-title popmake-title">
+				Information création de compte entreprises et structures			</div>
+		
+
+		
+
+				<div class="pum-content popmake-content" tabindex="0">
+			<div class="et_pb_section et_pb_section_2 et_section_regular" >
+				
+				
+				
+				
+				
+				
+				<div class="et_pb_row et_pb_row_4">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_6  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_2  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h4>Créer un compte OFQJ</h4>
+<p>Attention : Lorsque vous complétez le formulaire d’inscription, merci de le remplir comme tel :</p>
+<ul>
+<li>Nom : Acronyme de l’entreprise</li>
+<li>Prénom : Acronyme de l’entreprise</li>
+<li>Raison sociale : Nom complet de l’entreprise</li>
+<li>Code postal: Entrer le code postal sans espace (exemple: H3L2S3)</li>
+</ul></div>
+			</div><div class="et_pb_button_module_wrapper et_pb_button_4_wrapper et_pb_button_alignment_center et_pb_module ">
+				<a class="et_pb_button et_pb_button_4 et_pb_bg_layout_light" href="https://chronos.ofqj.org/chronos/module/adm/cnx_creation_cpt.aspx?action=INSERT&#038;role=4">J&#039;ai compris</a>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div>
+				
+				
+			</div>
+		</div>
+
+
+				
+
+							<button type="button" class="pum-close popmake-close" aria-label="Fermer">
+			&#215;			</button>
+		
+	</div>
+
+</div>
+<!-- Instagram Feed JS -->
+<script type="text/javascript">
+var sbiajaxurl = "https://www.ofqj.org/wp-admin/admin-ajax.php";
+</script>
+<div class="et_social_sidebar_networks et_social_visible_sidebar et_social_slideright et_social_animated et_social_rectangle et_social_sidebar_flip et_social_mobile_on">
+					
+					<ul class="et_social_icons_container"><li class="et_social_facebook">
+									<a href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.ofqj.org%2Ffierte-montreal-2023%2F&#038;t=Fiert%C3%A9%20Montr%C3%A9al%202023" class="et_social_share" rel="nofollow" data-social_name="facebook" data-post_id="84586" data-social_type="share" data-location="sidebar">
+										<i class="et_social_icon et_social_icon_facebook"></i>
+										
+										
+										<span class="et_social_overlay"></span>
+									</a>
+								</li><li class="et_social_twitter">
+									<a href="http://twitter.com/share?text=Fiert%C3%A9%20Montr%C3%A9al%202023&#038;url=https%3A%2F%2Fwww.ofqj.org%2Ffierte-montreal-2023%2F" class="et_social_share" rel="nofollow" data-social_name="twitter" data-post_id="84586" data-social_type="share" data-location="sidebar">
+										<i class="et_social_icon et_social_icon_twitter"></i>
+										
+										
+										<span class="et_social_overlay"></span>
+									</a>
+								</li><li class="et_social_linkedin">
+									<a href="http://www.linkedin.com/shareArticle?mini=true&#038;url=https%3A%2F%2Fwww.ofqj.org%2Ffierte-montreal-2023%2F&#038;title=Fiert%C3%A9%20Montr%C3%A9al%202023" class="et_social_share" rel="nofollow" data-social_name="linkedin" data-post_id="84586" data-social_type="share" data-location="sidebar">
+										<i class="et_social_icon et_social_icon_linkedin"></i>
+										
+										
+										<span class="et_social_overlay"></span>
+									</a>
+								</li></ul>
+					<span class="et_social_hide_sidebar et_social_icon"></span>
+				</div><div class="et_social_mobile_button"></div>
+					<div class="et_social_mobile et_social_fadein">
+						<div class="et_social_heading">Share This</div>
+						<span class="et_social_close"></span>
+						<div class="et_social_networks et_social_simple et_social_rounded et_social_left">
+							<ul class="et_social_icons_container"><li class="et_social_facebook">
+									<a href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.ofqj.org%2Ffierte-montreal-2023%2F&#038;t=Fiert%C3%A9%20Montr%C3%A9al%202023" class="et_social_share" rel="nofollow" data-social_name="facebook" data-post_id="84586" data-social_type="share" data-location="sidebar">
+										<i class="et_social_icon et_social_icon_facebook"></i>
+										<div class="et_social_network_label"><div class="et_social_networkname">Facebook</div></div>
+										
+										<span class="et_social_overlay"></span>
+									</a>
+								</li><li class="et_social_twitter">
+									<a href="http://twitter.com/share?text=Fiert%C3%A9%20Montr%C3%A9al%202023&#038;url=https%3A%2F%2Fwww.ofqj.org%2Ffierte-montreal-2023%2F" class="et_social_share" rel="nofollow" data-social_name="twitter" data-post_id="84586" data-social_type="share" data-location="sidebar">
+										<i class="et_social_icon et_social_icon_twitter"></i>
+										<div class="et_social_network_label"><div class="et_social_networkname">Twitter</div></div>
+										
+										<span class="et_social_overlay"></span>
+									</a>
+								</li><li class="et_social_linkedin">
+									<a href="http://www.linkedin.com/shareArticle?mini=true&#038;url=https%3A%2F%2Fwww.ofqj.org%2Ffierte-montreal-2023%2F&#038;title=Fiert%C3%A9%20Montr%C3%A9al%202023" class="et_social_share" rel="nofollow" data-social_name="linkedin" data-post_id="84586" data-social_type="share" data-location="sidebar">
+										<i class="et_social_icon et_social_icon_linkedin"></i>
+										<div class="et_social_network_label"><div class="et_social_networkname">LinkedIn</div></div>
+										
+										<span class="et_social_overlay"></span>
+									</a>
+								</li></ul>
+						</div>
+					</div>
+					<div class="et_social_mobile_overlay"></div>	<script type="text/javascript">
+				var et_link_options_data = [{"class":"et_pb_blurb_2_tb_footer","url":"http:\/\/ressources@ofqj.org","target":"_self"},{"class":"et_pb_blurb_5_tb_footer","url":"https:\/\/www.ofqj.org\/nos-ateliers-dinformation\/","target":"_self"},{"class":"et_pb_blurb_6_tb_footer","url":"https:\/\/www.ofqj.org\/permis-de-travail\/","target":"_self"},{"class":"et_pb_blurb_7_tb_footer","url":"https:\/\/www.ofqj.org\/mobilite-etudiante\/","target":"_self"},{"class":"et_pb_blurb_8_tb_footer","url":"https:\/\/www.ofqj.org\/odyssart","target":"_self"},{"class":"et_pb_blurb_9_tb_footer","url":"https:\/\/www.ofqj.org\/avantages-participants\/","target":"_self"}];
+			</script>
+		<script type="text/javascript">
+		(function () {
+			var c = document.body.className;
+			c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+			document.body.className = c;
+		})();
+	</script>
+	<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WB5TCWZ" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) --><script type="text/javascript" src="https://c0.wp.com/c/6.4.2/wp-includes/js/jquery/ui/core.min.js" id="jquery-ui-core-js"></script>
+<script type="text/javascript" src="https://c0.wp.com/c/6.4.2/wp-includes/js/jquery/ui/datepicker.min.js" id="jquery-ui-datepicker-js"></script>
+<script type="text/javascript" id="jquery-ui-datepicker-js-after">
+/* <![CDATA[ */
+jQuery(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"Fermer","currentText":"Aujourd\u2019hui","monthNames":["janvier","f\u00e9vrier","mars","avril","mai","juin","juillet","ao\u00fbt","septembre","octobre","novembre","d\u00e9cembre"],"monthNamesShort":["Jan","F\u00e9v","Mar","Avr","Mai","Juin","Juil","Ao\u00fbt","Sep","Oct","Nov","D\u00e9c"],"nextText":"Suivant","prevText":"Pr\u00e9c\u00e9dent","dayNames":["dimanche","lundi","mardi","mercredi","jeudi","vendredi","samedi"],"dayNamesShort":["dim","lun","mar","mer","jeu","ven","sam"],"dayNamesMin":["D","L","M","M","J","V","S"],"dateFormat":"d MM yy","firstDay":1,"isRTL":false});});
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.ofqj.org/wp-content/plugins/modern-events-calendar-lite/assets/js/isotope.pkgd.min.js" id="mec-isotope-script-js"></script>
+<script type="text/javascript" src="https://www.ofqj.org/wp-content/plugins/modern-events-calendar-lite/assets/js/imagesload.js" id="mec-imagesload-script-js"></script>
+<script type="text/javascript" src="https://www.ofqj.org/wp-content/plugins/modern-events-calendar-lite/assets/js/jquery.typewatch.js" id="mec-typekit-script-js"></script>
+<script type="text/javascript" src="https://www.ofqj.org/wp-content/plugins/modern-events-calendar-lite/assets/packages/featherlight/featherlight.js" id="featherlight-js"></script>
+<script type="text/javascript" src="https://www.ofqj.org/wp-content/plugins/modern-events-calendar-lite/assets/packages/select2/select2.full.min.js" id="mec-select2-script-js"></script>
+<script type="text/javascript" src="https://www.ofqj.org/wp-content/plugins/modern-events-calendar-lite/assets/packages/tooltip/tooltip.js" id="mec-tooltip-script-js"></script>
+<script type="text/javascript" src="https://www.ofqj.org/wp-content/plugins/modern-events-calendar-lite/assets/packages/lity/lity.min.js" id="mec-lity-script-js"></script>
+<script type="text/javascript" src="https://www.ofqj.org/wp-content/plugins/modern-events-calendar-lite/assets/packages/colorbrightness/colorbrightness.min.js" id="mec-colorbrightness-script-js"></script>
+<script type="text/javascript" src="https://www.ofqj.org/wp-content/plugins/modern-events-calendar-lite/assets/packages/owl-carousel/owl.carousel.min.js" id="mec-owl-carousel-script-js"></script>
+<script type="text/javascript" src="https://www.ofqj.org/wp-content/plugins/jetpack/jetpack_vendor/automattic/jetpack-image-cdn/dist/image-cdn.js?minify=false" id="jetpack-photon-js"></script>
+<script type="text/javascript" id="pt-cv-content-views-script-js-extra">
+/* <![CDATA[ */
+var PT_CV_PUBLIC = {"_prefix":"pt-cv-","page_to_show":"5","_nonce":"f6d226849e","is_admin":"","is_mobile":"","ajaxurl":"https:\/\/www.ofqj.org\/wp-admin\/admin-ajax.php","lang":"","loading_image_src":"data:image\/gif;base64,R0lGODlhDwAPALMPAMrKygwMDJOTkz09PZWVla+vr3p6euTk5M7OzuXl5TMzMwAAAJmZmWZmZszMzP\/\/\/yH\/C05FVFNDQVBFMi4wAwEAAAAh+QQFCgAPACwAAAAADwAPAAAEQvDJaZaZOIcV8iQK8VRX4iTYoAwZ4iCYoAjZ4RxejhVNoT+mRGP4cyF4Pp0N98sBGIBMEMOotl6YZ3S61Bmbkm4mAgAh+QQFCgAPACwAAAAADQANAAAENPDJSRSZeA418itN8QiK8BiLITVsFiyBBIoYqnoewAD4xPw9iY4XLGYSjkQR4UAUD45DLwIAIfkEBQoADwAsAAAAAA8ACQAABC\/wyVlamTi3nSdgwFNdhEJgTJoNyoB9ISYoQmdjiZPcj7EYCAeCF1gEDo4Dz2eIAAAh+QQFCgAPACwCAAAADQANAAAEM\/DJBxiYeLKdX3IJZT1FU0iIg2RNKx3OkZVnZ98ToRD4MyiDnkAh6BkNC0MvsAj0kMpHBAAh+QQFCgAPACwGAAAACQAPAAAEMDC59KpFDll73HkAA2wVY5KgiK5b0RRoI6MuzG6EQqCDMlSGheEhUAgqgUUAFRySIgAh+QQFCgAPACwCAAIADQANAAAEM\/DJKZNLND\/kkKaHc3xk+QAMYDKsiaqmZCxGVjSFFCxB1vwy2oOgIDxuucxAMTAJFAJNBAAh+QQFCgAPACwAAAYADwAJAAAEMNAs86q1yaWwwv2Ig0jUZx3OYa4XoRAfwADXoAwfo1+CIjyFRuEho60aSNYlOPxEAAAh+QQFCgAPACwAAAIADQANAAAENPA9s4y8+IUVcqaWJ4qEQozSoAzoIyhCK2NFU2SJk0hNnyEOhKR2AzAAj4Pj4GE4W0bkJQIAOw==","is_mobile_tablet":"","sf_no_post_found":"Aucune publication trouv\u00e9e."};
+var PT_CV_PAGINATION = {"first":"\u00ab","prev":"\u2039","next":"\u203a","last":"\u00bb","goto_first":"Aller \u00e0 la premi\u00e8re page","goto_prev":"Aller \u00e0 la page pr\u00e9c\u00e9dente","goto_next":"Aller \u00e0 la page suivante","goto_last":"Aller \u00e0 la derni\u00e8re page","current_page":"La page actuelle est","goto_page":"Aller \u00e0 la page"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.ofqj.org/wp-content/plugins/content-views-query-and-display-post-page/public/assets/js/cv.js" id="pt-cv-content-views-script-js"></script>
+<script type="text/javascript" src="https://www.ofqj.org/wp-content/plugins/pt-content-views-pro/public/assets/js/cvpro.min.js" id="pt-cv-public-pro-script-js"></script>
+<script type="text/javascript" src="https://www.ofqj.org/wp-content/plugins/dg-divi-carousel/scripts/swiper.min.js" id="swipe-script-js"></script>
+<script type="text/javascript" id="alg-wc-pop-frontend-js-extra">
+/* <![CDATA[ */
+var alg_wc_pop_data_object = {"force_decimals":"","force_decimal_width":"2"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.ofqj.org/wp-content/plugins/product-open-pricing-name-your-price-for-woocommerce/includes/js/alg-wc-pop-frontend.js" id="alg-wc-pop-frontend-js"></script>
+<script type="text/javascript" id="popup-maker-site-js-extra">
+/* <![CDATA[ */
+var pum_vars = {"version":"1.18.2","pm_dir_url":"https:\/\/www.ofqj.org\/wp-content\/plugins\/popup-maker\/","ajaxurl":"https:\/\/www.ofqj.org\/wp-admin\/admin-ajax.php","restapi":"https:\/\/www.ofqj.org\/wp-json\/pum\/v1","rest_nonce":null,"default_theme":"4402","debug_mode":"","disable_tracking":"","home_url":"\/","message_position":"top","core_sub_forms_enabled":"1","popups":[],"cookie_domain":"","analytics_route":"analytics","analytics_api":"https:\/\/www.ofqj.org\/wp-json\/pum\/v1"};
+var pum_sub_vars = {"ajaxurl":"https:\/\/www.ofqj.org\/wp-admin\/admin-ajax.php","message_position":"top"};
+var pum_popups = {"pum-82238":{"triggers":[],"cookies":[],"disable_on_mobile":false,"disable_on_tablet":false,"atc_promotion":null,"explain":null,"type_section":null,"theme_id":"4402","size":"custom","responsive_min_width":"0px","responsive_max_width":"100px","custom_width":"100%","custom_height_auto":true,"custom_height":"380px","scrollable_content":false,"animation_type":"fadeAndSlide","animation_speed":"300","animation_origin":"top","open_sound":"none","custom_sound":"","location":"center top","position_top":"0","position_bottom":"0","position_left":"0","position_right":"0","position_from_trigger":false,"position_fixed":true,"overlay_disabled":true,"stackable":true,"disable_reposition":false,"zindex":"1999999999","close_button_delay":"0","fi_promotion":null,"close_on_form_submission":false,"close_on_form_submission_delay":"0","close_on_overlay_click":false,"close_on_esc_press":false,"close_on_f4_press":false,"disable_form_reopen":false,"disable_accessibility":false,"theme_slug":"theme-par-defaut","id":82238,"slug":"fermeture-chronos-candidat"},"pum-82405":{"triggers":[],"cookies":[],"disable_on_mobile":false,"disable_on_tablet":false,"atc_promotion":null,"explain":null,"type_section":null,"theme_id":"4402","size":"custom","responsive_min_width":"0px","responsive_max_width":"100px","custom_width":"100%","custom_height_auto":true,"custom_height":"380px","scrollable_content":false,"animation_type":"fadeAndSlide","animation_speed":"300","animation_origin":"top","open_sound":"none","custom_sound":"","location":"center top","position_top":"0","position_bottom":"0","position_left":"0","position_right":"0","position_from_trigger":false,"position_fixed":true,"overlay_disabled":true,"stackable":true,"disable_reposition":false,"zindex":"1999999999","close_button_delay":"0","fi_promotion":null,"close_on_form_submission":false,"close_on_form_submission_delay":"0","close_on_overlay_click":false,"close_on_esc_press":false,"close_on_f4_press":false,"disable_form_reopen":false,"disable_accessibility":false,"theme_slug":"theme-par-defaut","id":82405,"slug":"fermeture-de-chronos-structures"},"pum-20211":{"triggers":[],"cookies":[],"disable_on_mobile":false,"disable_on_tablet":false,"atc_promotion":null,"explain":null,"type_section":null,"theme_id":4402,"size":"medium","responsive_min_width":"0%","responsive_max_width":"100%","custom_width":"640px","custom_height_auto":false,"custom_height":"380px","scrollable_content":false,"animation_type":"fade","animation_speed":350,"animation_origin":"center top","open_sound":"none","custom_sound":"","location":"center top","position_top":100,"position_bottom":0,"position_left":0,"position_right":0,"position_from_trigger":false,"position_fixed":false,"overlay_disabled":false,"stackable":false,"disable_reposition":false,"zindex":1999999999,"close_button_delay":0,"fi_promotion":null,"close_on_form_submission":false,"close_on_form_submission_delay":0,"close_on_overlay_click":false,"close_on_esc_press":false,"close_on_f4_press":false,"disable_form_reopen":false,"disable_accessibility":false,"theme_slug":"theme-par-defaut","id":20211,"slug":"attention-compte-structure"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.ofqj.org/wp-content/uploads/pum/pum-site-scripts.js?defer&amp;generated=1688466903" id="popup-maker-site-js"></script>
+<script type="text/javascript" src="https://www.ofqj.org/wp-content/plugins/monarch/js/idle-timer.min.js" id="et_monarch-idle-js"></script>
+<script type="text/javascript" id="et_monarch-custom-js-js-extra">
+/* <![CDATA[ */
+var monarchSettings = {"ajaxurl":"https:\/\/www.ofqj.org\/wp-admin\/admin-ajax.php","pageurl":"https:\/\/www.ofqj.org\/fierte-montreal-2023\/","stats_nonce":"100e55310a","share_counts":"374efb6987","follow_counts":"408cb6ff3c","total_counts":"ec400050f5","media_single":"b37265a2d4","media_total":"539b75d4f3","generate_all_window_nonce":"b4d3600bcf","no_img_message":"No images available for sharing on this page"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.ofqj.org/wp-content/plugins/monarch/js/custom.js" id="et_monarch-custom-js-js"></script>
+<script type="text/javascript" src="https://c0.wp.com/c/6.4.2/wp-includes/js/comment-reply.min.js" id="comment-reply-js" async="async" data-wp-strategy="async"></script>
+<script type="text/javascript" id="divi-custom-script-js-extra">
+/* <![CDATA[ */
+var DIVI = {"item_count":"%d Item","items_count":"%d Items"};
+var et_builder_utils_params = {"condition":{"diviTheme":true,"extraTheme":false},"scrollLocations":["app","top"],"builderScrollLocations":{"desktop":"app","tablet":"app","phone":"app"},"onloadScrollLocation":"app","builderType":"fe"};
+var et_frontend_scripts = {"builderCssContainerPrefix":"#et-boc","builderCssLayoutPrefix":"#et-boc .et-l"};
+var et_pb_custom = {"ajaxurl":"https:\/\/www.ofqj.org\/wp-admin\/admin-ajax.php","images_uri":"https:\/\/www.ofqj.org\/wp-content\/themes\/Divi\/images","builder_images_uri":"https:\/\/www.ofqj.org\/wp-content\/themes\/Divi\/includes\/builder\/images","et_frontend_nonce":"b51f0aa963","subscription_failed":"Veuillez v\u00e9rifier les champs ci-dessous pour vous assurer que vous avez entr\u00e9 les informations correctes.","et_ab_log_nonce":"52a072c983","fill_message":"S'il vous pla\u00eet, remplissez les champs suivants:","contact_error_message":"Veuillez corriger les erreurs suivantes :","invalid":"E-mail non valide","captcha":"Captcha","prev":"Pr\u00e9c\u00e9dent","previous":"Pr\u00e9c\u00e9dente","next":"Prochaine","wrong_captcha":"Vous avez entr\u00e9 le mauvais num\u00e9ro dans le captcha.","wrong_checkbox":"Case \u00e0 cocher","ignore_waypoints":"no","is_divi_theme_used":"1","widget_search_selector":".widget_search","ab_tests":[],"is_ab_testing_active":"","page_id":"84586","unique_test_id":"","ab_bounce_rate":"5","is_cache_plugin_active":"no","is_shortcode_tracking":"","tinymce_uri":"https:\/\/www.ofqj.org\/wp-content\/themes\/Divi\/includes\/builder\/frontend-builder\/assets\/vendors","accent_color":"#394b92","waypoints_options":{"context":[".pum-overlay"]}};
+var et_pb_box_shadow_elements = [];
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.ofqj.org/wp-content/themes/Divi/js/scripts.min.js" id="divi-custom-script-js"></script>
+<script type="text/javascript" src="https://www.ofqj.org/wp-content/themes/Divi/js/smoothscroll.js" id="smoothscroll-js"></script>
+<script type="text/javascript" src="https://www.ofqj.org/wp-content/themes/Divi/includes/builder/feature/dynamic-assets/assets/js/jquery.fitvids.js" id="fitvids-js"></script>
+<script type="text/javascript" src="https://www.ofqj.org/wp-content/plugins/dg-divi-carousel/scripts/frontend-bundle.min.js" id="divi-carousel-frontend-bundle-js"></script>
+<script type="text/javascript" src="https://www.ofqj.org/wp-content/plugins/modern-events-calendar-lite/app/addons/divi/scripts/frontend-bundle.min.js" id="divi-frontend-bundle-js"></script>
+<script type="text/javascript" src="https://www.ofqj.org/wp-content/plugins/supreme-modules-for-divi/scripts/frontend-bundle.min.js" id="supreme-modules-for-divi-frontend-bundle-js"></script>
+<script type="text/javascript" src="https://www.ofqj.org/wp-content/themes/Divi/core/admin/js/common.js" id="et-core-common-js"></script>
+<script data-service="jetpack-statistics" data-category="statistics" defer type="text/plain" data-cmplz-src="https://stats.wp.com/e-202401.js" id="jetpack-stats-js"></script>
+<script type="text/javascript" id="jetpack-stats-js-after">
+/* <![CDATA[ */
+_stq = window._stq || [];
+_stq.push([ "view", {v:'ext',blog:'200698475',post:'84586',tz:'1',srv:'www.ofqj.org',j:'1:12.9.3'} ]);
+_stq.push([ "clickTrackerInit", "200698475", "84586" ]);
+/* ]]> */
+</script>
+<script type="text/javascript" id="cmplz-cookiebanner-js-extra">
+/* <![CDATA[ */
+var complianz = {"prefix":"cmplz_","user_banner_id":"2","set_cookies":[],"block_ajax_content":"0","banner_version":"28","version":"6.5.5","store_consent":"","do_not_track_enabled":"","consenttype":"optin","region":"eu","geoip":"","dismiss_timeout":"","disable_cookiebanner":"","soft_cookiewall":"","dismiss_on_scroll":"","cookie_expiry":"365","url":"https:\/\/www.ofqj.org\/wp-json\/complianz\/v1\/","locale":"lang=fr&locale=fr_FR","set_cookies_on_root":"0","cookie_domain":"","current_policy_id":"22","cookie_path":"\/","categories":{"statistics":"statistiques","marketing":"marketing"},"tcf_active":"","placeholdertext":"Cliquez pour accepter les cookies {category} et activer ce contenu","aria_label":"Cliquez pour accepter les cookies {category} et activer ce contenu","css_file":"https:\/\/www.ofqj.org\/wp-content\/uploads\/complianz\/css\/banner-{banner_id}-{type}.css?v=28","page_links":{"eu":{"cookie-statement":{"title":"RGPD","url":"https:\/\/www.ofqj.org\/rgpd\/"},"privacy-statement":{"title":"RGPD","url":"https:\/\/www.ofqj.org\/rgpd\/"}}},"tm_categories":"","forceEnableStats":"","preview":"","clean_cookies":""};
+/* ]]> */
+</script>
+<script defer type="text/javascript" src="https://www.ofqj.org/wp-content/plugins/complianz-gdpr/cookiebanner/js/complianz.min.js" id="cmplz-cookiebanner-js"></script>
+<script type="text/javascript" src="https://www.ofqj.org/wp-content/plugins/complianz-gdpr/cookiebanner/js/migrate.min.js" id="cmplz-migrate-js"></script>
+			<script type="text/javascript" id="pt-cv-custom-script-f9ffd20pcd">
+			(function($){$(function(){ 
+window.cvp_lf_reload_url = true; 
+
+ });}(jQuery));			</script>
+				
+			<span class="et_pb_scroll_top et-pb-icon"></span>
+	</body>
+</html>
