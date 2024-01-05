@@ -9,6 +9,7 @@
     <style>
         body {
             font-family: 'Nunito', sans-serif;
+            padding-top: 3.25rem; /* Ajoute un espace en haut pour la barre de navigation fixe */
         }
         .hero-background {
             background: url('Org.png') center center;
@@ -20,12 +21,21 @@
             color: white;
             text-shadow: 3px 3px 6px rgba(0, 0, 0, 0.7);
         }
+        .navbar {
+            position: fixed;
+            top: 0;
+            width: 100%;
+            z-index: 1000;
+        }
+        .navbar-menu {
+            background-color: rgba(255, 255, 255, 0.95);
+            box-shadow: 0 2px 3px rgba(10, 10, 10, 0.1);
+        }
         .navbar-item {
-            transition: background-color 0.3s ease, color 0.2s ease;
+            transition: color 0.3s ease;
         }
         .navbar-item:hover {
-            background-color: rgba(255, 255, 255, 0.1);
-            color: #f5f5f5;
+            color: #3273dc;
         }
         .table {
             border-collapse: separate;
@@ -45,16 +55,6 @@
     </style>
 </head>
 <body>
-    <section class="hero is-fullheight hero-background">
-        <div class="hero-body">
-            <div class="container has-text-centered">
-                <h1 class="title hero-title">
-                    Tableaux de Données
-                </h1>
-            </div>
-        </div>
-    </section>
-
     <nav class="navbar" role="navigation" aria-label="main navigation">
         <div class="navbar-menu">
             <div class="navbar-start">
@@ -65,21 +65,20 @@
                 <a class="navbar-item" href="../scripts.html">Scripts</a>
                 <a class="navbar-item" href="../conclusion.html">Conclusion</a>
                 <a class="navbar-item" href="../qui_sommes_nous.html">Qui Sommes Nous</a>
+                <!-- Ajouter d'autres liens si nécessaire -->
             </div>
         </div>
     </nav>
 
-    <nav class="navbar" role="navigation" aria-label="main navigation">
-        <div class="navbar-menu">
-            <div class="navbar-start">
-                <a class="navbar-item" href="tableau_en.html">Anglais</a>
-                <a class="navbar-item" href="tableau_es.html">Espagnol</a>
-                <a class="navbar-item" href="tableau_fr1.html">Français Fierté</a>
-                <a class="navbar-item" href="tableau_fr2.html">Français Orgueil</a>
-                <a class="navbar-item" href="tableau_tr.html">Turc</a>
+    <section class="hero is-fullheight hero-background">
+        <div class="hero-body">
+            <div class="container has-text-centered">
+                <h1 class="title hero-title">
+                    Tableaux de Données
+                </h1>
             </div>
         </div>
-    </nav>
+    </section>
 
     <section class="section">
         <div class="container">
