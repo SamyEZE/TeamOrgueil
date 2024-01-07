@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 
+# Il faut lancer le script à l'intérieur du dossier programmes 
 # Vérifie si l'argument du chemin du fichier est fourni
 if [[ $# -ne 1 ]]; then
     echo "Usage : $0 fichier_des_urls"
@@ -21,13 +22,13 @@ mkdir -p "$OUTPUT_DIR" "$ASPIRATION_DIR" "$DUMP_TEXTS_DIR" "$CONTEXTE_DIR" "$CON
 # Association du nom du fichier à une langue
 case $FICHIER in
     "fierté")
-        LANGUE="fr1"  # Modifier ici pour "fr1"
+        LANGUE="fr1"  
         ;;
     "pride")
         LANGUE="en"
         ;;
     "orgueil")
-        LANGUE="fr2"  # Modifier ici pour "fr2"
+        LANGUE="fr2"  
         ;;
     "orgullo")
         LANGUE="es"
@@ -100,23 +101,34 @@ EOF
 lineno=1
 
 # Boucle de lecture de chaque ligne du fichier d'URLs
+# on utilise IFS qui est une chaîne vide et indique au shell de ne pas effectuer la séparation de champs automatique basée sur l'espace ou la tabulation lors de la lecture de la ligne suivante.
 while IFS= read -r URL; do
     if [ -z "$URL" ]; then
         # Si la ligne est vide, on passe à la suivante
         continue
     fi
+    # vérification de l'encodage
+    encodage=$(curl -s -I -L -w "%{content_type}" -o /dev/null "$URL" | grep -o "charset=\S*" | cut -d"=" -f2 | tail -n 1)
 
     FICHIER_ASPIRATION="$ASPIRATION_DIR/${LANGUE}-${lineno}.html"
     FICHIER_DUMP="$DUMP_TEXTS_DIR/${LANGUE}-${lineno}.txt"
     FICHIER_CONTEXTE="$CONTEXTE_DIR/${LANGUE}-${lineno}.txt"
     CONCORDANCIER="$CONCORDANCES_DIR/${LANGUE}/${LANGUE}-${lineno}.html"
 
+    # Téléchargement de la page web et stockage dans le fichier d'aspiration
     response=$(curl -s -L -w "%{http_code}" -o "$FICHIER_ASPIRATION" "$URL")
 
+    # Vérification du code HTTP
     if [ "$response" -ne 200 ]; then
         echo "URL $lineno : Réponse HTTP non 200, URL ignorée."
         lineno=$((lineno + 1))
         continue
+    fi
+
+    # Vérifier si l'encodage est différent d'UTF-8, puis convertir si nécessaire
+    if [ "$encodage" != "UTF-8" ]; then
+        iconv -f "$encodage" -t UTF-8 "$FICHIER_ASPIRATION" > "$FICHIER_ASPIRATION.tmp"
+        mv "$FICHIER_ASPIRATION.tmp" "$FICHIER_ASPIRATION"
     fi
 
     # Analyse du fichier aspiration pour créer un dump
@@ -161,3 +173,4 @@ echo "                </tbody>
 </html>" >> "$OUTPUT_FILE"
 
 echo "Traitement terminé"
+
