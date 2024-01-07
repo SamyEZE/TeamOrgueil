@@ -26,6 +26,57 @@
             color: black !important; /* Couleur du texte au survol */
             background-color: white; /* Couleur de fond au survol */
         }
+
+         .navbar {
+            position: fixed;
+            top: 0;
+            width: 100%;
+            background: rgba(0, 0, 0, 0.5);
+            z-index: 10;
+        }
+
+        .navbar-menu {
+            justify-content: center;
+        }
+
+        .navbar-item, .navbar-link {
+            color: white !important;
+        }
+
+        .navbar-item:hover, .navbar-link:hover {
+            color: black !important;
+            background-color: white;
+        }
+
+        /* Styles pour les cartes de profil */
+        .profile-card {
+            transition: transform 0.3s ease, box-shadow 0.3s ease; /* Effet de transition */
+            margin-bottom: 2em;
+        }
+
+        .profile-card:hover {
+            transform: translateY(-10px); /* Effet de soulèvement */
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2); /* Ombre portée */
+        }
+
+        .profile-image img {
+            border-radius: 50%; /* Images rondes */
+            box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3); /* Ombre sous l'image */
+            transition: transform 0.3s ease; /* Transition pour l'image */
+        }
+
+        .profile-image img:hover {
+            transform: scale(1.05); /* Grossissement au survol */
+        }
+
+        .media-content .title {
+            color: #3273dc; /* Couleur du titre */
+            transition: color 0.3s ease; /* Transition pour le titre */
+        }
+
+        .media-content .title:hover {
+            color: #23d160; /* Changement de couleur au survol */
+        }
         .profile-image img {
     max-width: 200px; /* ajustez cette valeur à la taille souhaitée */
     height: auto; /* cela préserve l'aspect ratio de l'image */
