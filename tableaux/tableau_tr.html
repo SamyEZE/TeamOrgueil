@@ -1,9 +1,9 @@
 <!DOCTYPE html>
-<html lang="fr1">
+<html lang="fr">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tableaux - Projet de Groupe</title>
+    <title>Orgueil - Projet de Groupe</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.9.3/css/bulma.min.css">
     <style>
         .navbar {
@@ -17,6 +17,42 @@
         .navbar-menu {
             justify-content: center;
         }
+
+        .navbar-item, .navbar-link {
+            color: white !important;
+        }
+
+        .navbar-item:hover, .navbar-link:hover {
+            color: black !important;
+            background-color: white;
+        }
+
+        .navbar-secondary {
+            position: relative;
+            background: rgba(255, 255, 255, 0.7);
+            z-index: 9;
+        }
+
+        .navbar-secondary .navbar-item, .navbar-secondary .navbar-link {
+            color: black !important;
+        }
+
+        .navbar-secondary .navbar-item:hover, .navbar-secondary .navbar-link:hover {
+            color: white !important;
+            background-color: black;
+        }
+
+        .hero-background {
+            background: url('Org.png') center center;
+            background-size: cover;
+        }
+
+        .hero-title {
+            font-size: 4rem;
+            color: white;
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+            font-family: 'Arial', sans-serif;
+        }
     </style>
 </head>
 <body>
@@ -25,39 +61,28 @@
             <div class="navbar-start">
                 <a class="navbar-item" href="../index.html">Accueil</a>
                 <a class="navbar-item" href="../pqorg.html">Pourquoi Orgueil ?</a>
-                <a class="navbar-item" href="../tableaux.html">Tableaux</a>
+                <a class="navbar-item" href="index_tableau.html">Tableaux</a>
                 <a class="navbar-item" href="../nuage_de_mots.html">Nuage de Mots</a>
-                <a class="navbar-item" href="../Analyse itrameur.html">Itrameur</a>
-                <a class="navbar-item" href="../scripts.html">Scripts</a>
+                <a class="navbar-item" href="../Analyse itrameur.html">Analyse Itrameur</a>
                 <a class="navbar-item" href="../conclusion.html">Conclusion</a>
                 <a class="navbar-item" href="../qui_sommes_nous.html">Qui Sommes Nous</a>
             </div>
         </div>
     </nav>
-    <style>
-        .hero-background {
-            background: url('Org.png') center center;
-            background-size: cover;
-        }
-        .hero-title {
-            font-size: 4rem;
-            color: white;
-            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
-            font-family: 'Arial', sans-serif;
-        }
-        
-    </style>
-</head>
-<body>
+
     <section class="hero is-fullheight hero-background">
         <div class="hero-body">
             <div class="container has-text-centered">
-                <h1 class="title hero-title">
-                    Tableau de "Gurur"
-                </h1>
+                <a href="#section-contenu">
+                    <h1 class="title hero-title">
+                        Tableau de "Gurur"
+                    </h1>
+                </a>
             </div>
         </div>
     </section>
+
+    <nav class="navbar navbar-secondary" role="navigation" aria-label="secondary navigation">
         <div class="navbar-menu">
             <div class="navbar-start">
                 <a class="navbar-item" href="tableau_en.html">Anglais</a>
@@ -68,6 +93,8 @@
             </div>
         </div>
     </nav>
+
+<div id="section-contenu">
 
     <section class="section">
         <div class="container">
