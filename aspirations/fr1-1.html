@@ -1,0 +1,882 @@
+<!DOCTYPE html>
+<html lang="fr" itemscope itemtype="http://schema.org/WebPage"> 
+<!-- infos siteWeb: Larousse[.fr/.com] -->
+<!-- hostName: [https://www.larousse.fr], machineName: [HLAZPLARWFO02], dateTime: [05/01/2024 23:02:11] -->
+<script>
+    dataLayer = [{'lang':"fr", 'page_type':"editorial", 'page_category':"langue francaise", 'page_subcategory':"dictionnaire de francais"}];         // Problème compatiblitiy [<head></head>] & [Modify by C#]
+</script>
+<head id="Head1" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#"><meta charset="utf-8" /><meta name="author" content="Éditions Larousse" /><meta name="tdm-reservation" content="1" /><meta name="viewport" content="width=device-width, initial-scale=1" http-equiv="Content-Type" /><title>
+	Définitions : fierté - Dictionnaire de français Larousse
+</title>
+    <!-- intégration[v.PROD]: régisPub + CNIL(v.OneTrust) -->
+    <!-- ################################################ -->
+    <!-- Démarrage de notification de consentement aux cookies de OneTrust -->
+    <!-- ----------------------------------------------------------------- -->
+    <!-- call OneTrust [v.PROD] -->
+    <!-- <script src="https://cdn.cookielaw.org/scripttemplates/otSDKStub.js"  type="text/javascript" charset="UTF-8" data-domain-script="9225742f-0606-4a4c-b016-9e27bd32a7a1"></script> -->
+    <!-- call OneTrust [v.RECE/DEV] -->
+    <!-- <script src="https://cdn.cookielaw.org/scripttemplates/otSDKStub.js" type="text/javascript" charset="UTF-8" data-domain-script="9225742f-0606-4a4c-b016-9e27bd32a7a1-test"></script> -->
+
+    <!-- JS-link larousse-CNIL pour gestion GTM (régisPub, GA, réseauxSociaux, ...) -->
+    <!-- -------------------------------------------------------------------------- -->
+    <script src="/library-web/larcom/cnil/htmlParser.js"></script>
+    <script src="/library-web/larcom/cnil/postscribe.js"></script>
+
+    <!-- ### dataLayer [GTM] stats Hachette #### -->
+    <!-- #######################################  -->
+    <script>
+        <!-- call GTM [v.PROD = GTM-TB2J4SG] / [v.RECE = GTM-W4VMQ8H] / [v.COM = GTM-WBCT33T] -->
+        (function(w,d,s,l,i){
+                w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});
+                var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';
+                j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;
+                f.parentNode.insertBefore(j,f);
+        })(window, document, 'script', 'dataLayer', 'GTM-TB2J4SG');
+    </script>
+    <!-- End Google Tag Manager -->
+
+    <!-- JQuery core JavaScript-->
+    <!-- !!! import jquery in TOP Header !!! (JS default for all Library & *.aspx) -->
+    <!-- <script type="text/javascript" src="/library-web/jquery/jquery-1.9.1.min.js"></script> -->                 <!-- src="/library-web/jquery/jquery-1.9.1.js" -->
+    <!-- CDN=[code.jquery.com]:jquery-3.6.0.min.js (!!! < jquery-3.0.0 = conflict slick >>> jquery-migrate !!!)-->
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-migrate-3.3.2.min.js" integrity="sha256-Ap4KLoCf1rXb52q+i3p0k2vjBsmownyBTE1EqlRiMwA=" crossorigin="anonymous"></script>
+
+
+    <!-- CSS (bootstrap) -->
+    <!-- <link rel="stylesheet" type="text/css" href="/library-web/bootstrap/css/bootstrap.min.css" /> -->          <!-- href="/library-web/bootstrap/css/bootstrap.css" -->
+    <!-- CDN=[cdn.jsdelivr.net]: bootstrap@4.6.0 [CSS] -->
+    <!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css" integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l" crossorigin="anonymous" /> -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css" integrity="sha384-HSMxcRTRxnN+Bdg0JdbxYKrThecOKuH5zCYotlSAcp1+c8xmyTe9GYg1l9a69psu" crossorigin="anonymous" />
+    <!-- CSS (mdb) (!pb:navbar menuBurger & dropdown!)-->
+    <!-- <link rel="stylesheet" type="text/css" href="/library-web/mdb/css/mdb.min.css" />-->                       <!-- href="/library-web/mdb/css/mdb.css" -->
+    <!-- CSS (slick) -->
+    <!-- <link rel="stylesheet" type="text/css" href="/library-web/slick/slick.css"" /> -->                         <!-- href="./../assets/library/slick/slick.css" -->
+    <!-- <link rel="stylesheet" type="text/css" href="/library-web/slick/slick-theme.css" /> -->                     <!-- href="./../assets/library/slick/slick-theme.css" -->
+    <link rel="stylesheet" type="text/css" href="/library-web/slick/slick.min.css" />                                <!-- slick.min.css = [slick]+[slick-theme] (minifier) -->
+
+    <!-- CSS (font-awesome/fontello)-->
+    <!--<link rel="stylesheet" type="text/css" href="/library-web/larcom/masterpage/css/font-awesome.min.css" />-->  <!-- unused font awesome -->
+    <link rel="stylesheet" type="text/css" href="/library-web/larcom/masterpage/css/font-collect.css" />
+
+    <!-- CSS (larousse-masterpage)-->
+    <link rel="stylesheet" type="text/css" href="/library-web/larcom/masterpage/css/masterpage.css" />               <!-- pb: header, wrapper, footer, lar-grid-, etc...-->
+    
+    <!-- conflit CSS -->
+    <style>
+        /*conflit CSS (bootstrap - MDB)*/
+        .navbar{
+            box-shadow:none;
+        }   
+        /* SLICK */
+        .slick-slide {
+            outline: none !important;
+        }
+    </style>
+
+    
+    
+    
+  
+    
+    <link rel="shortcut icon" href="/dictionnaires/assets/img/favicon.ico" />
+
+    
+    
+    
+    
+    
+
+    <!-- CSS (larousse-accueil)-->
+    <link rel="stylesheet" href="/dictionnaires/assets/css/article-olf.202203021024.css" />                           <!--href="./../assets/css/dictionnaires.css"-->
+
+  
+    
+
+<meta property="og:title" content="Définitions : fierté - Dictionnaire de français Larousse" />
+<meta itemprop="name" content="Définitions : fierté - Dictionnaire de français Larousse" />
+<meta name="description" content="fierté - Définitions Français : Retrouvez la d&eacute;finition de fierté, ainsi que les synonymes, citations... - synonymes, homonymes, difficultés, citations." />
+<meta property="og:description" content="fierté - Définitions Français : Retrouvez la d&eacute;finition de fierté, ainsi que les synonymes, citations... - synonymes, homonymes, difficultés, citations." />
+<meta itemprop="description" content="fierté - Définitions Français : Retrouvez la d&eacute;finition de fierté, ainsi que les synonymes, citations... - synonymes, homonymes, difficultés, citations." />
+<link rel="canonical" href="https://www.larousse.fr/dictionnaires/francais/fiert%C3%A9/33624" />
+<meta property="og:url" content="https://www.larousse.fr/dictionnaires/francais/fiert%C3%A9/33624" />
+<meta itemprop="url" content="https://www.larousse.fr/dictionnaires/francais/fiert%C3%A9/33624" />
+<meta name="keywords" content="fierté" />
+<meta property="og:image" content="https://www.larousse.fr/dictionnaires/assets/img/larousse.jpg" />
+<meta itemprop="image" content="https://www.larousse.fr/dictionnaires/assets/img/larousse.jpg" />
+<meta name="robots" content="index,follow" />
+</head>
+
+<body>
+    <!-- Google Tag Manager (noscript) -->
+    <!-- call GTM [v.PROD = GTM-TB2J4SG] / [v.RECE = GTM-W4VMQ8H]  / [v.COM = GTM-WBCT33T]-->
+    <noscript>
+        <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TB2J4SG" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+    <div class="page">
+        <!-- ####### HEADER ####### -->
+        <div class="header">
+            <!-- NAVBAR: TOP LAROUSSE (Login, Social, Culture) -->
+            <!--------------------------------------------------->
+            <div class="navbar navbar-inverse navbar-default lar-navbar-top visible-lg">    <!-- navbar-fixed-top  <<<>>> navbar-default -->
+                <div class="container">
+                    <div id="navtop" class="navbar-collapse collapse">
+                         <ul class="lar-culture nav navbar-nav navbar-right">
+                            <li class="culture-en">
+                                <a onclick="changeCulture('en')">EN</a>          <!-- https://www.larousse.com/en/ -->
+                                <img src="/dictionnaires/assets/img/flag-en.png" alt="image" draggable="false"/>
+                            </li>    
+                            <li class="culture-es">
+                                <a onclick="changeCulture('es')">ES</a>          <!-- https://www.larousse.com/es/ -->
+                                <img src="/dictionnaires/assets/img/flag-es.png" alt="image" draggable="false"/>
+                            </li>   
+                            <li class="culture-de">
+                                <a onclick="changeCulture('de')">DE</a>          <!-- https://www.larousse.com/de/ -->
+                                <img src="/dictionnaires/assets/img/flag-de.png" alt="image" draggable="false"/>
+                            </li>    
+                            <li class="culture-it">
+                                <a onclick="changeCulture('it')">IT</a>          <!-- https://www.larousse.com/it/ -->
+                                <img src="/dictionnaires/assets/img/flag-it.png" alt="image" draggable="false"/>
+                            </li>    
+                            
+                        </ul> 
+                         <ul class="lar-social nav navbar-nav navbar-right">
+                            <li><a href="https://www.facebook.com/larousse.fr" target="_blank">&#xf09a;</a></li>
+                            <li><a href="https://twitter.com/larousse_fr" target="_blank">&#xf099;</a></li>
+                            <li><a href="https://www.instagram.com/editionslarousse/" target="_blank">&#xf16d;</a></li>
+                            <li><a href="https://fr.linkedin.com/company/larousse" target="_blank">&#xf0e1;</a></li>
+                            
+                        </ul>                   
+                        <ul class="lar-login nav navbar-nav navbar-right">
+                            <li><div id="auth-widget-topbar"></div></li>                   <!-- POOOL  connexion (subscription) -->
+                            <li><a href="https://www.editions-larousse.fr/newsletter">Newsletter</a></li>
+                        </ul>   
+                    </div>
+                </div>
+            </div>
+             <!-- NAVBAR: SEARCH (Labelle, saisie Recherche -->
+             <!----------------------------------------------->
+             <div class="lar-searchbar visible-lg">
+                <a class="bt-home"  href="/">LAROUSSE</a>
+                <div class="zone-search">
+                    <input type="search" class="lar-searchtxt" onkeydown="inputKeydownHeader(false,'\\dictionnaires\\francais\\')" placeholder="Rechercher dans le dictionnaire..."/>
+                    <button class="lar-searchbt"  onclick="onSearchHeader(false,'\\dictionnaires\\francais\\');">&#xe81e;</button>
+                </div>
+            </div>
+            <!-- NAVBAR: MENU (nav module: encyclo, dicos, cuisine, etc...) -->
+            <!---------------------------------------------------------------->
+            <div class="navbar navbar-default lar-navbar-menu">
+                <div class="container">
+                     <div class="navbar-header">
+                         <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navmenu">   
+                             <span class="sr-only">Toggle navigation</span>
+                             <span class="icon-bar"></span>
+                             <span class="icon-bar"></span>
+                             <span class="icon-bar"></span>
+                         </button>
+                         <div class="lar-searchbar search-toggle hidden-lg">
+                            <div><a class="bt-home" href="/">LAROUSSE</a></div>
+                            <span><button class="lar-switchbt lar-openbt" onclick="openSearch()">&#xe81e;</button></span>
+                            <span><button class="lar-switchbt lar-closebt" onclick="closeSearch()">&#xe833;</button></span>
+                            <div class="switch-search">
+                                <input type="search" class="lar-searchtxt" onkeydown="inputKeydownHeader(true,'\\dictionnaires\\francais\\')" placeholder="Rechercher dans le dictionnaire..."/>
+                                <button class="lar-searchbt" onclick="onSearchHeader(true,'\\dictionnaires\\francais\\');">&#xe81e;</button>
+                            </div>
+                       </div> 
+                     </div>
+            
+                     <div id="navmenu" class="navbar-collapse collapse">
+                         <ul class="lar-menu nav navbar-nav navbar-left">
+                             <li id="olf"><a href="/dictionnaires/francais"><span class="icon-menu dropdown-submenu hidden-lg">&#xe80a;</span>LANGUE FRANÇAISE</a></li>
+                             <li id="bil"><a href="/dictionnaires/bilingues"><span class="icon-menu hidden-lg">&#xe804;</span>DICTIONNAIRES BILINGUES</a></li>
+                             <li id="traductor"><a href="/traducteur"><span class="icon-menu hidden-lg">&#xe822;</span>TRADUCTEUR</a></li>
+                             <li id="conj"><a href="/conjugaison"><span class="icon-menu hidden-lg">&#xe805;</span>CONJUGATEUR</a></li>
+                             <li id="encyclo"><a href="/encyclopedie"><span class="icon-menu hidden-lg">&#xe819;</span>ENCYCLOPÉDIE</a></li>
+                             <li id="cook"><a href="https://cuisine.larousse.fr"><span class="icon-menu hidden-lg">&#xe809;</span>CUISINE</a></li>
+                             <li id="forum"><a href="/forums"><span class="icon-menu hidden-lg">&#xe811;</span>FORUM</a></li>
+                             <li id="jeux"><a href="https://jeux.larousse.fr"><span class="icon-menu hidden-lg">&#xe812;</span>JEUX</a></li>
+                             
+                             <li id="books"><a href="https://www.editions-larousse.fr"><span class="icon-menu hidden-lg">&#xe815;</span>LIVRES</a></li>
+                         </ul>    
+                         <ul class="lar-login  hidden-lg">
+                            <li><div id="auth-widget-menuburger"></div></li>                   <!-- POOOL  connexion (subscription) -->
+                            <li><a href="https://www.editions-larousse.fr/newsletter">Newsletter</a></li>
+                        </ul>  
+                        <ul class="lar-social  hidden-lg">
+                            <li style="width:100%"> 
+                                <span>Suivez nous:</span>
+                                <a href="https://www.facebook.com/larousse.fr">&#xf09a;</a>
+                                <a href="https://twitter.com/larousse_fr">&#xf099;</a>
+                                <a href="https://www.instagram.com/editionslarousse/">&#xf16d;</a>
+                                <a href="https://fr.linkedin.com/company/larousse">&#xf0e1;</a>
+                                
+                            </li>
+                        </ul>  
+                        <ul class="lar-culture  hidden-lg">
+                            <li style="width:100%"> 
+                                <a href="https://www.larousse.com/en/"  asp-action="culture_en">EN</a>
+                                <a href="https://www.larousse.com/es/"  asp-action="culture_es">ES</a>
+                                <a href="https://www.larousse.com/de/"  asp-action="culture_de">DE</a>
+                                <a href="https://www.larousse.com/it/"  asp-action="culture_it">IT</a>
+                                
+                           </li>
+                        </ul> 
+                     </div>  
+                </div>
+            </div>
+        </div>  
+        <!-- BANIERE(730 x 90) PUB TOP -->
+        <div class="pub-top oast">
+                
+        </div>
+        <!--FIL ARIANE -->
+        <div class="breadcrumb">
+                <div><a href="https://www.larousse.fr">Accueil</a>  ><a href="/dictionnaires/francais"><b>Langue française</b></a> > <a href="/dictionnaires/francais-monolingue"><b>Dictionnaire</b></a> > <b>fierté</b></div>
+        </div>
+        <!-- ####### HEADER ####### -->
+      
+        <!-- ### Zone POOOL WIDGET ### -->
+        <div id="poool-widget">
+            <!-- votre paywall sera affiché ici --> 
+        </div>     
+
+        
+        
+        
+          
+
+     
+     
+     
+    
+    <!--FIL ARIANE [OLF] -->
+    <div class="olf-breadcrumb">
+            <a href="https://www.larousse.fr">Accueil</a>  &gt; <a href="/dictionnaires/francais"><b>langue française</b></a> &gt; <a href="/dictionnaires/francais-monolingue"><b>dictionnaire</b></a> &gt; <b><a href="#33567">fierté n.f.</a></b>
+    </div>
+    <!-- ##################### -->
+    <!-- ## WRAPPER-CONTENT ## -->
+    <!-- ##################### -->
+    <div class="wrapper">
+
+        <div class="row">
+            <div class="col-md-8">
+                   
+				<!-- PANEL HEADER(Section[Fix&float]) + ARTICLE [EXPRESSION]-->
+                <div class="header-article">
+	<nav class="section">
+		<ul>
+			<li class="sel"><a href="#definition">Définitions</a></li>
+			<li><a href="#citation">Citations</a></li>
+		</ul>
+	</nav>
+</div>
+<div id="floatNav" class="navbox-fixed">
+	<ul class="nav-menu">
+		<li><a href="#definition">DÉFINITIONS</a></li>
+		<li><a href="#citation">CITATIONS</a></li>
+	</ul>
+	<div class="nav-btn nav-open" onclick="openNavMenu();">+
+	</div>
+	<div class="nav-btn nav-close" onclick="closeNavMenu();">&#xe833;
+	</div>
+</div>
+<div id="definition">
+	<article class="BlocDefinition content" role="article">
+		<div class="Zone-Entree1 header-article" id="33567">
+			<h2 class="AdresseDefinition"><span class="linkaudio fontello" onclick="onSpeaker('30948fra2')">&#xe82c;</span>
+				<audio id="30948fra2" src="/dictionnaires-prononciation/francais/tts/30948fra2" type="audio/mp3"></audio>fierté</h2>
+			<p class="CatgramDefinition">nom féminin</p>
+		</div>
+		<ul class="Definitions">
+			<li class="DivisionDefinition"><span class="numDef">1.</span> <span class="indicateurDefinition">Littéraire. </span>Caractère de quelqu'un qui se croit supérieur aux autres ; morgue, arrogance, hauteur&nbsp;: <span class="ExempleDefinition">Abaisser la fierté de quelqu'un.</span>
+				<p class="LibelleSynonyme">Synonymes :</p>
+				<p class="Synonymes"><span class="Renvois"><a class="lienarticle" href="/dictionnaires/francais/arrogance/5462">arrogance</a></span> - hauteur - <span class="Renvois"><a class="lienarticle" href="/dictionnaires/francais/infatuation/42891">infatuation</a></span> - morgue - <span class="Renvois"><a class="lienarticle" href="/dictionnaires/francais/orgueil/56461">orgueil</a></span> - <span class="Renvois"><a class="lienarticle" href="/dictionnaires/francais/suffisance/75258">suffisance</a></span> - <span class="Renvois"><a class="lienarticle" href="/dictionnaires/francais/superbe/75417">superbe</a></span> - <span class="Renvois"><a class="lienarticle" href="/dictionnaires/francais/vanit%C3%A9/81048">vanité</a></span></p>
+				<p class="LibelleSynonyme">Contraires :</p>
+				<p class="Synonymes"><span class="Renvois"><a class="lienarticle" href="/dictionnaires/francais/humilit%C3%A9/40659">humilité</a></span> - <span class="Renvois"><a class="lienarticle" href="/dictionnaires/francais/modestie/51960">modestie</a></span></p></li>
+			<li class="DivisionDefinition"><span class="numDef">2.</span> <span class="indicateurDefinition">Littéraire. </span>Indépendance de caractère de quelqu'un qui a le sentiment de son honneur ; dignité, noblesse, amour-propre&nbsp;: <span class="ExempleDefinition">Il souffrait dans sa fierté d'homme.</span>
+				<p class="LibelleSynonyme">Synonymes :</p>
+				<p class="Synonymes"><span class="Renvois"><a class="lienarticle" href="/dictionnaires/francais/amour-propre/3027">amour-propre</a></span> - <span class="Renvois"><a class="lienarticle" href="/dictionnaires/francais/dignit%C3%A9/25525">dignité</a></span> - <span class="Renvois"><a class="lienarticle" href="/dictionnaires/francais/r%C3%A9serve/68594">réserve</a></span></p></li>
+			<li class="DivisionDefinition"><span class="numDef">3.</span> Sentiment d'orgueil, de satisfaction légitime de soi ; ce qui fait concevoir ce sentiment&nbsp;: <span class="ExempleDefinition">Il tire une grande fierté d'avoir achevé son entreprise.</span>
+				<p class="LibelleSynonyme">Synonymes :</p>
+				<p class="Synonymes"><span class="Renvois"><a class="lienarticle" href="/dictionnaires/francais/contentement/18573">contentement</a></span> - <span class="Renvois"><a class="lienarticle" href="/dictionnaires/francais/satisfaction/71085">satisfaction</a></span></p></li>
+		</ul>
+	</article>
+</div>
+
+                <!-- BANIERE(730 x 90) PUB MIDDLE1 -->
+                <div class="pub-gtm gtm_olf1">
+                    
+                </div>
+            </div>
+            <div class="col-md-4">
+                <aside class="zone-listresult">
+                    <div class="banner-title">
+                        <hr class="line-left" />
+                        <span class="homebox-title">VOUS CHERCHEZ PEUT-ÊTRE</span>
+                        <hr class="line-right" />
+                    </div>
+                    <div class="hb-listresult"> 
+                        <nav class="search" role="contentinfo"><div class="wrapper-search"><article class=" sel" ><div class="item-result"><a href="">fierté n.f. </a></div><p class="def">Caractère de quelqu'un qui se croit supérieur aux autres ; morgue, arrogance...</p></article></div></nav>
+                        
+                    </div>
+                </aside> 
+				<!-- PUB PAVE -->
+                <div class="pub-pave oasm"></div> 
+            </div>
+        </div>  
+        
+        <div class="row">
+            <div class="col-md-8">
+                <!-- PANEL ARTICLE [EXPRESSION]--> 
+                <div id="locution">
+                    
+               </div>
+               
+               <div id="andrea_media1"></div>               
+               <!-- PANEL ARTICLE [SYNONIME]-->
+                <div id="synonyme">
+                    
+                </div>
+                <!-- PANEL ARTICLE [HOMONYME]--> 
+                <div id="homonyme">
+                    
+                </div>
+
+                <!-- BANIERE(730 x 90) PUB MIDDLE1 -->
+                <div class="pub-gtm gtm_olf2">
+                    
+                </div>
+
+                <!-- PANEL ARTICLE [DIFFICULTE]--> 
+                <div id="difficulte">
+                    
+                </div>
+                <!-- PANEL ARTICLE [CITATION]-->
+                <div id="citation"> 
+                    <div id="citation"><div class="BlocCitations content"><br><span class="icon-section fontello">&#xe818;</span>
+<h1 class="TitrePage">Citations<span class="ComplementTitre"> avec fierté<cg></cg></span></h1><br>
+<ul class="ListeCitations">
+<li id="5000403" class="Citation"><span class="AuteurCitation">Claude <span class="AdresseCitation">Aveline</span></span><span class="InfoAuteurCitation"> (Paris 1901-Paris 1992)</span><br><span class="TexteCitation">Il n'est pas d'amour sans fierté, et par conséquent sans témoin.</span><br><span class="InfoCitation"><span class="ReferenceCitation">Et tout le reste n'est rien</span>, Mercure de France</span><br></li>
+
+
+<li id="5000903" class="Citation"><span class="AuteurCitation"><a class="lienCitationEncyclo" href="/encyclopedie/personnage/Georges_Bernanos/108542">Georges <span class="AdresseCitation">Bernanos</span></a></span><span class="InfoAuteurCitation"> (Paris 1888-Neuilly-sur-Seine 1948)</span><br><span class="TexteCitation">Il est beau de s'élever au-dessus de la fierté. Encore faut-il l'atteindre.</span><br><span class="InfoCitation"><span class="ReferenceCitation">Journal d'un curé de campagne</span>, Plon</span><br></li>
+
+
+<li id="5004494" class="Citation"><span class="AuteurCitation">Gaston, duc de <span class="AdresseCitation">Lévis</span></span><span class="InfoAuteurCitation"> (Paris, 1764-Paris 1830)</span><br><span class="DefinitionAuteurCitation">Académie française, 1816</span><br><span class="TexteCitation">De tous les sentiments, le plus difficile à feindre c'est la fierté.</span><br><span class="InfoCitation"><span class="ReferenceCitation">Maximes et réflexions sur divers sujets</span> </span><br></li>
+
+
+
+</ul>
+</div></div>
+                </div>
+
+                
+                
+                
+                
+                
+                <div id="taboola-below-article-thumbnails"></div>
+
+                <!-- PANEL MOTS PROCHES--> 
+                <section class="words-nearby"><h2>Mots proches</h2><div class="slider-nearWords slider"><div class="item-word sel">fierté<div class="separator">-</div></div><div class="item-word"><a href="/dictionnaires/francais/syndrome_de_Fiessinger-Leroy-Reiter/33625">syndrome_de_Fiessinger-Leroy-Reiter</a><div class="separator">-</div></div><div class="item-word"><a href="/dictionnaires/francais/fiesta/33626">fiesta</a><div class="separator">-</div></div><div class="item-word"><a href="/dictionnaires/francais/fi%C3%A8vre/33627">fièvre</a><div class="separator">-</div></div><div class="item-word"><a href="/dictionnaires/francais/fi%C3%A9vreusement/33628">fiévreusement</a><div class="separator">-</div></div><div class="item-word"><a href="/dictionnaires/francais/fi%C3%A9vreux/33629">fiévreux</a><div class="separator">-</div></div><div class="item-word"><a href="/dictionnaires/francais/fier-%C3%A0-bras/33620">fier-à-bras</a><div class="separator">-</div></div><div class="item-word"><a href="/dictionnaires/francais/fierasfer/33621">fierasfer</a><div class="separator">-</div></div><div class="item-word"><a href="/dictionnaires/francais/fi%C3%A8rement/33622">fièrement</a><div class="separator">-</div></div><div class="item-word"><a href="/dictionnaires/francais/fi%C3%A9rot/33623">fiérot</a><div class="separator">-</div></div><div class="item-word"><a href="/dictionnaires/francais/se_fier/33619">se_fier</a><div class="separator">-</div></div></div></section>
+
+                <!-- PANEL LINK-SOE -->
+                <div class="panel-linkseo">
+                    <!-- TITLE -->
+                    
+
+<!-- TITLE -->
+<div class="banner-title">
+    <hr class="line-left" />
+    <span class="fontello" ></span>
+    <hr class="line-right" />
+    <p class="panel-title"></p>
+</div>
+                    <!-- HOMEBOX LINK-SEO -->
+                    <div class="BlocLinkSEO">
+
+	<p class="titreSEO">À DÉCOUVRIR DANS L'ENCYCLOPÉDIE</p>
+	<ul>
+	<li><a href="/encyclopedie/divers/architecture/184609"><span class="itemtop"><b>architecture.</b> <small>[DOSSIER]</small>.</span></a></li>
+	<li><a href="/encyclopedie/pays/Belgique/108227"><span class="itemtop"><b>Belgique</b><b>.</b></span></a></li>
+	<li><a href="/encyclopedie/divers/les_Cent-Jours/112335"><span class="itemtop"><b>Cent-Jours</b> (les).</span></a></li>
+	<li><a href="/encyclopedie/groupe-homonymes/guerres_de_Crim%C3%A9e/115182"><span class="itemtop"><b>Crimée</b> (guerre de) [1854-1856].</span></a></li>
+	<li><a href="/encyclopedie/vie-sauvage/criquet_p%C3%A9lerin/184047"><span class="itemtop"><b>criquet pélerin</b><b>.</b> <small>[FAUNE]</small></span></a></li>
+	<li><a href="/encyclopedie/divers/cro%C3%BBte_terrestre/38733"><span class="itemtop"><b>croûte terrestre.</b></span></a></li>
+	<li><a href="/encyclopedie/divers/d%C3%A9linquance_juv%C3%A9nile/41098"><span class="itemtop"><b>délinquance juvénile.</b></span></a></li>
+	<li><a href="/encyclopedie/medical/hernie_de_la_paroi_abdominale/13555"><span class="itemtop"><b>hernie de la paroi abdominale</b><b>.</b> <small>[MÉDECINE]</small></span></a></li>
+	<li><a href="/encyclopedie/divers/III_e_Internationale/125052"><span class="itemtop"><b>Internationale</b> (III<SUP>e</SUP>).</span></a></li>
+	<li><a href="/encyclopedie/divers/organisation_non_gouvernementale_ONG/75270"><span class="itemtop"><b>organisation non gouvernementale (ONG).</b></span></a></li>
+	<li><a href="/encyclopedie/divers/Premi%C3%A8re_Guerre_mondiale/122569"><span class="itemtop"><b>Première Guerre mondiale</b>.</span></a></li>
+	<li><a href="/encyclopedie/medical/r%C3%A9duction/15789"><span class="itemtop"><b>réduction</b><b>.</b> <small>[MÉDECINE]</small></span></a></li>
+	<li><a href="/encyclopedie/divers/surr%C3%A9alisme/95026"><span class="itemtop"><b>surréalisme.</b> <small>[LITTÉRATURE]</small></span></a></li>
+	<li><a href="/encyclopedie/pays/Togo/146966"><span class="itemtop"><b>Togo</b><b>.</b></span></a></li>
+	<li><a href="/encyclopedie/divers/tourisme/97970"><span class="itemtop"><b>tourisme.</b></span></a></li>
+	<li><a href="/encyclopedie/divers/trait%C3%A9s_de_Westphalie/149773"><span class="itemtop"><b>Westphalie</b> (traités de).</span></a></li>
+	</ul>
+</div>
+                    
+                </div> 
+                
+                <!-- PANEL FORUMS -->
+                 
+            </div>
+            <div class="col-md-4">
+                 
+                
+                <!-- HOMEBOX COURS-GUIDE -->
+                
+
+<div class="zone-tools">
+     
+    <div class="banner-title">
+        <hr class="line-left" />
+        <span class="homebox-title font-montserra">OUTILS</span>
+        <hr class="line-right" />    
+    </div>
+
+    
+
+    <div id="cphContent_LarousseRWDMaster_cphContent_DictionnairesMasterPage_HB_Tools_appMobile" class="app-mobile">
+        <a href="/contenu/applications/dictionnaire_francais" >
+            <img class="img-responsive" style="margin:auto;" src="/dictionnaires/assets/img/encart_pub_dicofr.jpg" />
+        </a>
+        
+    </div>
+
+    <div class="box-access">
+        
+        <div id="cphContent_LarousseRWDMaster_cphContent_DictionnairesMasterPage_HB_Tools_itemConj">
+            <a class="go-line" href="https://www.larousse.fr/conjugaison" >
+                <div class="icon">&#xe823;</div>
+                <div class="name">CONJUGATEUR</div>
+                <div class="arrow">&#xe807;</div> 
+            </a>
+            <hr />
+        </div> 
+              
+         
+        <div id="cphContent_LarousseRWDMaster_cphContent_DictionnairesMasterPage_HB_Tools_itemJeux">
+            <a class="go-line" href="https://jeux.larousse.fr" >
+                <div class="icon">&#xe812;</div>
+                <div class="name">JEUX</div>
+                <div class="arrow">&#xe807;</div>
+            </a>
+            <hr />
+        </div>
+    </div>
+    <div id="cphContent_LarousseRWDMaster_cphContent_DictionnairesMasterPage_HB_Tools_itemCours" class="box-access">
+        <div id="cphContent_LarousseRWDMaster_cphContent_DictionnairesMasterPage_HB_Tools_itemCoursFR1">
+            <a class="item-cours" href="https://www.larousse.fr/cours-francais" >
+                <img class="img-responsive" src="\dictionnaires\assets\img\banner-cfr.png" />
+            </a>
+            <hr />
+        </div>
+        <div id="cphContent_LarousseRWDMaster_cphContent_DictionnairesMasterPage_HB_Tools_itemCoursFR2">
+            <a class="item-cours go-line" href="https://cours-francais.larousse.fr" >
+                <img class="img-responsive" src="\dictionnaires\assets\img\flag-fr.png" />
+                <div class="name">COURS DE FRANÇAIS</div>
+                <div class="arrow">&#xe807;</div>
+            </a>
+            <hr />
+        </div>
+        
+        
+        
+    </div>
+</div>
+                <!-- pub Native -->
+                <!-- HOMEBOX TRADUCTION (noLink Metadatas => noDisplay (SEO)) -->
+                <!-- 
+
+<div>
+    
+    
+
+    <div class="traduction-zone-selector">
+        <div class="banner-title">
+            <p class="homebox-title">VOIR LA TRADUCTION</p>
+            <hr />
+        </div>
+        <div id="cphContent_LarousseRWDMaster_cphContent_DictionnairesMasterPage_HB_Traduction_FR_TRAD" class="traduction-lang-selector">
+            <div class="vl"></div>
+            <div class="">
+                <div id="cphContent_LarousseRWDMaster_cphContent_DictionnairesMasterPage_HB_Traduction_TRAD_FR_EN" class="traduction-lang-item l-lang">
+                    <a href="/dictionnaires/francais-anglais/fierté">
+                        <div class="waves-light"><img src="/dictionnaires/assets/img/flag-en.png" /></div>
+                        <p>Anglais</p>
+                    </a>
+                </div>
+                <div id="cphContent_LarousseRWDMaster_cphContent_DictionnairesMasterPage_HB_Traduction_TRAD_FR_IT" class="traduction-lang-item r-lang">
+                    <a href="/dictionnaires/francais-italien/fierté">
+                        <div class="waves-light"><img src="/dictionnaires/assets/img/flag-it.png" /></div>
+                        <p>Italien</p>
+                    </a>
+                </div>
+            </div>
+            <div class="">
+                <div id="cphContent_LarousseRWDMaster_cphContent_DictionnairesMasterPage_HB_Traduction_TRAD_FR_DE" class="traduction-lang-item l-lang">
+                    <a href="/dictionnaires/francais-allemand/fierté">
+                        <div class="waves-light"><img src="/dictionnaires/assets/img/flag-de.png" /></div>
+                        <p>Allemand</p>
+                    </a>
+                </div>
+                <div id="cphContent_LarousseRWDMaster_cphContent_DictionnairesMasterPage_HB_Traduction_TRAD_FR_ES" class="traduction-lang-item r-lang">
+                    <a href="/dictionnaires/francais-espagnol/fierté">
+                        <div class="waves-light"><img src="/dictionnaires/assets/img/flag-es.png" /></div>
+                        <p>Espagnol</p>
+                    </a>
+                </div>
+            </div>
+            <div class="">
+                <div id="cphContent_LarousseRWDMaster_cphContent_DictionnairesMasterPage_HB_Traduction_TRAD_FR_CN" class="traduction-lang-item l-lang">
+                    <a href="/dictionnaires/francais-chinois/fierté">
+                        <div class="waves-light"><img src="/dictionnaires/assets/img/flag-cn.png" /></div>
+                        <p>Chinois</p>
+                    </a>
+                </div>
+                <div id="cphContent_LarousseRWDMaster_cphContent_DictionnairesMasterPage_HB_Traduction_TRAD_FR_AR" class="traduction-lang-item r-lang">
+                    <a href="/dictionnaires/francais-arabe/fierté">
+                        <div class="waves-light"><img src="/dictionnaires/assets/img/flag-ar.png" /></div>
+                        <p>Arabe</p>
+                    </a>
+                </div>
+           </div>
+        </div>
+
+        
+
+        
+
+        
+
+         
+    </div>
+    
+</div> -->
+				<!-- PUB PAVE 2 -->
+                <div class="pub-pave oasm2"></div>
+                <!-- HOMEBOX QUIZZ -->
+                <div class="hb-right-quizz">
+                    <div class="banner-title">
+                        <hr class="line-left" />
+                        <span class="homebox-title">QUIZ</span>
+                        <hr class="line-right" />
+                    </div>
+                    
+
+
+
+
+<!-- CSS (no-include MasterPage) -->
+<link rel="stylesheet" type="text/css" href="/library-web/larcom/quizz/css/style-quizz.css" media="screen" />
+
+<div class="zone-quizz">
+    <article id="Layout" onload="activeItem_qcu();">
+
+<section class="article-quizz">
+		<div class="groupe-consigne-quizz">
+			<p class="consigne-quizz">Lequel de ces substantifs n'est pas une marque déposée et ne prend donc normalement pas de majuscule&nbsp;?</p>
+		</div>
+		<ul class="liste-choix-unique">
+			<li class="item-choix-unique">
+				<ul class="liste-options" data-reponse="2" id="question1">
+					<li class="item-options">
+					<input class="radiobutton" type="radio" name="question1"  value="1"  id="question-6579" />
+					<label class="radiobutton-label"  for="question-6579">une Rustine</label>
+					</li>
+					<li class="item-options">
+					<input class="radiobutton" type="radio" name="question1"  value="2"  id="question-6580" />
+					<label class="radiobutton-label"  for="question-6580">un Sécateur</label>
+					</li>
+					<li class="item-options">
+					<input class="radiobutton" type="radio" name="question1"  value="3"  id="question-6581" />
+					<label class="radiobutton-label"  for="question-6581">un Frigidaire</label>
+					</li>
+				</ul></li>
+		</ul>
+</section>
+
+
+</article>
+<div>
+		<section class="boutons-interactivite" id="QCU"></section>
+</div>
+</div>
+
+<!-- JS (no-include MasterPage) -->
+<script src="/library-web/larcom/quizz/js/libs/exercise-manager_bootstrap.js"></script>
+<script src="/library-web/larcom/quizz/js/typos/qcu-manager.js"></script>
+
+                </div> 
+                <div class="BeOpinionWidget"></div>  
+				<div class="pub-pave oasm4"></div>
+            </div>
+        </div>  
+
+        <div class="row">
+            <div class="col-md-8">
+                 
+            <div class="col-md-4">
+                <!-- RIEN -->         
+            </div>
+        </div> 
+        
+    </div>
+
+    <!-- JS (slick) !!! pb link jquery masterpage !!!-->
+    <!-- <script type="text/javascript" src="./../assets/library/slick/slick.js"></script> -->
+    <!-- JS (soundmanager2) -->
+    <!-- <script type="text/javascript" src="/library-web/larcom/sound/soundmanager2-nodebug.js"></script> -->     <!-- soundmanager2 -->
+    <!-- JS (dictionnaires) !!! pb link jquery masterpage !!!-->
+    <script type="text/javascript" src="/dictionnaires/assets/js/dictionnaires.202110181218.js"></script>     <!-- src="../assets/js/dictionnaires.js" -->
+  
+
+     
+
+
+        
+
+        <!-- BANIERE(730 x 90) PUB BOTTOM -->
+        <div class="pub-bottom oasb">
+            
+        </div>
+        
+        <!-- ## SOCIAL PANEL ## -->
+        <!-- ################## -->
+        
+
+        <!-- ####### FOOTER ####### -->
+        <div class="footer">
+            <span class="footer-left">
+                <a href="/contenu/applications/applications_mobiles">Applications mobiles</a>
+                <a href="/index">Index</a>
+                
+                <a href="/infos/credits">Mentions légales et crédits</a>
+                <a href="/infos/cgu">CGU</a>
+                <a href="/infos/cgv">CGV</a>
+                <a href="/infos/confidentialite">Charte de confidentialité</a>
+                
+                           
+                <a class="optanon-show-settings">Cookies</a>          
+                
+                <a href="/infos/contact">Contact</a>
+            </span>
+            <span class="footer-right">
+                <span>&copy; Larousse</span>
+                
+            </span>   
+        </div>
+        <!-- ####### FOOTER ####### -->
+
+     </div>
+</body>
+     
+<!-- JS Bootstrap core JavaScript -->
+<!-- <script type="text/javascript" src="/library-web/bootstrap/js/bootstrap.min.js"></script> -->  <!-- src="/library-web/bootstrap/js/bootstrap.js" -->
+<!-- CDN=[cdn.jsdelivr.net]: bootstrap@4.6.0 [JS] -->
+<!-- <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-Piv4xVNRyMGpqkS2by6br4gNJ7DXjqk09RmUpJ8jgGtD7zP9yug3goQfGII0yAns" crossorigin="anonymous"></script> -->
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js" integrity="sha384-aJ21OjlMXNL5UyIl/XNwTMqvzeRMZH2w8c5cRVpzpU8Y5bApTppSuUkhZXN0VxHd" crossorigin="anonymous"></script>
+<!-- JS MDB core JavaScript -->
+<!-- <script type="text/javascript" src="/library-web/mdb/js/mdb.min.js"></script> -->              <!-- src="/library-web/mdb/js/mdb.js" -->
+<!-- JS SLICK core JavaScript -->
+<script type="text/javascript" src="/library-web/slick/slick.min.js"></script>                      <!-- src="/library-web/slick/slick.js" -->
+
+<script type="text/javascript">
+    function OptanonWrapper() {  
+        //alert("OptanonWrapper()");
+        //window.dataLayer.push({event:'OneTrustGroupsUpdated'});     //TAGS Events
+    }
+</script>   
+<!-- Fin de notification de consentement aux cookies de OneTrust -->
+
+
+<!-- RegisPUB & [OneTrust] (Params, Habillage(body,oast,oasm,...)) -->   
+<!-- ------------------------------------------------------------- --> 
+<!-- [OneTrust] CATEGORY-1: Cookies strictement nécessaires -->
+<script type="text/plain" class="optanon-category-1">
+        //alert("CATEGORY-1: OK \nCookies strictement nécessaires"); 
+        //alert("OnetrustActiveGroups: [" + OnetrustActiveGroups +"]");
+        //
+        // Set cookie [show payWall] (default value)
+        //alert("optanon(CAT-1|START) : spwpoool_ = true (default value)");
+        setCookie('spwpoool_', 'true', 1);
+</script> 
+<!-- [OneTrust] CATEGORY-2: Cookies de performance -->
+<script type="text/plain" class="optanon-category-2">
+        //alert("CATEGORY-2: OK \nCookies de performance ");  
+        //alert("OnetrustActiveGroups: [" + OnetrustActiveGroups +"]");  
+        //
+        //googleAnalytics(); 
+        //alert("googleAnalytics(): OK");
+</script>
+<!-- [OneTrust] CATEGORY-3: Cookies de fonctionnalité -->   
+<script type="text/plain" class="optanon-category-3">
+        //alert("CATEGORY-3: OK \nCookies de fonctionnalité"); 
+        //alert("OnetrustActiveGroups: [" + OnetrustActiveGroups +"]"); 
+        //
+</script>
+<!-- [OneTrust] CATEGORY-4: Cookies pour une publicité ciblée -->
+<script type="text/plain" class="optanon-category-4">
+        //alert("CATEGORY-4: OK \nCookies pour une publicité ciblée"); 
+        //alert("OnetrustActiveGroups: [" + OnetrustActiveGroups +"]");
+        //
+        //alert("optanon(CAT-4|PUB) : Consent[OK]");
+        disablePaywall();
+        //
+        //initSAStrigger();   // regispub: trigger Pub (body, etc...) via smartadserver
+        //ads();              // regispub: themoneytizer
+        //AdsEx();            // regispub: quantx(elasticad), Teads
+        //alert("ads()-quantxAds(): OK"); 
+</script>
+<!-- [OneTrust] CATEGORY-8: Cookies « réseaux sociaux » -->
+<script type="text/plain" class="optanon-category-8">
+        //alert("CATEGORY-8: OK \nCookies réseaux sociaux");
+        //alert("OnetrustActiveGroups: [" + OnetrustActiveGroups +"]");
+        //
+        //twitter();      // Box Twitter
+        //facebook();     // Box facebook
+        //googleplus();   // Box Google Plus
+        //alert("twitter()-facebook()-googleplus(): OK");    
+</script>  
+<!-- ########## FIN CNIL(RGPD) ##########  -->
+
+<!-- POOOL [payWall & subscription] (access.js & subscribe.js) -->   
+<!-- --------------------------------------------------------- --> 
+<!-- -------------- intégration [audit.js] ----------------- --> 
+
+<!-- -------------- intégration [access.js] ----------------- --> 
+<script id="poool-access" src="https://assets.poool.fr/access.min.js" async></script>
+<script>
+    var access = null;
+    const script_access = document.getElementById('poool-access');
+    script_access.addEventListener('load', function () {
+        //
+        var spwpoool_ = getCookie('spwpoool_');
+        if(window.location.toString().indexOf("/infos/") > 0) spwpoool_ = false;    // Paywall & pageInfos(footer) 
+        //
+        if (spwpoool_ == null || spwpoool_ == 'true') {
+            //alert("spwpoool_[" + spwpoool_+"]: \n   - createPaywall \n   - poool-widget=show() + wrapper=blur(3) \n   - event(Poool+oneTrust)");
+            access = Access.init('ILD4S-2S1MH-UGZ3J-1SEEH');
+            access.createPaywall({
+                target: '#poool-widget',
+                content: '[data-poool]',
+                mode: 'excerpt',
+                percent: 80,
+                pageType: 'premium',
+            });
+            // Hide <#poool-widget>  
+            $("#poool-widget").show();
+            // wrapper -> blur(3) >>> flou
+            $('.wrapper').css({
+                'filter'         : 'blur(3px)',
+                '-webkit-filter' : 'blur(3px)',
+                '-moz-filter'    : 'blur(3px)',
+                '-o-filter'      : 'blur(3px)',
+                '-ms-filter'     : 'blur(3px)'
+            });
+
+            // event back consent
+            access.on('consent', function () {
+                //alert("access.on('consent')");
+
+                // change Consent (accept All Cookie)
+                /////////////////////////////////////
+                //OneTrust.AllowAll();              // => [OK]
+
+                // Display Banner OneTrust (!niveau 2:setting!)
+                ///////////////////////////////////////////////
+                OneTrust.ToggleInfoDisplay();       // => [OK]
+                OneTrust.OnConsentChanged(function () {
+                    //alert("OneTrust.OnConsentChanged => Value: [" + OnetrustActiveGroups + "]");
+                    if (OnetrustActiveGroups.match(/,4,/) == null) {
+                        // consentement oneTrust: [KO]  (OnetrustActiveGroups != 4)
+                        // (ré)activation paywall POOOL
+                        access.createPaywall({
+                            target: '#poool-widget',
+                            content: '[data-poool]',
+                            mode: 'excerpt',
+                            percent: 80,
+                            pageType: 'premium',
+                        });         
+                    }
+                });
+            });
+        }else{
+            //
+            //alert("spwpoool_[false]: noPaywall");
+        }
+    });
+
+    //
+    function disablePaywall(){
+        //alert("disablePaywall(): \n   - destroyPaywall(?) \n   - poool-widget=hide() + wrapper=blur(0) \n   - cookie spwpoool_: false");
+        //
+        // Destroy Paywall (?)
+        if(access){ 
+            //alert("access != null : destroyPaywall");
+            access.destroy();
+        }
+        //
+        //alert("- <div poool-widget>: hide() \n- <div wrapper>: blur(0)");
+        // Hide <#poool-widget>  
+        $("#poool-widget").hide();
+        // wrapper -> blur(0) >>> ok
+        $('.wrapper').css({
+            'filter'         : 'none',
+            '-webkit-filter' : 'none',
+            '-moz-filter'    : 'none',
+            '-o-filter'      : 'none',
+            '-ms-filter'     : 'none'
+        });
+        //
+        // Set cookie [hide payWall]
+        //alert("cookie spwpoool_: false");
+        setCookie('spwpoool_', 'false', 1);
+    }
+</script>
+
+<!-- ------------- intégration [subscribe.js] ---------------- --> 
+<script id="poool-subscribe" src="https://assets.poool-subscribe.fr/subscribe.js" async></script>
+<script>
+    const script_subscribe = document.getElementById('poool-subscribe');
+    script_subscribe.addEventListener('load', function () {
+        subscribe = Subscribe.init('ILD4S-2S1MH-UGZ3J-1SEEH');
+        subscribe.createAuthElement('signin-with-subscribe-button', {
+            target: '#auth-widget-topbar'
+        });
+        subscribe.createAuthElement('signin-with-subscribe-button', {
+            target: '#auth-widget-menuburger'
+        });
+        //subscribe.config('debug', true);
+
+        // Appel ( async / await)
+        /////////////////////////
+        async function getUserDatas() {
+            const user = await subscribe.getUser();         //[KO] user => undefined
+            //alert("user info: " + user 
+            //                        + "\nid_subscription: " + user.subscription.subscriptionId
+            //                        + "\nstatus: " + user.subscription.status
+            //                        + "\ncreatedAt: " + user.subscription.createdAt);
+            if(user != undefined 
+                    && user.subscription != null
+                    && user.subscription.status == "active"){
+                //alert("status == active : subscribe[OK]");
+                $("#auth-widget-topbar").css("margin-top", "12px");   // alignement infoUSer (topbar)
+                disablePaywall();
+            }else{
+                //
+                //alert("access[null] OR subscribe[KO]: keepContext");
+            }
+        }
+        getUserDatas();
+    });  
+
+</script>
+<!-- ############# FIN PAYWALL(Pool) #############  -->
+
+<!-- JS larousse-Masterpage -->
+<script type="text/javascript" src="/library-web/larcom/masterpage/js/masterpage.js"></script>                  <!-- src="[module]/assets/js/masterpage.js" -->
+</html>

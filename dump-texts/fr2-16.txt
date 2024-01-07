@@ -1,0 +1,1053 @@
+   #Implications philosophiques » Flux Implications philosophiques » Flux
+   des commentaires Implications philosophiques » L’orgueil Flux des
+   commentaires alternate alternate alternate
+
+     *
+     *
+     *
+     *
+     *
+
+   logo
+   mobileLogo
+   (BUTTON)
+
+     * Société/Politique
+     * Ethique/Normes
+     * Sciences/Métaphysique
+     * Esthétique/Technique
+     * Dossiers/Varia
+          + Dossiers thématiques
+               o 2023
+                    # Ethique de l’interaction humain/machine
+                    # Les Méchants
+               o 2022
+                    # La méthode phénoménologique
+                    # Libéralisme(s)
+                    # Droits humains
+               o 2021
+                    # Sexe et genre
+                    # Marxismes français d’après-guerre
+               o 2020
+                    # Philip Roth
+                    # Sous l’expérience esthétique : esthétique et
+                      neurosciences cognitives
+                    # Philosophie et numérique
+               o 2019
+                    # Emotions et collectifs sociaux
+                    # Simondon 1958-2018
+                    # Dossier Hegel 2019
+               o 2018
+                    # Mouvements sociaux et subjectivations politiques
+                    # L’inattendu philosophique
+               o 2017
+                    # Culture et sentiment au XVIII° siècle
+                    # Philosopher en enseignant
+                    # Arts et pouvoir
+                    # Héritage des concepts
+               o Actualité de Hegel
+               o Alzheimer
+               o 7 péchés capitaux
+               o Arts vivants
+               o Autour de Jocelyn Benoist
+               o Bergson ou la science
+               o Bestiaire philosophique
+               o Bioéthique
+               o Blumenberg
+               o De la culture papier à la culture numérique
+               o Deleuze
+               o Dissymétrie
+               o Emotions
+               o Ethique de l’interaction humain-machine
+               o Europe
+               o Les jeux vidéo: terrain philosophique?
+               o Justice climatique
+               o L’absurde au prisme de la littérature
+               o L’édition numérique
+               o l’éthique dans tous ses états
+               o La confiance
+               o La pensée de Gaston Bachelard
+               o Le neutre
+               o Néo-républicanisme
+               o Passions dans l’espace public
+               o Philosopher d’après le cinéma
+               o Philosophie des séries
+               o Saint et sacré
+               o Vision du social
+               o Wittgenstein en dialogues
+               o Sous l’expérience esthétique : esthétique et
+                 neurosciences cognitives
+               o Marxismes français d’après-guerre
+               o Droits humains
+               o Sexe et genre
+               o Libéralisme(s)
+          + Ateliers
+               o Atelier Philosophie et numérique
+               o Penser les addictions
+               o Théorie critique et poststructuralisme
+               o Cultures numériques
+          + Newsletters & Sommaires
+          + Podcast
+          + Appels à contribution
+          + Varia
+     * Recensions
+     * Histoire des idées
+
+   (BUTTON)
+
+   Share
+     *
+     *
+     *
+
+   7 péchés capitauxuneVaria
+
+L’orgueil
+
+   26 décembre 20165966 views8
+   Print Friendly, PDF & Email
+
+              L’orgueil, ou l’art d’être un gros connard
+
+
+      Florian Cova –  Centre Interfacultaire en Sciences Affectives,
+                           Université de Genève
+
+   Résumé : L’orgueil est traditionnellement considéré comme un vice
+   moral. On considère aussi qu’il est lié au fait de se considérer comme
+   meilleur que les autres. Ces deux propriétés, quoique évidentes, ne
+   sont pas forcément simples à concilier : se croire meilleur que les
+   autres alors qu’on ne l’est pas, par exemple, semble constituer un vice
+   épistémique plutôt que moral. Ici, je soutiens que ces deux propriétés
+   peuvent être réconciliées en faisant appel au concept philosophique de
+   « connard » : est un connard celui qui pense non seulement qu’il est
+   doté de qualités que les autres n’ont pas, mais pensent aussi que cela
+   lui donne le droit de ne pas respecter leurs intérêts. J’en conclue
+   naturellement que l’orgueil est tout simplement le fait d’être un gros
+   connard.
+
+   Abstract : Pride is traditionally viewed as a moral vice. It is also
+   widely accepted that there is a link between pride and seeing oneself
+   as better than others. However, both these properties, no matter how
+   obvious they are, are not easily reconciled : thinking that one is
+   better than others is more an epistemic than a moral vice. Here, I
+   argue that both properties can be kept together by appealing to the
+   philosophical concepts of « asshole » : an asshole is someone who not
+   only thinks he has qualities others don’t have, but also thinks this
+   give him the right not to respect the welfare of others. Consequently,
+   I conclude that pride (understood as a vice) simply amounts to being a
+   big asshole.
+
+   L’orgueil fait originellement partie des sept péchés capitaux
+   répertoriés par l’Eglise Catholique et il continue encore aujourd’hui à
+   avoir mauvaise presse : dire de quelqu’un qu’il est « orgueilleux »,
+   voire « bouffi d’orgueil » n’est pas forcément un compliment. De plus,
+   l’orgueil semble constituer pour les gens qui le condamnent une faute
+   proprement morale – être orgueilleux, ce n’est pas simplement être
+   ridicule ou stupide, mais s’exposer au blâme de ses congénères. En
+   effet, à en croire le langage ordinaire, on pèche par orgueil. Mais,
+   comme nous allons le voir, s’il est facile de trouver des raisons de ne
+   pas être orgueilleux, il est plus difficile de trouver en quoi
+   l’orgueil constitue une faute plutôt qu’un simple défaut, et tombe sous
+   le coup de la loi morale. La réponse à ce problème est pourtant toute
+   simple : si l’orgueil est condamnable, c’est parce que l’orgueilleux
+   est un gros connard (au sens technique du terme – car il y en a bel et
+   bien un).
+
+Orgueil et fierté
+
+   Mais d’abord, qu’est-ce au juste que l’orgueil ? Avant de se lancer
+   plus en avant dans cette enquête, il convient de distinguer l’orgueil
+   de la fierté. En français, le premier terme peut parfois être utilisé à
+   la place du second, par exemple lorsque l’on dit que quelqu’un « fait
+   l’orgueil de sa famille » pour dire tout simplement que sa famille est
+   très fière de lui. En anglais, il n’existe qu’un seul terme pour les
+   deux : « pride » se traduit soit par fierté, soit par orgueil.
+   Pourtant, les deux réalités doivent être distinguées : en tant que vice
+   potentiel, l’orgueil est une disposition stable des individus, tandis
+   que la fierté est une émotion, par nature passagère et transitoire. On
+   ressent de la fierté, mais on a de l’orgueil.
+
+               Leur proximité linguistique suggère tout de même un lien
+   entre l’orgueil et la fierté. En conséquence, il se pourrait que la
+   nature de la fierté nous permette de saisir celle de l’orgueil.
+   Commençons donc par définir la fierté : il s’agit d’une émotion
+   positive, suscitée par la croyance d’avoir accompli un haut fait, ou
+   par l’opinion d’avoir quelque qualité. Nous sommes fiers quand nous
+   considérons que nos actions révèlent quelques qualités ou aptitudes en
+   nous, qualités ou aptitudes dont nous sommes également fiers.
+
+               Peut-on alors définir l’orgueil comme un dérèglement de la
+   fierté, de la même manière que l’irascibilité pourrait être définie
+   comme un dérèglement de la colère, ou la luxure comme un dérèglement du
+   désir sexuel ? Ce n’est pas clair, d’autant plus que la notion de
+   dérèglement reste vague et peut être spécifiée de différentes façons :
+   selon la fréquence, l’intensité, ou le caractère justifié de l’émotion
+   en question. On pourrait ainsi imaginer que l’orgueilleux est un être
+   qui se sent fier de lui trop souvent, ou en tout cas plus souvent que
+   la moyenne. Mais il est difficile de voir ce qu’il y a de mal à cela :
+   tant mieux pour lui après tout. De même pour celui dont le sentiment de
+   fierté est souvent hors de proportion : il y a là plus de ridicule que
+   de faute morale. Le chercheur qui ressent une joie immense au simple
+   fait de voir ses travaux citer par un autre peut prêter à rire, mais il
+   serait absurde de juger sa réaction comme immorale.
+
+               Faut-il alors définir l’orgueil comme la tendance à être
+   fier de façon injustifiée, c’est-à-dire pour des choses dont on
+   n’aurait pas à être fier ? Faut-il blâmer l’homme fier de sa beauté, du
+   fait d’avoir été invité chez telle personnalité bien en vue, ou encore
+   d’être capable de jeter des boules de papier dans la corbeille à
+   l’autre bout du bureau sans jamais rater ? Dans un sens, oui : de
+   telles réactions semblent révéler que cet homme prête bien trop
+   d’importance à des choses vaines et futiles. Sa superficialité peut
+   nous inspirer mépris et dédain. Mais il n’est pas clair que ce reproche
+   serait proprement moral : certes, nous jugeons que son idée de la vie
+   bonne est déplacée et ridicule, mais cela devrait nous conduire à le
+   prendre en pitié, plutôt qu’à juger qui ce qu’il fait est mal ou
+   injuste. De plus, il n’est pas clair que nous le jugerions
+   orgueilleux : nous dirions plutôt qu’il est vain ou fat. Mais la vanité
+   et la fatuité, c’est-à-dire le fait de se sentir fier pour des choses
+   superficielles et sans importance, ne sont pas la même chose que
+   l’orgueil. Les deux défauts sont certes cumulables mais ils peuvent
+   aussi exister séparément : on peut s’enorgueillir de qualités qui sont
+   d’authentiques qualités, tout comme on peut être vain sans être bouffi
+   d’orgueil.
+
+Orgueil, modestie et vantardise
+
+   Il ne semble donc pas possible de définir l’orgueil comme un simple
+   dérèglement de la fierté. Il n’empêche que les deux ont sans doute un
+   rapport : les qualités dont nous sommes fiers constituent le terreau
+   sur lequel croît l’orgueil, d’où la proximité linguistique des deux
+   termes. Reste à savoir quelle attitude envers ces qualités constitue
+   précisément l’orgueil.
+
+               Une façon de procéder pourrait consister à déterminer la
+   nature d’un vice en cherchant les vertus qui lui sont opposées. Or, on
+   oppose traditionnellement l’orgueil à la modestie et à l’humilité. Il
+   suffirait donc peut-être de définir ce que sont ces vertus pour que la
+   nature de l’orgueil nous apparaisse en négatif. Mais là encore, il y a
+   débat au sujet de la nature exacte de ces vertus.
+
+               Prenons la modestie. Il y a plusieurs façons de la définir.
+   Une première façon serait d’y voir une forme de politesse, une sorte de
+   vertu sociale qui tomberait dans la catégorie du savoir-vivre. Dans ce
+   sens, le modeste est celui qui fait attention à ne pas trop se vanter
+   de ses qualités et de ses réussites. En effet, c’est une chose bien
+   connue que les succès des autres (y compris de nos amis et de nos
+   proches) peuvent nous agacer, soit qu’ils nous portent ombrage, soit
+   qu’ils nous rappellent nos propres manques, suscitant ainsi la
+   jalousie. Pour cette raison, il convient de ne pas trop pointer ses
+   propres qualités du doigt, afin de préserver la paix sociale, et par
+   considération pour les sentiments des autres.[1]
+
+               Cette conception de la modestie colle avec l’histoire même
+   du terme. A une autre époque, le terme « modestie » désignait une
+   petite pièce de tissu servant à voiler le décolleté féminin. Autrement
+   dit, la modestie consiste à voiler ce qui met les autres mal à l’aise –
+   c’est le refus de l’ostentatoire et du bling-bling. La modestie n’est
+   pas seulement une forme de politesse, c’est aussi une forme de pudeur.
+
+               Mais peut-on vraiment définir l’orgueil comme le contraire
+   de la modestie, comprise en ce sens ? Pas vraiment. Imaginons le
+   contraire de la modestie telle que présentée ci-dessus : cela
+   consisterait à se vanter de ses succès (réels ou imaginaires) et à
+   faire remarquer toutes les qualités dont nous sommes pourvus –
+   autrement dit à se vanter. Le contraire de la modestie serait alors la
+   vantardise (ou la fanfaronnade), et le contraire du modeste le crâneur.
+   Mais ce n’est pas la même chose que l’orgueil : il semble possible
+   d’imaginer un homme très orgueilleux mais qui ne fait pas pour autant
+   étalage de ses qualités, et un fanfaron qui n’a aucun orgueil, mais au
+   contraire cherche désespérément l’approbation des autres parce qu’il a
+   le sentiment d’être un moins-que-rien.
+
+Orgueil et confiance en soi
+
+   On pourrait penser que s’il semble incorrect de définir l’orgueil comme
+   le contraire de la modestie, c’est uniquement parce que la définition
+   proposée plus haut de la modestie n’est pas la bonne : elle se
+   concentre uniquement sur ce qu’une personne dit de ses qualités, et pas
+   sur ce qu’elle en pense. Or, il est possible de se tenir en société et
+   de ne pas attirer l’attention sur ses qualités, tout en estimant
+   secrètement être pourvu de toutes les perfections. Autrement dit, la
+   véritable modestie ne consisterait pas seulement à ne pas dire que nous
+   sommes le meilleur, mais aussi à ne pas penser que nous le sommes.
+
+               Certains philosophes ont effectivement cherché à définir la
+   modestie (ou l’humilité, les deux n’étant pas toujours bien
+   distinguées) comme une certaine forme de croyance au sujet de ses
+   propres qualités et capacités. Ainsi, pour certains, la modestie
+   consisterait avant tout à sous-estimer ses propres qualités.[2] Elle
+   s’opposerait ainsi à l’orgueil, qui consisterait à les surestimer.
+
+               Cette conception de l’orgueil soulève cependant deux
+   difficultés majeures. Premièrement, on ne voit pas bien en quoi la
+   modestie, entendue en ce sens, constituerait une vertu. En en effet, si
+   la modestie consiste à sous-estimer constamment nos qualités, cela
+   signifie qu’elle consiste à être de façon permanente dans l’erreur. Or,
+   on ne voit pas très bien ce qu’il y a de bon à se tromper continument.
+   Deuxièmement, si l’on définit l’orgueil par contraste avec ce type de
+   modestie comme le fait de surestimer la plupart du temps ses qualités,
+   alors on ne comprend pas en quoi il s’agit d’un vice moral. En effet,
+   se tromper, vivre dans l’illusion est avant tout un vice épistémique,
+   qui tombe dans la même catégorie que la crédulité ou la tendance à voir
+   des complots partout. Mais ce n’est pas, du moins à première vue, une
+   faute morale : être irrationnel n’est pas nécessairement un péché.
+
+   peacock-four-spot-feather-bird-50702
+
+               Il ne faut donc pas confondre modestie et manque de
+   confiance en soi. En réaction à cette conception de la modestie, mais
+   toujours dans un même ordre d’idées, d’autres philosophes ont proposé
+   de définir la modestie comme le fait d’avoir une estimation juste et
+   exacte de ses propres capacités.[3] Dans ce cas, la première difficulté
+   est résolue : on voit bien en quoi la modestie constitue une vertu
+   (autrement dit, une perfection), puisqu’elle consiste à connaître
+   exactement l’étendue de ses propres qualités, plutôt qu’à se complaire
+   dans de fausses illusions. Mais la deuxième difficulté demeure : même
+   si la modestie entendue en ce nouveau sens est enfin une vertu, elle
+   n’en reste pas moins une vertu épistémique, et pas morale, ce qui fait
+   de son contraire un vice épistémique, et pas une faute morale.
+
+               De plus, réduire la modestie à la connaissance de soi a
+   aussi des conséquences contre-intuitives. Imaginez que Roger soit le 2e
+   meilleur joueur de tennis du monde. Il en a parfaitement conscience et
+   ne pense être ni 3e, ni 1er. Cependant, Roger pense qu’être le 2e
+   meilleur joueur de tennis du monde l’autorise à prendre les autres
+   personnes de haut, à leur parler de façon désagréable et à leur
+   déléguer les tâches dont il ne veut pas s’occuper. Clairement, nous
+   aurions envie de dire que Roger est très orgueilleux. Il le serait
+   d’ailleurs toujours s’il se conduisait de la même façon, mais en se
+   sous-estimant légèrement, par exemple en pensant être le 3^e meilleur
+   joueur de tennis du monde. Sous-estimer ou avoir une connaissance juste
+   de ses propres qualités ne suffit donc pas à se prémunir contre le
+   péché d’orgueil. L’orgueil ne saurait être réduit au fait d’être
+   présomptueux ou prétentieux.
+
+Orgueil et humilité
+
+   Qu’est-ce donc alors que l’orgueil, si ce n’est ni le fait de se vanter
+   de ses qualités, ni le fait de surestimer celles-ci ? L’exemple de
+   Roger, développé ci-dessus, peut nous mettre sur la voie : ce qui nous
+   conduit à penser que Roger est orgueilleux n’est pas simplement la
+   haute opinion qu’il a de lui-même, ni la façon qu’il a de l’exprimer,
+   mais ce que cette opinion le conduit à faire : prendre les autres de
+   haut. Autrement dit, le problème avec Roger n’est pas qu’il pense être
+   un des meilleurs joueurs de tennis du monde (il l’est), ni qu’il le
+   dise (de toute façon, tout le monde doit déjà être au courant), mais
+   qu’il pense que cela l’autorise à traiter mal ceux qui sont « moins
+   bons » que lui.
+
+               Dans la littérature philosophique contemporaine, le fait de
+   traiter les autres comme si leurs intérêts avaient moins d’importance
+   que les nôtres a reçu un label bien précis : être un connard. En effet,
+   dans un ouvrage intitulé Assholes : A Theory, le philosophe Aaron James
+   a tenté de proposer une définition précise de ce qu’est être un
+   « connard » (traduction à mon avis la plus appropriée de l’anglais
+   « assholes », étant donné la catégorie d’individu que décrit James).[4]
+   Qu’est-ce alors qu’un connard ? Le connard typique, c’est celui qui
+   coupe la file d’attente à la poste parce qu’il estime avoir des choses
+   plus importantes à faire que les autres, l’homme qui s’assoit en
+   première classe dans l’avion alors qu’il n’a payé qu’un billet seconde
+   classe sous prétexte qu’une personne aussi importante que lui mérite le
+   meilleur traitement, ou celui qui roule à tombeau ouvert sur
+   l’autoroute, grillant toutes les priorités, parce qu’il est convaincu
+   que les règles ne s’appliquent pas à lui. Autrement dit, le connard est
+   cet individu qui pense bénéficier de droits spéciaux, qui agit comme si
+   ses intérêts étaient plus importants que ceux des autres, et qui remet
+   ainsi en cause l’idée selon laquelle nous serions tous égaux, au sens
+   de mériter une égale considération. D’où le côté profondément irritant
+   du connard.
+
+               Le connard se distingue ainsi par le sentiment qu’il a
+   d’être spécial, et donc de mériter un traitement tout aussi spécial.
+   C’est pourquoi un signe distinctif du connard, c’est sa propension à
+   poser la question « savez-vous qui je suis ? » : c’est en vertu de ce
+   qu’il est que le connard pense mériter un traitement spécial. Chez
+   certains, cela pourra refléter l’idée que leur personne est spéciale
+   simpliciter : ils méritent d’être traité de façon spéciale juste parce
+   qu’ils sont qui ils sont. Mais, la plupart du temps, les connards
+   estiment mériter un traitement spécial en vertu de certaines qualités :
+   parce qu’ils sont connus, champions d’une certaine discipline,
+   universitaires reconnus, etc. Autrement dit, pour la plupart des
+   connards, le fait d’être meilleur selon une certaine dimension
+   (compétence sportive, intelligence, etc.) signifie qu’ils sont
+   meilleurs « tout court », qu’ils « valent plus » que les autres, et
+   donc méritent d’être traités différemment.
+
+               Présentée de cette façon, la pensée fondamentale du connard
+   nous apparaît forcément comme aberrante : les êtres humains méritent
+   une égale considération morale, quelles que soient leurs capacités,
+   tant physiques qu’intellectuelles. Comme l’explique le philosophe
+   Stephen Darwall, il est impératif de distinguer deux types de respect :
+   le respect comme appréciation (« appraisal respect »), qui est une
+   forme d’admiration des capacités d’autrui et peut donc varier d’un
+   individu à l’autre, et le respect comme reconnaissance (« recognition
+   respect »), qui est la prise en compte des intérêts d’autrui et doit
+   être la même pour tous les individus.[5] Le connard semble commettre
+   une confusion entre les deux, et penser que mériter l’admiration
+   d’autrui justifie le fait d’être mieux traité que les autres.
+
+               Pourtant, et bien que nous soyons prêts à rejeter
+   explicitement cette idée, il se peut que nombre d’entre nous partagent
+   implicitement l’idée principale du connard, et à traiter différemment
+   ceux qu’ils admirent et ceux qu’ils jugent comme « faibles » ou moins
+   « doués ». Peu de racistes admettraient explicitement que ceux qui sont
+   moins intelligents ne méritent pas les mêmes droits et la même
+   considération que ceux qui sont plus intelligents : ils n’accepteraient
+   jamais de dire que les handicapés mentaux ne devraient pas être traités
+   comme les humains « normaux ». Pourtant, ils ne manquent pas de
+   signaler toute étude qui suggérerait (de près ou de loin) que certains
+   groupes ethniques sont moins bons en mathématiques ou ont un QI moins
+   élevé que d’autres. Et les mouvements anti-racistes ne manqueront pas
+   de pourfendre ces mêmes études, y voyant une forme de soutien aux
+   opinions de leurs adversaires. Comme si les deux camps faisaient
+   finalement un lien implicite entre les compétences (physiques ou
+   intellectuelles) des individus et le respect qu’ils méritent.
+
+               Mais ce lien implicite entre compétences et respect moral,
+   nous sommes nombreux à le faire. Pour le constater, il suffit de se
+   pencher sur certaines séries télé qui ont rencontré du succès ces
+   dernières années : Dr. House, Lie to Me, Sherlock ou encore Elementary.
+   Qu’est-ce que toutes ces séries ont en commun ? Elles mettent en scène
+   des personnages désagréables, qui n’hésitent pas à humilier ou
+   maltraiter leurs proches et interlocuteurs. Pourtant, nous leur
+   pardonnons aisément ce comportement – nous y prenons même plaisir.
+   Est-ce seulement parce que ces protagonistes œuvrent pour le bien ? Pas
+   seulement. Le point commun de tous ces personnages est qu’ils sont
+   intelligents, très intelligents, voire même supérieurement
+   intelligents, et qu’ils en ont conscience. C’est d’ailleurs parce
+   qu’ils en ont conscience qu’ils se permettent de se conduire de façon
+   odieuse, et de faire des choses que nous n’accepterions pas de la part
+   d’autres personnages. Imaginons une série dans laquelle le personnage
+   principal se comporterait de la même façon, mais tout en ayant une
+   intelligence juste moyenne, et sans posséder de capacité qui le hisse
+   au-dessus des autres : accepterions-nous aussi facilement ces
+   comportements ? En ririons-nous autant ? Probablement pas. Nous
+   acceptons ce comportement de la part de personnage comme Sherlock parce
+   que, quelque part, nous avons implicitement tendance à estimer que
+   posséder des capacités au-delà de la moyenne justifie le fait de
+   traiter les autres de façon inégale.
+
+               Il est bien entendu moralement nécessaire de résister à
+   cette tentation, particulièrement lorsque l’on pense être soi-même
+   supérieur à la moyenne sur telle ou telle dimension. Le connard est
+   celui qui a cédé à cette tentation (souvent sans même avoir cherché à y
+   résister). Le péché du connard n’est pas de se croire supérieur aux
+   autres sur telle ou telle dimension, mais d’agir comme si cela le
+   justifiait à ne pas traiter les autres en égaux et à revendiquer un
+   régime spécial. Si l’on reprend l’exemple de Roger, développé à la fin
+   de la section précédente, on peut voir que le problème de Roger n’est
+   pas de penser qu’il est le 3^e meilleur joueur de tennis du monde, mais
+   de penser que cela l’autorise à être désagréable avec son entourage.
+
+               Contrairement aux autres vices que nous avons passés en
+   revue jusqu’ici, il est facile de voir en quoi le péché du connard est
+   une faute proprement morale : en le conduisant à nier le principe selon
+   lequel tous les hommes méritent une égale considération, l’état
+   d’esprit du connard ouvre la porte à toutes les injustices, et à
+   l’oppression. Si donc nous reprenons l’idée selon laquelle l’orgueil
+   (i) est en lien avec le fait de se considérer comme doté de capacités
+   supérieures à la moyenne et (ii) constitue une faute morale, une
+   conclusion simple s’impose : l’orgueil, c’est tout simplement le fait
+   d’être un connard. Autrement dit, l’orgueil, c’est le fait de se sentir
+   justifié à traiter les autres moins bien que nous-mêmes simplement
+   parce que nous pensons disposer de capacités supérieures dans un
+   domaine donné.
+
+               À l’orgueil s’oppose l’humilité, qui est le fait de
+   résister à cette tentation, et de traiter les autres comme des égaux,
+   quand bien même nous nous estimerions meilleurs qu’eux dans certains
+   domaines. L’humilité ne requiert en aucune façon d’avoir une mauvaise
+   estime de soi : en fait, seuls ceux qui ont une certaine estime
+   d’eux-mêmes peuvent être véritablement humbles. Il n’y a en effet aucun
+   mérite dans le fait d’être humble si l’on se considère déjà comme le
+   moins doué de tous les hommes – ce serait comme féliciter de sa
+   tempérance quelqu’un qui ne prend aucun plaisir à rien, ou de son
+   courage quelqu’un qui est incapable de ressentir la peur.
+
+               Ainsi, on peut imaginer un chercheur qui est parmi les
+   meilleurs de son domaine, en a parfaitement conscience et en très fier,
+   ce qui le conduit à s’en vanter de temps à autre, mais continue à
+   respecter ses collègues et doctorants, à les traiter comme des égaux,
+   et à leur venir en aide : cet homme ne sera pas modeste, ni ne manquera
+   de confiance en soi, mais sera humble. À l’inverse, on peut imaginer un
+   chercheur qui se sous-estime constamment, passe son temps à se
+   dénigrer, mais s’estime quand même assez supérieur à certains de ses
+   collègues pour être désagréable avec ceux-ci, parler à voix haute
+   pendant leurs conférences, et leur laisser des tâches administratives
+   indignes de lui : cet homme ne sera pas vantard, ni présomptueux, mais
+   il sera bel et bien orgueilleux.
+
+               Ces deux exemples ne sont pas des œuvres de fiction, mais
+   des personnages bel et bien réels. Si comme moi, vous estimez que le
+   premier est de loin préférable au second, alors c’est que vous
+   comprenez en quoi l’orgueil constitue un défaut moral majeur.
+   _______________________
+
+   [1] Wilson, A. (2014). Modesty as kindness. Ratio, 29(1), 73-88.
+
+   [2] Driver, J. (1999). Modesty and Ignorance. Ethics, 109(4), 827-834.
+
+   [3] Flanagan, O. (1990). Virtue and ignorance. The Journal of
+   Philosophy, 87(8), 420-428.
+
+   [4] James, A. (2012). Assholes: A Theory. Nicholas Brealey Publishing.
+
+   [5] Darwall, S. L. (1977). Two kinds of respect. Ethics, 88(1), 36-49.
+
+Share
+
+     *
+     *
+     *
+
+     * 7 péchés
+     * Aaron James
+     * asshole
+     * assholes
+     * capitaux
+     * connard
+     * cova
+     * darwall
+     * driver
+     * fierté
+     * flanagan
+     * Florian Cova
+     * humilité
+     * James
+     * modestie
+     * modesty
+     * orgueil
+     * péché
+     * péchés
+     * pride
+     * sept péchés
+     * vertu
+     * vice
+     * wilson
+
+   85966
+   Previous
+
+La colère
+
+   Next
+
+L’envie
+
+You may also like
+
+   Emergence
+
+L’enregistrementalisme de Maurizio Ferraris est-il vraiment réaliste ? De
+l’importance de la séparation entre intentionnel et réel pour le réalisme, et
+de la raison morale du nouveau réalisme
+
+   Jim Gabaret. L’émergence est pour Maurizio Ferraris l’opérateur pour
+   comprendre de façon réaliste la variété ...
+   By
+   5 janvier 2024
+
+   Emergence
+
+Réflexions sur l’ontologie dans Émergence de Maurizio Ferraris
+
+   Markus Gabriel. Le petit livre de Maurizio Ferraris, intitulé
+   Émergence, est, comme toujours, très agréable ...
+   By
+   2 janvier 2024
+
+   Emergence
+
+L’esprit d’un monde sans esprit
+
+   Jocelyn Benoist. C'est avec une joie toute particulière que je saisis
+   l'occasion qui m'est offerte ...
+   By
+   29 décembre 2023
+
+   Emergence
+
+Réponses d’émergence
+
+   Maurizio Ferraris. Depuis la parution d’Émergence en 2018, Maurizio
+   Ferraris a eu l’occasion de reprendre, ...
+   By
+   25 décembre 2023
+
+   Emergence
+
+Dossier – Emergence : Introduction.
+
+   Florian Forestier et Pauline Nadrigny. Les articles ici présentés l'ont
+   été à l'occasion d'une journée ...
+   By
+   20 décembre 2023
+
+   Les Méchants
+
+Dossier – Les Méchants, de la fascination à la compréhension : Introduction.
+
+   La notion de méchant et celle de méchanceté peuvent sembler naïves
+   voire enfantines, de prime ...
+   By
+   16 novembre 2023
+
+8 Comments
+
+    1.
+   jean-louis says:
+       19 novembre, 2017 at 1:51
+       L’orgueil vient du savoir; Il y a plusieurs sortes de savoirs, mais
+       il vient toujours d’un certain savoir.
+       Il y a le savoir sur la nature des choses. Nature de l’univers, de
+       la matière, de l’espèce humaine etc Ce savoir-là ne rend pas
+       orgueilleux parce qu’il met en évidence qu’il est petit en
+       comparaison de ce qu’il reste à savoir. Et parce que ce n’est pas
+       un savoir égocentrique.
+       Il y a le savoir sur la valeur des choses. Celui-là rend
+       orgueilleux. C’est le jugement lui-même qui devient objet de
+       valeur. On trouvera donc ce genre de savoir et ce genre
+       d’orgueilleux chez les critiques de tous polis, les moralistes, les
+       religieux, les politiques…
+    2.
+   Site streaming says:
+       27 octobre, 2018 at 2:36
+       L’orgueil et la fierté, d’une part c’est le contexte qui a
+       influencé la différence que font les gents en ce qui les concerne
+       d’autres parts, être orgueilleux c’est le mauvais côté d’être fier.
+    3.
+   site de streaming says:
+       23 décembre, 2018 at 9:16
+       Un excellent billet sur l’orgueil. Certaines personnes manquent
+       énormément d’humilité, surtout dans l’air de numérique où tout le
+       monde est mise en avant.
+    4.
+   john says:
+       22 novembre, 2019 at 6:01
+       Une article très intéressante qui ma beaucoup appris Merci au
+       rédacteur
+    5.
+   Atfut says:
+       26 décembre, 2019 at 3:55
+       Merci, pour cette article cars ça ma beaucoup aider a comprendre
+       certains choses. l’article est tellement super surtout pour moi
+    6.
+   JUng Michèle says:
+       6 mars, 2020 at 11:20
+       Bonsoir Fernand, je serais curieuse de connaître la raison qui t’a
+       conduit à choisir ce texte pour ta réflexion et la nôtre…
+       Certes mot «orgueil» a-t-il mauvaise presse dans notre Occident à
+       cause de ce péché d’orgueil considéré comme l’un des sept péchés
+       capitaux et pourtant…
+       Pour la psychanalyse l’orgueil est une hypertrophie du Moi. C’est
+       un sentiment intériorisé, qui peut même isoler des autres, et peut
+       accompagner la folie.
+       Mais laisser moi vous narrer cette fable de La Fontaine :
+       Le chêne un jour dit au roseau :
+       « N’êtes-vous pas lassé d’écouter cette fable ?
+       La morale en est détestable;
+       Les hommes bien légers de l’apprendre aux marmots.
+       Plier, plier toujours, n’est-ce pas déjà trop
+       Le pli de l’humaine nature ? »
+       « Voire, dit le roseau, il ne fait pas trop beau ;
+       Le vent qui secoue vos ramures
+       (Si je puis en juger à niveau de roseau)
+       Pourrait vous prouver d’aventure,
+       Que nous autres, petites gens,
+       Si faibles, si chétifs, si humbles, si prudents,
+       Dont la petite vie est le souci constant,
+       Résistons pourtant mieux aux tempêtes du monde
+       Que certains orgueilleux qui s’imaginent grands. »
+       Le vent se lève sur ces mots, l’orage gronde.
+       Et le souffle profond qui dévaste les bois,
+       Tout comme la première fois,
+       Jette le chêne fier qui le narguait par terre.
+       « Hé bien, dit le roseau, le cyclone passé
+       – Il se tenait courbé par un reste de vent –
+       Qu’en dites-vous donc mon compère ?
+       (Il ne se fût jamais permis ce mot avant.)
+       Ce que j’avais prédit n’est-il pas arrivé ? »
+       On sentait dans sa voix sa haine
+       Satisfaite. Son morne regard allumé.
+       Le géant, qui souffrait, blessé,
+       De mille morts, de mille peines,
+       Eut un sourire triste et beau
+       Et, avant de mourir, regardant le roseau,
+       Lui dit : « Je suis encore un chêne ».
+       Quoique qualifié d’orgueilleux, ce chêne ne vous est-il pas
+       immensément sympathique? Le mot est trop familier; je dirais plutôt
+       qu’il suscite l’admiration par cette fierté qu’il conserve malgré
+       ses déboires et l’approche de la mort…
+       Vôtre,
+       Ornella
+    7.
+   Michel Boisvert says:
+       7 mars, 2020 at 12:27
+       Florien je te remercie de ces précisions. Mon commentaire va dans
+       un autre sens. Le côté scientifique de cette observation est
+       apprécié, mais cela ne répond pas à mon questionnement. Je suis
+       artiste donc pour certains je suis prétentieux. C’est fondamental,
+       même si je n’ai jamais donné dans ce sens gardant mes réflexions
+       philosophique au niveau artistique et ne mélangeant pas ma science
+       de l’homme avec ma vie de tous les jours avec les autres. Lorsque
+       je fais une exposition de mon travail je recueille toujours des
+       commentaires me situant dans la prétention, l’orgueil, la
+       vantardise. J’ai découvert récemment qu’une très bonne amie après
+       30 ans d’amitié me considère comme vantard. Elle n’avait jamais
+       mentionné cela. Qu’est-ce qui pousse les gens à juger l’humilité
+       plus humaine que de montrer aux autres une voie vers l’inconnu
+       comme tous les artistes le font. Est-ce nécessaire pour les
+       individus de regarder les artistes comme des connards même si cela
+       n’est pas réel. Est-ce que celui qui apporte le message doit être
+       crucifié? Les moraliste comme mon amie cité ici sont des vertueux
+       qui prétendent être supérieur aux autres. J’ai remarqué que dans
+       mes recherches je rencontrais souvent la pensée que je nomme « La
+       pensée du banditisme » qui est en fait très répandue et qui amène
+       les sociétés dans la corruption et finalement l’auto destruction.
+       Cette pensée a ceci de particulier; elle juge constamment les
+       autres comme étant défectueux. En art on rencontre cette adversité
+       tout le temps parce que plusieurs bandits s’octroient des places de
+       prestige au sein de l’art pour par leur présence bloqué
+       l’intervention de l’art dans la pensée humaine. La pensée
+       artistique est ce qui fait évoluer l’humanité. Ce n’est pas être
+       vantard que de dire ce que sera notre futur. C’est ce que font les
+       artistes en montrant du doigt les lacunes de la pensée humaine.Une
+       autre pensée qui s’est subtilement introduit dans par la pensée du
+       banditisme dans un rôle important dans notre société, c’est la
+       pensée scientifique dont certains intervenants techniciens abuse
+       pour enseigner de fausses sciences. La philosophie moderne en fait
+       partie. Il n’y a aucune façon de prouver les dire philosophiques.
+       Ce sont toujours des approximatifs, des variables constant qui ne
+       peuvent pas être utilisable dans la réalité. La raison en est
+       simple; le temps est un mouvement en avant. Tout ce qui est cesse
+       de l’être avec chaque minute qui passe. Ce sont les variables qui
+       sont constantes et non les déclarations construites sur des
+       observations qui bougent dans le temps. L’art est le seul élément
+       valable au niveau de la vérité. Dire cela est-il présomptueux.
+    8.
+   vitmox says:
+       5 septembre, 2020 at 1:46
+       merci infiniment pour cet article il est pertinent.
+
+Leave a reply
+
+   Votre adresse e-mail ne sera pas publiée. Les champs obligatoires sont
+   indiqués avec *
+
+   Comment
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+
+   Name * ______________________________
+
+   Email * ______________________________
+
+   Website ______________________________
+
+   [ ] Enregistrer mon nom, mon e-mail et mon site dans le navigateur pour
+   mon prochain commentaire.
+
+   Post Comment
+
+   Δ
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+
+More in:7 péchés capitaux
+
+   7 péchés capitaux
+
+L’avarice
+
+   Conte du Père Noël radin Laetitia Casas – site personnel :
+   https://ersatzexpos.com critiques d’expositions d’art ...
+   By
+   29 décembre 2016
+
+   7 péchés capitaux
+
+La luxure
+
+   La luxure chez Sade comme expérience métaphysique Etienne Besse « Yahvé
+   dit à Osée :  » ...
+   By
+   28 décembre 2016
+
+   7 péchés capitaux
+
+L’envie
+
+   Par Margaux Merand & Antoine Dumont, professeurs de philosophie.
+     Some say ...
+   By
+   27 décembre 2016
+
+   7 péchés capitaux
+
+La colère
+
+   LA COLÈRE ENTRE PÉCHÉ ET PASSION, OU COMMENT J’AI APPRIS A MAÎTRISER
+   L’ECHAUFFEMENT DE LA ...
+   By
+   22 décembre 2016
+
+L’envie
+
+   Politiques de l’envie Fabrice Flipo, Télécom EM et Laboratoire de
+   Changement Social et Politique à ...
+   By
+   21 décembre 2016
+
+   7 péchés capitaux
+
+La paresse
+
+   Jean-Marc Rouvière « Ce qui marque la poésie, c’est une espèce
+   d’horreur d’aller droit au but ...
+   By
+   20 décembre 2016
+
+   View all 7 péchés capitaux
+   Next Article:
+
+   26 décembre 2016
+   min read
+
+   logo
+     *
+     *
+     *
+     *
+     *
+
+   IMPLICATIONS PHILOSOPHIQUES - ISSN 2105-0864
+
+     * Qui sommes-nous ?
+     * Soumettre un article/une recension
+
+   logo
+   Now Reading
+
+L’orgueil
+
+   13min read
+     * Société/Politique
+     * Ethique/Normes
+     * Sciences/Métaphysique
+     * Esthétique/Technique
+     * Dossiers/Varia
+          + Dossiers thématiques
+               o 2023
+                    # Ethique de l’interaction humain/machine
+                    # Les Méchants
+               o 2022
+                    # La méthode phénoménologique
+                    # Libéralisme(s)
+                    # Droits humains
+               o 2021
+                    # Sexe et genre
+                    # Marxismes français d’après-guerre
+               o 2020
+                    # Philip Roth
+                    # Sous l’expérience esthétique : esthétique et
+                      neurosciences cognitives
+                    # Philosophie et numérique
+               o 2019
+                    # Emotions et collectifs sociaux
+                    # Simondon 1958-2018
+                    # Dossier Hegel 2019
+               o 2018
+                    # Mouvements sociaux et subjectivations politiques
+                    # L’inattendu philosophique
+               o 2017
+                    # Culture et sentiment au XVIII° siècle
+                    # Philosopher en enseignant
+                    # Arts et pouvoir
+                    # Héritage des concepts
+               o Actualité de Hegel
+               o Alzheimer
+               o 7 péchés capitaux
+               o Arts vivants
+               o Autour de Jocelyn Benoist
+               o Bergson ou la science
+               o Bestiaire philosophique
+               o Bioéthique
+               o Blumenberg
+               o De la culture papier à la culture numérique
+               o Deleuze
+               o Dissymétrie
+               o Emotions
+               o Ethique de l’interaction humain-machine
+               o Europe
+               o Les jeux vidéo: terrain philosophique?
+               o Justice climatique
+               o L’absurde au prisme de la littérature
+               o L’édition numérique
+               o l’éthique dans tous ses états
+               o La confiance
+               o La pensée de Gaston Bachelard
+               o Le neutre
+               o Néo-républicanisme
+               o Passions dans l’espace public
+               o Philosopher d’après le cinéma
+               o Philosophie des séries
+               o Saint et sacré
+               o Vision du social
+               o Wittgenstein en dialogues
+               o Sous l’expérience esthétique : esthétique et
+                 neurosciences cognitives
+               o Marxismes français d’après-guerre
+               o Droits humains
+               o Sexe et genre
+               o Libéralisme(s)
+          + Ateliers
+               o Atelier Philosophie et numérique
+               o Penser les addictions
+               o Théorie critique et poststructuralisme
+               o Cultures numériques
+          + Newsletters & Sommaires
+          + Podcast
+          + Appels à contribution
+          + Varia
+     * Recensions
+     * Histoire des idées
+
+   (BUTTON)
+   0 %
+
+logo
+
+     *
+     *
+     *
+     *
+     *
+
+   ✕ Close
+     * Qui sommes-nous ?
+     * Soumettre un article/une recension
+
+logo
+
+     *
+     *
+     *
+     *
+     *
+
+   ✕
+     * Société/Politique
+     * Ethique/Normes
+     * Sciences/Métaphysique
+     * Esthétique/Technique
+     * Dossiers/Varia
+          + Dossiers thématiques
+               o 2023
+                    # Ethique de l’interaction humain/machine
+                    # Les Méchants
+               o 2022
+                    # La méthode phénoménologique
+                    # Libéralisme(s)
+                    # Droits humains
+               o 2021
+                    # Sexe et genre
+                    # Marxismes français d’après-guerre
+               o 2020
+                    # Philip Roth
+                    # Sous l’expérience esthétique : esthétique et
+                      neurosciences cognitives
+                    # Philosophie et numérique
+               o 2019
+                    # Emotions et collectifs sociaux
+                    # Simondon 1958-2018
+                    # Dossier Hegel 2019
+               o 2018
+                    # Mouvements sociaux et subjectivations politiques
+                    # L’inattendu philosophique
+               o 2017
+                    # Culture et sentiment au XVIII° siècle
+                    # Philosopher en enseignant
+                    # Arts et pouvoir
+                    # Héritage des concepts
+               o Actualité de Hegel
+               o Alzheimer
+               o 7 péchés capitaux
+               o Arts vivants
+               o Autour de Jocelyn Benoist
+               o Bergson ou la science
+               o Bestiaire philosophique
+               o Bioéthique
+               o Blumenberg
+               o De la culture papier à la culture numérique
+               o Deleuze
+               o Dissymétrie
+               o Emotions
+               o Ethique de l’interaction humain-machine
+               o Europe
+               o Les jeux vidéo: terrain philosophique?
+               o Justice climatique
+               o L’absurde au prisme de la littérature
+               o L’édition numérique
+               o l’éthique dans tous ses états
+               o La confiance
+               o La pensée de Gaston Bachelard
+               o Le neutre
+               o Néo-républicanisme
+               o Passions dans l’espace public
+               o Philosopher d’après le cinéma
+               o Philosophie des séries
+               o Saint et sacré
+               o Vision du social
+               o Wittgenstein en dialogues
+               o Sous l’expérience esthétique : esthétique et
+                 neurosciences cognitives
+               o Marxismes français d’après-guerre
+               o Droits humains
+               o Sexe et genre
+               o Libéralisme(s)
+          + Ateliers
+               o Atelier Philosophie et numérique
+               o Penser les addictions
+               o Théorie critique et poststructuralisme
+               o Cultures numériques
+          + Newsletters & Sommaires
+          + Podcast
+          + Appels à contribution
+          + Varia
+     * Recensions
+     * Histoire des idées
+
+   ____________________ (BUTTON)
+
+Latest Posts
+
+L’enregistrementalisme de Maurizio Ferraris est-il vraiment réaliste ? De
+l’importance de la séparation entre intentionnel et réel pour le réalisme, et
+de la raison morale du nouveau réalisme
+
+Réflexions sur l’ontologie dans Émergence de Maurizio Ferraris
+
+L’esprit d’un monde sans esprit
+
+Réponses d’émergence
+
+Dossier – Emergence : Introduction.
+
+Popular Tags
+
+     * liberté
+     * raison pratique

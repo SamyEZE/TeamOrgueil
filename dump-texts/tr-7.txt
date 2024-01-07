@@ -1,0 +1,176 @@
+    #DSpace
+
+   (BUTTON) Geçiş Yönlendirmesi [DSpace-logo-line.png]
+     * (BUTTON)
+          + English
+          + Türkçe
+     * (BUTTON)
+
+     * Türkçe
+          + English
+          + Türkçe
+
+     * Giriş
+
+   (BUTTON) Geçiş Yönlendirmesi
+
+   Öğe Göster
+     *   DSpace@Arel
+     * Lisansüstü Eğitim Enstitüsü
+     * Sosyal Bilimler Enstitüsü / Institute of Social Science
+     * Yüksek Lisans Tezleri / Master's Theses
+     * Medya ve Kültürel Çalışmalar Koleksiyonu / Media and Cultural
+       Studies
+     * Öğe Göster
+
+     *   DSpace@Arel
+     * Lisansüstü Eğitim Enstitüsü
+     * Sosyal Bilimler Enstitüsü / Institute of Social Science
+     * Yüksek Lisans Tezleri / Master's Theses
+     * Medya ve Kültürel Çalışmalar Koleksiyonu / Media and Cultural
+       Studies
+     * Öğe Göster
+
+   JavaScript is disabled for your browser. Some features of this site may
+   not work without it.
+
+   ____________________ (BUTTON)
+   (*) DSpace'de Ara
+   ( ) Bu Koleksiyon
+
+                                                          Gelişmiş Arama
+
+Bu gurur hepimizin” “Kobe vs. Messi the selfie shootout” reklam filmlerinin
+göstergebilimsel çözümlenmesi
+
+   Thumbnail
+
+Göster/Aç
+
+   Yüksek Lisans Tezi (15.29Mb)
+
+Erişim
+
+   info:eu-repo/semantics/closedAccess
+
+Tarih
+
+   2015
+
+Yazar
+
+   Tüccar, Semih
+
+Üst veri
+
+   Tüm öğe kaydını göster
+
+Künye
+
+   Tüccar, S. (2015). Bu gurur hepimizin” “Kobe vs. Messi the selfie
+   shootout” reklam filmlerinin göstergebilimsel çözümlenmesi.
+   Yayınlanmamış yüksek lisans tezi. İstanbul: İstanbul Arel Üniversitesi
+   Sosyal Bilimler Enstitüsü.
+
+Özet
+
+   “Türk Hava Yolları: “Bu gurur hepimizin”, “Kobe vs. Messi: The selfie
+   shootout” reklam filmlerinin göstergebilimsel çözümlenmesi” isimli
+   tezimizde son yıllarda kurumsal kimlik oluşturma ve evrenselleşme
+   noktasında yaptığı reklamlar, sponsor olduğu kurum ve organizasyonlarla
+   adını dünya çapında duyurup, küresel bir şirket olma yolunda emin
+   adımlarla ilerlemekte olan Türk Hava Yolları’nın Ekim 2012 tarihinde
+   yayınlanan, “Bu gurur hepimizin” isimli reklam filmi ile Aralık 2013
+   tarihinde yayınlanan ve “Kobe vs. Messi: The selfie shootout” isimli
+   reklam filmleri “yerellik ve ulusallıktan” “evrenselliğe”
+   “evrensellikten yerelliğe” açılma yolunda Türk Hava Yolları’nın
+   üstlendiği misyonların anlaşılması bağlamında, Göstergebilimsel olarak
+   çözümlenmiştir. Çözümlemek üzere seçilen reklam filmlerinde, Paris
+   Göstergebilim Okulu’ndan Litvanya kökenli Fransız Dilbilimci ve
+   Göstergebilimci Algirdas Julien Greimas’ın Göstergebilimsel yaklaşımı
+   ele alınmıştır. Düzeyler doğrultusunda, yüzeyden derine doğru karelerle
+   ayrıştırılarak her bir karede söylemsel, anlatısal ve mantıksal
+   anlamsal düzeyler birleştirilerek, yüzeyden derine doğru bağlantılar
+   kurularak, Göstergebilimsel çözümlemeye gidilmiştir.
+
+Bağlantı
+
+   https://hdl.handle.net/20.500.12294/922
+
+Koleksiyonlar
+
+     * Medya ve Kültürel Çalışmalar Koleksiyonu / Media and Cultural
+       Studies [34]
+     __________________________________________________________________
+     __________________________________________________________________
+     __________________________________________________________________
+
+   DSpace software copyright © 2002-2015  DuraSpace
+   İletişim | Geri Bildirim
+   Theme by
+   @mire NV
+
+
+
+                               [arel_logo.png]
+     __________________________________________________________________
+
+                     | Politika | Rehber | İletişim |
+     __________________________________________________________________
+
+                                 DSpace@Arel
+                          [openaire-validated.png]
+                                 by OpenAIRE
+
+Göz at
+
+   Tüm DSpaceBölümler & KoleksiyonlarTarihe GöreYazara GöreKurum Yazarına
+   GöreORCID'e GöreBaşlığa GöreKonuya GöreTüre GöreDile GöreBölüme
+   GöreKategoriye GöreWoS Q Kategorisine GöreYayıncıya GöreErişim ŞekliBu
+   KoleksiyonTarihe GöreYazara GöreKurum Yazarına GöreORCID'e GöreBaşlığa
+   GöreKonuya GöreTüre GöreDile GöreBölüme GöreKategoriye GöreWoS Q
+   Kategorisine GöreYayıncıya GöreErişim Şekli
+
+Hesabım
+
+   GirişKayıt
+
+İstatistikler
+
+   Google Analitik İstatistiklerini Görüntüle
+     __________________________________________________________________
+
+   DSpace software copyright © 2002-2015  DuraSpace
+   İletişim | Geri Bildirim
+   Theme by
+   @mire NV
+
+
+     __________________________________________________________________
+
+   || Politika || Rehber || Kütüphane || İstanbul Arel Üniversitesi ||
+                                 OAI-PMH ||
+     __________________________________________________________________
+
+        Türkoba Mahallesi Erguvan Sokak No:26 / K 34537, Tepekent -
+                     Büyükçekmece, İstanbul / TURKEY
+       İçerikte herhangi bir hata görürseniz, lütfen bildiriniz:
+                             earsiv@arel.edu.tr
+     __________________________________________________________________
+
+                          Creative Commons License
+     DSpace@Arel by Istanbul Arel University Institutional Repository is
+    licensed under a Creative Commons Attribution-NonCommercial-NoDerivs
+                           3.0 Unported License..
+     __________________________________________________________________
+
+                                DSpace@Arel:
+      [openaire.png] [openDOAR.png] [harman.png] [base.png] [core.png]
+   [oai.png] [handle.png] [roar.png] [roarmap.png] [google-analytics.png]
+                 [google.png] [ankos.png] [dspace_logo.png]
+     __________________________________________________________________
+
+                                 DSpace 6.3
+                              [logo-firma.png]
+   tarafından İdeal DSpace hizmetleri çerçevesinde özelleştirilerek
+                                kurulmuştur.
