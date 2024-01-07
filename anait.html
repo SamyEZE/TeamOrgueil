@@ -1,79 +1,126 @@
 <!DOCTYPE html>
 <html lang="fr">
 <head>
-	<meta charset="UTF-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>Orgueil - Projet de Groupe</title>
-	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.9.3/css/bulma.min.css">
-	<style>
-    	.navbar {
-        	position: fixed;
-        	top: 0;
-        	width: 100%;
-        	background: rgba(0, 0, 0, 0.5);
-        	z-index: 10;
-    	}
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Orgueil - Projet de Groupe</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.9.3/css/bulma.min.css">
+    <style>
+        .navbar {
+            position: fixed;
+            top: 0;
+            width: 100%;
+            background: rgba(0, 0, 0, 0.5);
+            z-index: 10;
+        }
 
-    	.navbar-menu {
-        	justify-content: center;
-    	}
+        .navbar-menu {
+            justify-content: center;
+        }
 
-    	.navbar-item, .navbar-link {
-        	color: white !important; /* Couleur du texte en blanc */
-    	}
+        .navbar-item, .navbar-link {
+            color: white !important;
+        }
 
-    	.navbar-item:hover, .navbar-link:hover {
-        	color: black !important; /* Couleur du texte au survol */
-        	background-color: white; /* Couleur de fond au survol */
-    	}
-	</style>
+        .navbar-item:hover, .navbar-link:hover {
+            color: black !important;
+            background-color: white;
+        }
 
+        .hero-background {
+            background: url('Org.png') center center;
+            background-size: cover;
+        }
+
+        .hero-title {
+            font-size: 4rem;
+            color: white;
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+            font-family: 'Arial', sans-serif;
+        }
+
+        .table-of-contents {
+            margin-top: 100px; /* Ajuster selon la hauteur de la navbar */
+            padding: 20px;
+            background-color: #f5f5f5;
+            border-radius: 5px;
+            margin-bottom: 20px;
+        }
+
+        .table-of-contents ul {
+            list-style: none;
+            padding: 0;
+        }
+
+        .table-of-contents a {
+            color: #3273dc;
+            text-decoration: none;
+        }
+
+        .table-of-contents a:hover {
+            text-decoration: underline;
+        }
+
+        .content-section {
+            margin-bottom: 3em;
+        }
+
+        .image-with-caption {
+            text-align: center;
+            margin-bottom: 2em;
+        }
+
+        .image-with-caption img {
+            max-width: 100%;
+            height: auto;
+        }
+
+        .image-with-caption figcaption {
+            margin-top: 0.5em;
+        }
+    </style>
 </head>
 <body>
-	<nav class="navbar" role="navigation" aria-label="main navigation">
-    	<div class="navbar-menu">
-        	<div class="navbar-start">
-            	<a class="navbar-item" href="index.html">Accueil</a>
-            	<a class="navbar-item" href="pqorg.html">Pourquoi Orgueil ?</a>
-            	<a class="navbar-item" href="tableaux/index_tableau.html">Tableaux</a>
-            	<a class="navbar-item" href="nuage_de_mots.html">Nuage de Mots</a>
-            	<a class="navbar-item" href="anait.html">Analyse Itrameur</a>
-            	<a class="navbar-item" href="conclu.html">Conclusion</a>
-            	<a class="navbar-item" href="qui_sommes_nous.html">Qui Sommes Nous</a>
-        	</div>
-    	</div>
-	</nav>
-	<style>
-    	.hero-background {
-        	background: url('Org.png') center center;
-        	background-size: cover;
-    	}
-	<style>
-    	.hero-background {
-        	background: url('Org.png') center center;
-        	background-size: cover;
-    	}
-    	.hero-title {
-        	font-size: 4rem; /* Taille de la police */
-        	color: white; /* Couleur du texte */
-        	text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Ombre du texte */
-        	font-family: 'Arial', sans-serif; /* Police de caractères */
-    	}
-	</style>
-</head>
-<body>
-	<section class="hero is-fullheight hero-background">
-    	<div class="hero-body">
-        	<div class="container has-text-centered">
-            	<a href="#section-contenu">
-                	<h1 class="title hero-title">
-                    	Analyse Itrameur
-                	</h1>
-            	</a>
-        	</div>
-    	</div>
-	</section>
-<div id="section-contenu">
+    <nav class="navbar" role="navigation" aria-label="main navigation">
+        <div class="navbar-menu">
+            <div class="navbar-start">
+                <a class="navbar-item" href="index.html">Accueil</a>
+                <a class="navbar-item" href="pqorg.html">Pourquoi Orgueil ?</a>
+                <a class="navbar-item" href="tableaux/index_tableau.html">Tableaux</a>
+                <a class="navbar-item" href="nuage_de_mots.html">Nuage de Mots</a>
+                <a class="navbar-item" href="anait.html">Analyse Itrameur</a>
+                <a class="navbar-item" href="conclu.html">Conclusion</a>
+                <a class="navbar-item" href="qui_sommes_nous.html">Qui Sommes Nous</a>
+            </div>
+        </div>
+    </nav>
+
+    <section class="hero is-fullheight hero-background">
+        <div class="hero-body">
+            <div class="container has-text-centered">
+                <a href="#section-contenu">
+                    <h1 class="title hero-title">
+                        Analyse Itrameur
+                    </h1>
+                </a>
+            </div>
+        </div>
+    </section>
+
+    <div class="table-of-contents container">
+        <h3 class="title is-4">Table des Matières</h3>
+        <ul>
+            <li><a href="#pride-analysis">Analyse pour le mot « Pride »</a></li>
+            <li><a href="#gurur-analysis">Analyse pour le mot « Gurur »</a></li>
+            <li><a href="#orgullo-analysis">Analyse pour le mot « Orgullo »</a></li>
+            <li><a href="#orgueil-analysis">Analyse pour le mot « Orgueil »</a></li>
+            <li><a href="#fierte-analysis">Analyse pour le mot « Fierté »</a></li>
+        </ul>
+    </div>
+
+    <div id="section-contenu">
+
+     
 
 	<section class="section">
     	<div id="pride-analysis">
@@ -107,7 +154,7 @@ On vérifie d’abord que le fichier contexte est bien structuré pour pouvoir �
   <img src="photos/4.png">
   <p>Nous constatons que la fréquence d’apparition du mot « pride » est plus élevée au niveau de la section S4 où le pic atteint un peu plus de 200 occurrences.</p>
 
-
+<div id="gurur-analysis">
 <h2 style="font-weight:bold; font-size:larger;">Analyse iTrameur pour le mot «Gurur» en turc :</h2>
 <p>Nous analysons maintenant le mot «gurur» utilisé en turc. Nous recherchons le nombre d’occurrences dans le dictionnaire et nous pouvons constater que le mot «Gurur» avec une majuscule apparaît beaucoup plus fréquemment que le mot «gurur» sans majuscule avec 397 occurrences contre 257. De plus, nous observons que la langue turque présente des déclinaisons, comme illustré par plusieurs variations du mot "gurur" dans ce dictionnaire.</p>
 <img src="photos/5.jpg">
@@ -124,6 +171,7 @@ L'analyse révèle que le terme "Gurur" est fréquemment associé à des termes 
 <p>En s’appuyant sur le Noeud-Cooc, on observe plus nettement les mots coocurents situés autour de « gurur » notre mot de référence. Les mots les plus fréquents se démarquent en rouge : Aşk « amour » qui reflète l’aspect très sentimental et personnel dans l’utilisation d’orgueil pour les corpus turcs.</p>
 
 <div style="margin-bottom: 3em;">
+<div id="orgullo-analysis">
 <h2 style="font-weight:bold; font-size:larger;">Analyse iTrameur pour le mot «orgullo» en espagnol :</h2>
 <p>Nous analysons maintenant le mot «orgullo». Nous recherchons le nombre d’occurrences dans le dictionnaire et nous pouvons constater que le mot « orgullo » en minuscule apparaît plus fréquemment que le mot «Orgullo» avec majuscule avec 293 occurrences contre 207.</p>
 <img src="photos/9.png">
@@ -135,7 +183,7 @@ L'analyse révèle que le terme "Gurur" est fréquemment associé à des termes 
 <p>Nous pouvons observer que le mot « prejuicio » à savoir « le préjugé » en français revient très souvent dans le même contexte que « orgullo ». Cette fréquence peut suggérer une association particulière avec une conotation négative, entre les concepts d'orgueil et de préjugé dans le corpus espagnol. Cette observation pourrait refléter les liens étroits entre les stéréotypes, les jugements hâtifs qui peuvent être associés à un sentiment d'orgueil.</p>
 <img src="photos/12.png">
 <p>En observant le Noeud-Cooc on peut identifier les termes les plus fréquemment associés à notre mot de référence "orgullo", tels que "prejuicio" (préjugé) et "emoción" (émotion), indiqués en rose foncé. On peut en déduire une proximité sémantique entre la fierté, les préjugés et les réponses émotionnelles qui en découlent. Si nous prêtons attention aux autres mots qui constituent le nuage, nous pouvons développer cet aspect émotionnel. L'orgueil, associé à des notions telles que positivo "positif", sentimiento "sentiment", raiz "origine" et guia "guide" peut être appliqué au patriotisme et à la fierté nationale, ce qui  l'opposerais aux mots dejar "abandonner" et "negativo" négatif.</p>
-
+<div id="orgueil-analysis">
 <h2 style="font-weight:bold; font-size:larger;">Analyse iTrameur pour le mot «orgueil» en français :</h2>
 <p>Passons maintenant à l’anayse iTrameur pour le  mot «orgueil» en français. Grâce au dictionnaire on peut étudier la fréquence d’apparition du mot « orgueil » dans le corpus sous la forme « orgueil ». On constate qu’il apparaît 56 fois, suivi de très loin par l’adjectif « orgueilleuse » qui n’apparait que 3 fois.</p>
 <img src="photos/13.png">
@@ -144,7 +192,7 @@ L'analyse révèle que le terme "Gurur" est fréquemment associé à des termes 
 <p>Passons maintenant au contexte d’utilisation du mot « orgueil » en utilisant le concordancier.</p>
 <img src="photos/15.png">
 <p>Il apparait clairement en obervant les contextes, que deux aspects de l’orgeuil sont abordés. Un côté positif avec les mots « fierté », « noble », « succès » par exemple et un plus négatif avec les notions de « mépris », « méfiance », « suffisance ». Cela montre bien le contraste entre l’usage de l’orgueil pour qualifier quelque chose positivement ou au contraire comme une qualité plutôt désaventageuse.</p>
-
+<div id="fierte-analysis">
 <h2 style="font-weight:bold; font-size:larger;">Analyse iTrameur pour le mot «fierté» et « orgueil » en français :</h2>
 <p>
 
